@@ -12,7 +12,6 @@ wheels/
 *try*
 *old*
 .DS_Store
-_*/
 .python-version
 .Rapp.history
 
