@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FPETTY2">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>THE PETTY-SOUTHWELL CORRESPONDENCE 1676-1687. ED. BY THE MARQUIS OF LANSDOWNE. REPRINTS OF ECONOMIC CLASSICS. NEW YORK: AUGUSTUS M. KELLEY PUBLISHERS. 1967.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="PETTY2_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="99" />
+			<head> <note resp="editor" value="54. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 28 Augt 1682</p>
+			<p>Deare Cousin</p>
+			<p>I have been Rouleing of late between this and Bath, and am tomorrow carrying my little fry to compliment the Company there, of which I had a coachfull of the Ladyes here on Wenesday last.</p>
+			<p>So I come slow to the acknowledgeing yours of the <hi rend="sup" range="2,4" orig="17=th=">17th</hi>, which came with a valuable Cargo to me. For tho I had noe concerne in the subject matter of any paper you writt, yet all of them are to me as soe many modells to worke by, and of like force as the five Powers in the meckanicks. Wherefore lett me not want copies of what you can spare, for they shall not dye, if I or Neddy can helpe it.</p>
+			<p>The Prints doe constitute you one of the 3 Governours of his Majesty's Irish Revenue, but a word from your selfe would be more authentick. I wish for his Majesty's sake it were the worst newes I could have concerning Ireland.</p>
+			<p>Rejoyce at the happy arrival of your two brave Boyes. Neddy will be at leisure ere long to try his cousin's patience. Happinesse to all is the constant wish of</p>
+			<p>Yours</p>
+			<p>R. Southwell</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="100" />
+			<head> <note resp="editor" value="55. PETTY TO SOUTHWELL." /> </head>
+			<p>London, ye <hi rend="sup" range="1,2" orig="5=o=">5o</hi> <hi rend="sup" range="3,5" orig="Sep=br=">Sepbr</hi> 1682</p>
+			<p>Deare Cosen</p>
+			<p>Yesterday came to Town what was declard on Sunday night at Windsor, vizt, That the Revenue of Ireland is to bee managed by the Ld Longford, Lem Kingdon, one Mr Strong of the Excise, Mr Dixon of the Customes of London, and Captain Bridges of Dublin, who as tis thought did but represent Mr Trant. By good Lucke I never sollicitated any body in the Case, I onely putt in 3 severall papers of proposalls before you went hence, which I think did the service no harme. As for my selfe, my work hath ever been my wages in this world. My owne buisnesse sticks in the Bog where you left it. I have much to say, but I have nobody to heare mee.</p>
+			<p>I will review the specimen of <hi rend="type">Logick</hi> , and perhaps send it inlargd as well as explaind. Wee are all in health here. Charles and his sister are in daily emulation about Arithmetick; That spirit doth begin to rise and appeare in Charles upon the Charmes and Conjurations of his sister. The Latin also joggs on, so as I hope you shall ere long bee redy to receive <pb n="101" /> Cosen Neddy's Arrows. As for news: it is said that the Duke of Hanover is to have my Ld Lowtherdell's Garter.</p>
+			<p>I have writ 3 sheets in answer to 31 questions concerning mony. If it take (for I renounce all Judgement of my owne) you shall have a Coppy. But laying all these things aside, lett mee here that you and your family are well, for that will best please</p>
+			<p><hi rend="sup" range="2,4" orig="Yo=rs=">Yors</hi></p>
+			<p>W. P.</p>
+			<note resp="compiler" value="POSTSCRIPT BY DIFFERENT HAND OMITTED" />
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="101" />
+			<head> <note resp="editor" value="56. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 11 <hi rend="sup" range="3,4" orig="Sep=r=">Sepr</hi> 1682</p>
+			<p>Deare Cousin</p>
+			<p>By yours of the <hi rend="sup" range="1,3" orig="5=th=">5th</hi> Instant I see the 5 Commissioners of the Revenue of Ireland. The first I easily guesse at, but who lanched the other 4 into this Bethesda I want to know? You say nothing of their Sallary; nor of their subordination to the Treasury here; nor if those 2 points (which soe indeared the former prosecution) doe still subsist, as to Tanger and the Shipps, wherein as a Kingsale man I am a little concernd.</p>
+			<pb n="102" />
+			<p>But I confesse I am much more, to see that when the Citty is delivered, yett noebody reguards the wise man. I will believe that your papers had more effect than you are told of; and seeing they turne you noe better to Account, lett me at least have the Transcript of what you gave in. For I shrine all up, and fancy that in after times I shall be resorted too for your workes, as Mr Hedges is for the true Opo-balsamum.</p>
+			<p>I see alsoe as to your particular affaire, that you stick fast as before, and scarce know where with benefitt to expose your doleance. I would advise better if I knew how; but surely it can do no hurt if you take Sir Edward Dering fresh at his arrivall from Kent and explain to him that by him alone you can hope to be understood. The proposall which by my Lord Hyde's incouragement he soe laboured in, being quite layed by, and new things done (wherein as being absent he has noe share), I am apt to think he will not be unwilling to learn and know the extent of your case, and afterwards to act as faire opportunityes shall be offered him.</p>
+			<p>I take notice that all your clouds are only without dores, for at the same time you can think and turne your mind to the instruction of the unkind world. Your 3 sheetes about money shall be much more welcome to me than money itselfe.</p>
+			<p>And then to have the specimen of Logick enlarged, as well as explained, is a matter I really take to heart. For my chiefe businesse is now growne a sollicitude for my son's education, and soe I am chawing over every thing that I judge usefull in order to his easyer digestion. Neddy remembers you advysed him to gather Tooles, as Hammer, saw, pincers, gimblett &amp;c; and he calls the arts and sciences <pb n="103" /> already by these nick-names, and meanes to value them noe more than as they really proove such. And as he passes for the top-artisan that invents a new Toole, soe Neddy meanes to throng in among your admirers; not onely for this <hi rend="type">Logick</hi> , but for all other Tooles, which either for the Sake of his cousin Charles or the Publick you shall vouchsafe to frame or invent. He hopes also you will cause the <hi rend="sup" range="3,5" orig="104=th=">104th</hi> Psalme to be printed anew.</p>
+			<p>You have alsoe within dores the sunshine of this new and profitable emulation betweene Charles and his sister. I see that tis she ferments Arithmetick in him, but how you levened her (unlesse <foreign>ex traduce</foreign> ) pray let us know. I have gott Dr Wallis by the end touching this subject; for I would faine by comprehending the reason retaine the practice, which else vanisheth as I have found for want of frequent use.</p>
+			<p>All my young ones are well and afford me much content; tis the most sensible share of worldly happinesse we can have. I doe heartily congratulate your part, and am ever Yours</p>
+			<p>R. Southwell</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="111" />
+			<head> <note resp="editor" value="63. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 28 <hi rend="sup" range="2,4" orig="No=br=">Nobr</hi> 1682.</p>
+			<p>Deare Cousin</p>
+			<p>When by yours of the <hi rend="sup" range="2,4" orig="24=th=">24th</hi> past I understood your putting off the evill day of a dirty and dangerous Journey, I became much more sedate than before; but when you concluded your letter with an Interdiction to your selfe, and such a Reverse as to say 'lett there be darknesse', I fell into griefe and you may think stupidity (by my long silence); and this for many Accounts. First that the world should be soe wicked as to give you provocation, but chiefly <pb n="112" /> that you should take it. For has Sir Walter Raleigh added to his character by burning halfe the World? Had he not been even more revenged, in heaping up coales and obleiging the ungratefull age? Besydes how preposterous is it for the Iniquity of the present bystanders (which are but a handfull) to bespite the inoffensive generations that are to come? And how well did Ben Johnson defy their hissings when he declared that what he had written was for Posterity. A prophet has no honour in his owne time.</p>
+			<p>I have now the favour of yours of the <hi rend="sup" range="2,4" orig="25=th=">25th</hi> Instant, and in it some of the Rich Ore of the same old mine. Herein I first congratulate that you take home the prodigall son (I should indeed have sayd it of the Father) and that you lett the world see plaine, what they still suspected, that the spiritt of Sir William Petty and not of John Graunt presided in those Bills of Mortality. Poore John, tho in his purgatory, can hardly drive such points as (by your allowance) he ventured on while here, in his State of fudling and of frailty. The good man was herein like a dwarfe mounted on an Elephant.</p>
+			<p>But altho, to keepe gravity, you will needs excuse this new eruption and that still you are for unthinking and unobleiging too; I can but smile, as I would doe to heare naturall agents such as the sun, moone, and starrs talke at the same rate. Wherefore tis but weakely done to say you will not think; and tho you <hi rend="type">must</hi> think, to say you will not Ratiocinate, is to sever heate from Light, which will not doe - or to say again that tho' you do Ratiocinate we shall noe more heare on't. You may better say soe much touching Gunpowder, for tis a child when borne that cannot be murtherd. Light when generated will shine out and wisdome must still crye alowd in the streetes. Wherefore, deare Cousin, make a virtue of Necessity, and <pb n="113" /> what you cannot Resist or suppresse, lett us have it with a good Grace, and as it were, have amongst you blind Harpers.</p>
+			<p>While I was too credulous of your first anger (which yett I congratulate), I went to ransack all my papers, and have putt together in one Treasure all that ever I had from you, and which shall lye together an Heire-loom not only for this Neddy, but all the Neddyes that may come hereafter.</p>
+			<p>As to your present worke; the very Patterne is Admirable - to teach men how to present to the World with vitalls, and not with long Haire and Nailes which comonly make up the bulke. But Cousin, this Herb is a peculiar of your owne Garden, and be not angry if it springs not up in every soyle. For me to attempt to propagate This method in my Neighbourhood as you propose, would be to destroy it. I am not their favorite, which I really congratulate, as much as I prefer Philosophy before drinking.</p>
+			<p>I can truly tell you that tis neere a month that I writt to Mr Dickinson and Mr John Ellis in termes of as much concerne for you as I could expresse.</p>
+			<p>My small puggs are all well and very Joviall, for I have got them a blind Harper. I hope the like with my Godson and all his good company, being ever</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Your most affect Kinsman &amp; most humble servant</p>
+			<p>Robert Southwell</p>
+			<p>I am glad you have speeded orders about our old friend <hi rend="sup" range="1,2" orig="W=m=">Wm</hi> Fitzgerald.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="115" />
+			<head> <note resp="editor" value="65. SOUTHWELL TO PETTY." /> </head>
+			<p><pb n="116" /> Kingsweston, 16 Aprill 1683</p>
+			<p>Deare Cousin</p>
+			<p>Your last demonstration was soe killing, and in a matter of that bulke and importance, that I have remayned ever since as one that had seene a miracle.</p>
+			<p>My Lord Weymouth, who is in the Role of your admirers, was lately here with me. We shall both meet by the end of this month in London, and are not to be long from your House. He was wishing he had your thoughts on the great catastrophe of Banquers; wheather land will Rise, or what may be the most probable consequences thereof.</p>
+			<p>But, deare cousin, must you have <note resp="editor">had</note> a fortunate hearing in the Treasury uppon Saturday last, and must I owe the glad tydings rather to one of your Judges than your selfe? Well! <foreign>Laus Deo</foreign> , which I heartily pronounced first in consideration of Kerry, and then of nature and Philosophy. For if the World will but give you Rest, I am sure you will be Teeming.</p>
+			<p>My 3 Girles have beene coughing till quite tyred out, but the approach of a London Journey seemes very restorative.</p>
+			<p>With true Service to my lady, my godson, and the Rest</p>
+			<p>I am ever, <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Your most affect Cousin &amp; most humble servant</p>
+			<p>Robert Southwell</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="117" />
+			<head> <note resp="editor" value="66. PETTY TO SOUTHWELL." /> </head>
+			<p>London, ye <hi rend="sup" range="2,3" orig="19=o=">19o</hi> Aprill 1683</p>
+			<p><hi rend="sup" range="1,2" orig="D=r=">Dr</hi> Cosen</p>
+			<p>To yours of the <hi rend="sup" range="2,3" orig="16=o=">16o</hi>. I say nothing of my Demonstrations about the Growth of London. When you come, in reference to my Lord Waymouth's questions concerning Bankrupts, I will shew you a scheme of a Bankrupt wherein the Lamb may wade, and the Elephant may swim &amp;c.</p>
+			<p>I had a little opium given mee on Saturday last, of which I said nothing, as doubting it might be corrected with Castorium and other strong Ingredients, - as it hath been. But I being dosd and Stupifyed, can make no Judgement of it, but am sqird back like the weavers shuttle into Ireland, there to endure time and chance.</p>
+			<p>The fitts of the Double-Bottome do returne very fiercely upon mee. I cannot bee diswaded but that it conteynes most glorious, usefull and pleasant things. My happiness lyes in being mad. I wish I were grown up to that Degree as to beleive I were fairly dealt with. I doe not attribute my wrongs to much hatred of my Person, as to other internall motions within the lucky Men of Power. Wee long here to see how wan the 3 girls will bee when they come to their cosens hither.</p>
+			<p>I am <hi rend="sup" range="2,4" orig="Yo=rs=">Yors</hi></p>
+			<p>W. P.</p>
+			<p>I desire you to get mee an Account of some Parishes according to the Method enclosed.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1684 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="126" />
+			<head> <note resp="editor" value="73. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 20 Sept. 1684</p>
+			<p>Deare Cousin</p>
+			<p>I had not till the last night yours of the 31st past, which I have read over and over, for the great kindnesse as well as varyety of it.</p>
+			<p>I see the Vulture is still knawing in Kirry, when at the same time a man child is borne to make you forgett that sorrow. Surely this new shipp has stupifyed that other anguish; and you might be exalted too much, but for that other dead weight that keepes your life in ballance. In the Life of Paulus Emilius by Plutark there are these words:</p>
+			<p>"It seemes the province of some God to lessen that hapinesse which is too great and inordinate, and soe mingle the affaires of human life that noe one should be entirely free and exempt from Calamitys, but (as it is in Homer) that those should think themselves truly blest to whom fortune has given an equall share of good and evill."</p>
+			<p>But as to the shipp, you forgett to inclose the Catalogue of wagers, which I lament. If she take into Kingrode on her way about, I will be answerable for her good reception here.</p>
+			<p>As to Kirry, I now write and lend your letter to Mr Pepys, not onely for his Entertainment, but that he excite Mr Guy to all that is friendly; and in particular that Mr Dickinson may be called uppon, not only to ease the Patient, but the Doctors alsoe, who confesse they know not what to make of the Case.</p>
+			<p>But I am at some stand how to thinke of all that <pb n="127" /> is past, and what the Reports now depending may signify, if you are (as you say) beginning all anew under the new Commission. Nor doe I heare you presse on Judgment for the Reduced Collumn, or wheather it be already done or not, whereas in this great point seemed formerly to consist your antidote <note resp="editor">to</note> the Thunderbolt.</p>
+			<p>I would have repeated my visitt to my deare Cousins in London, but that I hurry'd away on the sickness of my 2 eldest Daughters, who attending their Grandmother at Bath, mett with this new feavour which hath humbled them; For they are still but creeping towards the health and vigour which they formerly had. And this alsoe makes our resolution of a quiett wintering in the Country the more needfull, while between the Apple Roaster and the Blind Harper (who is sent for), we shall forgett the long and blustering nights.</p>
+			<p>I rejoyce exceedingly that my Cousin Charles is in the Carreere you like, and tis enough to make my Grum~ett proud that you enquire how he climbes his ropes. He is very strong; a stout rider - 110 <note resp="editor">miles</note> in 2 days and 1/2 - going 46 the first day (when I lately sent him home from Peterbrough) all on the trott, and one day thunder and rayne to the skin. He will Learne anything on Horseback, and if repeated by his Tutour, in half the time he can doe it from the booke. Formerly his worke was to gett many of the finest passages that lay about in verse and Prose, which I reckon he will never forgett, but serve hereafter as good materialls when he has judgment to spinn them out. He is now chiefly intent to be absolute master of Caesar's Com~entarys, and is learning his Greeke Grammer, in order to some sprinkling onely of that tongue. There are Virgill's Georgicks, Plutark's Lives (as newly translated) and other like things for the by. But wee are now going seriously into Arithmetick, Geometry, Astronomy and Cosmography, or some tincture or Instruction towards <pb n="128" /> them, by the helpe of one Ferfaix who is coming downe and to stay this winter at Least amongst us.</p>
+			<p>I have never prest or Strayned on the Boy to his booke, being content to lett him grow att the same time in other things; which his going about with me does bring in, As an acquaintance with all my friends and the Business that is depending between us. He reads all my Letters and all the Answers I make, and sometimes he answers some for me, and will write a Letter passing well. He designes and has a Musicall Voyce; but when all is done, he loves play in his Heart. I have here sayd enough for 7 yeares; with all duty to my Lady and love to Charles</p>
+			<p>I am ever <note resp="compiler" value="UNSIGNED" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1684 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="132" />
+			<head> <note resp="editor" value="75. PETTY TO SOUTHWELL." /> </head>
+			<p>Dublin, <hi rend="sup" range="2,3" orig="23=o=">23o</hi> Xbr. 1684</p>
+			<p>Dear Cosen</p>
+			<p>Tho I am not upon my oath, yet for the Honor of Eternall Truth, whom I have ever sought and adoard, I will tell you the whole Truth, and nothing but the Truth, concerning our Navall Experiments. Upon the <hi rend="sup" range="2,4" orig="15=th=">15th</hi> and <hi rend="sup" range="2,4" orig="16=th=">16th</hi> of this month, wee got her out, to try her sailing &amp; c, which did not answer expectac~on. The main fault (unto which all the rest were Consequences) was not bearing sufficient Saile, which the Careening I menc~oned in my last seemed to secure our Gravest Ship-wrights and Sea-men against; and is a fault the more easily remedyed upon our Principle, which all our Modells do still justify. But what is all that? - Wee have suffered a Publiq disappointment!</p>
+			<p>Just now I received a joynt Letter from Mr Pepys and Sir Anthony Deane, contayning severall wagers, with a proposall That I must bee personally a board upon all their trialls; with a proposall a little before that if wee did excell all the King's yachts, that then the Charge of our Rigging should be boaren. The Considerac~on of all which doth lessen my trouble concerning this matter. I will calmly and gravely spend the remainder of my days in diging for Truth in this matter; and being conscious of no willfull miscarriage therein, will courageously indure the Reproches and derisions of the Vulgar; remaining with my service to all of your family.</p>
+			<p><hi rend="sup" range="2,4" orig="Yo=rs=">Yors</hi> most intirely</p>
+			<p><hi rend="sup" range="1,2" orig="W=m=">Wm</hi> Petty</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="142" />
+			<head> <note resp="editor" value="81. PETTY TO SOUTHWELL." /> </head>
+			<p>London, <hi rend="sup" range="2,4" orig="29=th=">29th</hi> August 1685</p>
+			<p><hi rend="sup" range="1,3" orig="D=re=">Dre</hi> <hi rend="sup" range="2,3" orig="Co=z=">Coz</hi></p>
+			<p>To yours of the <hi rend="sup" range="2,4" orig="25=th=">25th</hi>. As to my wife's perfect Recovery, wee must have patience, but do not doubt it.</p>
+			<p>I agree with you in Hopes that the Duke of Lorrain may bee able to take downe the great Troubler of the World, of whom Ireland ought to be jealous. I am also cleere that if men will but consider, our terrors concerning Ireland are not well grounded. I only feare what men drunk with Rage and Revenge may doe of harm to Themselves and others.</p>
+			<p>I congratulate what you say of the pretty Spinsters and the Rest of your Rurall Gazette.</p>
+			<p>I hope wee may answer your desires in the 2 Barrony Maps of land neere Kingsale when you come to Towne.</p>
+			<p>I think there needs be no formall Essay about what I hinted for reading the Scriptures, for (1st) We hold all equally canonised. (2) Tis Manifest that St Luke and the Acts are the best History of Christ and the Apostles. (3) The Epistles of Peter, James, John and Jude, are stiled Catholiq or Generall Epistles, directed to the whole world, and not to Particular Churches upon speciall occasions. (4) They do manifestly containe the whole Christian Doctrine. I only add that the 2 Bookes of the Chronicles is the like Epitome of the History of the Jewish nation and Church.</p>
+			<pb n="143" />
+			<p>What you say of My Lord Treasurer pleases me well, and I hope tis not an Embryon, but a <foreign>foetus prope partum</foreign> . Gett but into that organ loft and I will blow your bellowes, having wind enough for all your Pipes - I say Wind.</p>
+			<p>For further impositions about Neddy, I think them needless. You have planted all necessarys in his ground, you have led him through all the shops and warehouses of other things. Let nature now work. See what he will choose and learn of himself. What is cram~ed in by much teaching will never come to much, but parch away when the Teachers are gone. Within a yeare or two you will have a crisis on him; - let's mark that.</p>
+			<p>I am contented you will be here about the Parliament's sitting. What shall We say more, but the old assertion that I am Yours</p>
+			<p><hi rend="sup" range="1,2" orig="W=m=">Wm</hi> P.</p>
+			<p>Tell the spinsters what fine wooll and flax I wish them to work upon, and how good a market for their weares.</p>
+			<note resp="editor" value="POSTSCRIPT" />
+			<p>I am angry that you did not speake a word, neither of Reason or Ridicule, uppon the Paper <hi rend="type">for the Multiplication of Mankind</hi> ; as if that Desideratum were frivolous which I take to be equall to all the Projects which have been these many yeares for the advantage of the World. Pray send it back with an affidavit on the back of itt That you have neither shewne it to any fortunate fop, nor taken any copie of itt. In dudgeon: Adieu.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="144" />
+			<head> <note resp="editor" value="82. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 5 Sept 1685</p>
+			<p>Dear Cousin</p>
+			<p>I have yours in your own ill hand of the <hi rend="sup" range="2,4" orig="29=th=">29th</hi> past, but what you say of my Lady's Recovery makes ample compensation. Soe alsoe does your kind mention of the Spinsters, and the faire opineon of their Brother Neddy, and your Inculcateing the Method of reading the Holy Writt, which are all favours of Weight.</p>
+			<p>But you come off at last with a Biting Postscript. You chide that I say nothing of your Calculation, as if it were soe small a matter to speak Skilfully of Mankind, and to discourse in this Great Case (of) the Effects and power of Generation, as it were the putting of a dowsen of Eggs under a Henn!</p>
+			<p>Your Great Demonstration is first the Defect, then the Art, and lastly the value of <hi rend="type">Multiplication</hi> . And since you will force me to object, pray answer me this: Mankind must by your method become at last as thick as grasse - not 3 acres to a man, but 3 men to an acre, and what not! Nay the Sea alsoe must be covered as farr as timber can be gotten for stages and ships.</p>
+			<p>And now that I speak of a Shipp, What if your proposall had been made to those on the Arck, and the Deluge were to have lasted? If getting children <pb n="145" /> had not been restrained, the Shipp at last must have sunk or the Surplus gone over-board. Wherefore if the Tower you build, - how beautiful soever in the progress - must by its own heighth or weight fall at last, what need we rayse it higher then it is?</p>
+			<p>Then your Great art cannot remain a Secret, as the Philosopher's Stone, or be monopolized by Letters Patent; for all Men are become Philosophers in this Science. And if the noise that one Kingdom (by adding a Law to Generation) is likely to Infect and devour his neighbour, be but heard, that Neighbour will presently make Resistance by the same Engine; and it will soone goe about, since the practice will be more easy to the Latter than it was to the first. Yett they surely who begin with the greatest numbers will have the greatest advantage in this Experiment, tho at the last a superfoetation of mankind, since our Space is Limited, must produce either Laws or Bloodshed for their necessary Reducing. Soe I have seen in Germany most Stately Trees for a great space Burnt downe, to gett a little Arable to live by. Soe you knew the Hebrew Children were drownd on account of Multiplication, and somewhere in Greece the old men were by Law to be tumbled over a Bridge.</p>
+			<p>Now if the Success of the Project be Ruinous, what need I speake of the Meanes towards it - as to putt a Girle at 16 and a Ladd at 18 to gett Children, before they know how to maintain them, or have served out halfe their Apprentiseshipps?</p>
+			<p>If a whole Country of poore Labourers should have more Children than honest labour can maintaine (as may presently bee, if one may have 25 children, and the first 12 be helpless), it follows that they must be maintained by the State. And consequently the State will be owners and disposers of the Children begotten, and soe introduce a vasilage which leaves the Parents noe other Right to their Children than the Earth hath to its Plants. How to gett new Lawes and fitt Judges for such a Constitution will in this our Climate be somewhat hard.</p>
+			<pb n="146" />
+			<p>Then whereas you fix the value of a man's Labour at 83&pound;, and soe multiply the value with the increase of men, this my thinks would have a quite Contrary Effect; for if Diamonds grew as com~on as pebbles, they would be but of the same account.</p>
+			<p>Soe in the case of mortality, if in London it exceede that in the Country, the multiplication of other Cittys will doe the like. For if there be more men, there will be and must be more communitys; and the more London is populous the more will the Rule of Mortality increase. And soe the future Throngs will somewhat impayre the numbers you impute to the career of generac~on.</p>
+			<p>But why do I meddle in these matters? You know Calculation is not a Herb of my Garden - tis a peculiar of your owne. I can only write captiously and, as they say 'turne the Tables', because you will have me write.</p>
+			<p>However to make you some amends. I will conclude with a story: There is a Province in China where by the constitution, all of the com~on sort who desired to marry, were twice a yeare to send up their names to the Capitall Citty and to some Senatours who presided for That End. Six of these took Care of the Males, and six more of the Females, and at the day of appearance each of the numbers were marshalled into 3 Squadrons. The men into the most Rich, the most Poore, and those who were indifferent. Alsoe the women into the most Fair, the most ugly, and those alsoe who were indifferent. These indifferents were matcht up on equall termes. The most beautifull were at high and valuable rates payd for by the most Rich; and at last the most Poore marryed the most Ugly. Yett they had this satisfaction: to have all the money devided among them which the most rich had given for the most fair. After this the magistrates lead them to the Nuptiall <pb n="147" /> House, where at the publick charges they had fiddles and sack possett for that night, and the next morning they had leave to depart.</p>
+			<p>I have shewne your Paper to Mr Pepys, who is but one of all mankind who are concerned in itt; And I doe hereby make affidavit that I have taken a copy of it.</p>
+			<p>Yrs</p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="159" />
+			<head> <note resp="editor" value="87. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 24 Sept 1685</p>
+			<p>Deare Cousin</p>
+			<p>The Inclosed is to one part of your kind letter of the <hi rend="sup" range="2,4" orig="19=th=">19th</hi>. As to the other, about the Irish Settlement, I must have a little time to ruminate on those master Stroakes you give, which in the meane time I very heartily thank you for.</p>
+			<p>I use my servant's hand in the Inclosed, because you have complayned that my owne is not alwayes current.</p>
+			<pb n="160" />
+			<p>I hope my lady and the little ones are as I wish them. Myne here I thank God are soe. Neddy braggs of your Favours and the fine Mapps he has in custody. My 2 daughters think they have gott all the mathematicks because they can demonstrate an equilaterall Tryangle.</p>
+			<p>Neddy has gott from Caspar <note resp="editor" value="?" /> a cleare plaine Stile in all his Letters, soe that I never have one hard word from him, which I am pleased with.</p>
+			<p>I have nothing more to add concerning Hobby Horses, and therefore remayne</p>
+			<p>Sr, Your most affect Kinsman &amp; humble <hi rend="sup" range="4,5" orig="serv=t=">servt</hi></p>
+			<p>Robert Southwell</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="171" />
+			<head> <note resp="editor" value="91. PETTY TO SOUTHWELL." /> </head>
+			<p>London, 10 October 1685</p>
+			<p>Dear Cousen</p>
+			<p>Let mee tack on a tip to the tayle of our <hi rend="type">Multiplication</hi> businesse. I have yours of the <hi rend="sup" range="2,4" orig="24=th=">24th</hi> past. I have out of it and all your other letters pickt out what properly belongs to that matter. I have out of my first garble again pick't out what was wit, ornament, and Raillery, from the rest. In which finding (tho good) objections against what was not in my first essay, I have added such matter to the Essay as is a fit anvile for your heavy hamers. That what you have ingeniously written may not bee lost, I have made men to bee kild by your Armes. And all this I am importun'd to print, wherefore make hast up hither. To conclude (Cousen), If I <pb n="172" /> find that you have done mee or my Essay any harme, I will satisfy my Justice upon you onely by telling all the women of between 16 and 41 years old that you hinder their haveing husbands &amp;c. Concerning the <hi rend="type">Quaeries</hi> , Let the Divell take them for mee.</p>
+			<p>In consequence of what I said to <hi rend="sup" range="4,5" orig="Mons=r=">Monsr</hi> Paschall's paper, you would have mee do by deare Neddye's head as my Lady Duches of Ormond did to the round tower in Kilkenny; that is make his wall thiner, breake out Lights, make partitions, set up Shelves, bring in furniture, new Frame the staires, make new passages &amp;c. To all which I will make no answer till you come. I see tis better and easier to bee banged or beaten by you, than to write anything that pleases you.</p>
+			<p>Neverthelesse to begin the furnishing of Neddyes Tower, I send you the shortest Catichisme I can frame, and suitable to our Com~on prayer Catichisme. I call it <hi rend="type">Religio Christiana puerilis</hi> - I might ad <foreign>Et quae etiam est mea senilis</foreign> .</p>
+			<p>Here is come out a book of note <hi rend="type">A Papist misrepresented and represented</hi> written by J. L. I object that Hee ought to have put nothing in his Collumne of 'Misrepresented', but what is found in authentic non-papist authors; and nothing into his Collumne of 'Represented' but the very words of the Councill of Trent. So have you this mighty book answer'd. When you come up, I will shew you 2 sheets written by W P. to the said purpose.</p>
+			<p>I do not know what you meant by 'Brewing' - Explaine it, and your operations upon Kings-Weston.</p>
+			<p>Adieu</p>
+			<p>W. P.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_013">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="175" />
+			<head> <note resp="editor" value="94. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 31 Oct. 1685</p>
+			<p>Deare Cousin</p>
+			<p>Although I am preparing by this day Sevenight to kisse your hand, yett in the meane time I will thanke you for your last, and the Character therin of your short Cathechisme, which I annex alsoe to the Text and send it now to our Neddy to doe the like.</p>
+			<p>Whatever enemy you think me to <hi rend="type">Multiplication</hi> , I have this day planted above 40 faire Trees, and I hope they will produce their like, and soe on <foreign>in Secula Seculorum</foreign> . O that I could but help to plant one Cedar in Kerry, and have the same prospect of duration! But how my Charity or Courage shall avayle herein, unlesse you have some white powder or other, that can putt any man forward like a Prince Credentiall! Doe but you take care of this part and I'le warrant you for following Instructions.</p>
+			<p>I long to see the pretty Governante and our Fingallian uppon the Stage. My 3 Spinsters charge me strictly to bring them downe an exact account of all performance therein.</p>
+			<p>I see you allow me when I come up to talke of stuffing out our <foreign>puccane</foreign> <note resp="editor" value="?" /> I meane Neddy. One point I resolve shall be to know wheather you ever writt down a Sett of Cases in the way of Politicall <pb n="176" /> Arithmetick, in order to instruct and settle the present Age in the method, for this you once did Intend.</p>
+			<p>I hope my lady is in perfect health and all the little ones. Myne are merry and content, which is as good as being wise.</p>
+			<p>I am ever, <hi rend="sup" range="1,2" orig="S=r=">Sr</hi>, Your most affect &amp; most humble servant</p>
+			<p>Robert Southwell</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_014">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="179" />
+			<head> <note resp="editor" value="98. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 23. Dec 1685</p>
+			<p>Deare Cousin</p>
+			<p>Our Neddy is come, and what between him and Christmas, the Girls think they may be romps by authority. Tis only Mr Kneller that keepes them to any rules of proportion.</p>
+			<p>Your 3 Papers that he brought me, and your letter - the mother that wrapt them all - are welcome more than Christmas it selfe. I must say as old Dr Clayton, that you brought 3 quarters of these things into the world with you. <foreign>Non vox hominum sonat.</foreign> Your Branches of Regall authority show all the extent of that magnificent Pallace at once.</p>
+			<p>Your judgment about the Art of <hi rend="type">Sweetening Sea Water</hi> makes me but wish that I had a list of all those thoughts and estimates which produced those few but effectual and mighty determinations.</p>
+			<p>The Epigrams and Mottos on that Subject shew what numberlesse thoughts you have had, and a method how to imploy the Chipps, after you have hewed out the Mayne Timbers and beames for use.</p>
+			<p>The two stratagems of Arithmetick in your letter are very pleasing to us. We admire at the hidden affinity that lyes in numbers, and breakes out as water that runns sometimes underground and sometimes <pb n="180" /> above. This I say in reference to the second trick about scattered numbers and their Totalls. As to the first, by placing the digitts 15 just is made in 6 places, but more in the other 2 places.</p>
+			<p>These matters were the more seasonable for that we had already plungd into a french booke of Mathematical Revelations, and poor Neddy's head was almost cloven by hard questions which the girls had prepared for him. They are now reconciled, and all of them your votaryes; and doe pay all duty to my Lady, and wish all manner of happinesse to their Cousins.</p>
+			<p>I have my share in all these things, and will, as the time requires, conclude with a happy Christmas to you; and am ever with great acknowledgements Your most affect kinsman &amp; most humble servant</p>
+			<p>Robert Southwell</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_015">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="189" />
+			<head> <note resp="editor" value="106. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 28 April 1686</p>
+			<p>Dear Cousin</p>
+			<p>It is strange I should be soe long in acknowledging yours of the <hi rend="sup" range="1,3" orig="8=th=">8th</hi>, but there are things to tell you of. I was since then at Badminton to meete my Lord of Ormonde - I was at Bathe to compliment my Lord Tirconnell - and at Longleat to bid farewell to my Lord Weymouth, who goes not soe soon as he pretended. I have had alsoe some ill trickes of my sore throat: and even your letter was sick, for all of that post fell into the River and yours was tatterd and torne, and it was almost Algebra to find it out.</p>
+			<pb n="190" />
+			<p>After this sincere preamble, I will as sincerely answer you as I can, for what you write concerns your selfe and 3 cousins whom I have reason to esteeme. I say your selfe, because you mention the <hi rend="type">Explanation of 12 Theologicall Words</hi> . I am afraid you may herein <foreign>Quieta movere</foreign> , and so blister your fingers; and if you shew them at all to any, I wish you would lett me have the first sight. You know I am your Sawcy friend, and adventer to chide while others choose to accuse.</p>
+			<p>As to Cousin Charles, I like extreamly the Scope of his Travell. You point at severall usefull enterprises, but say all in saying he is to shift among the dangerous men.</p>
+			<p>For his mimicall faculty I am as much at a plung as if my son were a great dancer on the High Rope. If there were noe falling in the case, the vigour and activity would be pleasing enough! You handle the matter soe as to disowne and applaud it at once. You think it is a good offensive weapon and yett such an one as may neede a sword to defend It. You think it will allure women, altho it terrify men. And so you passe to say that his sister hath a dash of the same. Now I should be sorry to pervert the Observation; and that any she-friend of mine should either terrify women or allure men - Nor can there be a sword in this case to defend it!</p>
+			<p>Can you not remember a certaine lady of the Land, who for acting others in her Chamber was brought uppon the publick Stage, and Sempronia <note resp="editor">was</note> punished more at once than all the Secrett farces were worth. Tis true, in meere Children any Simptome of Witt is welcome; but as to my cousin Ann that is now taking her ply, roote this weed out I conjure you, as you would a peece of Witch Craft!</p>
+			<pb n="191" />
+			<p>I have been told of a Marshall of France, <hi rend="sup" range="3,5" orig="Mon=sr=">Monsr</hi> Clerambaut, who was wont to say <foreign>"Qui est maistre du Ridicule est maistre du monde"</foreign> ; and that the Duke of Buckingham was soe in Love with this saying and that man's example, that he resolved to build uppon the same foundation. Build he did (as you very well know), but the foundation being naught, the Stormes and tempests beat down his House and great was the fall thereof.</p>
+			<p>As to my Cousin Harry, I am extreamely in Love with his faculty of <hi rend="type">Pro</hi> and <hi rend="type">Con</hi> , for that will certainly bring in guinyes at Westminster Hall, tho he should never comprehend whether <hi rend="type">Pro</hi> or <hi rend="type">Con</hi> were most in the Right. This I say because I knew a great man that fulfilled It.</p>
+			<p>I will advise our Neddy to strick in with Cousin Harry betimes, and to Steale a Sight of all the little and great Instructions you give to become picklock of the Law. We have noe other engine at present but the demonstrations of Euclide.</p>
+			<p>I pay all service to my lady and kindness to the little ones, being ever <hi rend="sup" range="1,2" orig="S=r=">Sr</hi>, <hi rend="sup" range="1,3" orig="Y=rs=">Yrs</hi></p>
+			<p>R-S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_016">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="201" />
+			<head> <note resp="editor" value="112. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 29 May 1686</p>
+			<p>Deare Cousin</p>
+			<p>I had your condoling Letter of the <hi rend="sup" range="2,4" orig="22=nd=">22nd</hi>, and pray allow me to tell you what my Little daughter said, being a while agoe full of mirth and good humour at the Discourse that was betweene us: "Truly father", said she, "If a dogg should come into the Roome, you doe say such play things, that I believe you would make him Laugh."</p>
+			<p>Cousin, you doe wipe off Teares at a very strange rate, but why did nature furnish Them if there must be no Sorrow? Can you, by pointing at what is contemptible in a noble object, Establish your maxime in this alsoe: That nothing is Stronger than its weakest part? I should rather say it is unnaturall to lessen any thing that is either anihilated, or must rise glorious. For tho your friends in Eutopia triumph and sing Hymns at a Funerall, tis but to fortify those that must Dye, and by this disguise fling sugar into the bitter Cupp. If you would know nature's mind, see what is done even by the men of Leest Humanity. The Cafras and Hattintoes never loose a Friend or Relation but they cutt off a Joynt from one of their Fingers - soe much they scorne the acquisition of Mourning Rings. The Indian women burne with their dead Husbands, And the Husbands of Angola appoint when they dye who shall for 8 dayes Console the afflicted Widdow, and it falls to their next of kin thus to cohabite with Her if they dye Intestate.</p>
+			<pb n="202" />
+			<p><foreign>Funus justa petit</foreign> and <foreign>Sal liquefit ut condiat</foreign> . Teares are the true and naturall balsome, and they who refuse Them robb the Dead.</p>
+			<p>But what Art - I was going to say play-words - does your kindnesse find out to stifle my recentments? You tell me of Empire, and how much I assend by the desolations that are past. If by loosing one wife I have Title to the million that are unmarryed, by the same right your million have Title to me; which would proove but a hard Chapter. And how can you magnify my Headship over Infants by the loose of Sir John Percivale? Is not this to magnify the Rouling of Sysiphus's stone - to beginn againe at the Bottome when I was at the Mountain's topp, and thought I had nursed up those who in reason should turne nurses to myne?</p>
+			<p>Thus you see, Cousin, I will not be comforted. For while your good nature finds Arts to divert Sorrow, It discovers there is some sorrow due; and it being as debt, the soonest payment will be the best.</p>
+			<p>As to the Shipp, you have already had my wandring thoughts. I doe for Consolation sometimes read the Chapter, how there arose a tempestuous wind called "Euroclidon"; yett after all, how some by swimming, others on Boards and broken planks, gott all to Land, soe as not a soule was lost. In the next place, when I am more shaken, and thinke where Neddy (The Pinnace) may have surest anchorage <foreign>in omne eventum</foreign> , I start up and shape his Course, blow high, blow low, towards Westminster Hall; for whatever happens Crafty Knaves will Live.</p>
+			<p>I am Yrs</p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_017">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="209" />
+			<head> <note resp="editor" value="117. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 7 June 1686</p>
+			<p>Deare Cousin</p>
+			<p>I have the favour of 2 of yours of the <hi rend="sup" range="1,3" orig="5=th=">5th</hi> and the 'State of a Case' Inclosed. One of your Letters is uppon <hi rend="type">Death without Mourning</hi> , and seeing it is hard to defend passion against Reason, I will acquiesce in your Arguments and read them uppon ill accidents, in hopes they will support me.</p>
+			<pb n="210" />
+			<p>As to the State of the Case you send now, and the State you sent before, I cannot think how any Cases can be more strong that are not of Mathematicall Demonstration.</p>
+			<p>Nor did I tell you what I hapned to over heare, but with most friendly Intention - that you might looke early out. I have known you formerly to mind your Cylinders, while your Acres were Tearing from you; and you would not desist from Philosophy, as long as it was not in the power of a Decree to forbidd Rubarb and Cena from purging.</p>
+			<p>But since the discovery of my owne feares hath exceeded all due proportion and that you send "Hulchy Pulchy" to defy It; I will take heart alsoe, as did your Boy Thom, who was sorely afrighted at the roaring of the Sea and the trembling of the Vessell, till he heard the seamen sweare.</p>
+			<p>I am glad you expect better things from the new, than you felt from the old Councill, and I had noe meaning in that phrase of "Land in the Moone" but to excite you as aforesaid. For marriners doe usually cry 'all hands Aboard' when there is thoughts of any danger.</p>
+			<p>I hope, Cousin, in the meane time it will be noe false Latin to looke well after my Hay, or if I goe on with my new Invention of an Oxe-House, where the Cattle are both to eat and drink in the same Cribb, and not to stirr till they be fitted for the Slaughter. <foreign>Magister Artis Venter</foreign></p>
+			<p>I am ever yrs</p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_018">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="210" />
+			<head> <note resp="editor" value="118. PETTY TO SOUTHWELL." /> </head>
+			<p><pb n="211" /> Piccadilly, 12 <foreign>Junii</foreign> 1686</p>
+			<p>Dre Cozn</p>
+			<p>To yours of the <hi rend="sup" range="1,3" orig="7=th=">7th</hi> I returne this humble long answer. I beg your pardon <hi rend="sup" range="2,3" orig="(1=o=)">(1o)</hi> for comparing your friendly warnings to Goblins and Devills, <hi rend="sup" range="2,3" orig="(2=o=)">(2o)</hi> for seeming to defy them all with the spell of 'hulchi' &amp;c, wherein I did not doe well. Pray doe not punish me by supposing the like hereafter, for I took all very kindly and thankfully.</p>
+			<p>Nevertheless what shall a man say who hath been used like mee ( <hi rend="type">e.g.</hi> in Kerry), but at some times and to an Intimate friend use some words of contempt and desperation when Right and Reason will doe noe good? What I said to you was but like that of Rhubarb &amp;c. to the Court of Claymes. And I am glad that my spell 'Hulchi' gave you the same comfort that the Seaman's swearing did to Tom.</p>
+			<p>Among other weapons that I am scowring up, I have drawn out a paper shewing what money I had at Xmas 1636 - which was 1s. How it rise to 4s 6d, then to 24s, then to 4&pound;. Then to 70. Next how it fell to 26, then rise to &pound;480 at my Landing in Ireland. Next to 13,060&pound; at finishing the Survey. And how after I gott my Land in Ireland and Estate in England &amp;c, it was 3200&pound; at the King's Restoration &amp;c. And so all along to this very day. Perhaps the like hath not been seene. This and the like gave me courage wherewith I fought Zanchy. Whatever becomes of me I can leave such arguments of 50 yeares art and Industry as will be a credit to my children <pb n="212" /> and friends. And now instead of <hi rend="type">Hulchi Pulchi</hi> I say 'God's Will be done - Naked came I into the World and naked must go out of it.'</p>
+			<p>I did, Dear Cozen, obtrude upon you the Case with Lord Dunsany and obeyd you in sending that of Tegrohan. I take my turne to obtrude againe uppon you that of Macgillicuddy which I think must needs come uppon the Stage. And then you shall comand another, and so as long as you please, but no longer.</p>
+			<p>Enlarge a little uppon the Meate and Drink Cribs which you have for your Oxen. I envy you rurall contentments - give me an alms out of your abundance. Feare not Neddy; Ile warrant hee will live, your Godson is short of him in that faculty,</p>
+			<p>Adieu <note resp="compiler" value="UNSIGNED" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_019">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="212" />
+			<head> <note resp="editor" value="119. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 10 July 1686</p>
+			<p>Deare Cousin</p>
+			<p>Here has been a great Irish wedding in our neighbourhood, and by the title I tooke share in it, and part of the dinn has even reached this poore place. And these are the causes why I come thus slow to acknowledge yours of the <hi rend="sup" range="2,4" orig="12=th=">12th</hi> past.</p>
+			<p>I am now returning to the care of Hay Harvest and of my Oxe-House. In this there is nothing new, but that a Streame of Water is to run under the Cribb, soe they drink where they stand and when they please; and this want of Liberty is to hasten them for the Slaughter. If Irish Rents come in noe better, I must invent something more - either the art of fasting or <hi rend="sup" range="4,5" orig="Mons=r=">Monsr</hi> Payim's <note resp="editor" value="?" /> Invention to soften beanes.</p>
+			<p>I perceive you are scouring old papers, and your short hint of Meliorations from the yeare 1636 is soe entertaining that I wish I had more of It.</p>
+			<pb n="213" />
+			<p>I thanke you for the State of <hi rend="sup" range="1,2" orig="M=c=Gillocuddy">McGillocuddy</hi>'s businesse which I have now read againe, and I think your measure is very hard, but the time now to redresse it much harder. For who can mind right or wrong touching Ham~ocks and Cabins when the whole Shipp is in danger, or lyes at Hull? And yett I am told (tho you say nothing of It) that Sir William <note resp="editor" range="1,5" orig="P[\etty\]">Petty</note> had great accesse to the Great Man before his going over; that he gave him in severall Schemes as to Adventurers and Soldiers, and urged so well the preference of Money to any disturbance of the present Settlement, that the Great Man himselfe seemes to have a Byas that way; that he has been heard to say how his owne Fortune was settled by the Acts, and that His Majesty has noe thought of parting with a foot of his estate in that Country. And this is all I can say as to the Mayne.</p>
+			<p>I am glad you fancy that Neddy will find out the way of shifting among dangerous men. It will import him both for his owne sake and his sisters too.</p>
+			<p>I hope my good lady and all yours are well. We have lost in Sir William Coventry a great man of our nation.</p>
+			<p>I am ever yr</p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_020">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="213" />
+			<head> <note resp="editor" value="120. PETTY TO SOUTHWELL." /> </head>
+			<p><pb n="214" /> Piccadilly, 13 July 1686</p>
+			<p>Dr Cozen</p>
+			<p>I will now answer but a small part of yours of the <hi rend="sup" range="2,4" orig="10=th=">10th</hi> Instant, and divide even that small part into the 3 partites following (1) Concerning myselfe. (2) Neddy. (3) The great man you mention.</p>
+			<p>Concerning Myself, I say that I had 13,060&pound; in cash <foreign>anno</foreign> 1656, which at 10 per cent (above 12 being then justly taken) would <foreign>anno</foreign> 1666 have beene 26,120&pound;, and <foreign>anno</foreign> 1676 52,240&pound;, and in this yeare 1686 104 thousand 480&pound;. I further say that, without meddling with forfeited lands, I could <foreign>Anno</foreign> 1656 have returned into England and been at the top of practice in Oliver's Court, when Dr Willis was casting waters at Abington Markett and the Cock Lowre but an Egge. And what the superlucration thereof (besides the <hi rend="sup" range="3,4" orig="104=m=">104m</hi> &pound;) might have beene in 30 yeares, I leave to your judgment. I say the profitt of these 2 funds, would have exceeded my present State by <note resp="editor" value="BLANK" /> .</p>
+			<p>As to Neddy, I say that this present great and early acquaintance, with the easy access to great Men, will give him bread and cheese by the Law before he bee ripe; whereas my Harry may be an able man 7 yeares before he getts bread only.</p>
+			<p>As to the Great man, I had indeed strange accesse and acceptance. I spake unto him as one having authority and not as the Scribes and Pharisees. I said severall sowre things which he took as Juice of Orange Squeezed into his Mince meat, and not as Vitrioll. For some of the things he told me were these:</p>
+			<pb n="215" />
+			<p><hi rend="sup" range="1,2" orig="1=o=">1o</hi>. That all the Lands which the Irish lost as forfeited were not worth <foreign>Anno</foreign> 1653, when they left them, neare <hi rend="sup" range="3,4" orig="300=m=">300m</hi> pounds.</p>
+			<p><hi rend="sup" range="1,2" orig="2=o=">2o</hi>. That the 34,000 men which the heads of the Irish were permitted and assisted to carry to forraigne States, at 10&pound; per head, were worth more than the said Lands; but 10&pound; is not 1/2 the value of negroes nor 1/5 of Algier slaves, nor 1/7 of their real value in Ireland.</p>
+			<p><hi rend="sup" range="1,2" orig="3=o=">3o</hi>. I said that what the Irish gott restored <foreign>Anno</foreign> 1663, more then what belonged to them <foreign>Anno</foreign> 1641, is now worth much more than all they ever lost.</p>
+			<p><hi rend="sup" range="1,2" orig="4=o=">4o</hi>. That they gott <hi rend="sup" range="4,5" orig="1100=m=">1100m</hi> Acres of Land by Innocence, making 7 of 8 Innocent. Whereas it appeares by the arrears allowd to the 49 officers, that there was a Protestant Army of <hi rend="sup" range="2,3" orig="20=m=">20m</hi> men from 1641 to 1649, which army together with the 7/8 of the Irish that were Innocent, could not beate 1/8 nocent part of the Irish, but necessitated my Lord of Ormond to make the Peace of 1648 - <foreign>vide</foreign> the Articles.</p>
+			<p>This (as Sir Jerome said) "was not halfe". He heard me with trouble and admiration. He pressd me to speake of the Settlement. I told him there were things in it against the light of Nature and the current Equity of the World, but wether it was worth the breaking I doubted; but if It were broaken by Parliament I offerd things to be mix'd with those Acts as should mend the Condition of all men.</p>
+			<p>Thus much for the present from him who is Yours</p>
+			<p>W-P.</p>
+			<p>The next shall be how I gott the shilling at Xmas 1636. How I came by 4s 6d when I went to sea and how I advanced the same to 24s when I went to the Jesuits Colledge. What the setting of my Broaken Legg cost to the farrier's wife, what for Crutches &amp;c.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_021">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="229" />
+			<head> <note resp="editor" value="127. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 11 Augt 1686</p>
+			<p>Deare Cousin</p>
+			<p>I have yours of the <hi rend="sup" range="1,3" orig="7=th=">7th</hi> and am soe conscious of my late silence, that you deale hardly with me to reproach it. You have sung soe many new and surprising Tunes that I am just like the Cobbler's Daw - struck mute on the Caesurean Tryumph. But, as in a month he burst out with all the musick he had heard, soe I wish I may proove like that Daw in this part.</p>
+			<p>We have beene of late wholly Intent on our friends from Ireland, and on Sunday the last parcell arrived. And I have frequent returnes of a Scurvey Soare Throat, soe that, unlesse I would onely <hi rend="type">admire</hi> , I am not in a condition to speake to you at large.</p>
+			<p>Tis almost 20 yeares past that I have desired the <pb n="230" /> explanation of <foreign>Ut Apes Geometriam</foreign> , and you may judge if I am not exalted now to see soe many master stroakes thereon, and more perhaps than ever you thought at First. But tis now a cloudy and a rayny day, and I will not risk or execute what Tully sayes on such occasions - <foreign>periclitandae sunt vires ingenii, et ista mentis interna comentatio proferenda est</foreign> - for I cannot yett think as I ought or utter what I think. Soe this is onely to bespeake your patience and to advise you to looke well after your flock, since already your spinster is called uppon. I expect noe such humours till Irish Rents are better payd, or to pay Goates Hayre instead of wooll.</p>
+			<p>My Lady Percivale does most thankefully acknowledge yours and my ladyes kind remembrances. She has here 2 brave brawny boyes as loud as bedlams and the Girle is of the same Tribe; and in November we expect an other of the same Scantling.</p>
+			<p>I am ever Yrs</p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_022">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="232" />
+			<head> <note resp="editor" value="131.SOUTHWELL TO PETTY." /> </head>
+			<p><pb n="233" /> Kingsweston, 13 Sept 1686</p>
+			<p>Deare Cousin</p>
+			<p>I have yours of the <hi rend="sup" range="1,3" orig="9=th=">9th</hi> and the Essay Inclosd therein. If admiration could please you I can afford very good measure, but if you love Victory more than submission, I must displease you for I am not able to contend. I have read the paper with strange delight, and doubtlesse soe will the Pope, for my thinks that King should hould none of his Councills secrett while a blind man in London can discribe more of his Condition that he knew himselfe. In the meane time you have done our King great Honour to shew the world that he Governes the greatest Citty that is in it.</p>
+			<p>When I consider this discourse and your others of like Nature, lett me putt you in mind how you have formerly promised a Sort of Gram~ar or Instruction whereby this Age may be enabled to calculate as you have done, and which assuredly was never done before. Our Neddyes head might in time take this Byas, for he is Inclined to Numbers.</p>
+			<p>What shall I add more at present save my thanks for your great favour in this precious Token, and to one who is already soe much in arreare to you uppon other Accounts. I still beg for time. And if in the meane time you know what the great Lord is doing, and to what end Mr Nagle, the great Surveyor of Ireland, is come over with him, you will be soe kind as to impart a word unto</p>
+			<p>Yrs</p>
+			<p>R. S.</p>
+			<p>All services from herein to the Lady and the little ones.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_023">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="236" />
+			<head> <note resp="editor" value="134. SOUTHWELL TO PETTY." /> </head>
+			<p><note resp="editor" value="KINGSWESTON" /> 23 Oct 1686</p>
+			<p>Deare Cousin</p>
+			<p>We stand in neede of your Judgment in a materiall point. A certaine wayfaring man calld the other day, and taking notice that one of the 3 spinsters had a very browne neck, "Child" sayd he "you will not gett a Husband unlesse your neck looke whiter" - "Sir" said she "by the time I neede a Husband, Browne Necks may come into fashion" - "Noe" sayd he "I will here present you with an Amber Neck-lace which will gaine you favour imediately; but once that it is on, you must never take it off" - "Noe Sir" sayd she "perhaps I may live soe long as that such a neck lace may come to throttle me at last." Now what think you of the Girle's Answer?</p>
+			<p>I read lately a melancholly prophesy, and the <pb n="237" /> contents were much to my owne sence, and the prophet was a Great Caldean, and had long conversed with Men and Starrs; soe as I was much disquieted thereat. But when I considered that these things were not writt either in Serious Prose or in broaken ejaculations or distracted words, but in smooth and flowing numbers - then sayd I, "the bitternesse is over past, for who can utter Melody in his sadnesse, or sing tunably when he is in a Strange land?" Since therefore the matter and the manner doe not agree, I also will sing:</p>
+			<p>"As men by stormes may to their Haven Sayle,</p>
+			<p>Soe lett your Numbers, not your Sence prevayle."</p>
+			<note resp="compiler" value="UNSIGNED" />
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_024">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="247" />
+			<head> <note resp="editor" value="143. PETTY TO SOUTHWELL." /> </head>
+			<p><pb n="248" /> London, <hi rend="sup" range="2,4" orig="25=th=">25th</hi> X br 1686.</p>
+			<p>Deare Cosen</p>
+			<p>Wee have not seen Neddy these 3 weeks and therefore suppose him to bee with you. If hee had cald here, I would have given him the hints you desired; altho in truth it is not necessary, for I do not know what is what, and my owne cake, whereof I thought to have given you a Bitt, may prove dough. I have had a letter from Sir George Curtis, but can say to you little about it as yet. My observing the wind too much, makes mee not sow.</p>
+			<p>But Cousen, the Bombes against my Essays are fierd, one by <hi rend="type">La Republiq de Letters</hi> , and the other from the great <hi rend="sup" range="4,5" orig="Mons=r=">Monsr</hi> Auzout from Rome. More are daily expected from Paris and particularly from the famous Abbot Bernou. I received <hi rend="sup" range="4,5" orig="Mons=r=">Monsr</hi> Auzout's on Wensday last between 9 and 10, and caryed the King an Answer before 12, made before all the White Staves in the Bed Chamber. The chief objection was, that the out-Parishes which have stood these 50 yeares in the Bills of Mortality, should not be accounted London. His paper did fall most upon what Captain Graunt and myself had ever writ upon these matters.</p>
+			<p>I promised the King my speedy remarques upon all hee said, which I have since done and I hope pretty well. And afterwards I made 2 new Essays in one, where I proved over again all that I had said before of London, Rome, Rouen and Dublin, even allowing <hi rend="sup" range="4,5" orig="Mons=r=">Monsr</hi> Auzout all his Demands; even those for which hee had offered no manner of proof.</p>
+			<p>In the other Essays, wherein I deale with lesse favour and more Justice towards the Interest of Paris and <hi rend="sup" range="4,5" orig="Mons=r=">Monsr</hi> Auzout, I shew London to bee equall to Paris, Rome, and Rouen, from their owne sayings, altho' I do not beleive it myself; which things I intend to shew the King tomorrow if I can. I also, in answer to their objecting a Citty in Persia to bee <pb n="249" /> greater than London, <note resp="editor">show</note> that (by their owne sayings) the said Persian Citty had 44000 Moschees in it before Mahomet was come.</p>
+			<p>This do they get who wrong your poor Cousen, who wisheth you a Merry Christmas, and that the next yeare may bee no worse than the past, and who is your good Company's and Kings-Weston and your owne</p>
+			<p>honest servant.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_025">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="249" />
+			<head> <note resp="editor" value="144. SOUTHWELL TO PETTY." /> </head>
+			<p><note resp="editor" value="KINGSWESTON" /> 6 Jan 1686/7</p>
+			<p>Deare Cousin</p>
+			<p>Yours of the <hi rend="sup" range="2,4" orig="25=th=">25th</hi> past made our Christmas here looke like it selfe, and we were all rejoycd to heare how you repelld the Roman Gyant and gott his Majesty of your syde. When all is setled that relates to this predicament, I hope I shall not be the last to solemnize your fame, if you will but give me the meanes.</p>
+			<p>Neddy is with us and preparing his mind to passe a little time in Oxford. My Lady Percivale lately lost her onely daughter by convultion fitts, but the 3 boyes doe bravely.</p>
+			<p>I see how cautious you are in Joyning issue with Sir G. Curtis, and who can blame you? We are stund on account of the same motives. What you think fitt to spare as newes or Information shall be lookt on as from the hand it comes.</p>
+			<p>Doe you still think that the Parlyament will here meete? I suppose their will soone be one in Ireland.</p>
+			<p>My Lady Dering prepares to be going up on Monday, and my Lady Percivale goes after, and they needes will have two of my girles of the party. I wish a happy yeare to my lady and to all yours, and am ever,</p>
+			<p>Yrs <note resp="compiler" value="UNSIGNED" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_026">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="260" />
+			<head> <note resp="editor" value="152. SOUTHWELL TO PETTY." /> </head>
+			<p><pb n="261" /> <note resp="editor" value="CORNEBURY" /> 7 March. 1686/7</p>
+			<p>Deare Cousin</p>
+			<p>I have yours of the <hi rend="sup" range="1,3" orig="5=th=">5th</hi> and thanke you for the honour of It. All you write is to me a matter of Record. I could not conceale it from the Lord I am with, nor he forbeare to desire an extract of it, soe authentick it was in matter of moment and soe entertaining in all the Rest.</p>
+			<p>I deplore the ejectments you mention and it drives me to remember a dirty rime imputed to Cromwell when they told him of Magna Charta.</p>
+			<p>My lady has my best wishes wheather she goes or stays, and to make them stick I would fasten them with goulden pinns if I had them. My daughters bragg of her ladyships favour towards them, and if my God-son take a stride into the world to enable him (in your own phrase) to 'live among dangerous men', may he prosper like his father's Bee Hive and returne home againe <foreign>Crura thymo Plena</foreign> .</p>
+			<p>You have so anatomized the wooden head, that I shall never mind it more, but for an eccho, I wish you had heard one which the Lord Carlinford cairyed me to see within a mile of Milan. We stood in the gallery of a Gentleman's House, one story high, and in his garden (where were Trenches and I think some <pb n="262" /> standing water), the eccho repeated after me the word "Home" 21 times distinctly.</p>
+			<p>I thanke you for all the proportions of Land you mention. The reason of my enquiry herein was to enable me to Answer those who rashly affirme (and that in print) that the Irish had nothing by the Settlement; that if by the Usurper they were whipt with Iron, it has beene since the Restauration with Scorpions.</p>
+			<p>What you add beyound what I requested, which is the Compromise of the 6 July 1665, is what I have long had in my Head, which you now diffinitly explaine. I doe believe, and I think remember, that this Agreement was signed at my Lord Anglesey's House in Drury Lane, where the Lord Clancarty, Sir Nicholas Plunkett and the Heads of the Party did meete and agree thereto. I cannot say I saw the Paper, but I remember it was reported in Councill that all was Agreed. And when in 1672 the Comission of Enquiry was on foot and Sir Henage Finch acted his part as a Champion for the Settlement, He soe vigorously insisted on this Agreement that I remember the good King sayd in Councill, "Nay I doe well remember there was some kind of agreement in this matter".</p>
+			<p>It seemes this Paper is now lost or buryed with these proceedings - which I once received from Sir James Shaen all in a deale Box; and for want of other Roome, they were placed under the great Table in the Councill Chamber and I beleive remayned there till the Chamber was lately altered. And who knowes but it may still be found in the same box - if it be not a crime to looke for it. As to my having Studdyed the severall Peaces, it was purely to find by those Sibill's Bookes what might now ensue (at the least). For that which was once contended for with sword in hand, will now certainely be taken when it may be <pb n="263" /> had without contention. And what the moddell will be, is now I think the expectation of every Post.</p>
+			<p>I see how you have layd by the <foreign>mala stamina</foreign> of a History that was Intended, and what you say of Sir John Davys his Essayes, and the misfortune of his Law and learning, which onely enabled him to putt the Patch besyde the Hole. If I live to see you I hope to be happyer than the world, and see those treasures <hi rend="type">De Jure Belli, Jure Naturae</hi> and <hi rend="type">Jure Gentium</hi> .</p>
+			<p>I return home in 3 dayes.</p>
+			<note resp="compiler" value="UNSIGNED" />
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_027">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="265" />
+			<head> <note resp="editor" value="156. PETTY TO SOUTHWELL." /> </head>
+			<p>Piccadilly, 7 Aprill 1687</p>
+			<p><hi rend="sup" range="1,2" orig="D=r=">Dr</hi> <hi rend="sup" range="3,4" orig="Coz=n=">Cozn</hi></p>
+			<p>The book (which you say might have been a Cartload) had 2 points in it: the one about the <pb n="266" /> Plague, the other about the new Wall propounded for London. Nobody but yourselfe hath taken notice of the former, and nobody at all of the latter - So deafe are the Adders wee charme unto!</p>
+			<p>As for the Settlement, Let us fancy it to bee a Ship and to be repaired and made better.</p>
+			<p><hi rend="sup" range="1,2" orig="1=o=">1o</hi>. The 'Coventry letter' propounds to breake it up, burne most of the materialls, and build some other Thing (not another Ship) with the rest.</p>
+			<p><hi rend="sup" range="1,2" orig="2=o=">2o</hi>. I meet with another who advises the sawing of it in 2 and making it longer, as also taking downe her Upper-workes wherewith shee is top-heavy, "for so" sayth Hee "She will be a bigger and a better ship" - but Wee have not Carpenters to do it.</p>
+			<p><hi rend="sup" range="1,2" orig="3=o=">3o</hi>. The letter of the 15 November (which I praise and admire) thinks That calking it a-new, and phay-goodling <note resp="editor" value="?" /> it almost, may serve turne.</p>
+			<p><hi rend="sup" range="1,2" orig="4=o=">4o</hi>. But I lately met with an old Carpenter sitting upon a Log of Timber, smoking his short pipe, to whom I said: "D'yee see that Ship yonder in the road?" - "See her" sayd hee, "A pox on her! I remember when she was built, and wrought myselfe for a while upon her, till I found knavery among the Chief owners and the workmen too, by Gad." - "Well" sayd I, "What d'y think of her?" - "Shee's a rotten Toad" quoth hee, "There was a Couzen of the owner's that serv'd us in rotten Timber and plank, which as twas lay'd was tarred over and lookt like sufficient stuffe, and the Devil and all." - "But d'y think shee may bee mended?" - "Never" says hee, "without bringing her into a dry dock and taking out these planks and some of her principall timbers. Nay, a peece of her keele, by Gad." I intended to talke on with this Waspish Nimps <note resp="editor" value="?" /> but <note resp="editor">we</note> were interrupted &amp;c.</p>
+			<p>Within 2 dayes I mett with Mr Houblon of whom I inquired concerning this Choleric old Coxcomb. But Mr Houblon sayd: "Hee is not so choleric as one would think, but having been horribly abusd in and about that very ship. If you name 3 or 4 words <pb n="267" /> ('Column' is one, the other 2 I can send you) Hee will, like Dol Common in the 'Alchemist', fall into Extravagances. Otherwise he is sober enough." "May be so", quoth I, "for though I gott into the 'Anchor' I could not make him drink above a glasse or 2." - Thus ends the parable &amp;c.</p>
+			<p>To conclude. I find That if wee had a dry dock, These few timbers might bee mended without prejudice even to the mold of the present Hull.</p>
+			<note resp="compiler" value="UNSIGNED" />
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_028">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="267" />
+			<head> <note resp="editor" value="157. SOUTHWELL TO PETTY." /> </head>
+			<p><note resp="editor" value="KINGSWESTON" /> 20 aprill 1687</p>
+			<p>Deare Cousin</p>
+			<p>I had the honour of yours of the <hi rend="sup" range="1,3" orig="7=th=">7th</hi> and have much considerd the Parable of the Shipp and your wishes for a drye dock. If a new draft were made, and every one certainly knew what would be done in this dock, and that the majority saw hopes of a Saving Voyage, the thoughts and votes and wishes of the powerfull might run one way. But if a Chipp be toucht without some such preamble, every planck will groane and expect to be flung into the fire.</p>
+			<p>The 'Coventry letter' runns now about in every hand on the other syde, and gives terrour as I am told; tho the Proclamation there, and the later declaration here, seeme (as to Property) to Speake better things.</p>
+			<p>I am glad I animadverted on that peece of Angelick vertue in your Essay of <hi rend="type">limiting the Plague</hi> . It was new to me, and a blessing to mankind which I could not but admire. But for the other point of <hi rend="type">the London Wall</hi> , I had heard you speake of it before, soe it was not altogether new. Nor am I martiall man enough to take all things in that appertaine to such a proposall. But we have a Martial King, <pb n="268" /> who heares you patiently, and might putt you to It. And I wonder He or his Lieutenant Generalls doe not discusse this great point; as alsoe an other you have in store, touching a defence by wooll packs, applicable to land and sea.</p>
+			<p>My friend Monsieur Renaudot is ambitious to wayt uppon you. He is, among other Ingredients of ability, a good Geometrician; therefore pray smile uppon him.</p>
+			<p>To my lady and the little ones all happinesse.</p>
+			<p>Yrs <note resp="compiler" value="UNSIGNED" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_029">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="269" />
+			<head> <note resp="editor" value="160. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston - 21 May 1687</p>
+			<p>Deare Cousin</p>
+			<p>The last post brought me, in yours of the <hi rend="sup" range="2,4" orig="17=th=">17th</hi>, a most unwelcome account of damage to your nephew and of approaching danger to your selfe. I see the Juryes are sett uppon it, and every man must looke about; since in this tryall there was noe defect in any circumstance or essential thing, but singly in the verdict. As for the scramble in Kerry, I see and admire your philosophy that you name it with patience. Before, you were lancd and scarifyd; but this is plaine fleaing off the whole skin. But have the philosophy, and the same patience must alsoe take place.</p>
+			<p>My present care is to save my stake at Kinsale by getting (if I can) a provisoe in the new Charter that must follow the destruction of the old, and in which tis expected that all old members may be layed by. I am herein sollicitous for the future, since at <pb n="270" /> present I can gett noe rent from thence. The towne is become a poore skelliton, for all the trade is now centred in Corke - and tis high time that your friend Neddy doe hasten to the Law.</p>
+			<p>We are well in this place, as I hope it is with my lady and the little ones.</p>
+			<p>I have beene writing a close sheete to Peter Welch in which you are often named. Tis on that part of his letter to the Bishop of Lincolne (p. 224) where he speakes of the Irish Rebellion and extenuates the first Massacre, and I think by the hedings of your calculations I have the better of him.</p>
+			<p>Our Neddy is now gott into Ethicks. I am ever Yrs.</p>
+			<p>R. S.</p>
+			<p>I rejoyce however that your nephew Naper did behave himselfe soe like a man in the day of battle. I remember well since his Father sweat for it in the Court of Claymes, till all his hand was wett.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_030">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="271" />
+			<head> <note resp="editor" value="162. SOUTHWELL TO PETTY." /> </head>
+			<p><note resp="editor" value="KINGSWESTON" /> 11 June 1687</p>
+			<p>Deare Cousin</p>
+			<p>This being the longest day in the yeare, I could wish it were Imployd from morning to night in reading or writing like orders in your favour with <pb n="272" /> what you had on the <hi rend="sup" range="1,3" orig="2=nd=">2nd</hi> from the Treasury; And tis most kindly done to send me the Copy of it. If my Lord Godolphin would now take consideration of what Sir Edward Dering Intended, I am able to give a large Testimoniall of his being strangely convinct of your hard usage; and that he resolved to intercede not onely for a full settlement in your affaires, but to the abating one hundred pounds <foreign>per annum</foreign> of the Quitt Rents which you submitted unto - which in truth you did at his persuasion - I meane as regards concernes in Kerry.</p>
+			<p>What you apprehend of Shocks and disorders in other parts, I can but deplore, and imploy wisshes that it were otherwise than you find.</p>
+			<p>I have a great share of disappointment in my owne small concernes, scarce getting any Rent at all, and I am menaced by the Courcys with trouble and law suites for having what their Ancestours, they say, had noe right to dispose of. And this is the gratitude I find for respects to that poore family for neere 40, or rather 50 yeares past, from my Father and my selfe. I suppose tis because they think witnesses and Jurys can now doe any thing!</p>
+			<p>I see my Godson is going to the Academy, which I very well approuve of, as alsoe the disposal of my Cousin Harry.</p>
+			<p>If you can lend the answer of ten Sheetes to Phillip Madox, he will presently gett it copyed out for me, and sent by a safe hand. I see you expect a broadsyde from Holland, but you have 18 Cittyes already for you, and soe neede not tremble before the Thunderbolt falls. I am apt to think they will consider well before they shoote, or repent their shooting.</p>
+			<p>I perceive you have beene hearing of exercises at a Schoole, which you think to be a sort of Musick meeting, and that there may be Euphoniacall Nonsence. <pb n="273" /> I confesse tis happiest when there is more care for the matter than the manner, tho this last is much easyer sought for. As to the other it is <foreign>Donum Dei</foreign> , and you know to whom it was sayd at Merton Colledge "Young man you were borne with 3 quarters of what you know".</p>
+			<p>Having named this colledge, I must not omitt to tell you that Neddy does well according to the discipline of the place. He is already turned disputant in the Hall.</p>
+			<p>As you thrive by the order of the <hi rend="sup" range="1,3" orig="2=nd=">2nd</hi> (that seemes to shew a certainty made in the present Rent, and in the Arrears) pray lett me know it, as of all other things wheather to profitt or losse - for when I cannot rejoyce with you I will mourne.</p>
+			<p>Yrs <note resp="compiler" value="UNSIGNED" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_031">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="275" />
+			<head> <note resp="editor" value="165. SOUTHWELL TO PETTY." /> </head>
+			<p><note resp="editor" value="KINGSWESTON" /> 8 July 1687</p>
+			<p>Deare Cousin</p>
+			<p>Since my acknowledgement of yours of the <hi rend="sup" range="2,4" orig="16=th=">16th</hi> past I have received and Read the papers, and doe think I never was better entertayned in my life. I could say many things of soe excellent a discourse, but will Comprize all in the words of Seneca, speaking of the Law: <foreign>Non Irascitur sed Castigat</foreign> . The <hi rend="sup" range="1,3" orig="4=th=">4th</hi> point which you thought wanting (being part of the Journall of the Supreame Councill) is there as well as the rest, and serves as voucher in some particulars of the preceding discourse.</p>
+			<p>I am told from an Intelligent hand, as if there were hopes the Settlement would not be shaken, what ever is done with the Charters. And surely if those who have power, and noe passion, did but read and consider your discourse (as perhaps they have done), they must be convinced that the Settlement cannot be broaken without strange confusion in all his Majesty's affaires in the Kingdome.</p>
+			<p>But I heare of 11 Lords whose Outlawryes are discharged, and surely this lookes not onely as the <pb n="276" /> forerunner of a Parlyment, but as some assurance to them of having estates to support the dignity of Peerage.</p>
+			<p>You say nothing as yett of what has hapned about Tecrohan, and your silence is a very good signe.</p>
+			<p>The late dissolution makes my hopes of seeing you very remote, and this not onely in love <note resp="editor" value="?" /> to the Country, but as being on ground; for of ten letters from the other syde, there is not one Bill.</p>
+			<p>My most humble service to my lady and the little ones. I have beene reading this day "the Hind and Panther Transverst" and doe fancy none could make more of it than my Cousin Charles, for he would reach all the good humours that are in it.</p>
+			<p>I am allwayes Yrs <note resp="compiler" value="UNSIGNED" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_032">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="280" />
+			<head> <note resp="editor" value="170. PETTY TO SOUTHWELL." /> </head>
+			<p>Piccadilly, <hi rend="sup" range="1,2" orig="4=o=">4o</hi> Aug 1687</p>
+			<p><hi rend="sup" range="1,3" orig="D=re=">Dre</hi> <hi rend="sup" range="3,4" orig="Coz=n=">Cozn</hi></p>
+			<p>Charles was well at Rotterdam the <hi rend="sup" range="2,4" orig="29=th=">29th</hi>, but was 4 times 24 hours at sea.</p>
+			<p>I send you the Contents of the discourse I mentioned. I intend it to bee The Bible for Ireland. I have shewne it in parts to some great Men, but not yet to the King; but will shortly.</p>
+			<p>The Customs of Dublin have, in this last quarter, fallen from 4 to 3, and the Excise from 7 to 6. Now altho it hath been sayd with a lowd voice That the people of Dublin are half run away (and by good observers that 1100 houses are voyd) Yet your Cousin assures you that in the last quarters hee finds more burialls and Christnings than in any of the 10 quarters before. And therefore sayes that The people do retrench their expence in strong drink by 1/6 part and also in their housing, by crowding 7 familyes into 6 houses; <pb n="281" /> for 1100 is the 1/6 part of the houses in Dublin. The fall of lands appeares to mee by the fall of the Price of butter, Cheese, Milk, eggs, flesh, &amp;c.</p>
+			<p>Adieu <note resp="compiler" value="UNSIGNED" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_033">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="281" />
+			<head> <note resp="editor" value="171. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 13 Augt 1687</p>
+			<p>Deare Cousin</p>
+			<p>I have yours of the <hi rend="sup" range="1,3" orig="4=th=">4th</hi> and have read the papers inclosed, which are either for transplanting or Propagation. The things are mighty, and call unto my mind that when Paul reasoned of Righteousnesse, Temperance, and Judgement to come, Felix trembled. You know Columbus made the first offer to us of his Goulden World, and was rejected; That the Sybill's Bookes, tho never so true, were undervalued; and Mr Newton's demonstrations will hardly be understood. The market rule goes fair in everything else, <foreign>Tantum valet quantum vendi potest</foreign> . Soe as tho I doe not suspect you can be mistaken in what you assert, since you enumerate soe many solid as well as bitter objections thereunto; yett the dullnesse of the world is such, the opposers soe many, your fellow labourers soe few, and your Age soe advanc'd, that I reckon the worke Insuperable. However I am glad that your thoughts are all written downe, for Posterity, as favourd by great Accidents, may cultivate what the present Age neglects. And in the meane time since you propose to entertayne the King on these subjects, lett me advertize you what his good Brother once sayd at The Councill Board - That he thought you one of the best Commissioners of the Navy that ever was; That you had vast knowledge in many things - "But" sayd he "the man will not be contented to be excellent, but is still Ayming at Impossible Things".</p>
+			<p>You know I am <note resp="editor">in</note> possession <note resp="editor" value="POSITION" /> of saying any thing to you that comes in my head; but this I say for your service, that being already advanced in <pb n="282" /> his Majesty's opinion for things that he Comprehends, you doe not growe lesse by going beyound his Reach.</p>
+			<p>I rejoyce to heare that Cousin Charles gott safe, tho after good tossing, to the other syde. Your letters will not be lesse welcome if you sprinkle them with a little good tydings of him and of his Improvements. I say the same for the rest, and am ever</p>
+			<p>Yrs <note resp="compiler" value="UNSIGNED" /></p>
+			<p>Pray Cousin, did you ever use any Art to Improve your memory? Tully <hi rend="type">De oratore</hi> uses many words to shewe how it may be Improved by Images, but I desire your saying.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_034">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="285" />
+			<head> <note resp="editor" value="175. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 28 Sept. 1687</p>
+			<p>Deare Cousin</p>
+			<p>Uppon a fresh Review of your letter of the <hi rend="sup" range="2,4" orig="16=th=">16th</hi> past, the particulars are of that Bulke and importance and my digestion soe incompetent, that <pb n="286" /> I must sweare, as the honest Recusant did of Queen Elizabeth, That 'if she was not the Head of the Church, he wisht she were soe'.</p>
+			<p>But first as to my Cousin Charles. I see you resigne him to the impression of his Starrs. And as one Tree will not become another, or oakes and Cedars much alter their Shape, soe you will allow that withyes are to be twisted towards what one would have them to be, and dead wood must by Carving be brought into Figure. And, it standing thus betweene your son and myne, perhaps we are both in the right!</p>
+			<p>I perceive you have tryd the Artificiall Memory and undervalue It. If the Ancient Oratours had it with advantage and for use, It seemes their method is Lost. The Chiefe Rule we now have left is onely exercise and conning of things overnight. But if you know better, I will aske questions herein at your coming downe. You must then alsoe expect I shall be very importunate to see the 20 Articles which conteyne the <hi rend="type">Weight of the Crowne</hi> , which you presented his Majesty - and certainly with the most peculiar Test I ever heard, <foreign>viz:</foreign> to pick out any one He wished to be true, and any other He suspected to be false, and that in 24 houres He should have demonstration. But tho you complaine <note resp="editor">that</note> after all that you gott neither Butter or Hobb-nayles hereby, yett you fare much better than He who found out the Malliable Glasse.</p>
+			<p>You doubtlesse touch a very sore place when you suspect the surviving malice of the Double shipp. Your fate compard herein to that of Acteon's goes very farr, as having courted the <note resp="editor" range="1,4" orig="K[\ing\]">King</note>'s Misteryes. Yett I may say that if this last word should be mistaken for 'Mistresses', then to have had a fresh one and of your procurement, as well as of any others, sounds <pb n="287" /> not as a matter that should have turnd to your disadvantage!</p>
+			<p>Your observation of the Poverty that is already growne, and must ensue while mouthes encrease and yett eating growes lesse, is so much more a valuable stroake in your Art of Calculation as it is seene felt and understood by all. And doubtelesse the other great things you mention may be as Rationally founded, though unequally comprehended. And I confesse unto you that, tho the world should never be wise enough to wedd what you propose in the Multiplication of Men and the benefitts flowing from it, yett if you have as strong motives for the Truth of these matters as usually convince men from the Pulpit or at the Barr, I cannot wonder that you are Ravished with the harmony and charmes of Ratiocination. You very well call it a 'Labour of Pleasure', but not so properly 'Angelicall', since tis perhaps the onely pleasure the angells want. For Intuition of truth may not Relish soe much as Truth that is hunted downe.</p>
+			<p>But if you intend Pyramids out of these materialls to beare testimony of your good will to mankind, when you passe to a better life, you should take care while you are among us to explaine all and leave as few Hyrogliphicks as is possible. And I, if I live, will not fayle to assist my Godson to hand them to the Presse. Tho doubtlesse it were better done while you are yett on this syde the pitt.</p>
+			<p>You see how little I can say to those mighty things you honour me withall; But I keepe them Charily together, and my son may find Charmes where I now Languish. He is now with me and to stay all the winter; since Oxford is already, and is growing more, an unquiet place.</p>
+			<p>I am ever Yrs</p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_035">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="290" />
+			<head> <note resp="editor" value="177. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 10 Oct 1687</p>
+			<p>Deare Cousin</p>
+			<p>Yours of the <hi rend="sup" range="1,3" orig="4=th=">4th</hi> came to me the next day after I had sent you some lincks of very Sawcy but friendly thoughts. As to your Purchase, I here send you what the Surveyour answers. He is a plaine frugall man. And as to instructing Mr Plumbly, I <pb n="291" /> think what you said goes through the whole Alphabett, nor doe I think that ever such a Scheme was made before. I cannot yett find where to wedge in a word, but I will try when tis faire weather, for now I am very dull.</p>
+			<p>If you lay out but 2500&pound;, it must be in Revertions for your Grandson and when the Tenements are full Stated. Our Neddy read these Instructions with marvellous relish, which is some signe he may gett them into his head; but he is just now as hott as mustard uppon Logick and proposed to me to write his thoughts to Cousin Charles on that dry Subject. I told him Charles might shew it his father, and soe he might burne his fingers. At last being earnest I lett him take his cource, for the exercise may doe him good though Charles has better things to mind. I wish however that Charles would urge him to write 20 letters more on the severall parts of this doctrine, for perhaps the being made accountable may doe him some good.</p>
+			<p>The ill weather putts me out of humour to write more at present, than that I am <hi rend="sup" range="1,3" orig="Y=rs=">Yrs</hi></p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_036">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="331" />
+			<head> <note resp="editor" value="192. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, <hi rend="sup" range="2,4" orig="16=th=">16th</hi> December 1687</p>
+			<p>Dear Cousin</p>
+			<p>I was yesterday in some fright upon reading from Phillip Madox the report of your sickness, but the favour of yours of the <hi rend="sup" range="2,4" orig="13=th=">13th</hi> dispelld the cloud, as making slight of the matter. However it will be very welcome to mee to hear that you walk again as you did before.</p>
+			<p>I see and congratulate that you have been able to lay so great a Tanto <note resp="editor" value="?" /> at the Farmours doors, and that you are hastning to make even with all others.</p>
+			<p>As for the demand of 7774&pound; 10s-, which yett (as you say) is not half the wrong you have suffered, and of which you shall never willingly abate - the figure I hold between my Friend and Patrone, as well as ignorance in the particular meritts of the case, <pb n="332" /> makes it fitt for mee above all other to be silent; and I can assure you that if the old Gentleman had half such a demand from you, I would not be his Herauld tho he should desire it. Things of anger and the prospect of warr (in a warm attaque and as warm a defence) drives the Common friend into a corner; and he stepps not out till he finds both convinced in their Hearts that it were their Common Interest to be quiet. From these Motives, and because you also leave mee to do what I will with the paper, I will keep it to myself; and the rather because I rarely hear from him since the gout has disabled him, and as seldom write.</p>
+			<p>Even you who are the Claymer, seeme tenderly to wish that you had nothing but poses to toss against him, and I am sure I do as cordially wish that at this time of day, and while both are in the storm, there were nothing but sweet odours, as the tossing of Incense, between you.</p>
+			<p>With all true service to my Lady and little ones,</p>
+			<p>I am ever <hi rend="sup" range="1,3" orig="y=rs=">yrs</hi></p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+</teiCollection>

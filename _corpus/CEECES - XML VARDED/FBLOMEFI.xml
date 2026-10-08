@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FBLOMEFI">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>THE CORRESPONDENCE OF THE REVEREND FRANCIS BLOMEFIELD (1705- 52). ED. BY DAVID A. STOKER. NORFOLK RECORD SOCIETY, VOL. LV FOR 1990. (LONDON:) THE BIBLIOGRAPHICAL SOCIETY, 1992.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="BLOMEFI_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1733 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="62" />
+			<head> <note resp="editor" value="3. FRANCIS BLOMEFIELD TO BEAUPRE` BELL" /> </head>
+			<p>To Mr Beaupre` Bell at Beaupre` Hall in Outwell, Norfolk. June 26. 1733.</p>
+			<p>Dear Sir,</p>
+			<p>I have received your kind letter with the Haddenham inscriptions for which I return you hearty thanks. I have sent you a few notes of your family. <normalised orig="Inclosed" auto="true">Enclosed</normalised> is my proposals for printing my Norfolk collections to which I hope you will get me all the hands <note resp="editor" value="to DELETED" /> you can. I have as yet met with good <normalised orig="incouragement" auto="true">encouragement</normalised> &amp; hope that I shall have <note resp="editor" value="have INSERTED" /> subscriptions sufficient for me to begin at Lady <note resp="editor">day</note> next. I have parted with 3 of your proposals, &amp; hope to dispose of the rest soon. I will send you what you desire out of Domsday of Outwell &amp; <normalised orig="Elme" auto="true">Elm</normalised> <note resp="editor" value="of Outwell &amp; Elme INSERTED" /> in a little time, have not been at home this 6 weeks but on a collating ramble. Am now returned, and should be glad to see you. If I may presume to hope for that favour, I should be glad to see the <normalised orig="mss" auto="true">ms</normalised>. of the Bishops, and will safely return it.</p>
+			<p>I would, (<normalised orig="tho'" auto="true">though</normalised> am <note resp="editor" value="afraid DELETED" /> afraid to be too troublesome) beg the favour of you to collate for me, everything, antique &amp; modern, in the churches following: Wisbitch, Emneth, Halbech, Outwell, Walsoken, Terrington &amp; Estington, &amp; in their church yards, and in the method following:</p>
+			<pb n="63" />
+			<p>Whether square or round tower, 5 or 6 bells, spire or not, clock or not, chimes or not, nave leaded, thatched or tiled. Isles S. &amp; N. whether thatched leaded &amp;c, So: &amp; No. porch the same, <supplied range="3,7" orig="cha[{pels{]">chapels</supplied> <note resp="editor" value="?" /> same. Whither there be any <normalised orig="cros" auto="true">cross</normalised> isles or <normalised orig="chapells" auto="true">chapels</normalised> at upper end of the isles. Whither the inscriptions are on brass or not. Mural or altar, monuments, or flat stones &amp; in what place. Whither the letters be capitals, old text or modern Roman. The present lords and rectors.</p>
+			<p>I shall be exceedingly obliged for such an account of the above named places they lying so much out of my way. I am good sir your most obliged humble servant,</p>
+			<p>Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1733 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="63" />
+			<head> <note resp="editor" value="5. FRANCIS BLOMEFIELD TO JAMES CARLOS" /> </head>
+			<p>To Mr Carlos Bookseller in Norwich.</p>
+			<p>July 1. 1733 Fersfield.</p>
+			<p>Mr Carlos,</p>
+			<p>I have sent you <normalised orig="inclosed" auto="true">enclosed</normalised> a <normalised orig="coppy" auto="true">copy</normalised> of my proposals, would desire you to get them printed for me as well &amp; as reasonable as you can. I would have about 4 quire of them or 5 at most, and desire it may be done on wrighting paper of about 6d or 7d per quire which I would have you carry to the printer, from your shop. I would have it printed in such a manner that every sheet may hold as many subscribers names as it can, <pb n="64" /> the proposals being printed on the first side of the sheet, the backside &amp; the other fair half sheet will hold a good number. I could like you should print it with Chase, because I had told him that if I could manage it he should print the whole, but find your advice very good, and shall ever acknowledge my self obliged to you for it. I have <normalised orig="inclosed" auto="true">enclosed</normalised> an unsealed letter to Chase, with a design that you should look <note resp="editor" value="of DELETED" /> on <note resp="editor" value="on INSERTED" /> it, before you send it. I meet with greater <normalised orig="incouragement" auto="true">encouragement</normalised> from all hands, than I ever expected, so that I hope when I see you again, which will be about a fortnight hence, to settle every thing.</p>
+			<p>I am sorry to hear your spouse hath <normalised orig="gott" auto="true">got</normalised> the smallpox, which if I had not been told of, I had been with you before now. Hope she is in a way to do well. I have taken the freedom to have my letters on this affair left with you. Shall be willing to <normalised orig="satisfye" auto="true">satisfy</normalised> every thing on this account. If you can get the <normalised orig="proposalls" auto="true">proposals</normalised> set by Wedensday you may send me a quire by the Diss carrier, and keep the rest till I come. If you can meet with any subscriptions in the mean time, pray don't <normalised orig="omitt" auto="true">omit</normalised> them. If there be any thing in the <normalised orig="proposalls" auto="true">proposals</normalised>, that you think may be managed better <normalised orig="lett" auto="true">let</normalised> me have a letter on Wedensday, &amp; don't print them till you have heard from me. I am your most obliged friend to command,</p>
+			<p>Francis Blomefield.</p>
+			<p>N.B. the words in capitals I would have printed so, those with the <note resp="compiler" value="UNDERLINE MARK" /> under them in <normalised orig="italick" auto="true">italic</normalised> character, &amp; the rest a good large common letter.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1733 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="65" />
+			<head> <note resp="editor" value="7. FRANCIS BLOMEFIELD TO THOMAS TANNER" /> </head>
+			<p>Norwich September 7th 1733.</p>
+			<p>My Lord,</p>
+			<p>I hope you will excuse my presumption in troubling you with the <normalised orig="inclosed" auto="true">enclosed</normalised>. I am about publishing as much of the <normalised orig="topographicall" auto="true">topographical</normalised> history of Norfolk as I can collect. Hope that you will do me the honour to subscribe to my work and to favour it with your interest. I have the use of Mr Le <normalised orig="Neve's" auto="true">Nave's</normalised> papers which are now all of them at Palgrave, and of Mr Martin's own collections which are very numerous. I have procured Mr Parkyn the rector of Oxboro to help me in 5 deanery's &amp; have had <normalised orig="severall" auto="true">several</normalised> good collections sent in to me by <normalised orig="severall" auto="true">several</normalised> gentlemen since the publication of my design. I should take it as the greatest of favours if your Lordship would be so kind as to lend me the book of your Collation of the Registers in the office at Norwich if it was not lost. I will take the utmost care of it &amp; return it safely.</p>
+			<p>The present Chancellor is a very great friend to me permitting me to use all the institution &amp; old will books &amp; was so kind as to subscribe for 6 <normalised orig="coppies" auto="true">copies</normalised>. I have waited on my Lord of Norwich and <hi rend="type">have</hi> hope that he will subscribe &amp; favour me with his interest. The many favours that I have so often had conferred upon me by your <normalised orig="Lordshipp" auto="true">Lordship</normalised> prompt me to presume thus <normalised orig="farr" auto="true">far</normalised>. Hope that your Lordship will excuse it. I am your Lordship's most obedient humble servant, Francis Blomefield.</p>
+			<p>P.S. I had waited on your Lordship when in Norfolk but was confined with a long illness. Shall be for ever obliged for any thing relating to the County &amp; in particular for that <note resp="editor" range="4,8" orig="coll[\atio\]n">collation</note>.</p>
+			<p>To the Right Reverend Thomas Lord Bishop of St Asaph at St Asaph by Denbeigh <normalised orig="Bagg" auto="true">Bag</normalised>.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1734 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="76" />
+			<head> <note resp="editor" value="27. FRANCIS BLOMEFIELD TO JAMES CARLOS" /> </head>
+			<p>To Mr Carlos Bookseller. Norwich.</p>
+			<p>Fersfield March 7th. <note resp="editor" range="4,6" orig="1733[\/4\]">1733/4</note> .</p>
+			<p>Sir,</p>
+			<p>I would desire you to send me an Oxford <normalised orig="almanack" auto="true">almanac</normalised>, Mr Shuckforth's sermon, A Looking glass for a time serving parson advertised by Crosgrove last week, The banner of the voters against the excise scheme, I would have <note resp="editor" range="2,3" orig="th[\a\]t">that</note> on a large sheet paper. Please to <normalised orig="gett" auto="true">get</normalised> me The <normalised orig="Universall" auto="true">Universal</normalised> <note resp="editor" range="3,4" orig="Off[\i\]cers">Officers</note> Justice &amp;c printed for John Hook at the Flowerdelis over against St Dunstans church in Fleetstreet &amp; Aaron Ward at the Kings Arms Little <normalised orig="Brittain" auto="true">Britain</normalised> price 4s. 6d. advertised in Craftsman January 21. 1729. Please to make out my bill and send it me.</p>
+			<p>I am getting in all my proposals as fast as I can in order to go on as fast as possible. I would desire you to get in as many of the blanks you dispersed and what subscriptions you can and send me. I am fully determined to print it in quarto on such a letter and paper as Wollaston's edition in 1725 is printed, and 1000 in the edition. Please to write to London for the lowest price per sheet for the printing, correcting and the paper, and let them know that I shall expect security to be given as <normalised orig="usuall" auto="true">usual</normalised> <note resp="editor" range="2,4" orig="th[\at\]">that</note> there be no more printed by them than the 1000 delivered to me, or my order, <note resp="editor" value="or my order, INSERTED" /> nor by any other persons by their means. And <normalised orig="lett" auto="true">let</normalised> them <normalised orig="sett" auto="true">set</normalised> the very lowest for I shall be finally determined by their answer.</p>
+			<p>Please to write to Messrs Bettesworth &amp; Hitch your correspondents to send what subscriptions they or their interest have gotten in London. I design to go up <note resp="editor" value="as soon as DELETED" /> if <note resp="editor" value="if INSERTED" /> I can spare time or if not design to have them lay out all at London &amp; shall be willing to make proper allowances, of which I shall also talk with you when I come to Norwich to lay out those in Norwich and the neighbouring places for me. <note resp="editor" value="I have sent you a list of some friends that have subscription papers in (ILLEGIBLE) which if you have oppertunity you may ask for them (ILLEGIBLE) DELETED" /> I hope to <normalised orig="gett" auto="true">get</normalised> in so as to determine every thing this month &amp; see you the first week in April. I am your assured friend &amp; servant, <pb n="77" /> Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1734 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="79" />
+			<head> <note resp="editor" value="32. FRANCIS BLOMEFIELD TO BEAUPRE` BELL" /> </head>
+			<p>December 27. 1734 Fersfield.</p>
+			<p>Dear Sir,</p>
+			<p>I received yours of the 9th of this instant, but find by it that you had wrote a letter to me which I did not receive. I am much obligd to the service you have done me in my affair, and wish it had been in my power to have been as serviceable in yours. I have <normalised orig="severall" auto="true">several</normalised> gentlemen besides those I sent you, <note resp="editor" value="to DELETED" /> who <note resp="editor" value="who INSERTED" /> tell me upon my <normalised orig="solliciting" auto="true">soliciting</normalised> them, that they will willingly take the book when <normalised orig="publishd" auto="true">published</normalised> but will not <normalised orig="deposite" auto="true">deposit</normalised> any thing before hand so that I am certain to put off some half dozen <normalised orig="coppies" auto="true">copies</normalised>, <normalised orig="tho'" auto="true">though</normalised> I have received only my own subscription and one from Cotton Symonds Esquire of Great Ormesby by Yarmouth in Norfolk, which 2 I will send if you send me word how. I have no <normalised orig="oppertunity" auto="true">opportunity</normalised> of sending it to London &amp; indeed such a trifle is not worth the while.</p>
+			<p>I am in hope of seeing you at Fersfield, and wish you would come, not doubting but Mr Martins collection of coins would afford you great pleasure. I expect to publish my first pamphlet in May next beginning for the month of April. I have been ill for some time but am now perfectly <normalised orig="recoverd" auto="true">recovered</normalised>. Mr Parkyn hath transcribed some memorials of your family from some old pedigrees in Mr Martins collections. I hope I shall hear from you offner than I have of late, assuring you that a letter from so good a friend is always acceptable to your most obligd friend &amp; servant,</p>
+			<p>Francis Blomefield.</p>
+			<p>To Beaupre` Bell Junior Esquire at Beaupre` Hall Norfolk.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1735 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="79" />
+			<head> <note resp="editor" value="33. FRANCIS BLOMEFIELD TO HENRY BRIGGS" /> </head>
+			<p>Fersfield January 4. <note resp="editor" range="4,6" orig="1734[\/5\]">1734/5</note> .</p>
+			<p>Reverend Sir,</p>
+			<p>I received your two letters and <normalised orig="parcells" auto="true">parcels</normalised> very safe, and thought my self bound in gratitude to signify it to you. I will take care and send them to my engraver, after I have <normalised orig="coppied" auto="true">copied</normalised> the arms, and will bring you the <pb n="80" /> <normalised orig="originall" auto="true">original</normalised> with the charter of Holt Market. I think I shall be at Holt the last week of this month, at which time I will speak with you concerning the plates, which I apprehend will look as well if they be included in one.</p>
+			<p>I saw a singlestem of the Briggs's of Salle in Norfolk, the other day, among a <normalised orig="parcell" auto="true">parcel</normalised> of curious pedigrees that are to be sold. The Harsicks and Fountains being in the same roll, and the conjunction of those families being very well delineated. I would have transcribed what occurred of the Briggs for you, but being upon sale was not permitted. The line of the Briggs ended in a daughter married to Fountain. But since I saw your certificate, it is very plain that you are descended from a second branch, as this is demonstrated and the 1st being extinguished, your branch is now become the elder of the male line. The <normalised orig="originall" auto="true">original</normalised> grant of the Briggs's arms, is among the <normalised orig="parcell" auto="true">parcel</normalised>, and not yet sold and if I mistake not is a very fair one. I could not forbear just asking the price, <normalised orig="tho'" auto="true">though</normalised> with no other intent than to acquaint you with it, and was <normalised orig="answerd" auto="true">answered</normalised> in no positive way, only about 4 guineas. They are in the hands of the executor of one who was in the Herald's office, &amp; are I dare say genuine. I shall make bold to call upon you, being determined to <normalised orig="veiw" auto="true">view</normalised> the part between Holt and the sea, which I have not surveyed. I am &amp;c.,</p>
+			<p>Francis Blomefield.</p>
+			<p>To the Reverend Dr Briggs Rector of Holt Market.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1735 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="90" />
+			<head> <note resp="editor" value="47. FRANCIS BLOMEFIELD TO WILLIAM TOMS" /> </head>
+			<p>To Mr W.H. Toms.</p>
+			<p>August 9th. 1735. Fersfield.</p>
+			<p>Sir,</p>
+			<p>This very day I received your proofs, for which I thank you <note resp="editor" value="you INSERTED" /> , and assure you I like them so well, that whatever I have in your way to do (which I expect will be a good deal) I design you should do it, not doubting but you will be as good as your word in charging me as low as you can afford. I was <normalised orig="surprized" auto="true">surprised</normalised> to find your <normalised orig="inclosed" auto="true">enclosed</normalised> letter dated April the 12, since which time I have sent you no less than 3 <note resp="editor" value="letters - viz DELETED" /> one of May the 20th, another June the 26, &amp; another of July the 21. I should be glad to know if you received them. The contents of the 1st were to let you know that you might send any <normalised orig="parcell" auto="true">parcel</normalised> to me by the Diss Carrier from the Serjeant's Head on Snowhill, one Banks is there one week &amp; one James Clark the other, and if you direct them for me to be left at Mr <normalised orig="Darby's" auto="true">Derby's</normalised> an <normalised orig="Apothecarys" auto="true">Apothecaries</normalised> in Diss it will come safe. I mention this fearing the letter was not received. The 2 last were only to desire you to hasten the plate &amp; send me five or six proofs of it, which I hope you will do very soon.</p>
+			<p>I shall be at a loss to know the charge of each plate, for my subscribers insist always <note resp="editor" value="in DELETED" /> on knowing the charge. Supposing therefore I engrave my churches in plates exact the bigness of the prospects you <pb n="91" /> sent me, particularly Cowes Castle, and have them done well, what will be the charge of such a plate? If I send you up the draughts of monuments, seals &amp;c upon seeing them you can send me the charge of each &amp; I may manage it that way, <note resp="editor" value="for my subscribers must be upon certainty with me DELETED" /> .</p>
+			<p>My brother will be up at London about 6 weeks hence. I hope to hear from you <note resp="editor" value="before then DELETED" /> &amp; have a proof of the plate before then <note resp="editor" value="then INSERTED" /> &amp; he shall pay for it &amp; bring you some more to do, &amp; upon seeing them you can send the price of each back by him. You may always send 2 prizes, how it may be done in the very best manner &amp; how in a <normalised orig="midling" auto="true">middling</normalised> way, but to have any bad plates I will not give them room in my book. I am your very humble servant,</p>
+			<p>Francis Blomefield.</p>
+			<p>I design you should roll them off for me.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1735 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="100" />
+			<head> <note resp="editor" value="60. FRANCIS BLOMEFIELD TO DOCTOR GAYLARD" /> </head>
+			<p>To Doctor Gaylard at Mr Baylys at the White Horse &amp; Half Moon by the Kings Bench in Southwark.</p>
+			<p>Sir,</p>
+			<p>Mr Nicolas <normalised orig="Hussey" auto="true">Hussy</normalised> my friend <note resp="editor" value="being DELETED" /> having <note resp="editor" value="having INSERTED" /> engaged to print a <note resp="editor" value="work DELETED" /> work <note resp="editor" value="work INSERTED" /> for me at my own house, I desired him to look out for materials, and find he hath applied to you, by your letter, which he hath shown me, for which reason I could not <normalised orig="omitt" auto="true">omit</normalised> wrighting to you and hope we may have a better correspondence afterwards. I <note resp="editor" value="am about DELETED" /> hope you will serve him with such materials as he wants as cheap as anyone <note resp="editor" value="for DELETED" /> and have <note resp="editor" value="the DELETED" /> so <note resp="editor" value="so INSERTED" /> requested him to come up and furnish himself, and bring me an account and I will answer the <normalised orig="mony" auto="true">money</normalised>.</p>
+			<p>I shall have occasion to lay out some copies in London, should be obligd to you if you would recommend any one to me, without taking notice to any one, having had some <note resp="editor" range="2,7" orig="tr[\ouble\]">trouble</note> with a person in the City, that I did not like to agree with.</p>
+			<p>I have sent you <note resp="editor" value="a hare which I desire DELETED" /> half a <normalised orig="peice" auto="true">peace</normalised> by Mr <normalised orig="Hussey" auto="true">Hussy</normalised> to drink my health &amp; success to my work, which I desire you would accept, and had come up myself to you if I was not under some fear of the small pox, which I hear is now pretty rife in town, <note resp="editor" value="if you DELETED" /> but hope I shall live to see you in summer. I shall certainly want <note resp="editor" value="some DELETED" /> something more in this way if I live, &amp; hope you will be as serviceable as you can to me, which I shall always gratefully acknowledge, and shall be willing to <normalised orig="recompence" auto="true">recompense</normalised> you for. I am your humble servant,</p>
+			<p>Francis Blomefield.</p>
+			<p>November 8. 1735. Fersfield.</p>
+			<p>Please to direct to Francis Blomefield Rector of Fersfield near Diss in Norfolk. By the Ipswich <normalised orig="Bagg" auto="true">Bag</normalised> to be left at Mr <normalised orig="Darbys" auto="true">Derbies</normalised> an apothecary in Diss.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1735 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="103" />
+			<head> <note resp="editor" value="65. FRANCIS BLOMEFIELD TO THOMAS TANNER" /> </head>
+			<p>To the Right Reverend Thomas Lord Bishop St Asaph. November 17. 1735 Fersfield.</p>
+			<p>My Lord,</p>
+			<p>I received your kind letter, and my Diss Hundred papers very safe, with you notes, for which I am not capable of <note resp="editor" value="ever returning DELETED" /> returning sufficient thanks, but shall endeavour to do it in the best manner I can, which is in exactly following them in all points, which your Lordship may depend upon. I can't express the satisfaction it is to me that you Lordship <normalised orig="ys" auto="true">is</normalised> so kind as to <normalised orig="permitt" auto="true">permit</normalised> me to dedicate it to you. So far am I from thinking of any other patron, that I look upon it as my great happiness to have <note resp="editor" value="have INSERTED" /> one, that I should choose above all mankind.</p>
+			<p>I have <normalised orig="gott" auto="true">got</normalised> <note resp="editor" value="my DELETED" /> a <note resp="editor" value="a INSERTED" /> press down and <note resp="editor" value="have DELETED" /> agreed with a workman who hath hired the next house to me, and is to begin at Xmas, so that I am resolved to see every thing done to my mind. I have <note resp="editor" value="agreed with DELETED" /> found <note resp="editor" value="found INSERTED" /> a wood cutter in London <note resp="editor" value="for to cutt what I want in that way DELETED" /> &amp; <note resp="editor" value="find DELETED" /> <normalised orig="knowe" auto="true">know</normalised> <note resp="editor" value="knowe INSERTED" /> that there may be some things done pretty well &amp; not very dear.</p>
+			<p>I would <normalised orig="gett" auto="true">get</normalised> a <normalised orig="mapp" auto="true">map</normalised> of each hundred if I could, but find the <normalised orig="expence" auto="true">expense</normalised> <pb n="104" /> will be so much to have them actually <normalised orig="surveyd" auto="true">surveyed</normalised>, that I dare not under take, having ventured a very large sum upon the undertaking already, but hope that if I should live to finish it, that I may prevail <note resp="editor" value="upon the man DELETED" /> upon him <note resp="editor" value="upon him INSERTED" /> that hath done Suffolk to do Norfolk in the same way, <note resp="editor" value="it DELETED" /> Suffolk <note resp="editor" value="Suffolk INSERTED" /> being the most exact thing I ever saw. I shall endeavour to <normalised orig="gett" auto="true">get</normalised> what ichnographys I can of large churches, &amp; point out the monuments in them. It being what I can do my self pretty <note resp="editor" value="quick and DELETED" /> exact, <note resp="editor" value="and may have them on wood without much expence, DELETED" /> &amp; where the churches are small &amp;c will measure them, it being very convenient <note resp="editor" value="&amp; what will conduce much DELETED" /> to <note resp="editor" value="Kno DELETED" /> preserve their bigness.</p>
+			<p>In the case of incumbents, what your Lordship observed is certainly so, so that I have &amp; will <note resp="editor" value="&amp; will INSERTED" /> <normalised orig="alterd" auto="true">altered</normalised> it every where. I hope whatever your Lordship thinks in relation to my work you will be so good as to communicate <note resp="editor" value="it to me DELETED" /> . I shall <normalised orig="omitt" auto="true">omit</normalised> the charters wholly, the copies are very different in the registers I have seen, those from Sir Edmund Bacon's I <normalised orig="coppied" auto="true">copied</normalised>, but think there is no necessity to print them. I will examine the institution books in those points where our <note resp="editor" value="y BEFORE our DELETED" /> catalogues <note resp="editor" value="s IN catalogues INSERTED" /> <note resp="editor" value="and mine DELETED" /> differ. I suspect I have made mistakes in them not having had <note resp="editor" value="sufficient DELETED" /> time to collate them exactly.</p>
+			<p>I hope in every town that your Lordship can, you will give me Domsday of Norwich, which I have never seen &amp; the differences of the Valors. I should be glad to know how many there are &amp; when made, I taking it that there were only <note resp="editor" value="only INSERTED" /> 3 in all. I am at a loss sometimes for procurations &amp; <note resp="editor" range="3,4;5,8" orig="syn[\o\]d[\als\]">synodals</note> , the rectors themselves giving me sometimes a wrong account. Should be glad to know what each town was laid to the <normalised orig="Parlement" auto="true">Parliament</normalised> tax &amp; what it is now laid to the King's tax.</p>
+			<p>I will endeavour to get what good churches I can engraved but doubt I shall not <normalised orig="gett" auto="true">get</normalised> many, I hope to have Diss of which I have taken an <normalised orig="ichnography" auto="true">iconography</normalised> since your last. I design to send up to my wood cutter a church <note resp="editor" value="of DELETED" /> or two to know what the <normalised orig="expence" auto="true">expense</normalised> will be as your Lordship <note resp="editor" value="ord DELETED" /> hinted for such wood <normalised orig="cutts" auto="true">cuts</normalised>, for they wood <note resp="editor" value="SIC" /> preserve them very well. What I have said of Ralph de Diceto I have from Mr <normalised orig="Neve's" auto="true">Nave's</normalised> papers who quotes Dugdale's History of St <normalised orig="Pauls" auto="true">Pals</normalised> 2. edition p. 10 &amp; p. 501. I have not the book, if your Lordship hath, should be glad to know if he is said there to be of Disca or <normalised orig="Disce" auto="true">Disc</normalised> in Suffolk.</p>
+			<p>The Image of <normalised orig="Hipocrisy" auto="true">Hypocrisy</normalised> is an <normalised orig="originall" auto="true">original</normalised> manuscript of Skelton's own hand, which Mr Martin tells me he hath now by him at Palgrave &amp; came out of the Ashwellthorp Library. Fersfield now pays 1s synodals &amp; 5s procurrations. I did once transcribe the <normalised orig="parcell" auto="true">parcel</normalised> of lands belonging to Thetford, but suppose before my <normalised orig="studdy" auto="true">study</normalised> was burnt, should be glad of a <normalised orig="coppy" auto="true">copy</normalised> if it be not too much trouble.</p>
+			<p>I have sent part of Giltcross, viz. <note resp="editor" range="3,11" orig="Ken[\ninghall\]">Kenninghall</note> , Lophams, Norton, Garboldesham, Gatesthorp, &amp; Ridlesworth, but finding I <note resp="editor" value="having DELETED" /> have only <note resp="editor" value="my DELETED" /> foul <normalised orig="coppy" auto="true">copy</normalised> of the rest of the Hundred which I fear would be difficult for you Lordship to peruse, I am transcribing them <note resp="editor" value="as fast as possible DELETED" /> in order to <note resp="editor" value="in order to INSERTED" /> to send them. Have <normalised orig="orderd" auto="true">ordered</normalised> this <normalised orig="parcell" auto="true">parcel</normalised> to be left with Mr Barnes's Warehouse Keeper <note resp="editor" value="as your Lordship directed DELETED" /> &amp; hope your Lordship will peruse them &amp; be so good as to <note resp="editor" value="al DELETED" /> correct them. <note resp="editor" value="in the same. DELETED" /> I am <note resp="editor" value="asai DELETED" /> your Lordships most obedient humble servant, Francis Blomefield.</p>
+			<pb n="105" />
+			<p>The carriers sent me a false account calling it the <normalised orig="Serjeants" auto="true">Sergeants</normalised> Head where they set up, &amp; I find it is the Saracens Head on Snowhill.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1735 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="106" />
+			<head> <note resp="editor" value="67. FRANCIS BLOMFIELD TO WILLIAM PENNOCK" /> </head>
+			<p>To Mr Pennock.</p>
+			<p>November. 17.1735.</p>
+			<p>Sir,</p>
+			<p>I have received your proofs and like your cutting very well but as I design to employ you, must keep them, to judge of what I send you in the progress of my work. I think you are something too dear in the arms, however would have you <normalised orig="cutt" auto="true">cut</normalised> them I sent you as soon as possible as also the other draughts and these <normalised orig="inclosed" auto="true">enclosed</normalised> - the 4 coats &amp;c - orders about Sir John Howard's effigies &amp; arms.</p>
+			<p>Now I find you think it best not to express the colours by shading, which I like as well provided there be letters <normalised orig="cutt" auto="true">cut</normalised> to show the colours &amp;c which is <normalised orig="easie" auto="true">easy</normalised> done &amp; will do as well, &amp; if they can't be placed upon some bearing put them by the sides with a line leading to them. I don't doubt but you know how to place letters properly on those coats you have, if not having <normalised orig="coppies" auto="true">copies</normalised> at home will sketch them over again for you. Do them as soon as possible. I am &amp;c.,</p>
+			<p>Francis Blomefield.</p>
+			<p>Direct for me &amp;c by Ipswich <normalised orig="Bagg" auto="true">Bag</normalised> to be left at the <normalised orig="Posthouse" auto="true">Post-house</normalised> in Diss.</p>
+			<p>Let the arms all be of an exact size one with another &amp; a very little bigger than the specimens. Begin with No. 1. of the arms &amp; so go on as the numbers go and do these 2 <normalised orig="inclosed" auto="true">enclosed</normalised> first of all because they will be wanted first. When you have done these 2 &amp; the first 12 of the arms send them down, by the Diss Carrier who <normalised orig="setts" auto="true">sets</normalised> up at the Saracens Head on Snowhill &amp; comes weekly &amp; always send a bill of charge with each <normalised orig="parcell" auto="true">parcel</normalised>.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1735 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="108" />
+			<head> <note resp="editor" value="70. FRANCIS BLOMEFIELD TO DOCTOR GAYLARD" /> </head>
+			<p>To Doctor Gaylard.</p>
+			<p>December 19. 1735.</p>
+			<p>Sir,</p>
+			<p>I <normalised orig="endeavourd" auto="true">endeavoured</normalised> all I could to return you the 20li by the drover's as formerly I have done, but could not get a promise of above 15li payment. For which reason I enquird &amp; have found a friend that has drawn for me at 20 days sight, which I hope will do. Please to give me advice by the 1st post if the bill is accepted, <normalised orig="tho'" auto="true">though</normalised> I dare say any bills of this merchant's will be paid with the utmost honour.</p>
+			<p>I desire you would send me old English or <normalised orig="Gallick" auto="true">Gallic</normalised> enough to <normalised orig="sett" auto="true">set</normalised> two pages folio fools cap, and don't doubt, but you will happen of it cheap &amp; do for me your best. I shall send a <normalised orig="turky" auto="true">turkey</normalised> to be left at Mr Bayleys on <normalised orig="Xmass" auto="true">Xmas</normalised> eve &amp; hope you will accept it from me. Pray hasten the <normalised orig="Gallick" auto="true">Gallic</normalised> down <note resp="editor" range="1,2" orig="a[\s\]">as</note> soon as possible for I want it. Hope you have sent the press &amp;c <normalised orig="tho'" auto="true">though</normalised> I have not heard as yet from Mr <normalised orig="Hussey" auto="true">Hussy</normalised>, but expect to send to Bury for it next week, having <normalised orig="gott" auto="true">got</normalised> the house ready.</p>
+			<p>I have <normalised orig="mett" auto="true">met</normalised> with a great loss since my last, the death of my great friend &amp; patron the Bishop of St Asaph, but am in no wise retarded thereby so that I hope you will be as expeditious for me in any thing in your way as you can. Pray ask my wood cutter if he can <normalised orig="cutt" auto="true">cut</normalised> coins or no &amp; let me know in your next which I hope I shall not fail of next post. I don't know but I may be in London on the beginning of February and have the pleasure of seeing you my self, am your humble servant, Francis Blomefield.</p>
+			<p>Enquire at Bear Key &amp; you will find Mr Trolman.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1735 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="116" />
+			<head> <note resp="editor" value="84. FRANCIS BLOMEFIELD TO JOHN TANNER" /> </head>
+			<p>To the Reverend Mr John Tanner at Christ Church Oxford, by way of London, executor &amp; brother to the Bishop of St Asaph. December 26. 1735 Fersfield.</p>
+			<p>Good Sir,</p>
+			<p>I hope you will excuse <note resp="editor" value="my troubling you with DELETED" /> the trouble of <note resp="editor" value="the trouble of INSERTED" /> this, which comes to <normalised orig="begg" auto="true">beg</normalised> the favour of you to look among my Lord's papers for that part of Gyltcross Hundred which I had under his Lordship's correction and that you would be so good as to forward its return, the towns are <note resp="editor" range="2,6" orig="Ke[\nnin\]ghall">Kenninghall</note>, Lophams, Norton, Garboldisham, Gatesthorp and Ridlesworth.</p>
+			<p>You can't not be sensible how much I am shocked with the loss of so great a friend and worthy assistant, to whom <note resp="editor" value="all my life long DELETED" /> I have been infinitely obliged, for continued favours even from my childhood. It comes also on the most unlucky time that could be, having by his own will and approbation dedicated my poor labours to him. But as it hath pleased God to take him away, just in this juncture of my publication, I design it shall appear without any living patron, being determined to devote it to his memory, not doubting but that will be ever valued among the learned, and as for other patronages that offer, as it would be no real compliment to them, nor <normalised orig="gratefull" auto="true">grateful</normalised> respect for my old deceased friend, I <pb n="117" /> shall avoid them.</p>
+			<p>I should be glad to know (if the favour be not too great) if I might have the use of his folio <normalised orig="mss" auto="true">ms</normalised>. of Norfolk Institutions being ready to lay in any caution for its safe return. I mention it to you (hearing he left the management of his affairs in your hands) and don't doubt but you will be so good as to procure it me if you can. Hope that as I have lost so good a friend that you will be be as <note resp="editor" value="serviceable DELETED" /> serviceable <note resp="editor" value="serviceable INSERTED" /> to me as you can in helping me to a sight of what <normalised orig="occurrs" auto="true">occurs</normalised> in his collections towards the history of Norfolk.</p>
+			<p>His Lordship was so kind as to subscribe for a draught &amp; plate of Cromer Church in Norfolk which I have spoke to a friend that I employ that way for <note resp="editor" value="for INSERTED" /> &amp; also for 6 copies of my book. Should take it as an addition to all favours if you would <note resp="editor" value="send DELETED" /> <note resp="editor" value="favour DELETED" /> oblige <note resp="editor" value="oblige INSERTED" /> me with a <note resp="editor" value="letter DELETED" /> line <note resp="editor" value="line INSERTED" /> to <note resp="editor" value="if DELETED" /> inform me whither I must withdraw my orders or not.</p>
+			<p>I design to be towards Yarmouth the latter end of January and hope you will excuse my freedom if I call upon you. I heartily <note resp="editor" value="heartily INSERTED" /> wish all prosperity to <note resp="editor" value="the Bishops DELETED" /> his <note resp="editor" value="his INSERTED" /> lady &amp; <note resp="editor" value="his DELETED" /> son, <normalised orig="tho'" auto="true">though</normalised> unknown, and earnestly hope he may be both as good and great a man as his father, well knowing that if he be that, he need be no better. I am with all possible respect your most humble servant,</p>
+			<p>Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_013">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1736 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="126" />
+			<head> <note resp="editor" value="97. FRANCIS BLOMEFIELD TO WILLIAM PENNOCK" /> </head>
+			<p>To Mr Pennock &amp;c.</p>
+			<note resp="editor" value="Fersfield (Dec DELETED) January 5. 1735(/6) DELETED" />
+			<p>Sir,</p>
+			<p><note resp="editor" value="I find by a letter I yesterday received from Doctor Gaylard that he hath taken all my cutts out of your hands but 2 which you have finished, and which he designd to pay you for. I desire you would never take any notice of the receipt of this letter to no / any man but keep it to your self for I find he hath gotten another in your profession to do them for me. DELETED" /> I am so far <normalised orig="ingaged" auto="true">engaged</normalised> with him, in helping me to a press and those materials that <note resp="editor" value="at present DELETED" /> I can't take them out of his hands but assure you I knew not <note resp="editor" value="a word DELETED" /> of it <note resp="editor" value="but that they were all in your custody, DELETED" /> till <note resp="editor" value="yesterday DELETED" /> since I received yours <note resp="editor" value="since ... yours INSERTED" /> . I find the pretence is they are to be done cheaper.</p>
+			<note resp="editor" value="I do not love underhand dealings with any man &amp; so can't approve of this. DELETED" />
+			<p>However if you know your own <normalised orig="intrest" auto="true">interest</normalised> take no notice of <note resp="editor" value="it DELETED" /> this letter to anyone, <note resp="editor" value="this ... anyone, INSERTED" /> &amp; if he offers to pay you for the 2 <normalised orig="cutts" auto="true">cuts</normalised> done <note resp="editor" value="cutts done INSERTED" /> tell him you have sent me <note resp="editor" value="a letter of the charge DELETED" /> your specimens <note resp="editor" value="your specimens INSERTED" /> &amp; fear I should take it ill if you should take <note resp="editor" value="it. You may depend on it, no more shall come into any mans hands but your own, only to deal freely I have arranged to see what work this man is to make of it, knowing what prices I have agreed on with you &amp; they don't, &amp; not fearing but you will use me honourably as I have you faithfully in this affair DELETED" /> or if he hath already paid you the money take no notice att all about it. <note resp="editor" value="or if ... about it. INSERTED" /></p>
+			<p>I have <normalised orig="learnd" auto="true">learned</normalised> wisdom enough for the future never to part with any drawings to any man living but those I design shall do them, and so I shall send them myself to you &amp; take no notice to any one what you do for me. I will return you <note resp="editor" value="your money DELETED" /> a bill constantly when it come to about 30 or 40s &amp; you shall send the prints to me <note resp="editor" value="always DELETED" /> by the Diss Carrier that comes weekly to the Saracens Head on Snowhill. Take no notice <note resp="editor" value="of this DELETED" /> at all about it <note resp="editor" value="at all about it INSERTED" /> because it may at this juncture be damageable to us both. <note resp="editor" value="I am served in the same way by another as to my graver, whom I have wrotte to in the same manner as to you DELETED" /> . I am your sincere friend,</p>
+			<p>Francis Blomefield</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_014">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1736 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="129" />
+			<head> <note resp="editor" value="100. FRANCIS BLOMEFIELD TO WILLIAM TOMS" /> </head>
+			<p>To Mr Toms.</p>
+			<p>Fersfield January 16. <note resp="editor" range="4,6" orig="1735[\/6\]">1735/6</note> .</p>
+			<p>Sir,</p>
+			<p>I now received your plate of Fersfield and went into the church &amp; compared it. I am much pleased with it, your <note resp="editor" range="3,9" orig="add[\itions\]">additions</note> they <note resp="editor" value="they INSERTED" /> exactly answering to the originals. The first is most exact in all points &amp; wants no alteration, only there should be a strong line or ornament to determine the words, William du Bois Priest, to belong to that effigies. The 2d is also as exact as the former in all particulars except the pillows, of which there are but two, so that you may easily <normalised orig="conjoyn" auto="true">conjoin</normalised> the two 1st and it will be very exact &amp; draw another strong line or ornament under the words Sir Robert &amp;c to determine that that belongs to the last effigies and not to the stone.</p>
+			<p>The stone also is exact and needs no alteration, <normalised orig="tho'" auto="true">though</normalised> it had been better placed <note resp="editor" value="under DELETED" /> between <note resp="editor" value="between INSERTED" /> the 2 images, for it lies on the ground close to William du <note resp="editor" range="4,17" orig="Bols[\'s tomb DELETED\]">Bols's tomb DELETED</note> . However I can manage that in my account of it, only add under it, these words in a small letter.</p>
+			<p>This <note resp="editor" value="on DELETED" /> lies at <note resp="editor" value="lies at INSERTED" /> <note resp="editor" value="by/on DELETED" /> William du Bois's <note resp="editor" value="effigies on its DELETED" /> right hand.</p>
+			<p>Please to work <note resp="editor" value="them DELETED" /> off the number I sent you word and send me them &amp; the plates &amp; your charge. I have a plate or two finished, which I will send you as soon as I can get them from a friend that did them for me, which you may depend on will be the 1st <normalised orig="oppertunity" auto="true">opportunity</normalised> for my own sake. Set your name to all your gravings for me but not my own as delineator, except such as I send word. Such gentlemen as draw for me &amp; set their names, I shall have authority for <note resp="editor" value="for INSERTED" /> but not otherwise. I am your humble servant,</p>
+			<p>Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_015">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1736 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="156" />
+			<head> <note resp="editor" value="141. FRANCIS BLOMEFIELD TO HENRY BRIGGS" /> </head>
+			<p>To Dr Briggs Holt.</p>
+			<p>Reverend Sir,</p>
+			<p>I received a newspaper from Mr Williamson, London, for which I return you thanks as also for recomending him to me, whom thereupon I have <normalised orig="emploied" auto="true">employed</normalised> as my sole publisher in London. I could not in gratitude forbear troubling you with this to <normalised orig="lett" auto="true">let</normalised> you know, that I am not of that spirit ever to be <normalised orig="forgetfull" auto="true">forgetful</normalised> of my benefactors, among the <normalised orig="cheifest" auto="true">chiefest</normalised> of which I must for ever place you. You are not sensible with what pleasure I find by yours &amp; the rest of my friends encouragement.</p>
+			<p>The work goes on briskly, having had such a run of subscribers that in one fortnight after the publishing of my 1st no., I <normalised orig="gott" auto="true">got</normalised> as many new subscribers as I had in the whole before, which occasioned me to reprint it and then also mistook my number, for I have had such an increase, that they are all gone. And now I am forced to print promissory notes that I will deliver no. 1 before the 1st vol. is finished. <normalised orig="Inclosed" auto="true">Enclosed</normalised> are some copies of the plate &amp; another that will be in next number. I shall make bold to call on you when I come that way &amp; should be extreme glad of the honour of your company at Fersfield to see my presses at work. Assuring you of a sincere &amp; hearty welcome. I am your humble servant,</p>
+			<p>Francis Blomefield.</p>
+			<p>May 26. 1736, Fersfield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_016">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1737 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="175" />
+			<head> <note resp="editor" value="178. FRANCIS BLOMEFIELD TO JOHN TANNER" /> </head>
+			<p>To the Reverend Mr Tanner at Lowestoft Suffolk. August 28. 1737. Fersfield.</p>
+			<p>Reverend Sir,</p>
+			<p>Having got the plate of Cromere Church finished, I take this <normalised orig="oppertunity" auto="true">opportunity</normalised> by my printer (who is now on his rounds with the plates, arms &amp;c done this year) to send you a dozen copies of it with some other plates that I have <normalised orig="gott" auto="true">got</normalised> finished which I desire your acceptance of. It comes to 6 guineas &amp; an half including copper, carriage and <normalised orig="expences" auto="true">expenses</normalised>. About the plan, for which I was obligd to go to Cromere along with my drawer who took it, and paid him 15s for it besides his <normalised orig="expences" auto="true">expenses</normalised> &amp; my own for two nights, it being so far distant &amp; taking a whole days work of us both. I have <normalised orig="inclosed" auto="true">enclosed</normalised> a receipt for it &amp; must own my self much obliged to you and Mr Tanner for continuing this much of my deceased friend &amp; benefactors favour towards me.</p>
+			<p>I should take it as the greatest favour imaginable, if you would be so good at your <normalised orig="leizure" auto="true">leisure</normalised> hours, to transcribe from <note resp="editor" value="y DELETED" /> my Lord's collections, whatever addenda he hath to the Notitia Monastica, relating to the monasteries in our county only, from page 146 to page 160, if the trouble be not too great, or if it be no injury to any future design of that work, and then I would not so much as desire it. With service to Mr Tanner &amp; self I am your most obliged humble servant, Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_017">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1737 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="181" />
+			<head> <note resp="editor" value="187. FRANCIS BLOMEFIELD TO EDWARD EWER" /> </head>
+			<p>To Edward Ewer Attorney at law in Luton in Bedfordshire. November 1. 1737.</p>
+			<p>Dear Sir,</p>
+			<p><normalised orig="Inclosed" auto="true">Enclosed</normalised> you receive the copies of letters I have sent upon the sequestration affair as if <normalised orig="orderd" auto="true">ordered</normalised> by you, <normalised orig="desireing" auto="true">desiring</normalised> not to appear for reasons you know. We shall see what request will do, if not I am informed upon drawing upon the thing properly (after application to the bishop) <note resp="editor" value="(after ... bishop) INSERTED" /> we may</p>
+			<p>have an inhibition to Norwich Court &amp; have it thrown into any 2 persons hands, one chosen by them and one by us, &amp; if so, which I would have you consider on 'till we have an answer, don't let us fear it, but do it, <normalised orig="tho'" auto="true">though</normalised> I must manage as if it was wholly done by you. I am in better and better hope every day &amp; I <normalised orig="beleive" auto="true">believe</normalised> they in worse.</p>
+			<p>Mr <normalised orig="Havers" auto="true">Hovers</normalised> sent me word, by letter October 20 - Mr Cole who is <normalised orig="attorneye" auto="true">attorney</normalised> (as among the papers) - Mr <normalised orig="Havers" auto="true">Hovers</normalised> told me he would wait on your agent, <note resp="editor" value="&amp; DELETED" /> whom he knew well. Whatever is required to be done here I my self <note resp="editor" value="my self INSERTED" /> desired Mr <normalised orig="Havers" auto="true">Hovers</normalised> to send word &amp; I'll take care &amp; see Tom do it, that nothing shall miscarry here for want of application, &amp; I hope you'll be as exact above, inform me how every thing proceeds &amp; I'll always do the same.</p>
+			<p>I have sent the brief such as <normalised orig="'tis" auto="true">it is</normalised>, &amp; the rest of my published nos for your acceptance. Our <note resp="editor" range="5,10" orig="antag[\onist\]">antagonist</note> begins to think it a damnable thing as he calls it to spend certainties for uncertainties. We are all well but under some uneasieness about my sister who came by ship 3 weeks <normalised orig="agone" auto="true">agony</normalised> from Newcastle &amp; we havent yet heard of her. We all join in service to your self &amp; Mrs Ewer &amp; am your humble servant &amp; obligd friend, Francis Blomefield.</p>
+			<p>I hope I shall manage <normalised orig="Mintor" auto="true">Mentor</normalised> so as to hear in your next payment at or soon after the time set cleverly by a stratagem, that I <normalised orig="beleive" auto="true">believe</normalised> will do.</p>
+			<pb n="182" />
+			<p>Always send all <normalised orig="parcells" auto="true">parcels</normalised> directed to me or letters that don't require expedition by William Allen's Stage Waggon from the Bull Inn Bishopgate Street, directed for me, to be left at the Swan in Market Herling &amp; our <note resp="editor" range="5,10" orig="antag[\onist\]s">antagonists</note> will have no <normalised orig="oppertunity" auto="true">opportunity</normalised> of inspection, it being a distant, &amp; new, but very convenient way for me.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_018">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1737 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="194" />
+			<head> <note resp="editor" value="203. FRANCIS BLOMEFIELD TO THOMAS LE STRANGE" /> </head>
+			<p>To Sir Thomas Le Strange Knight at Hunstanton. Fersfield December 13. 1737.</p>
+			<p>Sir,</p>
+			<p><note resp="editor" value="I hope you will be so good as to DELETED" /> Your wonted goodness, I hope will <note resp="editor" value="Your ... will INSERTED" /> pardon <note resp="editor" value="my troubling you with this which DELETED" /> this trouble, it <note resp="editor" value="this trouble, it INSERTED" /> comes to <normalised orig="begg" auto="true">beg</normalised> <note resp="editor" value="the favour, at your convenience of DELETED" /> a line or two, at <note resp="editor" value="your own DELETED" /> <note resp="editor" value="any convenient time DELETED" /> your convenience <note resp="editor" value="your convenience INSERTED" /> , to inform me, whither I may be <note resp="editor" value="so far DELETED" /> favoured, <note resp="editor" value="as to have DELETED" /> with <note resp="editor" value="with INSERTED" /> a <normalised orig="coppy" auto="true">copy</normalised> of the pedigree of your ancient and worthy family, to insert <note resp="editor" range="2,11" orig="in[\to DELETED\]">into DELETED</note> my History of Norfolk, or if that be not granted whither <note resp="editor" value="you would give yourself the trouble, to compare DELETED" /> I may have <note resp="editor" value="I may have INSERTED" /> one of my own drawing from my own &amp; <note resp="editor" value="my own &amp; INSERTED" /> Mr Le <normalised orig="Neve's" auto="true">Nave's</normalised> collections compared <note resp="editor" value="compared INSERTED" /> with it, <note resp="editor" value="that I may have no errors in it, DELETED" /> to avoid errors <note resp="editor" value="to avoid errors INSERTED" /> . I perceive by the many letters, <note resp="editor" value="concerning it DELETED" /> in his collections, that you have a most exact one, and hope <note resp="editor" value="that DELETED" /> I may be indulged in the latter, if the former be too much trouble.</p>
+			<p>I shall soon <note resp="editor" value="soon INSERTED" /> begin <note resp="editor" value="very soon DELETED" /> to put Smithdon Hundred together, in order <note resp="editor" value="for DELETED" /> to have it with me in the Spring, when I design to see every place <note resp="editor" value="in it DELETED" /> , before I publish it, and should be <normalised orig="extream" auto="true">extreme</normalised> glad <note resp="editor" value="of if DELETED" /> if <note resp="editor" value="yourself DELETED" /> you or any other gentlemen, <note resp="editor" value="in that hundred DELETED" /> would favour me with any plates toward <note resp="editor" value="imbelishing my DELETED" /> adorning the <note resp="editor" value="adorning the INSERTED" /> work, <note resp="editor" value="I DELETED" /> &amp; <note resp="editor" value="&amp; INSERTED" /> I should be <note resp="editor" value="exceeding DELETED" /> obliged either for your arms, to place at the head of the pedigree, or for a plate of Sir <note resp="editor" value="John DELETED" /> Roger <note resp="editor" value="Roger INSERTED" /> Lestrange's stone, in Hunstanton church, which I see by the draught is a very <note resp="editor" value="per DELETED" /> <pb n="195" /> particular one, or for any thing else, that <note resp="editor" value="your superior judgment may DELETED" /> <note resp="editor" value="shall DELETED" /> approve of, <note resp="editor" value="I DELETED" /> &amp; <note resp="editor" value="&amp; INSERTED" /> should <note resp="editor" value="think DELETED" /> <normalised orig="esteam" auto="true">esteem</normalised> <note resp="editor" value="esteam INSERTED" /> it a great honour, <note resp="editor" value="if I might DELETED" /> to <note resp="editor" value="to INSERTED" /> have your name among my subscribers, <note resp="editor" value="and am DELETED" /> being <note resp="editor" value="being INSERTED" /> resolved <note resp="editor" value="for the future DELETED" /> , that <note resp="editor" value="my booksellers DELETED" /> those that published <note resp="editor" value="them for me DELETED" /> my numbers for me <note resp="editor" value="those that ... for me INSERTED" /> shall <note resp="editor" value="dis DELETED" /> not have it in their power to disoblige any <note resp="editor" value="more DELETED" /> gentlemen, that have done me that honour, by letting out their numbers to read <note resp="editor" value="and so dirtying DELETED" /> for a month or two before they deliver them, in a dirty condition, as they must <note resp="editor" value="me DELETED" /> be <note resp="editor" value="be INSERTED" /> after <note resp="editor" value="such usage DELETED" /> so much use <note resp="editor" value="so much use INSERTED" /> . And therefore I have taken them entirely out of their hands, <note resp="editor" value="and propose DELETED" /> <note resp="editor" value="have determined DELETED" /> and <note resp="editor" value="and INSERTED" /> for the future, <note resp="editor" value="to deliver all the numbers DELETED" /> have agreed with the bearer, <note resp="editor" value="who hath undertaken DELETED" /> to <note resp="editor" value="lay DELETED" /> deliver every <note resp="editor" value="man's DELETED" /> number at the subscribers houses, &amp; receive the money, as they are published, without any additional charge, <note resp="editor" value="to the subscribers, and to compleat DELETED" /> and to <normalised orig="compleat" auto="true">complete</normalised> all <normalised orig="gentlemen's" auto="true">gentleman's</normalised> sets, that have been carlesly omitted to be sent.</p>
+			<p><note resp="editor" value="I should be very much obliged for your encouragement and interest, in your part, and hope DELETED" /> When I have done what I can, as to the history of <note resp="editor" value="it DELETED" /> of the hundred <note resp="editor" value="of the hundred INSERTED" /> you <note resp="editor" value="will DELETED" /> &amp; the neighbouring gentlemen will I hope <note resp="editor" value="&amp; the ... I hope INSERTED" /> be so <note resp="editor" value="good DELETED" /> kind <note resp="editor" value="kind INSERTED" /> as to <note resp="editor" value="add DELETED" /> <note resp="editor" value="inf DELETED" /> <note resp="editor" value="give me what information DELETED" /> inform me <note resp="editor" value="inform me INSERTED" /> <note resp="editor" value="in those things that DELETED" /> where</p>
+			<note resp="editor" value="where INSERTED" /> I am deficient in, <note resp="editor" value="in your parts DELETED" />
+			<p>as I must be, in many things, <note resp="editor" value="things, INSERTED" /> in a part so remote from me. <note resp="editor" value="And it DELETED" /> Hoping for your encouragement &amp; interest, which <note resp="editor" value="Hoping ... which INSERTED" /> shall ever be gratefully acknowledged, <note resp="editor" value="by DELETED" /> I beg leave to subscribe my self <note resp="editor" value="self INSERTED" /> your most humble servant, Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_019">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1737 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="201" />
+			<head> <note resp="editor" value="215. FRANCIS BLOMEFIELD TO WILLIAM TOMS" /> </head>
+			<p>To Mr Toms.</p>
+			<p>December 14. 1737.</p>
+			<p>Sir,</p>
+			<p>I received yours &amp; am glad you have received the money. I assure you <normalised orig="'twas" auto="true">it was</normalised> not because I had not the things <normalised orig="deliverd" auto="true">delivered</normalised>, (which I received yesterday) that I did not send the rest, but because I had no more money in the hand of the person that drew the bill. I design to send you a <note resp="editor" value="turkey DELETED" /> fowl <note resp="editor" value="fowl INSERTED" /> this <normalised orig="Xmass" auto="true">Xmas</normalised>, if it be worth your acceptance, and desire you <note resp="editor" value="would DELETED" /> will <note resp="editor" value="will INSERTED" /> send me word what you will have per hundred for each of the <normalised orig="inclosed" auto="true">enclosed</normalised> plates taking off, if I send them with paper for them, that I may judge whither it will be worth my while.</p>
+			<p>The woman kneeling, &amp; the old deed <note resp="editor" value="&amp; DELETED" /> want no manner of alteration. The seal of the man on horseback to have a stroke added to the G &amp; made an E. The great seal of Norwich to be <normalised orig="alterd" auto="true">altered</normalised> as directions on it, and the subscription under Elmham Church - &amp; let me know the charge, which I think can't be a great deal. I shall want 550 of some and some more &amp; some less. I don't know how soon I shall send any more plates to be graved <normalised orig="tho'" auto="true">though</normalised> think it will be not long. I am your humble servant, Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_020">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1738 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="207" />
+			<head> <note resp="editor" value="226. FRANCIS BLOMEFIELD TO EDWARD EWER" /> </head>
+			<p>To Mr Ewer.</p>
+			<p>January 18. <note resp="editor" range="4,6" orig="1737[\/8\]">1737/8</note> .</p>
+			<p>Dear Sir,</p>
+			<p>I received yours, which gave me much satisfaction to hear you &amp; good spouse are alive &amp; well as I bless God we are. I perceive by yours, your agent hath taken care of your affair, &amp; Mr <normalised orig="Havers" auto="true">Hovers</normalised> who I desired to give me an account tells me, things are properly done in order for a trial at Bury Assizes. As soon as you can, let me know the whole of the proceedings &amp; what is further to be done, because then I will go to Ipswich to my council, and let me know what is wanting that I may be looking out in time.</p>
+			<pb n="208" />
+			<p>I thank you for your trouble &amp; have here <normalised orig="inclose" auto="true">enclose</normalised> the arms to be graved on the seals viz. the arms alike, only one must be exact as this is with a crescent, the other must have no crescent, but a mullet of five in its place, be so good as to get them done as soon as you can, &amp; send me them with the charge. Always direct your letters to Mr Smith at Norwich.</p>
+			<note resp="editor" value="Always ... Norwich. INSERTED" />
+			<p>Mr Lanham will be glad to hear about his affair &amp; whither the money be taken out or no. <normalised orig="Minter's" auto="true">Mentor's</normalised> case is actually desperate, such nos of <normalised orig="writts" auto="true">writs</normalised> being now against him, he totally absconds, &amp; <normalised orig="tho'" auto="true">though</normalised> the parishioners have not <normalised orig="payd" auto="true">paid</normalised> him, yet he hath reckonings with them, so that I can't find I can get above 6li in the whole, and know not what to do.</p>
+			<p>As to the sequestration affair, don't stir an inch about it. Clark hath catched himself abominably by giving security to the court for the <normalised orig="profitts" auto="true">profits</normalised> &amp; now he dare not meddle with them (I fancy) having made out as well as my self that (C-k the tenant can't stand it long) but however I take no notice. He gave out he would take the money this <normalised orig="Xmass" auto="true">Xmas</normalised> time but yet he hath made no appearance &amp; I am informed is confoundedly <normalised orig="netled" auto="true">nettled</normalised> about it. For if things go according to my expectations his worship must be accountable &amp; not C-k. <note resp="editor" value="As to the sequestration ... C-k. INSERTED" /> We all join in service to your self &amp; good family, assuring you I am your most sincere &amp; obligd friend &amp; humble servant,</p>
+			<p>Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_021">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1730 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="219" />
+			<head> <note resp="editor" value="238. FRANCIS BLOMEFIELD TO THOMAS MARTIN" /> </head>
+			<p>To Mr Thomas Martin, Attorney-at-Law, at Segoe's Coffee House, <normalised orig="Holbourn" auto="true">Holborn</normalised>.</p>
+			<p>Fersfield February 16. <note resp="editor" range="4,7" orig="1729[\/30\]">1729/30</note> .</p>
+			<p>Good Sir,</p>
+			<p>I am desired by our friend Mr Baldwin, to <normalised orig="begg" auto="true">beg</normalised> the favour of you to save him an odd volume of the <normalised orig="Quod" auto="true">Quote</normalised> libets of Duns Scotus, which is among Mr Le <normalised orig="Neve's" auto="true">Nave's</normalised> Books. Mr Baldwin hath the other three which he had out of Mr Cressner's study, where Mr <normalised orig="Neve" auto="true">Never</normalised> had his, the odd one, being the same as to binding &amp;c. with Mr Baldwin's, "Impress. Venetijs, ad expensas et mandatum Johanni de Colonia, &amp;c. anno 1477 (or) 1478." <normalised orig="'Tis" auto="true">It is</normalised> the 4th vol. bound in board &amp; coverd over with white leather &amp; printed in double columns, he thinks it is of no great use single &amp; hearing you were about to dispose of the books late Mr <normalised orig="Neves" auto="true">Naves</normalised> hope you will save it for him, he being willing to allow what you think reasonable. The Quiddenham Library is sold to Mr Thurlbourn of Cambridge.</p>
+			<p>I shall be glad to hear of your coming down, intending to wait on you &amp; return these things I have of yours by me. I hope you will help me to a sight of Mr Le <normalised orig="Neve's" auto="true">Nave's</normalised> collections for Diss Hundred and Cambridgeshire. I have an old note by me, which informs me that there is a pedigree on record in the Heralds Office, in which there is much <pb n="220" /> concerning the 2 old monuments in our church at Fersfield, they being put in there as belonging to the Howards or some family's that they matched with. If opportunity &amp; <normalised orig="leizure" auto="true">leisure</normalised> should offer, should be exceeding glad to hear something of it. I am good sir yours to command,</p>
+			<p>Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_022">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1731 T JDAWNEY"></title>
+					<author key="JOHN DAWNEY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="220" />
+			<head> <note resp="editor" value="240. JOHN DAWNEY TO FRANCIS BLOMEFIELD" /> </head>
+			<p>For the Reverend Mr Blomfield Rector of Fersfield to be left at Mr <normalised orig="Darby's" auto="true">Derby's</normalised> in Diss Norfolk.</p>
+			<p>Cambridge, March 13. <note resp="editor" range="4,6" orig="1730[\/l\]">1730/l</note> .</p>
+			<p>Dear Frank,</p>
+			<p>I don't doubt but you have long thought me negligent in not answering <normalised orig="your's" auto="true">yours</normalised>, but I hope I shall be able to give you a satisfactory <pb n="221" /> account of my silence. You desired me to send you Archbishop Sancrofts bust and inscription out of Emmanuel Library, I could not get it till very lately, my friend <normalised orig="Littell" auto="true">Little</normalised>, now <hi rend="type">Fellow</hi> , having been out of college so much by way of excuse.</p>
+			<p>Your kind concern <note resp="editor" value="to hear of DELETED" /> for <note resp="editor" value="for INSERTED" /> my success bespeaks the friend. I can yet give you no account of it, when there is another vacancy I shall know more of the matter. <hi rend="type">You rectors are happy men</hi> , Goodall was chose Fellow <note resp="editor" value="Fellow INSERTED" /> on Shrove Tuesday and Mr Lubbock was on the same day admitted into Greenaway's Fellowship, to which he had been some time praelected, Dr Mott and Mr Hedman were at the same time chose to succeed Dr Husbands and Mr Wright. People begin to talk very confidently of a <normalised orig="Publick" auto="true">Public</normalised> Commencement <note resp="editor" value="will DELETED" /> which I hope will bring you to Cambridge.</p>
+			<p>Captain Canham is in town, with (as I hear) a view of being made Fellow of Peterhouse. You <note resp="editor" value="thou DELETED" /> talk of changing your condition, if you do I wish you success, you are a happy man that have it <note resp="editor">in</note> your power to do as you like. Pray my service to Mr Loyd when you go next to Thrandeston. I have sent you what inscriptions you wrote for, I'm but dull at this business, and as you'll find don't talk like an antiquary but you must excuse it. Pray in your next, send me an account of a monument over a baronet in this country, his own devising, four lines his own composing, what was his name, where did he live? <note resp="editor" value="THERE FOLLOWS A SERIES OF TRANSCRIPTS OF MONUMENTS IN CAMBRIDGE UNIVERSITY" /> .</p>
+			<p>I expect a long letter all the news in the country. I cant tell when I shall see <note resp="editor" value="see INSERTED" /> Norfolk but I believe not till summer is pretty for spent. My service to all friends in your corner. I am sir your friend and humble servant, John Dawney.</p>
+			<p>P.S. Lemin's Brother has got the small pox and is out of danger.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_023">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1732 T JBALDWIN"></title>
+					<author key="JAMES BALDWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="223" />
+			<head> <note resp="editor" value="244. JAMES BALDWIN TO FRANCIS BLOMEFIELD" /> </head>
+			<p>Bunwell, December 28, 1732.</p>
+			<p>To the Reverend Mr Blomefield of Fersfield. Sir,</p>
+			<p>I lay at Eccles the night you saw me last, had some conversation upon the affair, wherein I furthered your interest as <normalised orig="farr" auto="true">far</normalised> as decently I could; and notwithstanding I received no direct answer yet have I reason to think it may do (at least as to the Sequestration). I am of opinion that you need not press further, nor would it be <normalised orig="adviseable" auto="true">advisable</normalised> 'till Mr Gr. has been with you; probably we shall fix a time on Sunday; if not I will see you if I can in the next week, at least you shall hear of me.</p>
+			<p>Out of <normalised orig="Doomesday" auto="true">Doomsday</normalised> I am most fond of Yarmouth, Elmham &amp; Norwich, if I could have the whole account of each verbatim as</p>
+			<p>it lies. Carleton-Rode I take to be named from some Cross standing in Rode-Lane, where lay the great road from Wyndham to Diss, Bunwell, alias Burwell, alias Burnwell, i.e. fons rivuli . Seek for Haddeston in <normalised orig="Doomesday" auto="true">Doomsday</normalised>. Keep <normalised orig="Doomesday" auto="true">Doomsday</normalised> till next week.</p>
+			<p>I am roused out of bed (to which I did not go till five this morning) to go two miles through the dirt to a dying woman, who has a mind to see me now, <normalised orig="tho'" auto="true">though</normalised> in time of health she cared not <note resp="editor" value="not INSERTED" /> for me nor anything else; thence I am staid for a mile another way by our townsmen and their bell founder, so must conclude without other method than general service from all to all. Your affectionate brother &amp; humble servant, James Baldwin.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_024">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1733 T BBELL"></title>
+					<author key="BEAUPRE BELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="224" />
+			<head> <note resp="editor" value="245. BEAUPRE` BELL TO FRANCIS BLOMEFIELD" /> </head>
+			<p>December 23, 1733.</p>
+			<p>Dear Sir,</p>
+			<p>I lately sent you some account of <normalised orig="Elme" auto="true">Elm</normalised> church, and as soon as I hear that it is come to hand, will transmit what I know of Outwell.</p>
+			<p>I shall use my utmost diligence with regard to your proposals, &amp; have added one more to the list of your subscribers; but, what is much more material, have now before me an abridgement of all of the Bishop of Ely's registers, both at Ely, Elyhouse London, &amp; in the registry at Cambridge: a most laborious curious work, &amp; which I can procure you the <normalised orig="intire" auto="true">entire</normalised> use of. I shall immediately expect your commands, &amp; am, dear sir, your very affectionate &amp; obliged,</p>
+			<p>Beaupre` Bell junior.</p>
+			<p>Beaupre` Hall, Norfolk,</p>
+			<p>I shall send you in a few days a new specimen of the work I have undertaken.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_025">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1734? T BBELL"></title>
+					<author key="BEAUPRE BELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="224" />
+			<head> <note resp="editor" value="246. BEAUPRE` BELL TO FRANCIS BLOMEFIELD" /> </head>
+			<p>March 27. <note resp="editor">1734</note> .</p>
+			<p>Dear Sir,</p>
+			<p>I hoped the pleasure of hearing from you before this time, but imagine you are taken up with searches for your history. I have since my last spent some time in examining Outwell church, and if you please to send me that letter in which I gave you a description of it, I promise to return it much improved. You may easily send it by the Yarmouth Carrier, directed <note resp="editor" value="to DELETED" /> for me, to be left with the Reverend Mr Hull of Christ's College; and as he constantly writes to me once a week, it will come soon to my hands. I forgot in my last to return you thanks for the coins you are so kind to promise me; they will be very acceptable, &amp; may come safe along with the letter I mentioned to Mr Hull. I am at present engaged in a chronological series of emperors, for the use of collectors of coins; <normalised orig="'twill" auto="true">twill</normalised> take a good deal of time, but as I am going <normalised orig="thro'" auto="true">through</normalised> the Roman History, the extraordinary trouble will not be great. When it is finished, if you think it worth transcribing, it shall be at your service.</p>
+			<p>I have nothing at present worth your notice, unless the following note be of some little use, <normalised orig="'tis" auto="true">it is</normalised> from a ms account of <normalised orig="mannors" auto="true">manors</normalised>, &amp;c. late parcel of the possessions of Prince Henry, sold in fee-simple and fee-farme: "Claus <normalised orig="vocat" auto="true">la</normalised>. Highelman et al: <normalised orig="parcell" auto="true">parcel</normalised>: <normalised orig="maner" auto="true">manner</normalised>: de Waterbech &amp; Denny per An. - ixl. Situs &amp; <normalised orig="capit" auto="true">copied</normalised>: mess: <normalised orig="maner" auto="true">manner</normalised> de Waterbech &amp; Denny per An. - xiil."</p>
+			<pb n="225" />
+			<p>When any thing occurs to the purpose, you may depend upon it from your affectionate humble servant,</p>
+			<p>Beaupre` Bell.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_026">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1734 T HBRIGGS"></title>
+					<author key="HENRY BRIGGS"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="225" />
+			<head> <note resp="editor" value="247. HENRY BRIGGS TO FRANCIS BLOMEFIELD" /> </head>
+			<p>Norwich April 16 <note resp="editor" range="4,5" orig="1733[\4\]">17334</note> .</p>
+			<p>Reverend Sir,</p>
+			<p>I received yours in due course, and would have sent you an answer at the time you desired, had I not been prevented by illness. I <normalised orig="showd" auto="true">shout</normalised> yours proposals to several persons, and found them unwilling to subscribe till they had seen a specimen of the work. I was last week at Mr Carlos's and entered myself a subscriber, and shall be ready to send you such information about Holt as you shall desire.</p>
+			<p>I am informd you have Mr Neeves papers, who, I am told, was at Holt, and I presume wrote down what he thought remarkable there. The Lords of the Manor I presume he could not be well informd of, I therefore send you the following account. In the reign of K. James the 1st. James Hobart Esquire (son of the Lord <normalised orig="Cheif" auto="true">Chief</normalised> Justice Hobart of Blicklin) was Lord of the Manor. He was succeeded by his son Edmond: after him his daughter Hannah, married to William Briggs M.D. Physician in Ordinary to K. William the III. He was my father, and I succeed him in the manor. I should likewise inform you that the patronage of the living is appendant to the manor. I find by an old charter, that in the reign of Edward the 2nd Petronelle de Nerford was Lord of the Manor, and in Q. Elizabeth's Sir Christopher Heydon.</p>
+			<p>There is a monument of my grandfather Edmond Hobart in our church, the inscription of which I design shall be inserted in your history, together with the form of <note resp="editor" value="the DELETED" /> the monument. If you will let me know when you shall want them, I will send you the same, and will pay you for the plate. I am sir your most obedient servant,</p>
+			<p>Henry Briggs.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_027">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1736? T BBELL"></title>
+					<author key="BEAUPRE BELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="232" />
+			<head> <note resp="editor" value="260. BEAUPRE` BELL TO FRANCIS BLOMEFIELD" /> </head>
+			<p>To the Reverend Mr Blomefield Rector of Fersfield near Diss in Norfolk. By Caxton &amp; Cambridge.</p>
+			<p>January 26, <note resp="editor">1736</note> .</p>
+			<p>Dear Sir,</p>
+			<p>I waited on Mr Rand since my last, and though he is <note resp="editor" value="perfectly DELETED" /> <normalised orig="intirely" auto="true">entirely</normalised> <note resp="editor" value="intirely INSERTED" /> free to give you the use of the ms he has taken so much pains <pb n="233" /> to collect, is by no means willing to part with it so far from his own study; but if you ever think it worth your while to make a tour this way, it shall be perfectly at your service. I ashure you I think it well worth it, &amp; as <normalised orig="'twill" auto="true">twill</normalised> be some time before you enter upon Cambridgeshire, may have both <note resp="editor" value="DELETED WORD ILLEGIBLE" /> <normalised orig="leasure" auto="true">leisure</normalised> <note resp="editor" value="leasure INSERTED" /> &amp; inclination to visit this corner. I must add, that it will take near a month to go <normalised orig="thro'" auto="true">through</normalised> the whole, though he has himself digested several parishes, &amp; posted them. I have sent you one letter concerning Outwell, &amp; will soon give you the remainder, but desire you not to take any notice from whom you receive so small an assistance, <normalised orig="tho'" auto="true">though</normalised> I will some time give you a better reason.</p>
+			<p>I have been told your neighbour Mr <normalised orig="Martyn" auto="true">Martin</normalised> has a good collection of Roman Coins; if he has, pray examine if the reverse of any of them have not yet been <normalised orig="publishd" auto="true">published</normalised>, particularly whether he has any of Carausius with uncommon types, or indeed of any other tyrant whose history is little known. I have lately engraved two very singular coins from Mr Gale's cabinet. I have several letters to write to-night therefore desire you to excuse the abruptness of, dear sir, your most affectionate friend &amp; servant,</p>
+			<p>Beaupre` Bell.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_028">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1743 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="237" />
+			<head> <note resp="editor" value="268. FRANCIS BLOMEFIELD TO WILLIAM WINDHAM" /> </head>
+			<p>To William Windham Esqr.</p>
+			<p>Norwich November 28. 1743.</p>
+			<p>Sir,</p>
+			<p>I have <normalised orig="inclosed" auto="true">enclosed</normalised> the 2 monuments of your ancestors, which we spake of when I had the pleasure to see you last; had not the affairs of a distant relation that died some time since, obliged me to be absent from hence so long, I had sent them before. To each plate I have annexed plain directions for your engraver. Mr Jermy tells me you are not willing to give me the plates themselves; to which I told him, if you should choose rather to give me 800 copies of each, I should be equally obliged; but if the plates themselves ever came to my hands, I could not lay myself under any obligation of returning them, not having as yet done it to any one. For the Judge's monument, I was out of nothing, it being an ancient drawing I had by me - the other cost me 5s only. I got a stone cutter to look on the Judge's monument as desired, &amp; he says it may be fixed up to look decently at ten pounds. If you please to favour me with them, beg they may both be exactly of the bigness of the paper on which the Judge's monument is, that being fitted to my book. I am sir your most obliged humble servant to command, Francis Blomefield.</p>
+			<p>As the altar tomb will leave space sufficient for your own arms to be engraven in what manner you please, I beg leave to remind you, for your workman to insert the label of three points some where in chief.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_029">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1745 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="239" />
+			<head> <note resp="editor" value="273. FRANCIS BLOMEFIELD TO WILLIAM COLE" /> </head>
+			<p>For the Reverend Mr Cole at Kings College Cambridge. Norwich, August 5. 1745.</p>
+			<p>Reverend Sir,</p>
+			<p>Multiplicity of affairs at my return hindered me from making due acknowledgement of the favours received from you when at Cambridge, for which I return my hearty thanks, and should be glad to see you here at any time. I am now <normalised orig="cheifly" auto="true">chiefly</normalised> at Fersfield, which lies just a days <normalised orig="easie" auto="true">easy</normalised> journey from Norwich, so that if you called on me there, I should be glad of it. I had 2 Latimers sermons, both which I pulled in <normalised orig="peices" auto="true">pieces</normalised> in order to perfect one for you, which I have done as far as I could but not altogether.</p>
+			<p>I have so much time taken up by my present country affairs that I make but a poor progress in the <note resp="editor" range="4,14" orig="Camb[\ridgeshire\]">Cambridgeshire</note> monuments. I have finished 2 or 3 sheets, would beg to know how far your printed <normalised orig="coppy" auto="true">copy</normalised> is perfect that I may send you up the whole to <normalised orig="compleat" auto="true">complete</normalised> it as far as I have gone, and that you would transcribe all the errata, that are marked there for me, &amp; then I would send up the <normalised orig="coppy" auto="true">copy</normalised> to you beforehand for the future.</p>
+			<p>I find my subscribers for my last vol. begin to come in <note resp="editor" value="in INSERTED" /> , &amp; hope by Xmas next to publish my plan &amp; begin that volume. Among Bishop Moore's books there is a <normalised orig="mss" auto="true">ms</normalised> heretofore a leiger of the Nunnery of St George in Thetford. Could you find it out? for I much want a transcript of an old evidence that is registered there. I will finish your <normalised orig="mss" auto="true">ms</normalised> as soon as I can &amp; return it safe. We have had here a sale of books this week, in which I got some good old things, there remain 2 vols of Holingshed's Cronicle, <pb n="240" /> well bound &amp; fair except the title page of vol. II. &amp; a leaf at the end of the index. I shall be extreme glad of a line or 2 from you, &amp; in the meantime am your most obliged humble servant, Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_030">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1746 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="242" />
+			<head> <note resp="editor" value="275 FRANCIS BLOMEFIELD TO WILLIAM COLE" /> </head>
+			<p>Norwich March 10. <note resp="editor" range="4,6" orig="1745[\/6\]">1745/6</note> .</p>
+			<p>To the Reverend Mr William Cole at Kings College in Cambridge. Reverend Sir,</p>
+			<p>My long silence might reasonably want excuse, had I only one thing to plead for my great neglect, but hope, when I tell you that illness in part, multiplicity of unexpected events in part, and the earnest desire I had, not to omit any thing material to my design, out of your judicious and laborious collection, in part, occasioned my not returning either an answer to your kind letter, or your volume, before now, but hope they will both come safe to hand. Believe me, sir, I heartily wish you will not follow my example, in being so long answering this, as I have been yours, for nothing can be more <normalised orig="gratefull" auto="true">grateful</normalised>, than to hear from a friend so near my own way of thinking as you are.</p>
+			<p>I am sorry to find those valuable <normalised orig="mss" auto="true">ms</normalised> of Bishop Moore's are not set up in a regular way, with a <normalised orig="compleat" auto="true">complete</normalised> catalogue, if they were, I am apt to think there would be more curious persons enquiring after them, than after all the printed books already digested.</p>
+			<p>I herewith send you a <normalised orig="coppy" auto="true">copy</normalised> so far as I have gone of the <hi rend="type">Collectanea Cantabrigiensia</hi> . I design to add the pages wanting at the beginning, &amp; earnestly <normalised orig="intreat" auto="true">entreat</normalised> that as I may want several things in the colleges, chapels, churches, &amp;c in Cambridge, you would be so kind as to supply them for me as soon as possible, because I would finish &amp; publish this vol. directly in my way up to London in the summer. I have all Trinity Hall &amp; <note resp="editor" range="3,6" orig="Ben[\net\]t">Bennett</note> perfect from you, except the present masters names &amp; arms, which I want, pray mark in all errors &amp;c. I shall be cautious to observe no thing, that is any <hi rend="type">private</hi> remark, as desired.</p>
+			<p>I wish I could have had the pleasure of seeing you at Norwich, but hope the approaching summer may afford me that satisfaction which the last did not. My map is now near finished, Mr <normalised orig="Vertue" auto="true">Virtue</normalised> hath the 2d revise. I will get a 1st no. of next volume, fit to deliver together. I hope when I come to Cambridge to get a little time to stay &amp; look for the leiger. I should be glad also when I come there to see any thing of our own <normalised orig="diocess" auto="true">diocese</normalised>, &amp; in particular Jeggon's Repertorium, the fowl <normalised orig="coppy" auto="true">copy</normalised> of which fell into my hands, but suspect it to be a small part only, &amp; those you mention of Bury <normalised orig="Abby" auto="true">Abbey</normalised> I could also like to peruse, having seen <note resp="editor" value="seen INSERTED" /> many of the original registers, which I have seen, in Sir Edmund Bacon's, Lord Cornwaleis's &amp; other <normalised orig="gentlemens" auto="true">gentlemen's</normalised> hands.</p>
+			<p>I am in doubt whither or no to fill up the first pages to <normalised orig="fo" auto="true">foe</normalised>.29. with the monuments in Ely Cathedral. But as Willis, Le <normalised orig="Neve" auto="true">Never</normalised>, &amp; others have printed most of them, am apt to imagine that those in some other of the parochial churches, unpublished, may be as acceptable, should be glad of your thoughts on this head. If you have any Addenda to those churches I have already printed, by all means favour me with them. I hope ere long to hear from you, assuring you nothing will be more acceptable than a line or two. I am your most obliged humble servant, Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_031">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1747 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="243" />
+			<head> <note resp="editor" value="277. FRANCIS BLOMEFIELD TO WILLIAM COLE" /> </head>
+			<p>Norwich. January 14. <note resp="editor" range="4,6" orig="1746[\/7\]">1746/7</note> .</p>
+			<p>To the Reverend Mr Cole at King's College, Cambridge. Reverend Sir,</p>
+			<p>I desired my couzin Young of Caius College to wait upon you before he came down, who brought me word, you was not in Cambridge. It was to beg that what addenda you had to the several colleges, you would be so good as to communicate, because I have near finished the Collectanea, and also to inform me of all necessary corrections which you had observed, for which I should be very <normalised orig="thankfull" auto="true">thankful</normalised>, as soon as possible.</p>
+			<p>I have at last published my first number of my third volume of my History of Norfolk, and also the plan of Norwich to be prefixed to the 2d vol., it needs no references, they being in the book; but for such as have not the book, or choose it as a picture, I have added references, &amp; doubled the price, those for the vols being only 2s 6d &amp; those for the pictures, 5s. I hope you will favour me with your recommendation &amp; interest in the affair. I have sent them to Mr Thurlbourn, &amp; ordered them to be advertised in the Cambridge paper.</p>
+			<pb n="244" />
+			<p>I should be very glad if your <normalised orig="leizure" auto="true">leisure</normalised> would permit you to examine the Collectanea soon, because I have workmen now, that I could finish it out of hand.</p>
+			<p>My service attend your self and all friends, &amp; should be glad of the honour of a line or two from you, ere long. I am your most obliged humble servant to command,</p>
+			<p>Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_032">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1748 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="244" />
+			<head> <note resp="editor" value="279. FRANCIS BLOMEFIELD TO WILLIAM COLE" /> </head>
+			<p>To the Reverend Mr William Cole, Fellow Commoner of King's College, Cambridge.</p>
+			<p>Fersfield February 18. <note resp="editor" range="4,6" orig="1747[\/8\]">1747/8</note> .</p>
+			<p>Reverend Sir,</p>
+			<p>Your kind letter of January 9. I received at my return hither, having been out for 5 or 6 weeks, visiting my old acquaintance in Norfolk, and in my ramble have <normalised orig="hapened" auto="true">happened</normalised> of several old <normalised orig="mss" auto="true">ms</normalised>, books, Roman coins &amp; other antiquities which much please me.</p>
+			<p>I met with a letter also, from that worthy antiquary Browne Willis esquire, whom I suppose ere long you will meet in London. I hope you will find a week or two this summer to see Norwich, no one shall be more welcome at my house there than your self, having a spare bed at all times for a friend, &amp; let me know but 2 or 3 weeks before, &amp; I will be certain to be at home. I hope to see Cambridge &amp; when I can fix my time will let you know beforehand, that I may not miss of your good company there. I shall be much pleased to see the Castleacre seal. I have the <normalised orig="abby" auto="true">abbey</normalised> seal &amp; that like yours which is the Sigillum ad Causas , but mine is broken. Should also be glad to see Angleseye seal.</p>
+			<p>I shall <note resp="editor" value="DELETED WORD ILLEGIBLE" /> like <note resp="editor" value="like INSERTED" /> to see if I can happen of the Thetford <pb n="245" /> leiger among Bishop Moor's <normalised orig="mss" auto="true">ms</normalised> &amp; as I find they are in no order shall be glad to have assistance to help to look for it. The dog in the fable, is too much like many <normalised orig="publick" auto="true">public</normalised> societies, who will neither use their <normalised orig="mss" auto="true">ms</normalised> themselves, if they can, nor yet permit others that would do it, if they can not. No statute can be surely so foolish as to command such things to stand useless - if they do - all such should be annihilated. But I fear that those that pretend such strictness in that point are as remiss in following their statutes strictly, in many other points of much greater consequence to the public good, as well as the private. Eton College hath no such statute, that society hath fixed up their evidences well, &amp; the substance of them as to antiquity, is well known to those that deal that way.</p>
+			<p>I design to fix up my Collectanea &amp; publish it about Michaelmas. I am pleased to hear you have got so many good materials lately. I saw a good many old things of Merch <note resp="editor" value="SIC" /> in Cambridgeshire in my late round. I have not been at Norwich near half a year because of the smallpox being all round me, but hope to hasten on with Norfolk, when I come thither again, which I hope now will be shortly, that distemper much abating. Pray accept my compliments your self &amp; tender them to all friends and acquaintance, which doing will add to the many obligations already laid upon your most obliged brother &amp; humble servant, Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_033">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1748 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="245" />
+			<head> <note resp="editor" value="280. FRANCIS BLOMEFIELD TO WILLIAM COLE" /> </head>
+			<p>For the Reverend Mr Cole at King's College in Cambridge. Norwich August 13. 1748.</p>
+			<p>Good Sir,</p>
+			<p>I hope this will find you &amp; Mr Masters safely arrived at Cambridge, for whom I have <normalised orig="inclosed" auto="true">enclosed</normalised> the deed he forgot &amp; left here &amp; a letter from Mr Earl, which knowing what it concerned I opened &amp; as I go to Holt tomorrow after service design to call on him at Heydon &amp; answer it for you in person. I have packed up your books safe &amp; sent them to the Bury wagon's warehouse, which don't come out till next Tuesday. I have been today overlooking some of the old books bought, 15 at 6d each, among which Melchior Adams 3 vols fair, the 1. the lives of all the German philosophers, the 2d of all the <normalised orig="phisitians" auto="true">physicians</normalised>, the 3d of lawyers &amp; political writers, had I found the IV of divines, it had been a good prize. I have not looked over a fourth part. I hope for a pleasant tour next week, designing to make 3 or 4 days. As soon as I can, will <normalised orig="fitt" auto="true">fit</normalised> up a <normalised orig="coppy" auto="true">copy</normalised> of Collectanea when I know what you want, with thanks for your good company &amp; compliments to self &amp; all friends, I am your most obliged humble servant to command,</p>
+			<p>Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_034">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1748 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="246" />
+			<head> <note resp="editor" value="281. FRANCIS BLOMEFIELD TO WILLIAM COLE" /> </head>
+			<p>For the Reverend Mr Cole at King's College Cambridge. Norwich. September 18. 1748.</p>
+			<p>Dear Sir,</p>
+			<p>I received your 2 kind letters, &amp; had answered the former had not I been out when it came. I shall be obliged for the translation of the Greek Liturgy, my Greek one having none with it. The volume you mention of Melchior <normalised orig="Adam's" auto="true">Atom's</normalised> work is the very volume I have not, having those of the lawyers, philosophers &amp; <normalised orig="phisicians" auto="true">physicians</normalised>, but not of divines. I bought for myself about 50 volumes, &amp; many more for others, &amp; made it worth while going over. Among my own was Kennet, which I got for 6s. I shall be very desirous of seeing the Norfolk Swan Roll, &amp; therefore be so good as to send me them in a parcel by the Cambridge Carrier, directed for me here.</p>
+			<p>I was indebted to Mr Willis on the same account as your self but have paid it yesterday. Am glad to hear Mr <normalised orig="Burrough" auto="true">Borough</normalised> &amp; all friends are well. Pray what antiquary Mr North is that you mention? I am always for searching out for brethren of the quill!</p>
+			<p>I don't know how I shall go on but would finish my Collectanea so as to bring them with me to Cambridge between Christmas &amp; Candlemass if I could. Our present bishop delights our way, &amp; is much mended in his health by our Norfolk air. Pray my thanks to Mr Masters for his kind present to perfect Archbishop Parker's <normalised orig="mss" auto="true">ms</normalised>. Mr Parkyn of Oxburgh a fellow antiquary hath been with me this week, which we have spent <normalised orig="agreably" auto="true">agreeably</normalised> with the bishop, chancellor &amp; others of our stamp.</p>
+			<p>I am going tomorrow to a sale of curiosities collected by a Baker here, who is dead. I am told there are many coins, pictures, glasses, &amp; natural curiosities. I should be glad to see you here at any time, to make a longer stay with us, than when I saw you last. Our service attend your self &amp; all friends. I am dear sir, your most obliged humble servant, Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_035">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1748 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="247" />
+			<head> <note resp="editor" value="282. FRANCIS BLOMEFFELD TO WILLIAM COLE" /> </head>
+			<p>To the Reverend Mr Cole at King's College in Cambridge. Norwich October 20. 1748.</p>
+			<p>Reverend Sir,</p>
+			<p>I returned hither last Saturday and found your kind letter &amp; parcel, for which I return you my hearty thanks. Melchior's volume matches mine very well, &amp; the Liturgy adds to my large collection that way, having been very desirous of getting the service books of all nations as far as I possibly can. The Swan Roll as it concerns our county &amp; the several owners of the manors that have that right, is to me a great curiosity, &amp; if not too troublesome wish you could procure it me, &amp; should be willing to part with any thing in exchange. I am much pleased with the arms you sent, if you have any friends more that have their arms engraved, should be glad of one of each to add to my collection of modern arms. I have some business at London, so that nothing but ill health will hinder me from being there next February, &amp; am determined to spend a week at Cambridge either in my way thither or return, &amp; will endeavour to get my Collectanea ready against that time, would <normalised orig="begg" auto="true">beg</normalised> of you to examine &amp; acquaint me with the errata you observe in it, as soon as you can, &amp; if you have not the whole printed, let me know it, that I may send it <normalised orig="compleat" auto="true">complete</normalised> with my next number. I mislaid yours in which that account is of what you want to <normalised orig="compleat" auto="true">complete</normalised> it. I would beg also a copy of the burial of Thomas Sclater <normalised orig="Bart" auto="true">Baronet</normalised>, who was buried in Trinity College Chapel anno 1684.</p>
+			<note resp="editor" value="THERE FOLLOWS A BRIEF FAMILY TREE OF THE HEVENINGHAM/ PICHFORD FAMILIES." />
+			<p>Be so good as to search Trumpington Register for the Pitchfords or Pichfords, I exceedingly want - A marriage of John Pitchford with Elizabeth Present widow (she was widow to Present, which marriage I should be glad of, &amp; was sister to Sir Thomas Sclater) between 1640 &amp; 1679 - Present's marriage is between 1630 &amp; 1679. The birth of John son of John Pitchford &amp; Elizabeth his wife, between 1649 &amp; 1679 &amp; his burial between the same time. Whatever you meet with of the Pitchford's or Sclater's I should be <normalised orig="thankfull" auto="true">thankful</normalised> for. If you have an account of Cotenham church, I should be glad of the monuments there.</p>
+			<p>I heard from Mr Willis last week &amp; design him a letter this, any thing that you think worth printing in the Collectanea, if at your leisure you would send, I should be <normalised orig="thankfull" auto="true">thankful</normalised> for. I write a letter of thanks to Mr Masters so omit mentioning him any further. My compliments to all friends in general. I am sir your most obliged humble servant,</p>
+			<p>Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_036">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1748 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="248" />
+			<head> <note resp="editor" value="283. FRANCIS BLOMEFTELD TO SIR THOMAS LE STRANGE" /> </head>
+			<p>To Sir Thomas Le Strange <normalised orig="Bart" auto="true">Baronet</normalised>. at Hunstanton Norfolk. Norwich October 31. 1748.</p>
+			<p>Sir!</p>
+			<p>I received the notes concerning the Le Strange Family, which I will, as soon as I have <normalised orig="oppertunity" auto="true">opportunity</normalised>, compare with the numerous papers &amp; extracts that I have of the family, &amp; see how they agree. As it will take me some time, &amp; I am obliged to go this week into Suffolk, for 3 weeks or a month, I am obliged to <normalised orig="deffer" auto="true">differ</normalised> it till my return, &amp; then will not <normalised orig="omitt" auto="true">omit</normalised> doing it &amp; acquainting you of it.</p>
+			<p>Mr <normalised orig="Addey" auto="true">Eddy</normalised> mentioned to me as if you would be so kind as to favour me with a copper plate of the antique brass in Hunstanton church, which would be an ornament to my work for which I should think myself exceedingly obliged; I design to put together the various notes by me &amp; draw up the Hunstanton branch accordingly, &amp; send then for your inspection &amp; correction. In the mean time am your humble servant to command,</p>
+			<p>Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_037">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1749 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="248" />
+			<head> <note resp="editor" value="284. FRANCIS BLOMEFIELD TO WILLIAM COLE" /> </head>
+			<p>To the Reverend Mr Cole at King's College in Cambridge. Norwich, March 22 <note resp="editor" range="4,6" orig="1748[\/9\]">1748/9</note> .</p>
+			<p>Reverend Sir,</p>
+			<p>I have been so ill since I returned from London, that I could not 'till now make a proper acknowledgement of the reception of your kind letter, which made me at once lay aside all thoughts of coming down by Cambridge, the smallpox being the only thing that makes me keep from London so much. I meet our friend Mr Willis, who did not seem pleased with the Society for making an addition of 20 to their number.</p>
+			<p>By <note resp="editor" value="him DELETED" /> him I could learn, as if you was about entering into the matrimonial state, a work I always like to hear going forward, &amp; if so, wish you the utmost prosperity &amp; success that can <note resp="editor" value="can INSERTED" /> happen to man, &amp; find you don't want courage, to <normalised orig="attaque" auto="true">attic</normalised> even a whole camp. I heartily return my thanks for your kind invitation, &amp; hope you will be so good, as I can't come your way, to come ours &amp; spend a week or 2 with me at Norwich. I will at any time meet you at Thetford, in the way &amp; so take Fersfield in our way to Norwich &amp; from thence visit the grand collections of Mr Martin at Palgrave, than which, I am sensible nothing could give you greater pleasure, except the lady aforesaid.</p>
+			<pb n="249" />
+			<p>I made but few purchases in London, &amp; have nothing among them of great curiosity. The curiosi of all sorts increase there so fast, that there's nothing to be got but at a vast price. I was at some picture auctions &amp; could not but think the world running mad <note resp="editor" value="mad INSERTED" /> when I saw a very small windmill on board sold at about 7li &amp; a watermill of the same size at 9li &amp; a game <normalised orig="peice" auto="true">peace</normalised> only at 81 guineas, &amp; as to prints such <normalised orig="trumperie" auto="true">trumpery</normalised> sold in lots, for no little money as I would not have brought home with me, if I had paid only their carriage.</p>
+			<p>I imagine you will attend the installation of your Chancellor &amp; suppose the whole university make great preparation in dress &amp; proper furniture, for so grand an occasion. We are here at rest &amp; quiet, our journeymen dyers &amp;c that lately <normalised orig="seemd" auto="true">seemed</normalised> ready to rise being now more easy. I just now received a letter from Mr <normalised orig="Earle" auto="true">Earl</normalised>, &amp; am glad to hear he is well. Pray make my compliments for me to Mr Masters, <normalised orig="Burrough" auto="true">Borough</normalised>, &amp; all friends, &amp; accept them your self, from your most obliged servant &amp; now double brother, Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_038">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1749 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="250" />
+			<head> <note resp="editor" value="288. FRANCIS BLOMEFIELD TO WILLIAM COLE" /> </head>
+			<p>To the Reverend Mr Cole at King's College Cambridge. Norwich. June 27. 1749.</p>
+			<p>Dear Sir,</p>
+			<p>I am extremely obliged for your kind letter, but the case being not quite clear as to the smallpox, I have determined not to venture yet to Cambridge, <normalised orig="tho'" auto="true">though</normalised> nothing would have been more <normalised orig="agreable" auto="true">agreeable</normalised> than to have met my friends at this <normalised orig="publick" auto="true">public</normalised> time. But as I am debarred the pleasure of seeing, hope you will, when things are over, favour with a line or two, to let me hear at least how things went. I am glad to hear of your late good design, may it go on &amp; prosper. I don't doubt but it will be as much for the honour of Cambridge to have such a work published, as Mr Wood's is for that of Oxford. If any <note resp="editor" range="4,8" orig="quae[\ries\]s">quaeriess</note> occur that I can be serviceable in, I hope you conclude you may always command me.</p>
+			<pb n="251" />
+			<p>I have not laid aside Fastolph's life, &amp; have near finished the volume of Collectanea Cantabrigiensia, &amp; intend when ever I find it absolutely safe to come up to bring it with me. It will be 5s in sheets only. I think your contingency for a new college is a good chance, &amp; I hear Wortley hath left a legacy to our college. I wish he may have thought of his own brother's children, who live here &amp; want bread. If he hath not, I should be inclined to think very severely of him &amp; his charity, especially as he was informed &amp; well knew the poverty &amp; distress of his own household. Pray my service to all friends, Mr <normalised orig="Earle" auto="true">Earl</normalised> in particular, whom I shall write to when this busy time is over with you. I have this week sent up no. 12 &amp; have now gotten a workman to my mind so that I shall go on briskly. My service to Mr Masters, but I do not know any thing I have of his by me. I should be very glad to see you here this summer, for nobody would be more welcome than your self, to your most obliged friend &amp; servant,</p>
+			<p>Francis Blomefield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_039">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1749 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="251" />
+			<head> <note resp="editor" value="289. FRANCIS BLOMEFIELD TO WILLIAM OLDYS" /> </head>
+			<p>Mr <normalised orig="Oldys" auto="true">Oldies</normalised> the writer of Biographica Britannia - 7 June 1749. To Mr <normalised orig="Oldys" auto="true">Oldies</normalised> to be left at Mr <normalised orig="Tryes" auto="true">Tries</normalised>.</p>
+			<p>Norwich September 29. 1749.</p>
+			<p>Sir,</p>
+			<p>In answer to <normalised orig="your's" auto="true">yours</normalised>, relating to Sir John Falstolff <note resp="editor" value="I find that he was born DELETED" /> I find he died in 1459 that in <note resp="editor" value="in INSERTED" /> <note resp="editor" value="the year DELETED" /> 1440 he returned from France &amp; <normalised orig="setled" auto="true">settled</normalised> in his native country that he died issueless, that he had "exercised wars in France, <normalised orig="Normandye" auto="true">Normandy</normalised>, Angeoye, &amp; in Mayne, as in Gyen, having under the king my soverigne <normalised orig="lorde" auto="true">lord</normalised> <normalised orig="officees" auto="true">offices</normalised>, &amp; governaunces of <normalised orig="countrees" auto="true">countries</normalised> &amp; places, as of <normalised orig="castells" auto="true">castles</normalised>, fortracis, <normalised orig="citees" auto="true">cites</normalised> &amp; <normalised orig="townes" auto="true">towns</normalised> be xxx <normalised orig="yeer" auto="true">year</normalised> &amp; more continyuid." So that he was first employed abroad by Henry IV, he was born in Edward III time <note resp="editor" value="fo DELETED" /> in 1459 he says of himself that he was "in good remembrance albeit I am <normalised orig="gretly" auto="true">greatly</normalised> <normalised orig="vexid" auto="true">vexed</normalised> with sikenesse &amp; thrugh age infebelyd". He was son of John Fastolff of Yarmouth in Norfolk esquire, by dame Mary daughter of Nicholas Park esquire, Sir John married Milcent daughter of Sir Robert Tibtot knight, he is buried in a south <note resp="editor" value="south INSERTED" /> chapel of his own building at the <normalised orig="Abby" auto="true">Abbey</normalised> church of St Bennet in the Holm in Norfolk, which was ruinated at the Dissolution. He was trained up under the Norfolk family, &amp; John Mowbray Duke of Norfolk was one of his feoffees. I have many letters of his herald, William Botoner, Botoner was his family name, I make no doubt of Worcester, for he often <note resp="editor" value="calls DELETED" /> is called <note resp="editor" range="4,8" orig="Will[\ielm\]is">Willielmis</note> Botoner de Wyrcestre.</p>
+			<pb n="252" />
+			<p>I had no <normalised orig="oppertunity" auto="true">opportunity</normalised> to answer you before otherwise would have done it with pleasure, being always willing to communicate to any gentlemen in our way. I am sir yours to command, Francis Blomefield.</p>
+			<p>N.B. I design the life of this great man having great materials for it.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BLOMEFI_040">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1751 T FBLOMEFIELD"></title>
+					<author key="FRANCIS BLOMEFIELD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="253" />
+			<head> <note resp="editor" value="291. FRANCIS BLOMEFIELD TO WILLIAM COLE" /> </head>
+			<p>To the Reverend Mr Cole at King's College in Cambridge. London November 26. 1751.</p>
+			<p>Reverend Sir,</p>
+			<p>At my first coming hither my business came so quick upon me that I have seen nobody as yet, &amp; till now, could not get time to trouble my friends with my scrawls. After returning thanks for all favours at Cambridge, I thought it right to acquaint you that I can't possibly go down to Dr Willis, not stir out of London, having a certain knowledge of a gentleman's coming out of the north to meet me, but uncertain when! So that I am tied down here, but should be very glad to see you in your way to Whadon if you go. I must stay 'till summer, &amp; a tour from Cambridge then may make it <normalised orig="agreable" auto="true">agreeable</normalised>.</p>
+			<p>We have no news here, only I can load a waggon with books at 3d a pound, a new way of selling books, &amp; really some very good ones among them, another hath 3000 pamphlets at 1/2 a <normalised orig="peice" auto="true">peace</normalised> so that learning hath weighed down its self.</p>
+			<p>I have not yet heard how matters go among the antiquaries, but expect to be with them on Thursday night, their charter is <normalised orig="compleated" auto="true">completed</normalised> &amp; read last Thursday &amp; every member re-elected. I know not how they are to proceed, but their <note resp="editor" value="SIC" /> is much talk of their body of <normalised orig="lawes" auto="true">laws</normalised> to be framed, by which they are to publish as the Royal Society, this being one also now, his present Majesty being our founder &amp; patron. If you have any commands in town, I hope you will command your most obliged humble servant,</p>
+			<p>Francis Blomefield.</p>
+			<p>If you can recommend my Collectanea to any friends I shall be much obliged.</p>
+		</text>
+	</TEI>
+</teiCollection>

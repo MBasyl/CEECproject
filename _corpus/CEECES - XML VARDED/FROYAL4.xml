@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FROYAL4">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>LETTERS OF TWO QUEENS. ED. BY LT.-COL. THE HON. BENJAMIN BATHURST. LONDON: ROBERT HOLDEN &amp; CO. LTD. 1925.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="ROYAL4_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1681? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="133" />
+			<p><head> <note resp="editor" value="LETTER 51" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Houndslerdyck June ye 10th <note resp="editor">1681</note> .</p>
+			<p><normalised orig="tis" auto="true">tic</normalised> so very long since I have heard from my dear Aurelia that I don't know what to think of it, but now I think ont <normalised orig="tis" auto="true">tic</normalised> my own faut for I have not yett ansered your to letters I had last the first of <normalised orig="wch" auto="true">which</normalised> was a very long on &amp; full of news for <normalised orig="wch" auto="true">which</normalised> I give you a thousand thanks ye to there was but short but you tell me on whom I must lay the faut therefore I say nothing to you. but you will find me very lazy &amp; much to blame not <normalised orig="haveing" auto="true">having</normalised> ritt all this while &amp; I <normalised orig="confese" auto="true">confess</normalised> I am so but if you knew how little time I have had ever since I came from the hummeling you <normalised orig="woud" auto="true">would</normalised> not wonder, I have bin heer a week to day last sunday I received yesterday I was at the Hage to see a Princese who <pb n="134" /> is there three days before she was to se me &amp; ondly just <normalised orig="fryday" auto="true">friday</normalised> &amp; <normalised orig="Saterday" auto="true">Saturday</normalised> there has bin company heer every day, but this time I was resolved not to louse <normalised orig="anothere" auto="true">another</normalised> post therefore I ritt this in the morning for that <normalised orig="reson" auto="true">reason</normalised>. I hope I have said enough to <normalised orig="perswade" auto="true">persuade</normalised> you <normalised orig="tis" auto="true">tic</normalised> not want of <normalised orig="kindnes" auto="true">kindness</normalised> (for that you may <normalised orig="allways" auto="true">always</normalised> be sure of) but time <normalised orig="wch" auto="true">which</normalised> has hinderd me all this while <normalised orig="asureing" auto="true">assuring</normalised> you that nothing is nor can ever be capable of changing me who am &amp; shall be ever the same kind constant clorine I <normalised orig="allways" auto="true">always</normalised> was. <hi rend="type">For Mrs. Apsley.</hi></p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1681? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="135" />
+			<p><head> <note resp="editor" value="LETTER 52" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Dieren June ye 17 <note resp="editor" value="PROB. 1681" /> .</p>
+			<p>You have taken a way of clearing my douts dear <normalised orig="husban" auto="true">husband</normalised> <normalised orig="wch" auto="true">which</normalised> <normalised orig="woud" auto="true">would</normalised> make me your <normalised orig="rivall" auto="true">rival</normalised> if it wear to any but your prince Ziphares but for him you know I have <normalised orig="allways" auto="true">always</normalised> had a love to great to <normalised orig="increas" auto="true">increase</normalised> and to <normalised orig="naturell" auto="true">natural</normalised> not to last <normalised orig="allways" auto="true">always</normalised> &amp; upon to good an account to make you jelouse. but I cant tel wethere the <normalised orig="complyments" auto="true">compliments</normalised> you make your Clorine at the end of your letter are not to great to have so much <normalised orig="credid" auto="true">credit</normalised> given them but I am good natured enough to <normalised orig="belive" auto="true">believe</normalised> I have still the greatest shere of your heart &amp; do consent so dear a creature to you &amp; who is so doble dear to me shoud have some part of it, since she has so much of mine. I hope by this time my dear Aurelia is quite well <normalised orig="agin" auto="true">again</normalised>, &amp; that she does me so much justice to <normalised orig="belive" auto="true">believe</normalised> my concern was <normalised orig="equell" auto="true">equal</normalised> to my love <normalised orig="wch" auto="true">which</normalised> you know is as it ever was &amp; tho you talk at a fine <normalised orig="romantick" auto="true">romantic</normalised> way of your heart I assure you mine will ever be the same &amp; I will hold yours as fast as ever I can for I am resolved if I can keep it I never will part with it while I live &amp; if I <normalised orig="dy" auto="true">die</normalised> I pretend so much power over it that I would leave it for a legacy to yours and my dear Ziphares.</p>
+			<p>Pray remember me very kindly to your Mother and Sisters. To Mrs. Apsley.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1681? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="137" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p><normalised orig="Edenburgh" auto="true">Edinburgh</normalised> Sep ye 8.</p>
+			<p>My <normalised orig="deare" auto="true">dear</normalised> Sem;dra I do <normalised orig="againe" auto="true">again</normalised> beg your pardon for being these too or three posts without <normalised orig="writting" auto="true">writing</normalised> to you but seriously I could not <normalised orig="posible" auto="true">possible</normalised> help it <pb n="138" /> but now I must say something in answer to both your letters which I have received since I <normalised orig="writt" auto="true">wrote</normalised> to you in the first place I must tell you that I forgot to tell you that you should stand for me to Mrs. Doylys child pray remember me to her when you see her &amp; then I must tell you that tho you heard constantly from Pert who had a great many letters to <normalised orig="writt" auto="true">wrote</normalised> &amp; went often abroad yet she did not go so constantly every day as I did for I rid every day &amp; then I was often with the <normalised orig="Dutchess" auto="true">Duchess</normalised> &amp; then I took a little time in my closett when I could catch it consider all these things well &amp; forgive your poor Ziphares as to what you desire to know in your other letter I do asure you I do love you <normalised orig="dearely" auto="true">dearly</normalised> &amp; not with that kind of love that I love all others who proffer themselves to be my <normalised orig="freinds" auto="true">friends</normalised> pray <normalised orig="therfore" auto="true">therefore</normalised> <normalised orig="deare" auto="true">dear</normalised> Sem;dra love me as well as ever be as free with me as ever <normalised orig="writt" auto="true">wrote</normalised> me all the news you know send me ye Gazett &amp; other printed paypours that are good &amp; forgive &amp; <normalised orig="beleeve" auto="true">believe</normalised> your</p>
+			<p>Ziphares.</p>
+			<p>pray remember me very kindly to your Mo &amp; tell I will writ to her next post.</p>
+			<hi rend="type">For Mrs. Apsley.</hi>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1681? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="139" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p><normalised orig="Edenburgh" auto="true">Edinburgh</normalised> Sep ye 16.</p>
+			<p>My <normalised orig="deare" auto="true">dear</normalised> Sem dra I have ten thousand millions of pardons to beg of you for mising these too or three last posts &amp; pray forgive me for it was don out of no <normalised orig="unkindnes" auto="true">unkindness</normalised> to you upon my word, but I asure you I will henceforward <normalised orig="writt" auto="true">wrote</normalised> every post &amp; I do indeed pity you, for I am very sensible of your great loss my <normalised orig="deare" auto="true">dear</normalised> Semdra be a little comforted for it may <normalised orig="displeas" auto="true">displease</normalised> God Almighty to see you not submit to his will &amp; who knows but that he may lay some greater afliction on you death is a dept we must all pay when God is <normalised orig="pleasd" auto="true">pleased</normalised> to take us out of this wicked world but I hope you will live a great while &amp; yt we shall be happy in seeing one a <normalised orig="notther" auto="true">another</normalised> tho God &amp; the King <normalised orig="onely" auto="true">only</normalised> knows when pray remember me kindly to your mother father &amp; brother <normalised orig="farwell" auto="true">farewell</normalised> my <normalised orig="deare" auto="true">dear</normalised> I love you <normalised orig="dearely" auto="true">dearly</normalised> upon my word &amp; will never change <hi rend="type">For Mrs. Apsley.</hi></p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="143" />
+			<p><head> <note resp="editor" value="LETTER 55" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Houndslerdyck June the 13th <note resp="editor">1682</note> .</p>
+			<p>I am ashamed dear Lady Apsley to have bin so long without ansereing your letter <normalised orig="wch" auto="true">which</normalised> I received by Sir G. Silvius but the treuth is that since he came into this <normalised orig="contre" auto="true">country</normalised> last I have never bin long <pb n="144" /> enough in a place to have time to ritt to any for whilst I was at Bruxells (I spake it to my shame) I never had time to rit <normalised orig="neithere" auto="true">neither</normalised> to the Duke, the <normalised orig="Duchese" auto="true">Duchess</normalised>, nor my sister, whom I hope <normalised orig="ar" auto="true">are</normalised> now with you in England, you may be sure I shoud be very glad your wish <normalised orig="coud" auto="true">could</normalised> be treu at this time &amp; that I <normalised orig="coud" auto="true">could</normalised> come to pay my <normalised orig="dutty" auto="true">duty</normalised> to them &amp; at ye same time se the rest of my good <normalised orig="friands" auto="true">friends</normalised>, but if it cant be presently I hope I shall once find such a time <normalised orig="wch" auto="true">which</normalised> you may <normalised orig="belive" auto="true">believe</normalised> will be a very <normalised orig="wellcome" auto="true">welcome</normalised> one to me, in the mean time I hope you will <normalised orig="belive" auto="true">believe</normalised> that as I have bin so I shall <normalised orig="endevor" auto="true">endeavour</normalised> <normalised orig="allways" auto="true">always</normalised> to show my self to my lives end both to you &amp; all yours for your sake, your very affectionate kind <normalised orig="friand" auto="true">friend</normalised></p>
+			<p>Marie.</p>
+			<hi rend="type">For the Lady Apsley.</hi>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="146" />
+			<p><head> <note resp="editor" value="LETTER 56" /> </head> <note resp="compiler" value="ANNE TO FRANCES APSLEY" /></p>
+			<p>Windsor, June ye 12th <note resp="editor">1682</note> .</p>
+			<p>My <normalised orig="deare" auto="true">dear</normalised> Semdra. I received yesterday a letter from my Lady Bathurst I do forgive her for not telling me the <normalised orig="secrett" auto="true">secret</normalised> but I asure you I love you <pb n="147" /> as well as ever I did &amp; I am very <normalised orig="sory" auto="true">sorry</normalised> you think the contrary I am sure I never intended to do anything that should look like unkindness to you or any of your <normalised orig="famely" auto="true">family</normalised> &amp; I am <normalised orig="extreamely" auto="true">extremely</normalised> <normalised orig="sory" auto="true">sorry</normalised> if ever I have don anything that you take unkindly I asure you I never did it a purpose &amp; therefore pray forgive me &amp; do me the justice to <normalised orig="beleeve" auto="true">believe</normalised> what is a very great truth yt I do love you as well as ever.</p>
+			<hi rend="type">For the Lady Bathurst.</hi>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="149" />
+			<p><head> <note resp="editor" value="LETTER 59" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Dieren Jully the 25th <note resp="editor">1682</note> .</p>
+			<p>I have staid all this while in hopes of an ansere to my last <normalised orig="leter" auto="true">letter</normalised>. but not <normalised orig="geting" auto="true">getting</normalised> one I sit down now with full intentions to chid you dear Aurelia for I find the <normalised orig="changeing" auto="true">changing</normalised> of your condition has <normalised orig="allso" auto="true">also</normalised> changed your mind a great deall or <normalised orig="els" auto="true">else</normalised> you would have <normalised orig="satisfyed" auto="true">satisfied</normalised> me before now &amp; all the fine complements in your <normalised orig="wch" auto="true">which</normalised> <normalised orig="leter" auto="true">letter</normalised> you rit me since you are married (but before you had mine) will not searve your turn, for you have known this great while or I may better say ever since you knew me that your letters wear <normalised orig="allways" auto="true">always</normalised> very <normalised orig="wellcome" auto="true">welcome</normalised> &amp; never <normalised orig="troblesome" auto="true">troublesome</normalised>, &amp; I have told you twenty times that <normalised orig="tis" auto="true">tic</normalised> impossible for me to rit so often to you as you can do to me for I can never send you news from heance and you can <normalised orig="selldom" auto="true">seldom</normalised> want it where you are so that you have no excuse of your side &amp; I have <normalised orig="reson" auto="true">reason</normalised> of mine however you <pb n="150" /> se &amp; have bin I hope a great while very well persuaded that nothing can change me but that <normalised orig="wether" auto="true">whether</normalised> I wright or no I am &amp; shall be to my lives end ever the same. Now I am in a chiding way I must chid it out once for all but I had almost forgot to say that your not <normalised orig="haveing" auto="true">having</normalised> heard from me was no excuse not to tell me your great afaire as you with <normalised orig="reson" auto="true">reason</normalised> call it for you knew me enough to trust me if you <normalised orig="woud" auto="true">would</normalised> have used me like a friend.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="151" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p>St. Jameses Aug ye 14th.</p>
+			<p>my <normalised orig="deare" auto="true">dear</normalised> Semdra I have intended ever since I came hither to <normalised orig="writt" auto="true">wrote</normalised> to you &amp; I hope you will forgive me for not doing it sooner I thank you for your letter &amp; pray ask me what ever questions you will for upon my word I love my <normalised orig="deare" auto="true">dear</normalised> Semandra as well as ever: since I came to town I am grown a very good Housewife for I am constantly <normalised orig="drest" auto="true">dressed</normalised> by prayer time &amp; I have bin <pb n="152" /> very often ready between nine and ten: I wish &amp; yet I know not how to wish you <normalised orig="heare" auto="true">hear</normalised> <normalised orig="becaus" auto="true">because</normalised> I am sure you had rather be where you are but yet I cant help <normalised orig="haveing" auto="true">having</normalised> a little self interest: all ye news that I know is that Lady Anne Savell was <normalised orig="marryed" auto="true">married</normalised> last thursday to <normalised orig="Ld" auto="true">Lt</normalised> Vaughan: pray remember me very kindly to your Mother &amp; <normalised orig="beleeve" auto="true">believe</normalised> me you shall ever find me the same Ziphares I ever was.</p>
+			<p>since I have <normalised orig="writt" auto="true">wrote</normalised> my letter I have got a little sister.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="156" />
+			<p><head> <note resp="editor" value="LETTER 63" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Hage December ye 29th <note resp="editor">1682</note> .</p>
+			<p>your kind letter dear Aurelia puts in a strange impatience to know what it is you dare not writ &amp; I believe it must be of great importance since you ad presently afer that you <normalised orig="woud" auto="true">would</normalised> put your life into my hands. for god sake put me out of <pb n="157" /> my pain &amp; <normalised orig="lett" auto="true">let</normalised> me know it, if ever you have loved me, if ever you have loved your prince, if ever you have loved or do eithere <normalised orig="fathere" auto="true">father</normalised> mothere sister <normalised orig="brothere" auto="true">brother</normalised>, &amp; last of all if you love your dear <normalised orig="husban" auto="true">husband</normalised> I conjure you to <normalised orig="lett" auto="true">let</normalised> me know it &amp; yt quikly, or I shall conclude you never did care for me nor for any I have <normalised orig="namd" auto="true">named</normalised> make no <normalised orig="begining" auto="true">beginning</normalised> nor ending put no name nor no superscription but put it for me in what you writ to my Mam or <normalised orig="lett" auto="true">let</normalised> my sister her self send it these, or any <normalised orig="othere" auto="true">other</normalised> way you can think of so I do but know it. adieu my dear Aurelia by this I shall know if you love me.</p>
+			<p>pray remember me very kindly to your mothere &amp; <normalised orig="belive" auto="true">believe</normalised> no body wishes more for the <normalised orig="continuence" auto="true">continuance</normalised> of both your healths then I do. <hi rend="type">For the Lady Bathurst.</hi></p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="157" />
+			<p><head> <note resp="editor" value="LETTER 64" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Hague Feb. ye 23rd <note resp="editor">1683</note></p>
+			<p>I have found to letters of very old date in my standish <normalised orig="wch" auto="true">which</normalised> makes me <normalised orig="belive" auto="true">believe</normalised> I have not ansered them for <normalised orig="wch" auto="true">which</normalised> I ask you a thousand pardons. the first is of the 19th of December I can assure you <pb n="158" /> dear Aurelia I think all you said very well &amp; am very much of your mind <normalised orig="conserning" auto="true">concerning</normalised> that <normalised orig="persone" auto="true">person</normalised> you there mention &amp; had I known of the friendship at first I shoud have done all I <normalised orig="coud" auto="true">could</normalised> in the world to have <normalised orig="brock" auto="true">broke</normalised> it of but I never knew any thing in the world till such time as she was forbid when I heard it from my sister herself &amp; was very much surprised &amp; <normalised orig="trobled" auto="true">troubled</normalised> to find her <normalised orig="consern" auto="true">concern</normalised> as great. but then I did not say much because I did not think it nessesery <normalised orig="anothere" auto="true">another</normalised> time you will <normalised orig="oblidge" auto="true">oblige</normalised> me very much to <normalised orig="lett" auto="true">let</normalised> me know if there be any new ones in hand that I may <normalised orig="endevor" auto="true">endeavour</normalised> to stop it if it be not to her advantage or at least do my best for I think nothing more prejudicciell to a young woman then ill company &amp; I hope you will continue your good consells to us both &amp; never flatter <normalised orig="neithere" auto="true">neither</normalised>.</p>
+			<p>By ye tother of the 2nd of January you tell me to things <normalised orig="wch" auto="true">which</normalised> must needs be very pleasing to you &amp; then you may be sure thay are so to me: I received to days ago <normalised orig="anothere" auto="true">another</normalised> by <normalised orig="wch" auto="true">which</normalised> I find you are <normalised orig="quicke" auto="true">quick</normalised> of which I wish you much joy, &amp; hope you will ever have all the contentment imaginable in all things this world can aford &amp; <normalised orig="eternall" auto="true">eternal</normalised> <normalised orig="happynes" auto="true">happiness</normalised> in that <normalised orig="wch" auto="true">which</normalised> is to come you never need to make excuses to me for aquianting me with your <normalised orig="conserns" auto="true">concerns</normalised> for I take so much part in all that belongs to you that I look upon it as a <normalised orig="peice" auto="true">peace</normalised> of <normalised orig="kindnes" auto="true">kindness</normalised> in you to do so I have been <normalised orig="hindred" auto="true">hindered</normalised> so long in the writing of this that <normalised orig="haveing" auto="true">having</normalised> more to write I have time to say nothing <normalised orig="els" auto="true">else</normalised> ondly assure <pb n="159" /> you of my continueing the same till death - pray remember me as kindly as possible to your Mothere.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="159" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p><normalised orig="Newmarkett" auto="true">Newmarket</normalised> March ye 21 <note resp="editor" value="PROB. 1683" /> .</p>
+			<p>I am very <normalised orig="sory" auto="true">sorry</normalised> Lady Apsley has bin ill again but I hope now ye spring comes on she will soon recover: this place aford no news but of Races &amp; cock matches which you <normalised orig="dont" auto="true">don't</normalised> care for. Dr. Lake went last night and will be in town much sooner then this: I am <normalised orig="sory" auto="true">sorry</normalised> I did not know his wife was ill when he first knew it for I would very <pb n="160" /> willingly have <normalised orig="lett" auto="true">let</normalised> him go on such an ocation I shall now be very quickly with you for the <normalised orig="Dutchess" auto="true">Duchess</normalised> intends to go to moro <normalised orig="sevenight" auto="true">seven-night</normalised> I can say no more at this time to my <normalised orig="deare" auto="true">dear</normalised> Semandra but yt she shall ever find me ye same I ever was. <hi rend="type">For the Lady Bathurst.</hi></p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="165" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p>Windsor June ye 4 <note resp="editor">1683</note> .</p>
+			<p>do not acuse your Ziphares without <normalised orig="heareing" auto="true">hearing</normalised> him &amp; indeed you wrong him <normalised orig="mightely" auto="true">mightily</normalised> in saying he is unkind tho what I am going to say may sound like an excuse yet I asure you <normalised orig="tis" auto="true">tic</normalised> not so: when I was at London ye first time if I had had time I would have made you a visit &amp; ye reason I have not <normalised orig="writt" auto="true">wrote</normalised> to you all this time was <normalised orig="becaus" auto="true">because</normalised> I was afraid reading might not be good for you &amp; tho you heard not from me yet I enquired of every body how you did &amp; <normalised orig="writt" auto="true">wrote</normalised> to your mother a <normalised orig="purpos" auto="true">purpose</normalised> therefore do not have so ill opinions of your Ziphares for tho he changes his condition yet nothing shall ever alter him from being ye same to his <normalised orig="deare" auto="true">dear</normalised> Semandra that he ever was: as to what you say in your last letter about Sr Benjamin I will be sure to speak to the Duke &amp; do all the <normalised orig="kindnes" auto="true">kindness</normalised> yt <normalised orig="lyes" auto="true">lies</normalised> in my power but I must needs tell my <normalised orig="deare" auto="true">dear</normalised> Semandra this that when I first heard this buisnes <normalised orig="conserning" auto="true">concerning</normalised> my self I spoke to ye Duke of my self for Sr Benjamin Bathurst I am very glad you have got so good a <normalised orig="freind" auto="true">friend</normalised> as my Uncle Rochester for he can do you as much <normalised orig="kindnes" auto="true">kindness</normalised> &amp; service as any body &amp; I am sure any thing that I <normalised orig="lyes" auto="true">lies</normalised> in my power shall not be wanting, once more <normalised orig="lett" auto="true">let</normalised> me beg you not to have any more ill opinions of me but asure yourself yet all ocations I will be ready to <normalised orig="shew" auto="true">show</normalised> my self your <normalised orig="faithfull" auto="true">faithful</normalised> Ziphares: &amp; now I must desire you yt as soon as you have received this you would send <pb n="166" /> for Mr. Oliver &amp; bid him com hither for tell him I want him <normalised orig="mightely" auto="true">mightily</normalised> to mend one of my gounds &amp; bid him bring me a <normalised orig="paire" auto="true">pair</normalised> of <normalised orig="bodys" auto="true">bodies</normalised> to <normalised orig="weare" auto="true">wear</normalised> with a manto.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_013">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="168" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p>I <normalised orig="beleeve" auto="true">believe</normalised> my <normalised orig="deare" auto="true">dear</normalised> Semandra thinks me a very <normalised orig="strang" auto="true">strange</normalised> creature for not <normalised orig="haveing" auto="true">having</normalised> <normalised orig="answerd" auto="true">answered</normalised> your letter in all this while but I do asure you it has not bin my fault for yt day I received it it was so soon after diner yt I could not then <normalised orig="posible" auto="true">possible</normalised> <normalised orig="writt" auto="true">wrote</normalised> &amp; after prayers till I went to Whithall I had company with me all day: yeaterday I did intend to have <normalised orig="writt" auto="true">wrote</normalised> but <normalised orig="dineing" auto="true">dining</normalised> with ye Queen made me so late yt I could have no time before prayers &amp; afterwards <normalised orig="againe" auto="true">again</normalised> I had company till I went out &amp; <normalised orig="therfore" auto="true">therefore</normalised> pray donot have an ill opinion of me for I do <normalised orig="realy" auto="true">really</normalised> love you very well &amp; will ever do so &amp; as for ye picture you shall have one very soon &amp; pray <normalised orig="beleeve" auto="true">believe</normalised> what I say for it is <normalised orig="realy" auto="true">really</normalised> true &amp; you shall ever find me your <normalised orig="faithfull" auto="true">faithful</normalised> Ziphares.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_014">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="169" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p>Why would not my <normalised orig="deare" auto="true">dear</normalised> Semandra <normalised orig="writt" auto="true">wrote</normalised> to me before but keep herself uneasy all this while and now I must tell you yt I am not nor never was angry with you in all my life &amp; I asure you no body has ever said anything against you to me &amp; ye reason why I said no more to you yt day you spoke to me was <normalised orig="becaus" auto="true">because</normalised> I can never <normalised orig="expres" auto="true">express</normalised> my self in words &amp; therefore if ever you have more <normalised orig="suspitions" auto="true">suspicions</normalised> of me as I hope you will not after reading this letter <normalised orig="lett" auto="true">let</normalised> me know them by a letter: but I asure you I love you as well as ever <normalised orig="tis" auto="true">tic</normalised> true I have sometimes when I do not know it a very grave look <normalised orig="wch" auto="true">which</normalised> has made others as well as you ask me if I was angry with them yt I <normalised orig="look'd" auto="true">looked</normalised> so gravly on them therefore do not mind my looks for I <normalised orig="realy" auto="true">really</normalised> look grave &amp; angry when I am not so another thing you tax me of is never sending for you <normalised orig="wch" auto="true">which</normalised> is a thing I have not don I confess this great but has not bin my fault I asure you for the Prince stays with me every day from diner to prayers &amp; by that time I com from prayers <normalised orig="tis" auto="true">tic</normalised> half an hour after four &amp; on my playing days from yt time I am always in expectation of company on <normalised orig="thos" auto="true">those</normalised> days yt I donot play I <normalised orig="comonly" auto="true">commonly</normalised> go to whithall at six so yt yt hour an a half <normalised orig="wch" auto="true">which</normalised> I have from prayers till I go to the <normalised orig="Dutchess" auto="true">Duchess</normalised> I <pb n="170" /> am glad sometimes to get a <normalised orig="litle" auto="true">little</normalised> of it alone it being the only time I have to myself and for ye other part of it the Prince ether comes to me or I go to him and we stay with one another till I go out thus you see I have told you very freely how I spend my time so you see yt <normalised orig="tis" auto="true">tic</normalised> not my fault yt I donot send for you because I have hardly a moment yt I can send for you but yt before you can com ether I have grave company or am gon to Whithall but at any time whenever you will com I will see you &amp; shall be very glad of your company &amp; if you <normalised orig="canot" auto="true">cannot</normalised> com if you will will <normalised orig="writt" auto="true">wrote</normalised> I shall be very glad of your letters &amp; will answer them very punctualy <normalised orig="therfore" auto="true">therefore</normalised> <normalised orig="lett" auto="true">let</normalised> me beg you if you love your Ziphares give way to none of <normalised orig="thes" auto="true">these</normalised> false <normalised orig="suspitions" auto="true">suspicions</normalised> of me for I do asure you upon my word I do love you as well as ever &amp; will do so as long as I live: as for ye paypour I <normalised orig="signd" auto="true">signed</normalised> an <normalised orig="seald" auto="true">sealed</normalised> I do remember it very well and will be as good as my word in it tho I <normalised orig="canot" auto="true">cannot</normalised> yet, ye reason I will tell you when I <normalised orig="writt" auto="true">wrote</normalised> next as for what you desire to know about Sir Benjamin no body has ever said anything against him to me or if it had bin so you may be sure I would first ask him him about it I will now end <normalised orig="hopeing" auto="true">hoping</normalised> you are very well <normalised orig="satisfyed" auto="true">satisfied</normalised> yt I am ye same I ever was &amp; ever will be to ye last moment of my life.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_015">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="173" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p>Windsor Jully ye 1.</p>
+			<p>my <normalised orig="deare" auto="true">dear</normalised> Semdra not <normalised orig="haveing" auto="true">having</normalised> time last night to <normalised orig="writt" auto="true">wrote</normalised> to you by your Brother I now send having a purpose a purpose with this that I might not be any longer without telling you yt I do <normalised orig="realy" auto="true">really</normalised> love you as well as ever I did I will without <normalised orig="faile" auto="true">fail</normalised> send your letter to my sister to night I am very <normalised orig="sory" auto="true">sorry</normalised> you could not com yesterday but I hope by Sunday your face will be well <normalised orig="againe" auto="true">again</normalised> &amp; then that you will com hither to Church <normalised orig="deare" auto="true">dear</normalised> Semdra I would say more to you but yt <normalised orig="tis" auto="true">tic</normalised> past ten <normalised orig="aclock" auto="true">o'clock</normalised> &amp; <normalised orig="therfore" auto="true">therefore</normalised> I must go &amp; be <normalised orig="drest" auto="true">dressed</normalised> but whether my letters be long or short I will ever be the same.</p>
+			<p>pray remember me very kindly to your mother. <hi rend="type">For the Lady Bathurst.</hi></p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_016">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="173" />
+			<p><head> <note resp="editor" value="LETTER 70" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Dieren August 25th <note resp="editor">1683</note> .</p>
+			<p>I write my last in such hast to my dear Aurelia that I had not then time to ansere that I had of <pb n="174" /> yours &amp; now I have received <normalised orig="anothere" auto="true">another</normalised> since so that I have now to of yours to ansere the first of <normalised orig="wch" auto="true">which</normalised> was write the day before my sister was to be married, you may believe <normalised orig="twas" auto="true">it was</normalised> no small joy to me to heer she liked him &amp; I hope she will do so every day more &amp; more for <normalised orig="els" auto="true">else</normalised> I am sure she cant love him &amp; without that <normalised orig="tis" auto="true">tic</normalised> impossible to be hapy <normalised orig="wch" auto="true">which</normalised> I wish her with all my heart as you may <normalised orig="easely" auto="true">easily</normalised> <normalised orig="imagin" auto="true">imagine</normalised> knowing how much I love her. by the tothere you tell me of the comitions my sister left with you <normalised orig="wch" auto="true">which</normalised> I shoud at first have desired you to have done but that she had often bid me employ her &amp; <normalised orig="woud" auto="true">would</normalised> have it so by all means ye <normalised orig="wch" auto="true">which</normalised> I did the rathere in hopes of <normalised orig="haveing" auto="true">having</normalised> some comition from her for there is nothing pleases me more then to be so employed, but I <normalised orig="dont" auto="true">don't</normalised> heer of any yet &amp; indeed this place afords so little of anything but what one has much better in England that I fear I shall not get any at all. adieu dear Aurelia I have this day so many letters to write that I have not time to say any more to you ondly assure you of the continuance of my kindness <normalised orig="wch" auto="true">which</normalised> nothing but death can ever alter.</p>
+			<p>Pray remember me very kindly to Lady Apsley.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_017">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="175" />
+			<p><head> <note resp="editor" value="LETTER 72" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Hague Nov ye 5th.</p>
+			<p>I never found it a hard matter to write to my dear Aurelia before, but at present I <normalised orig="dont" auto="true">don't</normalised> know <pb n="176" /> what to say for your afliction is so just one can hardly go about to comfort you and indeed upon such ocations <normalised orig="tis" auto="true">tic</normalised> ondly from God it can come whom I beseech to grant you may bear it like a christian &amp; so as it may sum to your good, as for my own part I assure you I am as <normalised orig="sory" auto="true">sorry</normalised> for your <normalised orig="losse" auto="true">loss</normalised> as any body can be <normalised orig="wch" auto="true">which</normalised> I hope you <normalised orig="dont" auto="true">don't</normalised> dout, knowing how much I love you. I know <normalised orig="tis" auto="true">tic</normalised> in afliction <normalised orig="friands" auto="true">friends</normalised> shoud <normalised orig="shew" auto="true">show</normalised> them selves &amp; I should be very glad if I knew any way to <normalised orig="shew" auto="true">show</normalised> you I am so more than you can <normalised orig="belive" auto="true">believe</normalised>.</p>
+			<hi rend="type">For the Lady Bathurst.</hi>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_018">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1684? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="179" />
+			<p><head> <note resp="editor" value="LETTER 76" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Hague <normalised orig="Aprill" auto="true">April</normalised> ye 4th <note resp="editor">1684</note> .</p>
+			<p>I am very <normalised orig="sory" auto="true">sorry</normalised> to find yt my Lady Apsley has bin so very ill as you say in your <normalised orig="leter" auto="true">letter</normalised> but I hope <normalised orig="twas" auto="true">it was</normalised> ondly the cold wethere &amp; yt with the spring she <pb n="180" /> will recover I am sure if my wishes can contribute to her health she will not want it nor them: as for you dear Aurelia you make me mad with asking pardon for writing a long <normalised orig="leter" auto="true">letter</normalised> since you may <normalised orig="belive" auto="true">believe</normalised> thay are very <normalised orig="wellcome" auto="true">welcome</normalised> to me I <normalised orig="haveing" auto="true">having</normalised> desired it so often of you for I can compliment with nobody much <normalised orig="lesse" auto="true">less</normalised> with my good <normalised orig="friands" auto="true">friends</normalised>, I wish I <normalised orig="coud" auto="true">could</normalised> send you news from heance of any kind, but as you know no body heer so <normalised orig="tis" auto="true">tic</normalised> impossible: we have ye coldest Easter I think that ever was for it freezes every night still <normalised orig="wch" auto="true">which</normalised> makes the spring very backward, adieu dear Aurelia <normalised orig="belive" auto="true">believe</normalised> me ever the same.</p>
+			<hi rend="type">for the Lady Bathurst.</hi>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_019">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1684? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="181" />
+			<p><head> <note resp="editor" value="LETTER 77" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Honslerdyck June 9th <note resp="editor">1684</note> .</p>
+			<p>I have a long while had to of my dear Aurelias leters to ansere <normalised orig="wch" auto="true">which</normalised> on thing or <normalised orig="othere" auto="true">other</normalised> has <normalised orig="allways" auto="true">always</normalised> <normalised orig="hindred" auto="true">hindered</normalised> me doing till this time, on of them is ondly in <normalised orig="contredictione" auto="true">contradiction</normalised> of a former <normalised orig="leter" auto="true">letter</normalised> and the <normalised orig="othere" auto="true">other</normalised> <normalised orig="tels" auto="true">tells</normalised> me of your being with child, I wish you <normalised orig="beter" auto="true">better</normalised> luke then either the <normalised orig="Duchese" auto="true">Duchess</normalised> or my dear sister have had you know how dear she is to me and therefore will not dout how much I was <normalised orig="trobled" auto="true">troubled</normalised> for her I am sure if it had bin my self I <normalised orig="coud" auto="true">could</normalised> not have bin very much more, but I think we have all <normalised orig="reasson" auto="true">reason</normalised> to thank God she is come of as she is <normalised orig="wch" auto="true">which</normalised> my thinks is <normalised orig="allmost" auto="true">almost</normalised> a miracle to be so well of a dead child. pray remember me very kindly <normalised orig="againe" auto="true">again</normalised> to my Lady Apsley &amp; <normalised orig="belive" auto="true">believe</normalised> me as much yours as ever.</p>
+			<p>The Prince is gone into Brabant so yt I am now alone heer when he comes bake is <normalised orig="uncertaine" auto="true">uncertain</normalised> for <normalised orig="wch" auto="true">which</normalised> I am sure you will <normalised orig="pitie" auto="true">pity</normalised> me.</p>
+			<hi rend="type">For the Lady Bathurst.</hi>
+		</text>
+	</TEI>
+</teiCollection>

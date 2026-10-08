@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FTIXALL2">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>TIXALL LETTERS; OR THE CORRESPONDENCE OF THE ASTON FAMILY, AND THEIR FRIENDS, DURING THE SEVENTEENTH CENTURY. VOL. II. ED. BY CLIFFORD, ARTHUR. LONDON: LONGMAN, HURST, REES, ORME, AND BROWN AND EDINBURGH: ARCHIBALD CONSTABLE AND CO, AND JOHN BALLANTYNE AND CO. 1815.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="TIXALL2_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1684 FO WTHIMELBY"></title>
+					<author key="WINEFRID THIMELBY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="106" />
+			<p><head> <note resp="editor" value="LETTER LXXXII." /> </head> <note resp="compiler" value="WINEFRID THIMELBY TO HERBERT ASTON" /></p>
+			<p>July 13, 84.</p>
+			<p>Hond. dear Brother,</p>
+			<p>Mrs Aston is saufly arryved, and as kyndly wellcomed of all, as we can make appear, till longur time furnish us with oportunity of reall servis to her. It had been enough for me, to understand her a frind to Bellamore: that alone had comaunded all my forces, and imployed them to her best advantage, and my singular content. But experience tells mee, that thing content is not to be had in this sad world, unmixt with cars and fears. For she brings the unwellcom news of your decaying strength. How can you blame me for desiring to drope away, to spare my eyes ther streams? If you dye before mee, I shall quickly goe after you. But then, alas! what becoms of our dear girlls and boyes? Thers my concearne, els I could afford you all the great advantages death will bring <pb n="107" /> you. Forgive me, dear brother, that I wish, and pray, that your soiourning may bee prolonged.</p>
+			<p>You end your letter with a ridle I have not witt to find out. You say, you hope to hear I believe better of you then I did: which seems impossible; my faith concearning you cannot bee more strongly kynd, no more then can my love increase.</p>
+			<p>I am unchangeably</p>
+			<p>Hod. dear Brother,</p>
+			<p>Your most intirely loving,</p>
+			<p>though most unworthy sister,</p>
+			<p>W. Thim.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="TIXALL2_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 FO WTHIMELBY"></title>
+					<author key="WINEFRID THIMELBY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="108" />
+			<p><head> <note resp="editor" value="LETTER LXXXIII." /> </head> <note resp="compiler" value="WINEFRID THIMELBY TO HER NIECE MRS. LUMLY" /></p>
+			<p><hi rend="type">These for Mrs Lumly, within tow dores of Great Turne style, in Lincolns-Inn fields,</hi> London,</p>
+			<p>May 5, 86.</p>
+			<p>Dearest Neece,</p>
+			<p>Now your coronation ioyes are past, I expect you shuld crowne me with the comfort of a letter, for tis a tedious time I have suffered by your silence. I confess I speake my shame, by discovering my self love, and car, to purchas my delights in hearing from you, in circumstances that shuld render me busied with nothing but preparation for death: for age sumons me quickly to my grave, and I thank God, I find no unwillingness to dye. But why lest I live, I must love. What did I say? Why lest I live, I must love. God forbid my love <pb n="109" /> shuld dye with life. I ment to say, why lest I live, I must love to converss wher I love; therfor deny not that lov'd ioy of a line or tow somtimes to</p>
+			<p>Your most intirely loving aunt,</p>
+			<p>W. Thimelby.</p>
+		</text>
+	</TEI>
+</teiCollection>

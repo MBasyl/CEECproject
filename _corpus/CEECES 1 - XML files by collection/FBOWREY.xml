@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FBOWREY">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>SAMPLE 1 = A GEOGRAPHICAL ACCOUNT OF COUNTRIES ROUND THE BAY OF BENGAL, 1669 TO 1679, BY THOMAS BOWREY. ED. BY SIR RICHARD CARNAC TEMPLE. CAMBRIDGE: HAKLUYT SOCIETY. HAKLUYT SOCIETY SECOND SERIES NO. XII. 1905.</titleStmt>
+			<titleStmt>SAMPLE 2 = THE PAPERS OF THOMAS BOWREY 1669-1713. ED. BY SIR RICHARD CARNAC TEMPLE. LONDON: HAKLUYT SOCIETY. HAKLUYT SOCIETY SECOND SERIES NO. LVIII. 1925.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<!-- SAMPLE 1 -->
+	<TEI xml:id="BOWREY_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 T TBOWREY"></title>
+					<author key="THOMAS BOWREY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="XXXI" />
+			<note resp="compiler" value="THOMAS BOWREY TO JOHN DAVIS AND THE EAST INDIA COMPANY COUNCIL IN CUDDALORE" />
+			<p>Porto Novo, <hi rend="type">May</hi> <hi rend="type" range="2,4" orig="14(^th^)">14th</hi> , 1687.</p>
+			<p>To Mr. John Davis &amp;ca Councill.</p>
+			<p>Honble. Sirs,</p>
+			<p>I Haveing given 400 Pagodas about two months since to Amad Marcar <note resp="editor" value="AHMAD MARAIKKAR" /> to buy cloth for me and 4 dayes since I went to demand my cloth who denied it and say'd hee stopt my money on account of the last voyage my Ship made who by Contract was to go to Atcheen or Quedah; but the ship falling in with Junckseloan and being in want of wood and water they touched there; and when they were there the Master in two days had gott what he wanted and would have <note resp="editor" range="7,9" orig="proceed[\ed\]">proceeded</note> the voyage to Quedah but Amad Marcars Servant intreated him to stay there of which I can produce severall witnesses but the Ship staying there and his goods comeing to a bad market; hee demands the loss of mee which caused our falling out and one of his Servants talking and telling severall Impudent Lyes I Stroke him being in the Companys Factory on which Amood Marcar went to the <foreign>avaldar</foreign> and haveing feed him with 50 Pagodas I was sent for I being in the Factory denied to go to him till he promised I should returne Immediately; <pb n="XXXII" /> who contrary to his word has Kept me this Three dayes with a pair of Irons on my Leggs and putts mee in his peons Cookroom for a Prison and my servants and also Chillimbrum <note resp="editor" value="CHILAMBARAM" /> desired <note resp="editor">? denied</note> to come to mee hee now demanding unjustly 1300 Pagodas for 100 slaves which Amad Marcar has told him went on my Ship without custome paying; which they say I must pay; or else produce the owner of the Slaves; who is Meer Cung Marcar <note resp="editor" value="MIR JANG (?) MARAIKKAR" /> who they all Know very well and that hee now lives at Chiali out of their Reach but they say if I cannot produce him I must pay the money which Justice I referr you to Judge of, this is the Chiefe thing they demand now; Saying it is the diwans and must bee paid first, but when that is paid they say there is other accounts to make with mee for Amood Marcars loss on his goods and Meer Cungs loss on his Slaves; although I have cleared what Meer Cung by Law in Trincumbar <note resp="editor" value="?" /> haveing recovered 600 Pagodas of him all which they say I must pay they Intending to ruine mee, they haveing mee now in their hands I therefore desire and entreat you would please to order Some person down here and give mee your assistance to clear mee out of their hands, which unless somebody comes will not bee done by Letters; although the Subidar is willing to release mee and has ordered the Avaldar not to lett mee bee kept in Irons; yett contrary to his order I am and I fear I shall bee still unless assisted by <note resp="editor" range="4,10" orig="your[\self or\]">yourself or</note> one of the Councills comeing here with the Chiefe <foreign>dubash</foreign> for the Avaldar I am <note resp="editor" value="PORTION DAMAGED" /> inveterate against mee for Chillimbrum speaking for mee; and Amad Marcar tells them I am a run away; and no <note resp="editor">one</note> will Protect mee; that they may do what they please with mee without fear and <note resp="editor" range="4,9" orig="ther[\efore\]">therefore</note> as you are my Countrey men and I hope friends and also by my Protection which I have granted from the Honble. Company I hope and humbly desire your speedy assistance I have not been permitted pen and paper else should have wrote sooner I being treated at the rate of a Murtherer they sent Peons on board my Ship yesterday to unhang her Rudder <pb n="XXXIII" /> but my mate would not permitt them which is all at present being not in a Condition of Presenting my Service to you but remaine</p>
+			<p>Sirs Your Most humble Servant that would bee; but at present weighed down with Irons</p>
+			<p>Thomas Bowry.</p>
+			<p>I would enlarge but my Keepers comeing in I cannot. I hear Amad Marcar has got leave of the Avaldar to go on board my Ship to day with his people to unhang their rudder; hee saying hee intends to have the Ship. Since your Letter came last night to the Subidar to release mee I have been used worse than before.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 T TBOWREY"></title>
+					<author key="THOMAS BOWREY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="XXXIII" />
+			<note resp="compiler" value="THOMAS BOWREY TO JOHN DAVIS" />
+			<p>Porto Novo, the 14th <hi rend="type">May</hi> 1687.</p>
+			<p>Mr. Davis,</p>
+			<p>Honoured Sir,</p>
+			<p>Since my letter which I wrot this morning I understand that this night came a letter to the Subidar and Avaldar from Nulla Buckoor Marcar <note resp="editor" value="NALLA BAKR (?) MARAIKKAR" /> who is at Trimlevass <note resp="editor" value="TIRUMALVASAL?" /> who advices them that they have done very ill in Imprisoning mee; and that by your assistance it may bring a great deal of trouble on them and also advices them that I am not in fault; the Slaves which went on my ship not being mine and therefore no reason I should pay the Custome and severall other arguments hee uses to them to clear mee but the Avaldar haveing taken a fee hee prosecuts the Chulea Amad Marcars revenge on mee to the <note resp="editor" value="PORTION DAMAGED" /> Except they would murther mee I understand these things from one of the Avaldar's Servants who is always near him I haveing bribed him to acquaint mee with Passages; but I hope in God I shall have a time to have my satisfacson for Amad Marcar for his makeing mee wear Irons &amp;ca.</p>
+			<p>Sir,</p>
+			<p>Your Most humble Servant in Affliction</p>
+			<p>Thomas Bowry.</p>
+		</text>
+	</TEI>
+	<!-- SAMPLE 2 -->
+	<TEI xml:id="BOWREY_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T THAMMOND"></title>
+					<author key="THOMAS HAMMOND"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="149" />
+			<p><head> <note resp="editor" value="PAPER 6. (LETTER FROM THOMAS HAMMOND.)" /> </head> <note resp="compiler" value="TO THOMAS BOWREY" /></p>
+			<p>London, the 3d August 1704.</p>
+			<p>Capt. Thomas Bowery: Sir, Mr. Starke and I wrote you last night, to which I Refer you. I suppose to Morrow wee shall hear if shee should be stopt. I Cannot believe they will meddle with her. If Such Newse should Come I will dispatch my man to you that Wee may have your Company on Saturday. I am Offered 2 letters to Lye Ready if Occasion should be, one to Duke Hamilton the other to the Attorney General. Pray your advice if shall send them to my friend on Saturdays post.</p>
+			<p>Last night I Omitted giveing you an Account what they would Write upon her <note resp="editor" value="UNDERWRITE" /> from thence <note resp="editor" value="INDIA" /> to London, because Could gett no price made and it is the same againe to day, the Insurers being downe in the Mouth, or at least out of Policy pretend so to be from an alarme Come this day of 13 saile of ships and St. Hellena being taken by the French. I suppose Capt. Tolsen will give you the Perticulers of it, to whose Letter I Referr you, being in haste.</p>
+			<p>I am Now favoured with yours of Yesterdays date, and observe the Contents, and so soone <note resp="editor">as</note> I have the Cargo, will send it to you. Capt. Tolsen told me what you Write to him about Enquiering after &pound;1000 Stock.</p>
+			<pb n="150" />
+			<p>Mr. Peter Albert, who is one of the Concerned in the <hi rend="type">Arabella</hi> , Came to me upon Exchange and Enquired where you Weere and if Wee had <note resp="editor">completed</note> our Stock <note resp="editor" value="IN THE MARY GALLEY" /> . I told him we had. Then, says he, "I should be glad to meete with you and Capt. Bowery to putt in with you &pound;500 Stock I have of this Yeare." I told him when you Came to Towne we would meete him.</p>
+			<p>You say you doubt I have <note resp="editor" range="0,2" orig="[\re\]stricted">restricted</note> the Capt. to too small a Some. He Wrote for no Credit, but I thought it Necessary to send him some Credit, not knowing what might happen.</p>
+			<p>My Service to your selfe and Lady is all at present from Sir, Your humble Servant, Tho: Hammond.</p>
+			<p><note resp="editor" value="ENDORSED" /> To Capt. Thos. Bowrey att Waggons Coffe house att Tunbridge Wells, In Kent.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="150" />
+			<p><head> <note resp="editor" value="PAPER 7. (LETTER FROM JOSEPH TOLSON.)" /> </head> <note resp="compiler" value="TO THOMAS BOWREY" /></p>
+			<p>August the 3th 1704, 5 Clock affternoon.</p>
+			<p>Sir, According to your order in your Letter dated the First off August, I ingaged Mr: Johnson to go to Mr: Stileman For that Business mentioned in your Letter, and his answare Was that he did nott Know att whatt price permission Was att presentt, butt aboutt a month ago hee had 30 gines <note resp="editor" value="GUINEAS" /> Pr Centt proffered, butt hee did beleave he should nott obtain itt now; butt being going outt off town this Morning, he desired him to meett him att Robins Coffey house on Wedonsday Next, and hee Would give him his Result <note resp="editor" value="DECISION" /> att Whatt price he would dispose off itt. So that, according to your order, you may assure your Selff I will use my uttmost Indivers to Serve you.</p>
+			<p>Their is this day by a Letter Com to Mr. Loide, as itt apears to bee a Letter that hath bean Inclosed in a Letter to a Frind. It <pb n="151" /> First saith that he was Master off a small Ship bound from Compoetchy <note resp="editor" value="CAMPEACHY" /> to England, but that his Ship was very Leaky and a French Frigatt Came up With him and took him off, which he Was glad <note resp="editor">of</note> , For otherwise his Ship and hee and all the Rest had perished in her. <note resp="editor">He is</note> now on board the French Ship. The Lewtivetenent Was an Englishman Who infformed him that on the 26 off April Last that Ship with 9 more took St. Hellana, and beffore hee Came from thence, the 16 off May, they had taken these Ships as Followeth, <foreign>Viz:</foreign> the said <note resp="editor">ship</note> and (1) <hi rend="type">Dudly</hi> , (2) <hi rend="type">Orenzeb</hi> <note resp="editor" value="AURENGZEBE" /> , (3) <hi rend="type">Robertt and Nathaniall</hi> , (4) <hi rend="type">Legorn galy</hi> , (5) <hi rend="type">Gloster</hi> , (6) <hi rend="type">Colchister</hi> , (7) <hi rend="type">Chamber Frigatt</hi> , (8) the <hi rend="type">Cathern</hi> , (9) <hi rend="type">Holland Friggatt</hi> , (10) <hi rend="type">Haliffax</hi> , (11) <hi rend="type">Samuall and Ann</hi> , (12) <hi rend="type">Mary</hi> and two Ships Names Nott Known.</p>
+			<p>Hee had the apertunity to Send the Letter by a Dutch Ship that Was affter taken by the Said French Ship, and the Master haveing Ransomed his Ship, he desired him to take this Letter and put itt in the Nearest place in England to London. I hope the accountt is deffecttive, Firstt by Reason I do beleave that Such a <note resp="editor" range="5,7" orig="quant[\it\]y">quantity</note> off Ships would Nott be att St. Helana So early; thirdly <note resp="editor" value="SIC" /> hee doth nott Mention the Name off his owne Ship; thirdly ther is None that owneth the Sending this Letter Which Came by the peny post to Mr. Loyde and dated From Bantrybay, and Severall other Supisious deffects in itt So that I hope itt will prove butt a trick by the Stock Jobers or the Like.</p>
+			<pb n="152" />
+			<p>I have ordered the Casks For the Coles to be Ready to Morow morning, a Fleett being Come into the River.</p>
+			<p>I have Nott Spook with Mr. Hale as yett. I have Sentt him a Letter, butt have Received No answer so that I have nott paid him as yett.</p>
+			<p>Both Madem Garners desired to be Remembered to you and Madem Bowrey. Wishing you all the pleasure and Sattisffaction you hope For, So with my humble Service and my Wives, I Restt, Sir, Your humble Servantt, Jos: Tolson.</p>
+			<p><note resp="editor" value="ENDORSED" /> This For Capt. Thos: Bowrey att Tun Bridge with <note resp="editor" range="3,4" orig="Car[\e\]">Care</note> : Tun Bridge.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="152" />
+			<p><head> <note resp="editor" value="PAPER 8. (LETTER FROM JOSEPH TOLSON.)" /> </head> <note resp="compiler" value="TO THOMAS BOWREY" /></p>
+			<p>August the 9th 1704.</p>
+			<p>Sir, I received yours dated August the 7th, all in which I will, you may assure your Selff, Indeiver to accomplish.</p>
+			<p>Mr. Weles <note resp="editor" value="WELLS" /> Seemes Very Wiling to obledge you in any thing as I have asked off him as yett, butt I have not Spook to him about the Lineing off the Yards as yett; but I Spook to Mr. Carby and hee hath promissed to have itt done in 2 or 3 days.</p>
+			<p>My <note resp="editor" range="7,14" orig="brother[\-IN-LAW\]">brother-IN-LAW</note> Johnson Wentt this day to meett Mr. Stileman, according to his apointtmentt, butt he did nott Come, nor has not been there this day, Soe I Suppose he is nott Come outt off the Contry. Mr. Johnson would have gone to his house, butt I thoughtt itt more Conveniant to Wait an apertunity to Meett him axidently on purposs then to Show <note resp="editor" range="2,3" orig="to[\o\]">too</note> much Forwardness, So my brother Johnson hath promised me to Waitt to morrow att <pb n="153" /> Robins Coffee house For him and I will know in the morning Whether he is in town or Not, off which I shall be Impatient to give you account off his answer.</p>
+			<p>I have nott as yett heard off a Cheaff mate that I beleave may be to your Satisffaction, to which End I will use all diligence that in me Lies.</p>
+			<p>Mr. Hamon <note resp="editor" value="HAMMOND" /> is outt off town, butt is expected to morrow and then I will sertiffie him off Whatt your Letter pasiffis <note resp="editor" value="SIC ? SPECIFIES" /> Concerning Captain Juniffer, and then I intend to gitt him to be bound <note resp="editor" value="AS GUARANTOR" /> For the Letter off Marte, according to your order, iff I can.</p>
+			<p>We have had 4 Males <note resp="editor" value="MAILS" /> this affternoon, by which the Malecontent in Hungary have broke off the accomadation. The Camisars are Masters off the Feald. Marchall de Talard hath joyned the Baveriens and Prince Eugene is within 2 Leagues off the grand army. The Dutch East India Fleett is arived att the Texell, butt the printed newes gives no accountt of the <hi rend="type">Reselution</hi> .</p>
+			<p>Your Humble Servantt, Jos: Tolson.</p>
+			<p>I was att Mr. Hamon and See a Large Letter derected to you Which they told me was aboutt the <hi rend="type">Woster</hi> , Which I hope you <pb n="154" /> have Received. I forgott the Gentlmans name that you spoke to me to Enquire about the <hi rend="type">Wosters</hi> Insurance, For which I have been troubled For my Nigligence to Neclectt any apertunity to serve you.</p>
+			<p><note resp="editor" value="ENDORSED:" /> For Capt. Bowrey att Tunbridge Wells. With love.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="154" />
+			<p><head> <note resp="editor" value="PAPER 9. (LETTER FROM JOSEPH TOLSON.)" /> </head> <note resp="compiler" value="TO THOMAS BOWREY" /></p>
+			<p>August the 11th 1704.</p>
+			<p>Sir, According to your order, Mr. Johnson hath Waited on Mr. Stileman and his answere is that he will nott dispose off the Licence off that &pound;1000 under 30 gines <note resp="editor" value="GUINEAS" /> per Cent att present, and his Reason is that he hath given Comission to a certain Gentleman to dispose off it for him, who hee hath nott Seen Since Mr. Johnson First spook to him. So hee hath ordered Mr. Johnson to meet him on Wednesday Nextt att the East India Coffie house. Betwixt this and then hee shall see the gentleman beffore mentioned and then hee will give him a Forther Result of the Matter.</p>
+			<p>I have been some whatt Indisposed these 2 dayes, butt I thank god I am Now Very well. Iff nott, I should have had the Letter of marte or <note resp="editor" value="ERE" /> now.</p>
+			<p>I rest, Your Humble Servant, Joseph Tolson.</p>
+			<p>Mr. Stark Justt now brought Newes to the Garter <note resp="editor" value="COFFEE HOUSE" /> that Seperate Stock was Falen 15 per Centt, the Event off which I shall Inquire and give you Noteis theroff. <note resp="editor" value="ADDRESSED" /> For Capt. Bowrey, att Tunbridg: with Care.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T THAMMOND"></title>
+					<author key="THOMAS HAMMOND"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="155" />
+			<p><head> <note resp="editor" value="PAPER 10. (LETTER FROM THOMAS HAMMOND.)" /> </head> <note resp="compiler" value="TO THOMAS BOWREY" /></p>
+			<p>London the 16th August 1704.</p>
+			<p>Captain Thomas Bowery, Sir, I am favoured with yours 14th Instant. For Aunsweare, Mr. Starke has secured two Warehouses at Brewers Key and Mr. Dupuy hath One in Mincing lane which we Can have. Mr. White Recomended Mr. Starke to them. It will save Cartidge, &amp;c., which would be Chargeable, and I suppose Wee shall not keep <note resp="editor">them</note> long before wee sell.</p>
+			<p>I have not yett speke with Mr. Albert about his stock, nor will not till hear further from you.</p>
+			<p>I saw Captain Tolson at 3 of the Clock and then he had not an Aunswear from his Friend. No Newse from the ship since my last. When I have any you shall not faile hearing from me.</p>
+			<p>I am sorry you are disapointed of the Enjoyment you went downe to Tunbridge for; hope it will soone blow over.</p>
+			<p>Wee launcht the <hi rend="type">Betty Gally</hi> last Monday and are fitting as fast as possible. When I have any Newse from the ship <note resp="editor" value="THE MARY GALLEY" /> you may depend of it the same post.</p>
+			<p>I am Sir, Your Most humble Servant, Thos. Hammond. <note resp="editor" value="ADDRESSED" /> To Capt. Thomas Bowrey, att Tunbridge wells In Kent.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="155" />
+			<p><head> <note resp="editor" value="PAPER 11. (LETTER FROM JOSEPH TOLSON.)" /> </head> <note resp="compiler" value="TO THOMAS BOWREY" /></p>
+			<p>August the 17the 1704.</p>
+			<p>Sir, I omited Writeing Last night by Reason that I expected you In town upon the unwellcome newes of Mr. Turners death, For which I am heartly Sorey to See the house so much discomposed, and Likewise for your Indisposission Which I understand Rather Increases then decreases.</p>
+			<p>Mr. Johnson Waited For Mr. Stileman 4 houres, but he did nott Come according to his apointment, so according to your order, <pb n="156" /> I shall be willing to act with the uttmost diligence that Lieth in me.</p>
+			<p>This day I have gott the Letter off Marte and protection For my men. Mr. Hamon <note resp="editor" value="HAMMOND" /> and Mr. Stark was bound For mee, the Charge off that and the protection and My Charge and all will amountt to 11 pound or thereabouts.</p>
+			<p>So I Rest In hopes and wishing to hear off your health and Welfare with my Servis to madem Bowery, Your Humble Servant, Joseph Tolson.</p>
+			<p>I writte this att Mr. Hamons who gives his Servis to you and ther is No Forther newes off the <hi rend="type">Woster</hi> then that the purser, Mr. Loveday, is dead.</p>
+			<p><note resp="editor" value="ADDRESSED" /> This For Capt. Bowry, att Tunbridge.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T TBOWREY"></title>
+					<author key="THOMAS BOWREY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="204" />
+			<p><head> <note resp="editor" value="PAPER 40. (LETTER FROM BOWREY TO THE MARY GALLEY IN THE DOWNS.)" /> </head> <note resp="compiler" value="TO JOSEPH DUPUY" /></p>
+			<p>Clafton <note resp="editor" value="CLACTON" /> in Essex, October the 19th 1704.</p>
+			<p>Captain Tolson, Mr. Dupuy and Mr. Griffin. As far as I did observe or can be informed, the ship sailed and worked better coming down to Gravesend when she was upon an Even Keele then she did afterwards when brought by the Stern. Therefore tis my advise to try first at 4 Inches by the Stern, and from that to an Even Keele, and soe to 12 Inches by the Stern, in which Compass will undoubtedly be her Trim.</p>
+			<pb n="205" />
+			<p>I hope Mr. Grist will not reach you. If not, would have you sell all things he has aboard in India and put the produce thereof to the Ships Account.</p>
+			<p>I was telling you of Mr. Grist making a demand for an Allowance when ashoare in India. I doe absolutly forbid the allowing him any thing or your Selves any such Expences on any account whatever, without a very good reason sett down in writeing in your Journall for every days Expence; and in such Case not to allow above two Shillings a day, but hope you will wholly avoid all such Expences, for they will be a great prejudice to our small Stock.</p>
+			<p>Captain Tolson is obliged to find his Table with all things but the Common Provission of the Ship. In respect to which I must needs take notice of the taking a whole Sheepe and a Shoulder of Veale at Gravesend, and by Agreement with the Butcher sett it downe as Beefe, and that too with a great Deale of Ill husbandry in giving 3d a Pound for a whole Sheepe, when could buy any Single Joint for 2 1/2d a <hi rend="type">li</hi> . I hope we shall have no more such doings of setting down one thing in the Name of another. It is not warrantable, and what I shall find out and will never allow.</p>
+			<p>I would have you Buy the Steward a Book for him to keep a Daily account of the Expence of all sort of Stores under his Charge and of all fresh Provissions received and how Expended, which account <note resp="editor">I</note> would have brought in to you and Examined weekly,and signed by all in Comission as Supra Cargoes, which account <note resp="editor">is</note> to be delivered to the Owners at your returne to England.</p>
+			<p>Captain Tolson has a verball leave to provide a Bowle of Punch of a Quart of Arrack every day for himself and those at his Table, which <note resp="editor">I</note> would not have Exceeded, for if wee have not a great deale of good Husbandry (which hope every one of you will contribute too), wee can never propose to make a profitable Voyage with so small a Stock.</p>
+			<p>I hope this will find you so far as the Downs, where hope you will make no Stay, but proceed on your Voyage, with or without <pb n="206" /> Convoy, according to your Instructions, and Pray God direct you and send you a good Voyage is the desires of Your affectionate Freind Thos. Bowrey.</p>
+			<p>I direct this to Mr. Dupuy and desire an Answer by the first Conveyance to Wellclose Square, and would have every one of you Copy this into your Book of Instructions. <note resp="compiler" value="ADDRESS" /> To Mr. Joseph Dupuy, Merchant on board the <hi rend="type">Mary Gally</hi> , Capt. Tolson, for East India. In the Downs; if gone, to be returned to Mr. Elias Dupuy, Merchant In Mincing Lane.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T TBOWREY"></title>
+					<author key="THOMAS BOWREY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="206" />
+			<p><head> <note resp="editor" value="PAPER 41. (LETTER FROM BOWREY TO THE MARY GALLEY IN THE DOWNS.)" /> </head> <note resp="compiler" value="TO JOSEPH TOLSON" /></p>
+			<p><note resp="editor" value="CLACTON" /> October 20th 1704.</p>
+			<p>Captain Tolson, Mr. Dupuy and Mr. Griffin. I wrote you yesterday, which hope came to hand, directed to Mr. <note resp="editor">Joseph</note> Dupuy. I then wrote you about the Ships trim for Sailing, since which, discoursing Mr. Charlton, it is his Opinion that the Ship Sailed and Worked much better coming down to Gravesend then she did afterwards, which he attributed to her being brought more by the Sterne and Staying the Mast too far forward after <note resp="editor">she</note> came to Gravesend. Therefore tis my advice to bring the Ship to Swim on an Even Keele or an Inch or Two Inches by the Stern, and to Stay all the Masts to hang a little aft, whereas they all now hang forward. All your safety depending on the Ships Sailing, hope you will neglect nothing relating thereto.</p>
+			<p>I am, Your affectionate Freind, Tho: Bowrey <note resp="compiler" value="ADDRESS" /> To Captain Joseph Tolson, Commander of the <hi rend="type">Mary Gally</hi> , in the Downs.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="207" />
+			<head> <note resp="editor" value="PAPER 43. (LETTER FROM TOLSON AT PORTSMOUTH TO THOMAS HAMMOND.)" /> </head>
+			<p>Portsmouth, October 26th 1704.</p>
+			<p>Sir, I sentt a Letter Yesterday wherein I mentioned that I Intended to Saill in the affternoon From Spethead, but it proved Little wind, and I heard that the <hi rend="type">Litchffeald</hi> , a Fourth Ratte, was bound to the Westward. So I went on board her and the Comander told mee that hee mustt Saile to morrow <note resp="editor">even</note> iff he turned <note resp="editor" value="HAD TO TURN" /> all the way down the Chanall, and that <pb n="208" /> hee was to goe to Cape de Vard <note resp="editor" value="VERDE" /> Islands, So that I thought, <note resp="editor">for</note> the Saffty off going with him, <note resp="editor">it</note> worth my while to Stay 1 day or 2, without your postive order to the Contrary. So that I Expect to Saill to morrow a Long with the <hi rend="type">Litchffeald</hi> , the Comander haveing promised me his utmostt Care in Convoying me Saffe to the Westward, and I shall take his Instructtions in writeing to Night. The winde is now att S.E. b S.</p>
+			<p>The Reason off my Coming in hear, I incerted in my Last, which was, that affter haveing been Chaced by a Ship off I beleive aboutt 30 guns, whome I outt Sailed, all though She seemed very clean and her Concort a Snow which was to windward. She Fired 3 Shott att mee, butt none off them hitt me; and after that I discovered 3 saill S.W. b S., 2 off which Stode to the Northward, in order, I thought, to Cutt me off to the Westward. I Stode with Dunoze <note resp="editor" value="DUNNOSE" /> pointt till I see <note resp="editor">that</note> the First 2 Spook <note resp="editor" value="SPOKEN" /> off boar S.W. 1/2 W., and att the same time I See 2 Small Snows W.S.W. From mee, and then I Sprung my Loffe to go in to Spitthead. One off the Snowes was so <note resp="editor" range="2,3" orig="Im[\p\]identt">Impidentt</note> as to Rowe within a Mille off Benbridge <note resp="editor" value="BEMBRIDGE" /> point, in order to Cutt me off. Butt affter I fired att him, and I beleive hitt him, hee Rode as Fastt as he Could back again.</p>
+			<p>I Finde my Ship to Saill So that I Fear none, iff I have butt Sea Rome. I Rowed her 2 Knotts in a calme, Soe that I hope my <pb n="209" /> owrs <note resp="editor" value="OARS" /> will Stand me in good Stead, For I see the French make great use off their owrs.</p>
+			<p>So I Restt all your humble Servants, Jos: Tolson <note resp="editor" value="ADDRESSED:" /> These For Mr. Thomas Hamon <note resp="editor" value="HAMMOND" /> , a Marchant, London, with care.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="209" />
+			<head> <note resp="editor" value="PAPER 44. (LETTER FROM TOLSON AT SPITHEAD TO BOWREY.)" /> </head>
+			<p>Spitthead, <hi rend="type">Mary Gally</hi> , October 27: 1704.</p>
+			<p>Sir, I have sentt 2 Letters <note resp="editor">to</note> Mr. Hamon, suposing you not to be att home, wherin I sertiffied him off the Reasson I putt into this place which was as Followeth.</p>
+			<p>That in order to <note resp="editor">carry out</note> my Instructions, on Monday att 5 in the Evening I sailed outt off the Downs with the winde att N. b Et., and att break off day wee see 2 Saill, the one W.S.Wt., the <note resp="editor">other</note> No. Wee ware then aboutt 5 Leagues to the Westward off Beachey head, and stearing away West For Dunowz <note resp="editor" value="DUNNOSE" /> , the Southermost point off the Ile of wight. The Westermost <note resp="editor" value="OF THE TWO SAIL" /> sprung his Loffe and stood shorte our Fore Foot. <pb n="210" /> Then I bore away and hee tacked. Then I sprung my Loffe and Found that I Could go so Fore <note resp="editor" value="FAR FORWARD" /> to windward as to bee all most out off gun shott. When hee Came upon my quarters, hee tacked and Fired 2 Shott att me under dutch Colers, butt I did nott intend to trust him. So hee gave us Chace and I Farly out sailed her. Hee Seeing that, Fired 1 Shote att me, which Fell Close by our Side, and in a Little time Lefft his Chace; and his Concarte <note resp="editor" value="CONSORT" /> , which wee deserned to be a Snow, Bore down to him, hee Lieing by For him. He apeared to be a ship off 30 guns and very Clean. Shee apeared to be French belt <note resp="editor" value="BUILT" /> to me, haveing no <note resp="editor">quarter</note> galeryes, only a badg.</p>
+			<p>Two houres affter I discovered 3 Saill S.W. b So. Southerly, 2 off which Stode to the Northward, the winde att N.Et. I stode on my way till they bore S.W. b Wt., and then I discovered 2 Snowes W.S.Wt., so that I see itt <note resp="editor">was</note> Impossable to Stand on and avoid Speeking with them. So I sprung my Loffe and Stode in For this place. One off the Snowes Rowed in with me, thinking to have Cutt me off att benbridge pointt. Itt Falling Calme, I gott outt my owrs and Rowed, and when Shee Came prety nigh me, I Fired att her 3 Shott; and shee, Fearing wee should be <note resp="editor" range="2,3" orig="to[\o\]">too</note> hard For her, and her Concorts Cold nott gitt to her Releiffe, shee turned tale and Rowed away with all Expedission. We Rowed our Ship 2 knotts in a Calme.</p>
+			<p>The <hi rend="type">Litchffeald</hi> , a 4 Rate, came Yesterday outt off the harbour and I heard that he was bound to the westward. So I went to the Comander and desired to have his Convoy. Hee told mee that hee Shold Saill this day in the Affternoon and that hee was bound For Capdevard Islands, and that hee would take all the Care hee Could off me to see me saffe outt off danger off these seas. So, Except your order to the Contrary, I intend to Imbrace the apertunity off his Convoy.</p>
+			<p>I have drawn a bill upon you For Five pounds by Captain Reed, <pb n="212" /> Comander off the <hi rend="type">Colchister</hi> , East India marchant Ship, which is all att Present From your Humble Servant, Jos: Tolson</p>
+			<p>I hired a deall boatt the day I came From the downs to Fill my Water. My puttick plates; some gave way, So that I have made new ones at this place.</p>
+			<p><note resp="editor" value="ADDRESSED:" /> For Captain Thomas Bowrey, Liveing in Well Close Square, London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_013">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T TBOWREY"></title>
+					<author key="THOMAS BOWREY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="212" />
+			<p><head> <note resp="editor" value="PAPER 45. (LETTERS FROM BOWREY TO THE MARY GALLEY AT SPITHEAD.)" /> </head> <note resp="compiler" value="TO JOSEPH TOLSON" /></p>
+			<p>London October the 28th 1704.</p>
+			<p>Capt. Tolson, Mr. Dupuy and Mr. Griffin. Sirs, Captain Tolsons of the 26th Instant to Mr. Hammond is received, by which I am Informed of your escape from the French and of the ships good sailing, both which is very acceptable News and doe very well approve of your staying to goe in Company with the <hi rend="type">Litchfeild</hi> man of Warr. God send you a safe passage and would have you try (when have opportunity) the ships sailing by staying her Masts aft, Looseing the wedges, shifting her more by the Head or Stern &amp;ca., as your discretion will direct you.</p>
+			<p>I desire Mr. Dupuy and Mr. Griffin to be very secret with what they are particularly trusted with and not to discover it to any one in the ship or any other Person in India or Elcewhere.</p>
+			<p>As Mr. Grist is excluded the Comission, so he is not to be privie to any of your Orders nor to sign any Letters you send us, which is to be signed by all three of you and which you are to direct as ordred in your Instructions, and would have you write us by the <hi rend="type">Litchfeild</hi> , when <note resp="editor">you</note> part from her, all proper about the ships sailing, on which depends our greatest safety.</p>
+			<pb n="213" />
+			<p>I came to Town today and Mr. Hammond Just gone out of Town, so did not see him nor any other of the Concerned. I wish you a good Voyage and all of you a safe returne to Your affectionate Freind, T. B.</p>
+			<p>My Love to my Cozen Toms. Studds. I received his Letter. <note resp="compiler" value="ADDRESS" /> To Captain Jos. Tolson comander of the <hi rend="type">Mary Gally</hi> at Spithead. If gone, to be returned to Mrs. Gardiner in Well Close Square, London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_014">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T TBOWREY"></title>
+					<author key="THOMAS BOWREY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="214" />
+			<p><head> <note resp="editor" value="PAPER 47. (LETTER FROM BOWREY TO THE MARY GALLEY AT PLYMOUTH OR FALMOUTH.)" /> </head> <note resp="compiler" value="TO JOSEPH TOLSON" /> London, November 4: 1704.</p>
+			<p>Capt. J. Tolson, Mr. Dupuy and Mr. Griffin. Sirs, I received Captian Tolsons of the 30th past, when under sail from Spithead. <pb n="215" /> Wee having had the Winds Westerly, doubt you have bin obliged to putt into Port. I wrote you to the Downs directed to Mr. Dupuy and to Portsmouth directed to Captain Tolson, which know not if you received. Therefore please to advise per next if you received those Letters and give a full account of your Ships Sailing with the Men of War you went out with, who sailed best, and what difference, &amp;ca.</p>
+			<p>What is intrusted in particular to the two persons you know of, I desire them to keep as a great Secret, not letting any one in the Ship, or in India, or Elcewhere know any thing of it. I am in doubt of Letters being Intercepted by the East India Company, therefore both you and wee must be very cautious of what we write. The two Letters I sent you were directed to be returned if you were gone. Therefore, if you have not received them they are Intercepted; but therein is nothing to our prejudice.</p>
+			<p>I hope you will lose no opertunity of Sailing, for it will grow late for your reaching the West Coast in due time, so hope you will not touch any where till reach the West Coast.</p>
+			<p>I am, Your affectionate Friend, T: B.</p>
+			<p>My Love to my Cozen Toms. Studs.</p>
+			<p><note resp="compiler" value="ADDRESS" /> To Captain Joseph Tolson Comander of the <hi rend="type">Mary Gally</hi> , In Plimouth. If gone, to be returned to Mrs. Gardiner In Well Close Square, London.</p>
+			<p>Sent a Copy to Falmouth.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_015">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T TBOWREY"></title>
+					<author key="THOMAS BOWREY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="215" />
+			<p><head> <note resp="editor" value="PAPER 48. (LETTER FROM BOWREY TO THE MARY GALLEY AT PLYMOUTH OR FALMOUTH.)" /> </head> <note resp="compiler" value="TO JOSEPH TOLSON" /> London the 7th November 1704.</p>
+			<p>Captain Jos. Tolson, Mr. Dupuy and Mr. Griffin. Sirs, Fearing you may be put into Port, this serves to advise you that wee are informed that had you staid longer at Spithead there was Orders from the East India Company to search your Ship. Therefore, if this finds you in Port, wee advise you to sett Sail with the <pb n="216" /> first opertunity of Wind, either with Convoy or without, least any such Orders may reach where you are, and that you may be stoped on any Vexatious pretence of said Company.</p>
+			<p>Wee desire you to give us a particular account of the Ships sailing with the Men of Warr you Sailed with &amp;ca., and hope you will use all endeavours to find her Trim, thereon depending the greatest of our Safety. As it now grows late for your reaching the West Coast in due time, so hope you will touch no where till you reach said Coast.</p>
+			<p>What is particularly intrusted to Mr. Dupuy and Mr. Griffin wee would have them keep a great Secret and to doe what relates thereto at the West Coast or Batavia among the Dutch or Chineses, at any rate as well as they can, and not to lett any English at any Place in India know any thing of that Concern, nor none of the Ships Company, if possible to be prevented <note resp="editor" value="REST OF SENTENCE SCORED THROUGH" /> and order all your Ships Company not to discourse with any English or others in India any thing relating to your Cargoe out or home.</p>
+			<p>Wee would have Mr. Grist admitted to act in relation to the Cargoe, telling him we doubted of his going in the ship when at Gravesend and for that reason gave the Instructions to Mr. Griffin, but hope his future dilligence will make amends for his Neglect here; for as hee is concerned with us, wee have reason to hope that his owne Interest and future Preferment will be an obligation to his Industry and secresy in all our Affairs. Shew him this Letter and all elce relating to our affairs.</p>
+			<p>Soe wishing you a good Voyage and safe returne &amp;c., Your affectionate Freind, T. B.</p>
+			<p><note resp="compiler" value="ADDRESS" /> Capt. Jos. Tolson: Sent 2 Copies one to Plimouth (returned) and one to Falmouth under Cover to Mr. Hammonds Freinds.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_016">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T TBOWREY"></title>
+					<author key="THOMAS BOWREY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="226" />
+			<head> <note resp="editor" value="PAPER 51. (THOMAS BOWREY TO MR CHARLES SHERER.)" /> </head>
+			<p>London, September the 13th 1704.</p>
+			<p>Mr. Charles Sherer: Sir, This comes by the <hi rend="type">Mary Gally</hi> . <note resp="editor" value="PORTION OF LETTER OMITTED" /> Your advises or other favours to the Captain of said ship in his Buying, selling, &amp;ca. will be a great favour to me and shall be acknowledged in due time.</p>
+			<note resp="editor" value="FOLLOWING PARAGRAPH SCORED THROUGH" />
+			<p>Here is arrived this season the <hi rend="type">Worcester</hi> , in whome I was Cheifly concerned, in whose voiage we suffer much by the Impudence of Mr. Callant, the Supra Cargo, who had oppertunity of making us a very great voiage had he pursued his Instructions. As it is we shall cleare about <note resp="editor" value="BLANK" /> per Cent profit. He is dead, so Captain Mathews <note resp="editor">? in</note> the <hi rend="type">London</hi> will cleare about <note resp="editor" value="BLANK" /> profitt.</p>
+			<pb n="227" />
+			<p>As to Publick News. The Cheif actions this sumer has bin in Bavaria where the Duke of Malborough marched to the assistance of the Emperor with about 45,000 English and other Nations in the English Pay, and has in Conjunction with the German Army gained two signall Victorys over the French and Bavarians. In the first the Enemy were beat from strong entrenchments and lost about <note resp="editor" value="BLANK" /> men killed and <note resp="editor" value="BLANK" /> taken prisoners, among which Marshal Tallard, a General, 16 other General Officers, 1200 <note resp="editor" range="2,8" orig="In[\fantry\]">Infantry</note> Officers and <note resp="editor" value="BLANK" /> soldiers and the whole Country of Bavaria reduced to the Emperors obedience.</p>
+			<p>In Savoy the French have taken one Considerable town.</p>
+			<p>By Sea the French are not able to meet us with a Grand Fleet so endeavours cheifly to Protect the Trade of the Spanish West Indies and to destroy the Merchant Shipping English <note resp="editor" value="REST OF SENTENCE SCORED THROUGH" /> and Dutch, which is too often effected, more thro our own negligence then their own power.</p>
+			<p>If you please to favour me with any thing materiall of the Transactions of any part of India, it will be very acceptable. This with mine and Wives service to your selfe and Lady, I conclude, and am Your Humble Servant, <note resp="editor">T. B.</note> .</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_017">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T TBOWREY"></title>
+					<author key="THOMAS BOWREY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="227" />
+			<head> <note resp="editor" value="PAPER 52. (THOMAS BOWREY TO ROBERT LESLY.)" /> </head>
+			<p>London, Oct. the 13: 1704.</p>
+			<p>Mr. Robert Lessly: This comes by the <hi rend="type">Mary Gally</hi> , Joseph Tolson Captain and Supra Cargoe. She is a Seperate Stock Ship and so is Intituled to the Protection of the united Company in all Priviledges they enjoy in India, in which ship I am concerned. Any Assistance or kindness you shall doe for said ship will be taken as done for me.</p>
+			<p>I wrote you by the <hi rend="type"><note resp="editor" range="2,6" orig="Ri[\sing\]">Rising</note> Sun</hi> , Captain T. <note resp="editor" range="3,7" orig="Wyb[\ergh\]">Wybergh</note> , desireing your assistance to him. I hope he has bin in Bangal. I forbeare mentioning any thing of your relations here, I having delivered to Captain Tolson Letters from your Grandmother <pb n="228" /> <note resp="editor" value="MRS MASFEN" /> and Aunt. I doubt not but you received the Books I sent you and hope by this time you are in a good way of getting a Living, for the <note resp="editor" range="4,5" orig="Lear[\n\]ing">Learning</note> and Ingenuity you are endowed with (provided you lead a Godly and vertuous life) can scarce fail of raising your fortunes in India.</p>
+			<p>If you have bin at Maldiva, I desire you to informe Captain Tolson of the Navigation thither and the Method of Trade there, the <note resp="editor" range="2,3" orig="us[\u\]all">usuall</note> Price of Cowries for Rice, what sort of Rice or other goods proper to carry thither and any other matters usefull to him. Or if you have not bin there, that you would make such enquirys of any English or Moors <note resp="editor" value="MUHAMMADANS" /> who have bin there and inform Captain Tolson, and to procure him if possible a servant to goe with him who is acquainted there.</p>
+			<p>As to Publick News. I have wrote Mr. Sherer, and Captain Tolson has the News Papers which you may peruse.</p>
+			<p>If any thing matteriall happens in any part of India, your advising me thereof will be very acceptable. This, with mine and Wives Love and service, is what offers from Your Loving Freind to serve you, <note resp="editor">T. B.</note> .</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_018">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T TBOWREY"></title>
+					<author key="THOMAS BOWREY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="229" />
+			<head> <note resp="editor" value="PAPER 54. (THOMAS BOWREY TO JOHN BEARD.)" /> </head>
+			<p>London, the 7 October 1704.</p>
+			<p>Mr. John Beard: Sir, I wrote you of the 23d November 1703 per ship <hi rend="type">Rising Sun</hi> , Captain <note resp="editor" range="1,6" orig="T[\homas\]">Thomas</note> <note resp="editor" range="1,7" orig="W[\ybergh\]">Wybergh</note> , recommending him to your favour, which ship hope may have bin with you and enjoyed your favourable assistance, which I am still a solicitor for in behalfe of the <hi rend="type">Mary Gally</hi> , whereof <note resp="editor" range="1,6" orig="J[\oseph\]">Joseph</note> <note resp="editor" range="1,6" orig="T[\olson\]">Tolson</note> is <note resp="editor" range="1,5" orig="C[\apt.\]">Capt.</note> and <note resp="editor" range="1,5" orig="S[\uper\]">Super</note> <note resp="editor" range="1,5" orig="C[\argo\]">Cargo</note> , by whom this comes. She is a seperate stock ship, so Intituled to the Protection of the United Company, which hope they will not refuse to act herein as the Law requires, and for which we pay them 5 per Cent on the Gross sales at the Ships returne to England.</p>
+			<p>Dr. Evans, Bishop of Bangor, is now in Wales. I advised him of this ship going for Bangal. He wrote me he would send Letters, but have not received them.</p>
+			<p>This, with all due respects, is what offers from Sir, Your most Humble Servant, <note resp="editor">T. B.</note> .</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_019">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T TBOWREY"></title>
+					<author key="THOMAS BOWREY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="230" />
+			<head> <note resp="editor" value="PAPER 56A. (THOMAS BOWREY TO THOMAS PITT.)" /> </head>
+			<p>London, the 11th October 1704.</p>
+			<p>To Captain Pitts: Honble. Sir, This comes by the <hi rend="type">Mary Gally</hi> whereof <note resp="editor" range="1,6" orig="J[\oseph\]">Joseph</note> <note resp="editor" range="1,6" orig="T[\olson\]">Tolson</note> is Captain and <note resp="editor" range="1,5" orig="S[\uper\]">Super</note> <note resp="editor" range="1,5" orig="C[\argo\]">Cargo</note> , wherein I am cheifly concerned. She is a Seperate stock ship and has the <note resp="editor" range="7,8" orig="Company[\s\]">Companys</note> Certificate to shew, so hope shall enjoy all due Protection from the Company at all places in India.</p>
+			<p>The Concerned designing said ship to Stop at Fort St. George, I am in Duty bound to adress your Honour, desireing your Favours in all matters relating to said Ship and Cargoe and shall much esteeme all Kindnesses shewed. The ship is bound from Fort St. George to Bangal and the Captain has orders to carry Letters or doe any service you please to Command thither.</p>
+			<p>Supposing this ship may arrive with you before the Companys ships, have sent your Honour the Printed news of the sumer past, which hope may be acceptable.</p>
+			<p>I hope your Honour will pardon this presumtion, having never had the Honour of your acquaintance, but presume you are not a stranger to my name <note resp="editor" value="REST OF SENTENCE SCORED THROUGH" /> which is well known to Mr. Aflack and any others who were at Fort St. George when I lived there. I conclude, with all due respects, and am Your Honours Most Humble Servant, <note resp="editor">T. B.</note> .</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_020">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="C 1705? T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="234" />
+			<head> <note resp="editor" value="PAPER 57. (CAPTAIN TOLSON TO CAPTAIN BOWREY FROM THE CAPE OF GOOD HOPE.)" /> </head>
+			<note resp="compiler" value="WRITTEN BY JOSEPH DUPUY" />
+			<p>Cape bon Esperance.</p>
+			<p>Sir, Being willing to make use of all Opportunitys, that any way might appear to present, to give you an Account of our proceedings, according to my last dated the 31 of October, Sett Sayle from Spitt head under the Convoy of the <hi rend="type">Litchfield</hi> with the Wind <pb n="235" /> at N, Et. We Sayled through the Needles at 4 a Clock in the Evening. I quickly found that my Ship did not sayle soe well Large as I expected, the <hi rend="type">Litchfield</hi> sayling some small matter better then I did, all wich Advantage the Captain, Contrary to his promise, made use of, although in 48 houres he did not gain above 4 Miles of me.</p>
+			<p>On the 2d of November, upon the break of the day, I saw a sayle somewhat near me, and perceiving her to be a french ship, I fired at her, after wich he Endeavoured to Enlarge his Distance and made the best of his way from me. In a Small time after, I see the <hi rend="type">Litchfield</hi> take the forementioned his Consort, being both from the West Indies and bound for St. Mallo, and the Same time I saw a Sayle to the South Eastward who Immediatly gave me Chace. And he thereon Sent 6 men unto the prise and made the best of his way. I Came up with the Prise and asked him what his Captain took those Ships to be, and he tould me his Captain took them to be french Men of War or Privateers. I askt if <note resp="editor">he</note> Intended to shorten Sayle for me. To which he ansswered he believed not. I kept on after him <note resp="editor" value="THE LITCHFIELD" /> till 11 a Clock, and when See that he did not Intend to shorten Sayle for me, and my Chasers nearer me then before, Endeavouring to gett to Windward of Me, I Clapt upon a Wind, and I soon found my Ship to mend her Pace from 4 l/2 knotts to 9 knotts, the Wind at WNWt. I stood away Wt. and the Eastermost Ship <note resp="editor" value="OF THE CHASERS" /> bearing Et. b No., I found them to drap a Stern a great Pace. After I Clapt upon a Wind, I slackt my Rigging, so that <pb n="236" /> by 2 houres Computation I had gained 5 Miles upon them, and they left <note resp="editor" range="2,3" orig="of[\f\]">off</note> their Chace. I believing the Ship to be somewhat by the head, I unstowed my Anchors and stowed them again at the Mainmast. In the Night we fell unto a fleet, amongst <note resp="editor">which</note> we discerned was a Light. I Immediatly altered my Course, and it falling Calme, I gott out my Oars, which I find very usefull to me upon such Occassions; so I believe they did not see me.</p>
+			<p>The next Day <note resp="editor" value="3 NOV." /> wee had a Storme of at S.Wt. We were then in the Lattitude of 48d. No. We splitt our Mainsayle and lay under a Reef Mison. The next Day I resolved to make Sayle to the Westward, apprehending less Danger in standing away Wt. and Wt. b No., then lying a trying. The Weather Continued 4 Dayes, in which time I had very good Observations, and the Course I steerd Caried Cleare of any part of Ireland, and the Ship being tite, made noe Water. We kept on till the Wind veered about.</p>
+			<p>The 6 Day of November att Noon I spied a french Snow lying a trying. He see but our topsail abroad <note resp="editor" value="SPREAD" /> and run past him at such a Rate he never gave us Chace, we then having the Wind att No.E. b No. and stearing away S.Wt. We run 10 knotts. I see none afterwards that seem'd to be Desirous of seeing me or speaking with me.</p>
+			<p>I made Cape de Verd Islands and went of the Eastward of them in order to shorten my Way. I met with very Contrary Winds and Calmes <note resp="editor">which</note> hath very much defrayed <note resp="editor" value="SIC" /> my Passage, for I find my Ship to Sayle very well.</p>
+			<p>The 10 of December I had the Misfortune of Carieng away <note resp="editor">my fore topmast</note> in the lattitude of 4d. South, though I had secured my Mast with out Lickers and <note resp="editor">had done</note> what I Could in order to Carry Sayle; for not being able to Cross the Line so far to the Eastward as I Intended, I was Obliged to Carry sayle in order to Carry Clear of the Coast of Bresil, wich I feard. I made <pb n="237" /> Tristan de Cuna the first of January <note resp="editor">1705</note> , since wich I mett with Contrary Winds.</p>
+			<p>I Arrived in this Place the 19 Inst. <note resp="editor" value="JANUARY 1705" /> , where I found Captain Engeldu in the <hi rend="type">Susanna</hi> from Surratt, and Captain Jacob Wright in the <hi rend="type">Legorne</hi> frigate, both bound for England, by both which you may Expect Letters.</p>
+			<p>The Wind hath blown very hard 2 Dayes, I having given my Ship a paire of boot topps. And with the Consent of Mr. Dupuy and Mr. Griffin, we thought it might be for the Good of the Voyage to buy for the Cargo Six Leagers of Wyne, for wich <note resp="editor">wine</note> we gave 45 Dollars per Leager, of the money Received for Beer, according as you ordered I might, of wich I have sent a small Cask by the <hi rend="type">Susanna</hi> , Captain Engeldue, and I have left this with a Deanes <note resp="editor" value="DANE'S" /> ship and 2 more, that is, One with Captain Engeldue and one with Captain Wright, the Deanes Captain having promised me to take a Perticular <note resp="editor">care</note> to Send it to England. All wich being true Coppys of this. I Am now <note resp="editor" value="26TH JANUARY" /> unmoared in order to sayle on my Voyage. Soe we rest as before Your humble Servant, <note resp="editor" value="UNSIGNED." /></p>
+			<p>The Cass qt. <note resp="editor">contains</note> 12 Gallons markt MG.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_021">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="B 1705 FN RGRIFFIN"></title>
+					<author key="RICHARD GRIFFIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="237" />
+			<head> <note resp="editor" value="PAPER 58. (RICHARD GRIFFIN TO HIS PARENTS FROM THE CAPE OF GOOD HOPE.)" /> </head>
+			<p>Cape, Janry. the 26th, 1704/5.</p>
+			<p>Honoured Father and Mother: Wee having Arrived here the 19 Instant and Having an Oppertunity of writeing to you by the <pb n="238" /> <hi rend="type">Leghorne</hi> Friggott, I made bold to trouble you with a line or two to tell you of my health and <note resp="editor">of</note> all our Ships Company, and of our safe Arrivall att this place, wee touching here only for Water. But since my being here I have been in Company with a Gentleman <note resp="editor" value="JOHN VAN DEN BURGEN" /> , which is a Liver <note resp="editor" value="INHABITANT" /> att this place, which Came from the ship <hi rend="type">Abbington</hi> from Carwar, he being Carried by Misfortune from this place by the <hi rend="type">Josiah</hi> , Captain Pie, And after a short stay on bord the <hi rend="type">Josiah</hi> , took Passage with Captain Goodfellow for the Coast of Mallabar and went to Carrwar, a factory <note resp="editor" value="OF THE E.I.CO." /> , to Lade Pepper on the Coast, But <note resp="editor">by</note> his Discription of the Voyage it has been Very unfortunate, for as he Verryfies it for truth that Captain Goodfellow is Dead and Mr. <note resp="editor" value="CHARLES" /> Gunn Drown'd. The fifth Mate, one <note resp="editor" value="JOHN" /> Davis, is att present Commander and Mr. Watts Cheif mate. But as for Mr. <note resp="editor" value="HAWES" /> Newport, the Men has Made Objections against it, and he has Left the ship for Not succeeding his birthwright <note resp="editor" value="EXPECTATION" /> to be Commander. But as for my brother <note resp="editor" value="N. GRIFFIN" /> , he is in very good health and a brisk sailor and Minds his business very well, and is very well respected be <note resp="editor" value="SIC, BY" /> every body.</p>
+			<p>And by the same Information, Captain Pies men was goeing to Runn a Way with both Ships, had itt not been discovered, and Eight Confest designing to Kill Captain Goodfellow and Captain Pie, but some made Objections Against Killing Captain Goodfellow, saying "his <note resp="editor" value="HE'S" /> good by Name and good by Nature." Being in Conclusion of the Mater What to doe, was Over heard by one Tagg, and he discovered the Mater; and soe itt was prevented.</p>
+			<p>Likewise I will give you some mens names as I hear was Liveing when this man <note resp="editor" value="THE INFORMANT" /> Left her (being 7 Months since) on the Other side, but since this Misfortune on bord the <hi rend="type">Abington</hi> .</p>
+			<p>Captain Lashley, Commander of the <hi rend="type">Neptune</hi> , has Lost his ship a goeing down the Coast Just within Cape Comrine <note resp="editor" value="COMORIN" /> , and itt is Reported that he was sent for to Command the <hi rend="type">Abbington</hi> , but am Not Certain, but by all Proprability itt will be soe, for the <hi rend="type">Abbington</hi> is gone for Bumbay and he has been sent for thither; therefore itt is Beleived to be for the same account. If not, I hear a Very good Carrectter of the said <note resp="editor" value="JOHN" /> Davise, <pb n="239" /> now Commander. So no more Concerning our Neigbours, but must think a Little of my self.</p>
+			<p>Wee are now att the Cape, as I wrought <note resp="editor" value="WROTE" /> before, and all in Generall in health, and are in fare Prospect of Makeing a Very good Voyage for our Owners by all people as wee Can Learn of, and am Very well satisfied in my Voyage, ship and Commander. So no more, but Conclude in Health, wishing the same to Your self and Mother, Likewise to my Brother and Sisters, Giveing my Duty to your self and Mother. Love to Brother and Sisters and all friends in Generall. I remain till Death, Your Dutifull Son, Richard Griffin.</p>
+			<p>Pray tell Madam Humfrey that William Crouch is in good health, he being a Cosen of theres. Likewise give my service to her and the Captain, if at home. Likewise to Captain Wells.</p>
+			<p>Mr. Grist and Mr. Dungey desires to be remembred to there friends.</p>
+			<p>The Gentleman that has gave this Report arrived here but two days before us and Designs for England this fleet, his name being Mr. John Vande Burgen, but must first goe for Holland.</p>
+			<p>Liveing on bord the <hi rend="type">Abbington</hi> as I am Informed</p>
+			<p>Mr. <note resp="editor" value="JOHN" /> Davise, Comander now</p>
+			<p>Mr. <note resp="editor" value="BARTHOLOMEW" /> Watts, Mate</p>
+			<p>Wm. Crouch, Midshipman</p>
+			<p><note resp="editor" range="1,8" orig="N[\icholas\]">Nicholas</note> Griffin, Do.</p>
+			<p>Tho: Munday, Do.</p>
+			<p>Giles Loane, Do.</p>
+			<p>Jno. Packer, Purser</p>
+			<p>Mr. <note resp="editor" value="WILLIAM" /> Collins, Carpenter</p>
+			<p>Mr. <note resp="editor" value="BENJAMIN" /> Dungey, Do. Mate</p>
+			<p>These being all I knew, made noe further Enquiry Concerning Strangers.</p>
+			<p>Robt. Watson, Drown'd.</p>
+			<p><note resp="editor" value="ADDRESSED" /> To Mr. Nicholas Griffin, Liveing a Little be Low Ratclif Cross near London: Per <hi rend="type">Leaghorne</hi> Friggott.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_022">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="C 1705 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="248" />
+			<head> <note resp="editor" value="PAPER 59. (FROM CAPTAIN TOLSON TO CAPTAIN BOWREY.)" /> </head>
+			<note resp="compiler" value="WRITTEN BY JOSEPH DUPUY" />
+			<p>Callcutta December the 12. 1705.</p>
+			<p>Sirs, Haveing this Good oppertunity by Captain Wibridge, I am willing to Give you A full Account of the passages, Conveniances and Inconveniances that hath Attended our Voyage to this Place.</p>
+			<p>The 31st of October 1704 I passed the Neadles under a Convoy of Captain Thomas Billingsly in her Majesties Ship the <hi rend="type">Litchfeild</hi> , whoe served me as you see in the Coppy of my Letter from the Cape of Good Hope, which Gives you An Account of our departure from thence and what had passed in our Passage to that Place.</p>
+			<p>I departed from the Cape the 26th of January and the 26th of February I Lost my fore topmast Againe.</p>
+			<p>The 5th of Aprill wee where in the Lattitude of 4d. 50m. S. and 66 Degrees to the Eastward of Cape <foreign>Bona Esperance</foreign> , haveing had a verry tediouse Passage, and where I Exspected to have mett with the Westerly Monsones, I mett with Little Else but Calms.</p>
+			<p>The 19th of Aprill wee made the South end of the Iland Nassaw which was my Designe to fall in withall, Allthough I hoped to have made itt sooner, but by greate Calms and Westerly Currents I Could not Accomplish my desire sooner.</p>
+			<pb n="249" />
+			<p>In Councill wee Resolved to goe for Bencolen, where wee Arrived the 24th, and by the Goverment verry sivilly Received. My men was something Inclineing to the Scurvy. I would have Proceeded According to your Order, but haveing a Relation by 2 ships from Battavia that Europe Liquor being a Very Dead Commodity, <note resp="editor">and</note> After haveing Endeavoured to Oblidge his Honour and Councill if Possable to Ingage in A Contract According to Instructions, which I could not Accomplish, Altho I Proffered Cheaper then Ordered, wee Resolved to goe to Padang in Order to Dispose of some, if not All our Cargoe.</p>
+			<p>In this time my men began to be verry sickly. My Second mate <note resp="editor" value="GEORGE DUNGEY" /> there desired his Cleareance, which I had noe greate Reason to Deny him, Although to my thinking I had used him as A Brother for his farthers sake. Att that time 2/3 of my men was sick, therefore think him verry Ungratefull according to my Judgment. I shiped another there att the same Wages, whoe was noe Artisst, butt my want of men Oblidged mee to have some <note resp="editor">one</note> , Alltho' Mr. Hancock, who I have now made my second mate, by All Appearance was more Capeable then hee. I Cleared Mr. Dungey the 8th May 1705, whoe hath behaved him self soe that hee is now goeing home from this Place A Midshipman with Captain Lane for Europe.</p>
+			<p>I sett saile from Bencolen the 17th of May in the Morning. The Contracts made there I have sent here Inclosed, and Likewise att Bantall, att Pollosinck, &amp;c. Att Padang I had but small success, finding the Places as <note resp="editor">per</note> the Relation in my Last from Battavia, whereof you have here Inclosed A Coppy.</p>
+			<p>To my Greate dissatisfaction, then, I made the Best of my way for Battavia. I had trusted the Cheife of Bantall to the Value of <pb n="250" /> 800 Spanish Dollars, and Allthough I had from under his hand and the Seconds Likewise, I was detarded Eight Dayes att Bencolin before I could gett the Principall without Demoareidge <note resp="editor" value="DEMURRAGE" /> , According to Contract.</p>
+			<p>The 10th of July I Arrived Att Battavia, Where I found Mr. Hinmars, whoe was verry willing to give mee all the Advice he Could to my Intrest. But he departed from Battavia the Next day after I came hither, Mr. Vancaster, as in the Coppy of my Battavia Letter, being Dead before I Could speake to him.</p>
+			<p>I found my ship to be in Greate Dainger of the Worme, and my Maine Mast Proveing verry bad, I found my Self Oblidged, for the security of the ship, to Dispose of my Cargoe, being much touched with the Worme. I had Carpenters and Colkers <note resp="editor" value="CAULKERS" /> , dayes Work, 118, Att A Rupee a Day, my Colker being sick and Deyed 7 Dayes after I bungun <note resp="editor" value="SIC" /> the Worke. I had 200 Teake boards att 18 Dollars per Hundred, 4 Pecoll of Nailes att 12 dollars per pecoll; for a Greate boate to Putt my Lumber in, 3 Dollars per day; 6 Duckatones <note resp="editor" value="DUCATOON" /> to the Subanders <note resp="editor" value="SHAHBANDAR, HARBOUR-MASTER'S" /> Boateswaine as A fee to not to take notice of what buisness I did, for I could not Gett A free Liberty to Lay her Ashore. And for Oacom <note resp="editor" value="OAKUM" /> , Dammer <note resp="editor" value="DAMAR, PITCH" /> , Oile, the Hire of English men and Cooleys, the Whole Cost of the sheathing and Cheking the Maine Mast and <pb n="251" /> the Makeing the tops will Amount to 450 Rix Dollars, as by my Books will Appeare, besides the Loss of time. Soe that I advise you, never Propose to send out Another ship unsheathed, nor to take the Advice off that Old Knave, Keatch to send ships to India, Where the Long Passage Oblidges the Carrying of saile, to not Allow security for the Masts, for which hee hath had my Wishes that he had Perished in the Coale Lighter where the Waterman Left him, for I doe Asure you that it was a Greate Prolonging of my outward bound Passage.</p>
+			<p>These fitteagues, and the Indispossion of my Assistance by sickness and my stock being small and Waisteing Dayly, made mee to Comply with the Articles heare inclosed.</p>
+			<p>I Departed from Battavia the 2d of September verry Deep Laden. I mett with a verry Long Passage and Verry Hard weather. The 10th of November I Arrived in Ballasore Roade. Mr. Grist was Left att Battavia. Likewise Att the same Place I mett with Mr. Webber and two other of the <hi rend="type">Prosperouses</hi> Men, the One the Greate Villon, the Cheife Actor in the Running Away with her. I would Gladly have sent him to Justice, but upon Consideration, 1st that my Owne Officers in whome I could trust being Indisposed by sickness, and feareing that iff I Demanded Justice of the Goverment they would have delivered them into my Hands; and beleive my men to be verry Honest and did not <pb n="252" /> Care to have them Corrupted by Villons. Mr. Webber I gave A Passage to Bengall, he being verry Poor, but behaved himself verry sivilley on bord my ship; and what ever he hath been formerly, I beleive hee will make a Good Man. I shiped him by Recommendation Cheife Mate on bord the <hi rend="type">Mary Ann</hi> , Captain Godwin, A seperate stock ship, and he is gone to Batavia, and as I understand, bound for England from thence, in which Imploy I hope hee will doe verry Well.</p>
+			<p>My second Mate <note resp="editor">whom</note> I Shiped at Bencolen I cleared heare for some Certaine Reasons ofe Negktlecting my buisness to disadvantage of yours and my Intrest. I Paide him his Wages and maide Mr. Hancock my second mate, whoe hath behaved himself verry well and in my Eye is most deserveing of That post.</p>
+			<p>Att Battavia I had Considerable Loss by beare being sowre, and 7 Chests of beare that Came on bord Last, att the Opening of them at Padang, Appeared Like unto the Dunghill, in soe much that wee saved but 34 Dozen, being fill'd up one with another, much of which proved Bad afterwards and turned to Little Account. The strong beare burst severall of the Caske. The Chease I sould Last att Battavia, haveing disposed of but Little before. I sould them 1 Doller 3/4 per Chese, one with the Other.</p>
+			<p>Att Battavia I Lost my best bower Anchor, and the Reason my Cable Parted, I Judge itt to be Cutt by Anchor flukes; and haveing no buoy, and the Anchor sunck in the Mudd, <note resp="editor">I</note> Could not gett him, the Want of which I Cannot Excuse, by not being of my Necklect, by noe other way then my buisness Lieing heavey upon mee and my People sick, I was forsed to Lett things be some times Contrary to my Inclineations and Judgment.</p>
+			<p>That Night I Arrived in Ballasore I took A Dutch Piolett and <pb n="253" /> Gave 100 secar <note resp="editor" value="SICCA" /> Rupees to Carry mee up to Callcutta, but he haveing not soe Good Exsperiance as hee ought to have, Runn us Upon A sand the Next Reach below Jangerall Point, the 16th of November, Where I Lay 2 tides. The 1st Tide I Exspected every Minute to have seen her goe all to Peices, Lieing Right Thawrte <note resp="editor" value="ATHWART" /> the Tide, which Runn Like the Currant under London Bridge. I had shored her, <note resp="editor">so</note> that shee stood upwright, and as Pleased God, Contrary to All Human Reasons, she did not make any More water then useally, which is butt verry Little. The Next tide I Gott out the best bower Anchor Againe which wee hove home the Tide before, or Else wee had Gott her of, and by the Help of the Wind and All my sailes sett I Gott her of before Any Assistance Came. Captain Hurle sent mee two boates, his Long boate and Yawle and the Bucksees <note resp="editor" value="BAKHSHI, PAYMASTER" /> , Mr. Prattle, two towe Boates and A sloop.</p>
+			<p>Heare <note resp="editor" value="CALCUTTA" /> I received your Letters, but as yett I doe not find any Reason to beleive that I shall have any Evill treatement from the Government. Wee have sold our Cargoe, Most of itt to his Honour Shelldon, soe that he being my freind I doe not <pb n="254" /> feare any Examination of my Affaires. I have had some proposalls with his Honour to Come heare Againe, which Beleive I shall, and then, without your orders to the Contrary, God willing, I will Returne for Europe. I hope to bee in A Condition by that time to Purchase a Cargoe of 40,000 Rupees, and if the best of our Judgment may be safe to follow your Instructions in our Returne to Europe, I shall give All due Respect to them; but if any way more safe, you may Depend that I will use my Endeavours to Come safe. And I hope to make all the Gentlemen Concerned Gainers by the Voyage, soe that I hope none will be forward in Insureing, for I doe Value the safe Returne of the Ship Equall with my Life, and will as soone Loose one as the Other.</p>
+			<p>My Intent is to Come home with the Dutch fleet, soe that I hope to Depart this Place 12 Months hence. I am verry Likely to Come by A verry bad market for the Glass ware, itt being A Verry dead Commodity. Wee have 12 Rupees for 75 <hi rend="type">li.</hi> of Pepper and for Arrack 90 Rupees per Leager.</p>
+			<p>I have made a Cable of Koyer, my small bower Cable proveing not Trustworthy, for att Bantall itt Gave way in faire weather and no straine. The buoy Rope broke and I lost the Anckor, but being in search After itt, I found Another About 2 cwt. Less, which I Allwaies finde will hold more then I am Willing to trust to that Cable. I sould the Yaule att Battavia for 40 Dollars, findeing one boate to be sufficient for my Complyment of men.</p>
+			<p>As for Opium, the Price itt beares now att Battavia and the Price in Bengall I find itt noe Commodoty, and the Gentlemen with whome I made these Articles is the Cheafe trader in Battavia for Opium, and they will not have any Opium in the ship, for heare itt is att 300 Rupees per Chest, and Att Battavia by Reason of the War, itt is but 190 Rix Dollars per Chest; soe that I think not to take any on the ships Account, but Rather take the Priviladge in the Articles mentiond in Other Goods.</p>
+			<p>I will send you An Account more Att Large by the <hi rend="type">Fleate</hi> <pb n="255" /> frigot, Captain Newton, of my Affaires here, but shall be Allwaies Cautious of Interseptions, for as for the Letter sent for the Downes, I neaver Received itt, Dated the 19th of October, but the Letter dated the 28th of Do. I did receive, when the ship was Under saile and after I had sent mine away, Dated the 30th <note resp="editor">October</note> 1704.</p>
+			<p>As for Mr. Wells, I doe not finde but that hee hath done you <note resp="editor">the</note> Just part of a Man in All Respects Relateing to the Ship, for iff she Had not been stronger then itt Might have been Exspected <note resp="editor">in</note> one of her built <note resp="editor" value="BUILD" /> , shee never had Come <note resp="editor" range="2,3" orig="of[\f\]">off</note> whole, haveing such a Large Quantity of Coper, <foreign>Toothanegg</foreign> <note resp="editor" value="TUTENAGA, SPELTER" /> and tinn as I had. The Maine mast I hope will doe verry Well, but itt was farr from as Good as itt should have been.</p>
+			<p>The Guilded Knives I have had most Part by mee till I Came here, and the Glass ware, <note resp="editor">and</note> all the shaules. I can gett noe more then 4 Rupees a peice for them, and before I Came to this Place I neaver Could have the Proffer of Any money for them. The Spanish Rashes I Left att Battavia in order to bee disposed off in the Merchants hands I have dealt with.</p>
+			<p>I have had one Hogshead of Wine Leaked out. I bought Koyer <note resp="editor" value="COIR" /> for 4 1/2 Rupees per maund, and Captain Hurle took some exceptions because I would not give him six, and soe he sent mee 3 Leaguers off Arrack back, Complaineing off the Goodness, altho hee had his Mate on board to see itt Good and in Good Condition delivered.</p>
+			<p>The Dutch men I brought from Batavia, being 3, is all Run away heare, haveing had A Months Pay advance att Battavia. Archiballd Whittman Hath been A Verry Deligent servant to the ship and a verry sober Good man, and I have Respected him, and hee hath Acted as Boateswaine this 6 Months, the Boateswaine haveing been Indisposed by sickness soe Long, and I am dubiouse of his Recovery. Iff he Recovers I will make the Aforementioned <pb n="256" /> my Gunner, and I hope you will Consider and Gratifie the Dilligent, <note resp="editor">of</note> all which I shall give you a true Relation.</p>
+			<p>If God should Call me aside, I hope I have those to <note resp="editor" range="5,6" orig="succe[\e\]d">succeed</note> that will use theire Endeavours to guard theire Owne Reputation and your Intrest, Altho' I praise God I am and have been in Perfect Bodeyly health, soe that with Gods Assistance I can foresee noe Aspect that you may not have a Good Voyage. Neither have I any reason to speak ill of those who itt should Please God should bee my successors, soe that I hope none will be forward in Insureing.</p>
+			<p>The Cargoe I brought heare <note resp="editor" value="FROM BATAVIA" /> Amounts to 50,000 Rupees and upwards, all which and more is to goe back in my ship, according to our Contracts with his Honour Sheldon and others, soe that my securety neaver goes out of my Hands, and you may Depend never shall.</p>
+			<p>I ordered a Case of Arrack to bee sent from Battavia, of the best that Could be Procured, which I hope will Come to your Hands in order to drink to our safe Arrivall to yours and our sattisfaction, to which I Pray God Assist oure Endeavours, which shall not be wanting, soe far as Life and Health permitt.</p>
+			<p>Joseph Ford and William Smith (the man I had in the rome of James Jones) Runn Away Att Bencolen the 15th May 1705.</p>
+			<p>Mr. Sheldon has promised to Dispatch mee from Callcutta by the 25th of January next.</p>
+			<p>Att our Comeing <note resp="editor" range="2,3" orig="of[\f\]">off</note> the shore of Batavia, the Day before I took my Leave thereof, I Gave Notice to All that belonged to mee that I would saile att 2 in the Morning. Mr. Grist went on shoare that Afternoone and I told him that I should saile by 2 in the Morning. The Gentlemen with whome I Dealt Came off in Order thereto and I sett saile att 4 in the Morning, and att 11 I see a boate following mee and <note resp="editor" range="2,3" orig="pe[\r\]ceiveing">perceiveing</note> Mr. Grist to be in her, I sent the Gentlemens Paunch along to fetch him, but by some misfortune the boate Lost us and did not Come to us to the Place appointed, which was off Bantam Point, in order to Take in the Gentleman. I doe beleive Mr. Grist was in the boate, for att his Comeing into the Paunchalong, the Other boate returned. The Gentleman I put on bord the <hi rend="type"><note resp="editor" range="4,5" orig="Pant[\h\]er">Panther</note></hi> , Captain John Camell <pb n="257" /> Commander, bound for Betavia. Mr. Grist had behaved himself verry well, soe that I am positive he had noe designe to Leave the ship, nor I any Reason to Leave him but by misfortune.</p>
+			<p>Soe wee Conclude and remaine, your most Humble and faithfull servants,</p>
+			<p>Joseph Tolson</p>
+			<p>Joseph Dupuy</p>
+			<p>Richard Griffin</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_023">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="B 1705 T JDUPUY"></title>
+					<author key="JOSEPH DUPUY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="262" />
+			<head> <note resp="editor" value="PAPER 64. (JOSEPH DUPUY'S REPORT TO BOWREY FROM BENCOOLEN.)" /> </head>
+			<p>Bancolen the 20 Juin 1705.</p>
+			<p>Sir, Since our last we have not being favoured with any, from the wich shall cause brievity. This shall only be to Inform you that in Settling the Accounts that the weights of the Spanish Ps. 8/8 did not agree. We made by our Weight but 814 Ounces and 942 ps. by tale. I cannot tell where the error Should be. You delivered them to Mr. Griffin all Sealed, and he kept them unto his Custody till they were Delivered to Capt. Tolson. There was one of the baggs wich was burst in Mr. <note resp="editor" range="7,9" orig="Griffin[\'s\]">Griffin's</note> Chest wich, has he says, had received Damage by Saltwater.</p>
+			<p>I have no more att present only Referr my Self to the Generall Letter and So Remain Sir: Your most Humble Servant, Joseph Dupuy.</p>
+			<p><note resp="editor" value="ADDRESSED:" /> To Captn. Thomas Bowrey, in Well Close Square, London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_024">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="B 1706 T EGRIST"></title>
+					<author key="ELIAS GRIST"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="263" />
+			<head> <note resp="editor" value="PAPER 65. (LETTER FROM ELIAS GRIST TO CAPTAIN BOWREY FROM BATAVIA.)" /> </head>
+			<p>Batavia, January the 17th 1705/6.</p>
+			<p>Capt. Bowrey, Sir, I thought itt proper to Informe You that our Ship Goeing for Bengall in the Service of Mr. Jno. Moor, Merchant here (Leaving me behinde, through an Unlucky Accident), here were some Letters for you and some other of the Owners left in the abovesaid Merchants handes by Capt. Tolson, with a small matter of Tea, Lacquer and China Ware, which he Thought might be acceptable to your Lady, to be Sent home by the first Opportunity. And in Order theretoo, upon the Arrival of the <hi rend="type">Dover</hi> here, Mr. Moor spoke to Capt. Garraway <note resp="editor" value="OF THE DOVER" /> about itt, but Received an Unexpected Answer, <foreign>Vizt.</foreign> , that he would neither take or Suffer to be Taken on board, either Letters, or any other Individuall matter, wherein he might Seem to serve Capt. Tolson. The Occasion of his Aversion I am sensible of, soe cannot Impute itt to any Brutishness in his Temper. However, I being Sensible of this, and well knowing the Import of the Letters, went to the Merchants and had the Letters delivered to mee and Clapping a Direction to Mr. Hammond over the Direction to you, delivered them to a private person (by name Mr. Jones) as my Letters, which he promist to putt into the Post Office, as Soon as arrived in England.</p>
+			<p>Sir, I have nothing to Informe you of more, save that the Merchant Expects the Ship here in next March. What ever must doe then God knowes, for our Stock's produce, with the rest of our Treasure, will not purchase a Cargoe here to Answer your Expectation.</p>
+			<p>However, hoping for the best, I Conclude with all due Respects, Sir, Your most humble Servant, Elias Grist. Sir, pray Give my Service to Mr. Hammond, &amp;c. <note resp="editor" value="ADDRESSED:" /> To Capt. Tho: Bowrey, Att his house in Well Close Square, Near Rattcliffhighway, London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_025">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="C 1705 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="266" />
+			<head> <note resp="editor" value="PAPER 67. (LETTER FROM TOLSON TO BOWREY DATED AS FROM BATAVIA.)" /> </head>
+			<note resp="compiler" value="WRITTEN BY JOSEPH DUPUY" />
+			<p>Batavia the 5th September 1705.</p>
+			<p>Sirs, I send you these lines, beging your pardon that att present I cannot give you a more full Account of our proceedings. I have here inclosed his honour Watts Account Curant and Mr. Bugdens Chief at Bantal.</p>
+			<p>I found in my Outward bound passage a great unconvenience by the Want of tops and Riging to secure my topmast. I caryed away 2 topmasts outward bound, and for want of riging to secure them, I never was able to Carry what Sayle was Convenient to gain a passage, which together with the Contrary Winds I met with, made my passage very tedious.</p>
+			<p>The 24 of Aprill I Anchored in Sillybar road (where I found the <hi rend="type">Dover</hi> , Captain Garway), wich is about 16 Miles from Bencola. The Governour sent horses for us the next day. In that place my people begun to be very sickly. I had some dealings with the Governour as you see by the Relation that I had.</p>
+			<p>We thought it the best to proceed to the Northward, although our time in our Instructions was out. In so doing I found my Self in a great eror, for Padang, it is not the place it is represented for the taking of Europe Goods, it being small and a place of little Consumation, there being not above 8 or 10 people of note. I could have had 400 pecull of Benjamin, but the price being high, did not deall with them. I did not sell above 500 dollars worth of Goods, wich made me heartily repent my Comeing there. I toke Gould wich I sold for 23 per Cent. at Batavia, where finding my bear <note resp="editor" value="BEER" /> to sower, I made all the Expedition to sell, which I did, <pb n="267" /> strong and small together, for 40 dollars per but; the lead <note resp="editor">also</note> att 4 1/8 dr. per pecull, <note resp="editor">and</note> the Guns and Anchors 6d per 112 <note resp="editor" value="?" /> <hi rend="type">li.</hi> as marked.</p>
+			<p>Here I found my Ship to be in great danger of the Worme, wich made me make all the haste I could to gett her Sheathed, and her mainmast being Sprung <note resp="editor" value="CRACKED" /> in the head I was forced to gett it out and Check <note resp="editor" value="CHEEK" /> it. It hath not proved good, Severall pluges Starting out of it which he had Cut in the fitteag.</p>
+			<p>I have had here, you may Judge, no little trouble, having not had above 3 people besides my Self well in the highth of my buysines. In the night I went on Shoar and in the day on board to Stow my Ship, both of my Mates being Sick and Mr. Dupuy having the Ague.</p>
+			<p>Mr. Vankester whome I had a letter for and a box and hamper, from whom I expected Assistance, died Comeing on shore in the boat, after the Receipt of the letter. These disapointments made me Except of the Articles Inclosed of wich money I have paid in <note resp="compiler" value="DOLLAR SIGN OMITTED" /> 7191. 2. 1., and I have left on Shoar with him <note resp="editor" value="JOHN MOOR" /> 7 hogshead of Cape wyne, 22 baggs of Shot <note resp="editor">and</note> the bayle of Spanish Rushees <note resp="editor" value="RASHES" /> to dispose on <note resp="editor" value="SIC, OF" /> for us and to be Accounted att our Return. And I have on board all the Glas ware, 10 leagers Arrack, 50 pecull of Peper.</p>
+			<p>On the Ships Account I paid 5/8 of a dollar for Carpenters and Corkers per day. I Sheathed her all with teek board. All wich Account I, God willing, will give you in my next, and I hope you will pardon my Shortness and Consider my trouble and hast and not Impute it to be any Neglect.</p>
+			<p>In great haste we Conclude, hoping in Short time to give you a <note resp="editor" range="2,3" orig="fu[\r\]ther">further</note> acount</p>
+			<p>Jos. Tolson</p>
+			<p>Joseph Dupuy</p>
+			<p>Richd. Griffin <pb n="268" /> Mr. Grist is Left att Batavia.</p>
+			<p>We have Sent you a Case of the best Arrack. <note resp="editor" value="ADDRESSED:" /> To Capt. Thomas Bowrey in Well Close Square near London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_026">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1705 T TBOWREY"></title>
+					<author key="THOMAS BOWREY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="272" />
+			<head> <note resp="editor" value="PAPER 70. (LETTER FROM BOWREY TO TOLSON IN REPLY TO LETTER FROM THE CAPE OF GOOD HOPE.)" /> </head>
+			<p>London the 12th Nov. 1705.</p>
+			<p>Capt. Jos: Tolson, Mr. Jos: Dupuy &amp; Mr. Richd. Griffin, Sirs, Wee received yours from the Cape, when Outward bound, and hope this will meet you there in your Voiage homeward where, if you are soon enough, we would have you come in Company with the Dutch Ships for Rotterdam, and if not, we would have you follow the directions already given for your Voiage homeward in your Instructions.</p>
+			<p>Capt. Green and his Cheif Mate and Gunner is hanged in Scotland, very unjustly, and we have lost the <hi rend="type">Worcester</hi> and Cargo there. Therefore, avoid Scotland.</p>
+			<p>Saltpetre and most Sorts of India Goods is rather dearer then when you went out. Wee apprehend wee have had some Letters Intercepted by the East India Company, therefore would not have you write us of any Transactions of your Voiage, but when have opportunity, to write us only where you are and to send an account of what goods then aboard for our Accounts, and at the first Port you come to in Holland, England or Ireland, to send Mr. Grist and Mr. Dupuy up to us to give us an account of all matters of the Voiage.</p>
+			<p>We hope a happy meeting here and are Your Loving Freinds</p>
+			<p>Thos. Bowrey</p>
+			<p>Thos. Hammond</p>
+			<p>El. Dupuy</p>
+			<p>Geo: Jackson</p>
+			<p><note resp="compiler" value="ADDRESS" /> To Capt. Jos. Tolson Comander of the <hi rend="type">Mary Gally</hi> from India to be left at the Cape of Good Hope with the Dutch Wine Merchant. per Mr. Jno. Rogers Q.D.G. in the <hi rend="type">Liampo</hi> and per <note resp="editor" value="BLANK" /> in the <hi rend="type">Windsor</hi> Gally per Mr. G. Jackson's cover to Madera, per Thos. Davis in the <hi rend="type">Dartmouth</hi> .</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_027">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="C 1706 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="276" />
+			<head> <note resp="editor" value="PAPER 72. (TOLSON'S LETTER TO BOWREY FROM BATAVIA.)" /> </head>
+			<note resp="compiler" value="WRITTEN BY RICHARD GRIFFIN" />
+			<note resp="editor" value="BATAVIA, 28TH JULY 1706." />
+			<p>Hond: Sir, I Send you these Lines to Informe You that, to my Great Dissatisfaction, I Remain in this Port <note resp="editor" value="BATAVIA" /> still.</p>
+			<p>In my last I Gave you an Account of our Intent to Goe for Benjar, but not being able to procure Spannish Money and the Exchange goeing soe high as 33 per Cent, that is 133 Rix Dollers For 100 Spannish Dollers, <note resp="editor" range="3,4" orig="mad[\e\]">made</note> me alter my Resolution, and I made a Verball Contract with the same Gentleman as I Dealt with before for 2000 Pecoll of Sugar att 4 Dollers and 1/4 Rr. per Pecoll, to be putt on board by the 10 of June, and 100 pecoll of Benjamin att 35 Rix Dollers per Pecoll. The Rest of my Money I Reserved to Invest in other Goods fitt for Suratt, For which Place I Design'd the Cargoe, but the Strickness of the <note resp="editor" value="DUTCH" /> Government's Inspecting into the Trade of the English has been such that I have not yett on board above 500 pecoll of Sugar and 200 pecoll of Sugar Candy and 105 pecoll of Benjamin.</p>
+			<p>The Gentleman that made the Contract with me has been very Delatory to my Great Discomfort, next to the Pointe of Despair. He promises to Dispatch me in a very shorte Time, and for some Reasons beleive he will performe it.</p>
+			<p>I have on board about 8 pecoll of Spice, 100 pecoll of long pepper, 25 pecoll of Long Turmerick and Some Round Pepper, and I hope in a Short Time to Give you a farther Account of our proceedings, and with the help of God to make the best of our way for England.</p>
+			<p>Mr. Dupuy has been very unserviceable and pernicious to the Ships Interest, as will by his Actions appear, to my Great Dissatisfaction, that I can no longer hide his base and Ridiculous Actions, as will herein appear. Att my arrivall at Bencola he refused to proceed any farther with me, and Gave me under his <pb n="277" /> hande the Inclosed papers. Att my Returne from Padang to Bencola he had by his unbecoming Behaviour and Extravagancys made himself odious to the Governour and Gentlemen of the place, and by Sickness did appear like a Ghoast, and in Reputation like a Vagabond, which made my heart bleed to see him in such a Condition, soe that att his Request and For his Father's Sake, I received him on board, For which he hath given me a great deal of Reason to Repent itt.</p>
+			<p>Att my Arrivall att Batavia, most of my men being Sick, and Bussiness laying heavy upon mee, my Mates and Mr. Grist being likewis Sick, he pretending to be Indispos'd, he went to the Gentleman I dealt with <note resp="editor" value="JOHN MOOR" /> and took 25 Dollers, as he pretended, For my Use. I order'd the Gentleman to Lett him have no more, but he, under pretence of a bill Drawn that would be accepted In Bengall, Gott 330 Dollers of the said Gentleman; and in Bengall, as I Suppose, he sold the said bill, if he had such a bill.</p>
+			<p>When I was ready to Sail <note resp="editor" value="FROM CALCUTTA" /> he came to me, being followed by a Serjeant and a File of Musqueeters, and told me he was sent For by the Cheif <note resp="editor" value="OF THE FACTORY" /> . Att which I answered, "What have you done?" And he Told me, "Nothing." I asked him if he owed any body any money, and he said, "No." Soe I went to the Cheif with him, and all the Punch houses in Town came in with their bills upon him, to the Value of 300 and odd Rupees, besides all other Debts to other Gentlemen, which he had with Lying and Weedling Gott of them, in which faculty he is become as perfect a Master in as any Kidnapper in London.</p>
+			<p>The Cheif in Bengall made me Give them a Bond for the Money, of which I doe not Question but you have an Account before this time. And here <note resp="editor" value="IN BATAVIA" /> he hath made himself soe rediculous that there is not One Gentleman nor Sayler of whome he could borrow money or moneys worth, that <note resp="editor">? with whom</note> he hath not used all Deceitfull wayes immaginable to Accomplish his End; and <note resp="editor">he</note> hath Gone on board of other Ships <pb n="278" /> and bought Chests of Wine. But as itt happned, I had notice of itt and they stopped them.</p>
+			<p>This and the like has occasioned me a great deal of Trouble, and the Subander has sent me one Bill of one of the Publick houses, with order to pay it, and I expect the rest, soe that I cannot Forbear making you acquainted I have appointed to meet the Gentleman this day, in order to Give him a Bond for the 330 Dollers, and I hope that you will take Care that his <note resp="editor" value="DUPUY'S" /> Father shall discharge the same, as itt was your pleasure to send him with me as my Second, and I for the good of the Voyage Engage my Self in such Cases, <note resp="editor">so</note> that I must either pay or Engage For itt, and if I pay, itt must be out of the Ship's Stock. And itt is hard to pay Permission For money to Trade and such young Fellows drink and whore with the Principall. I never knew of this money he borrowed till he came <note resp="editor" range="2,3" orig="of[\f\]">off</note> Bantam Pointe For Bengall.</p>
+			<p>My Ship is in a very good Condition, and my men in health. Archibald Whiteman is dead, and I have made John Mitchell Boatswain in his Room. John Painter is dangerously sick. I have my Complement: all English Except 2. My Mates, purser, Docter, Carpenter and Thomas Studds are well.</p>
+			<p>For these Reasons abovementioned wee have thought Fitt in Councill to Exclude him <note resp="editor" value="JOSEPH DUPUY" /> From any farther acting in that Station, as the Inclosed will make it appear, For Fear of Mortality any Farther Dammage should Ensue. I hope to Give you a farther Account in my next.</p>
+			<p>Since what writt before, have met the Gentleman about the 330 Dollers, but find him Deaf to any Thing of Bonds, soe that after all means and perswasions used, I may assure you I shall be Oblidg'd to pay the Money and 30 Per Cent. for the Use of itt.</p>
+			<p>After our humble Service to you all, Wee Conclude and Rest, Sirs, Your humble Servants,</p>
+			<p>Jos: Tolson</p>
+			<p>Richard Griffin</p>
+			<p>Elias Grist</p>
+			<p>Batavia, <hi rend="type">Mary Gally</hi> , July 28, 1706.</p>
+			<pb n="279" />
+			<p>The Inclosed papers, save one, are Copies of them sign'd Per Mr. Dupuy, which now I have on board to produce hereafter, if Occasion For it.</p>
+			<p><note resp="editor" value="ADDRESSED:" /> To Capt. Thomas Bowrey, These.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_028">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1707 T TBOWREY"></title>
+					<author key="THOMAS BOWREY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="279" />
+			<p><head> <note resp="editor" value="PAPER 74. (LETTER FROM ENGLAND TO TOLSON, SENT TO AMSTERDAM AND ROTTERDAM.)" /> </head> <note resp="compiler" value="FROM THOMAS BOWREY" /> London the 31/30th May 1706/1707 <note resp="compiler" value="COPY OF A LETTER WRITTEN A YEAR PREVIOUSLY" /></p>
+			<p>Capt. Jos: Tolson, Mr. Jos: Dupuy &amp; Mr. Rich: Griffin &amp; Mr. El: Grist: Sirs, Expecting your Arrivall in Holland, this is <pb n="280" /> to advise you that so soon as you arrive there, we would have Mr. Dupuy and Mr. Grist to come for London by the first Conveyance to give us an Account of all Matters, with an Invoice of the Quantity and Quality of the Cargo then aboard. Give us no Account of Transactions of the Voiage by Letters, for we have reason to think the East India Company Intercepts them, and give a Charge to whoever you dispatch for London not to give any person but ourselves an Account of any Transactions of the Voiage.</p>
+			<p>Wee doe strictly Charge you not to sell or suffer to be sold any thing out of the Ship, considering the Bonds we are Ingaged in to the Contrary. We would have you come with the first Convoy that offers from Holland for the River of Thames where God send you safe to Your Loving Freinds,</p>
+			<p>Thos. Bowrey</p>
+			<p>Thos. Hammond</p>
+			<p>Geo. Jackson</p>
+			<p>Elias Dupuy</p>
+			<p>Sent one Copy under Cover to Mr. Sam Mears at Amsterdam and one delivered to Mr. <note resp="editor" value="ELIAS" /> Dupuy to send to Rotterdam.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_029">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="B 1707 T EGRIST"></title>
+					<author key="ELIAS GRIST"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="286" />
+			<head> <note resp="editor" value="PAPER 75. (ELIAS GRIST TO CAPTAIN BOWREY REPORTING THE CAPTURE OF THE MARY GALLEY BY FRENCH PRIVATEERS.)" /> </head>
+			<p>Dunckirk, September the 1th 1707.</p>
+			<p>Captain Bowrey, Sir, though I am not ambitious of being the Messenger of bad Newse, yett I thinke itt proper to Informe you of the Loss of Ship <hi rend="type">Mary Gally</hi> , and to lett You know our Missfortune may in Great part be attributed to your Order to the Commander of not putting into any part of Scottland, as your Letter left att Cape <foreign>Bona Esperance</foreign> will show, allthough Mr. Dupuy nor self was made acquainted with nothing of the Matter till wee had lost Company with the Dutch Fleet, which is now about 5 weeks agoe. After which, having used Endeavours to find them againe and all Hopes of itt Frustrated, though a fair wind presented for putting in to Norroway, yet no Argument could prevaile with Captain Tolson, though wee Gave him our Opinions in Writing, which though might differ in some small Matters, yett all Concur'd for making the best of our way for the Nearest Port, where wee might harbour the Ship with Safety, which was some part in Norroway, wee then being Per Account off not above 25 Leags, and the Wind fair and fresh Gale.</p>
+			<p>Now after wee had neglected that Opportunity through the Commanders Obstinacy, who was Absolute in his Resolutions, after much blowing foggey Weather and the Wind either Contrary, or little or too much of itt, itt pleas'd God to Send us a fresh Topsaill Gale att NNW., soe to the NW. and WNW., with which wee might have fetcht in to any part of Scotland, and though Hee had made many specious Pretences to us before of Getting into any part of Scottland, rather then Risque Ship and Cargoe longer, yett then, contrary to Expectation, no Port must serve his Turne butt Newcastle, where, about 15 Leags Distant, were Chac't <note resp="editor" range="2,3" orig="of[\f\]">off</note> the Coast by French Privateers, and as soon as Gott clear of One, through favour of the Foggey Weather, allwayes fell in with Another. In Short, after wee had carried away our Mayntopmast and found the Ship that Chac't us come up <pb n="287" /> with us att a Great Rate, wee brought too, and made the Ship Clear for Engaging. When he was alongside us, he ply'd us very hott with his small Shott, wounding 9, and killing one in an Instant, and had not God Allmighty been att the Expence of a Miracle, had Taken us, for our small Armes were of as much use as a Bartholome fair Bow and Arrow. And <note resp="editor">as</note> for your Great Gunns, they Jumpt out of the Carriages att first firing, soe that with our Heigth in the Wast and these Implements of Warr, we were finely fitted.</p>
+			<p>After wee Gott away from her, wee Shap't a Course for Norroway, and just as saw the Land, fell in with 2 Sayle of Menn of Warr, who took us and brought us in here.</p>
+			<p>I have much more to Say, but shall Deferr till Arriv'd in England, Where shall Expect to be informed what part of the Summ of &pound;4080 is remaining behind, in order to receive my Dividend.</p>
+			<p>We came out in the Darke and have made a Darke Voyage of itt. The Injustice Done me relating to the Commission, allthough as the Case now stands, is of no prejudice to my Interest.</p>
+			<p>You may think I am a little blunt with you, but Sir, Loosing Gamesters have Liberty of Speaking. Had I my Effects Insur'd, I should have been Your very Easy humble Servant, Elias Grist. What above written attested to be true Per</p>
+			<p>Richard Griffin</p>
+			<p>John Elliot</p>
+			<p><note resp="editor" value="ADDRESSED:" /> To Captain Thomas Bowrey, Marine Square, London, England.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_030">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1707 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="288" />
+			<head> <note resp="editor" value="PAPER 76. (TOLSON TO BOWREY ABOUT THE CAPTURE OF THE MARY GALLEY.)" /> </head>
+			<p>October the 13th 1707.</p>
+			<p>Sir, I Received your Letter in which you desire mee to gitt an affadavitt off the maner off my being Superated From the Fleet and off my being taken, and what Cargo was on board on the owners proper account, all which I hope to Sertyffye you by the Next post. For yesterday, being beffore the Judge <note resp="editor" value="AT DUNKIRK" /> to make my declaration, he promised to take my affadavitt when I had gott itt made and Ready by a Note Republike <note resp="editor" value="NOTARY PUBLIC" /> . I asked Mr. Griffin to Signe with mee, butt hee Reffused, Saying hee would have his wages First. Butt you need nott wounder att his ingrattitude, in which he hath so offen and Clearly showed him Selff gilty off, both to you and mee, togither with his incelentt behaveour and Ignorent acting when I was uncapable, to your Lose and my Ruen.</p>
+			<p>I pray God be my Comfforte, who hetherto hith <note resp="editor" value="SIC" /> been my Suporte From Sinking under So greatt afflictions and Miserable Condission as I have under gone and had no other comffortt then that hee will Never Leave nor Forsake them that put their trustt in him. I am very weak in my Knee, butt I Finde itt to grow stronger by degrees. There hath Severall Splenters off the bones come outt, butt I hope itt is cured now. Itt hath broke outt Severall times, both where the Shott went in and where itt came outt, and one small bone workt out.</p>
+			<p>The Ship is nott Sold as yett, as the Judge Sertiffied in <note resp="editor">? me</note> yesterday. The <note resp="editor" range="3,6" orig="She[\ath\]ing">Sheathing</note> board is on, For that I Feared the <note resp="editor" value="?" /> tching off the Worme beffore I cold gitt itt putt on. Her Riging is very much Shott and damaged both Standing and Runing. Her Cables - the Sheet Cable is good; the best boar <note resp="editor" value="BOWER CABLE" /> much wore, and there is about 50 Fathem off kire</p>
+			<note resp="editor" value="COIR" /> Cable made in Bengall the First time <note resp="editor">we were there</note>
+			<p>. She <pb n="289" /> apeareth Some whatt Strained Ever since the pillett <note resp="editor" value="PILOT" /> Laid her aground goeing up Bengall River. Ther is 4 anchores, 10 Guns and aboutt 16 tun off Caskes in her when I was taken, 2 Sutes off Saile, 1 half wore, the other 2/3; one I made on board outt off 2 Dutch Main Sailes I bought att Batavia.</p>
+			<p>The Judge hath promised me to take my affadavitt, So thatt, as Soon as the Note Republike hath done itt, who hath now my Copy, I will dispatch itt away, according to your directions, and a copy theroff, which I hope shall be the Next poste, and I do nott Fear itt.</p>
+			<p>I have Sent you 3 Letters beffore this. As For the Ships book and any papers, I Fear they canott be Recoverd, For the officers haveing plundered very much, Feared <note resp="editor" value="FEARING" /> that bookes or papers should discover itt, they made away with all off them, save the invoyce off some <note resp="editor" range="4,5" orig="good[\s\]">goods</note> purchesed in Bengall, which the Judge told mee was gone to Paris, and that they would nott discover any other papers, alledging that the people had hove them over board.</p>
+			<p>The Captain is gone from hence some time agoe, that took us. There is 3 off my wounded men dead off their wounds, and the 4th not Like to Live.</p>
+			<p>In my Letter that I sentt giveing an account off the Cargoe, I Forgot 30 Maund off bowrax or tincall, purchesed on the owners account.</p>
+			<pb n="290" />
+			<p>Dear Sir, iff any thing lies in your <note resp="editor">power</note> to the advancement off my Enlargement, I Humbly desire you will nott omitt itt, which will bee the Greatest oblygation that you can Lay upon your distressed and Humble Servant, Jos: Tolson. October the 13: 1707: Dunkirk hospitall.</p>
+			<p>The Reason off this Letter comeing 4 dayes Laiter then itt is datted is that I cold nott gitt itt sent to the post house, So that with itt I have sent the affadavitt as you writt For, and a copy theroff I gave to have itt made by. I had the affadavitt the day Mr. Griffin and Mr. Grise <note resp="editor" value="GRIST" /> and the docter <note resp="editor" value="JOHN ELLIOTT" /> and Mr. Dupuy Reffused to signe, alledging that they would have their wages First, and as I understand, they have sentt you a Letter to that porpose. I very seldom see them.</p>
+			<p>Mr. Dupuy took up off the Marchent I delt <note resp="editor">with</note> 330 Rix dolere, and with his other bills off Extravigance he Run outt there 589 Rix dolers, all which I was Forcd to pay outt off the Ships Stock. Mr. Grist toke up 190 off the Marchent I delt with in the time I was upon my voyge From Batavia to Bengall, all which time hee Lay att Battavia, being left by his Idleness and Neglygence, For he went on Shore aboutt no busines.</p>
+			<p>I hope Sir, that when I come in England, that you will doe me <note resp="editor" range="2,3" orig="Ju[\s\]tice">Justice</note>, that I shall nott be brought in trouble aboutt the monthes pay in Six, which I am very much thretoned by severall off them, who aledgeth their is noon <note resp="editor" value="NO ONE" /> paid, For God knoweth, though my Woundes hath Nott proved mortle by them, I am reduced to a poor condisson. For iff itt had pleased God that I had been capable <note resp="editor" value="FIT TO COMMAND AFTER BEING WOUNDED" /> , your ship had never come to France, nor I have lost my voyage, which both I valued Equall with my Liffe, as I shall very well Sattisffie you when itt pleases God to permitt me to see you, till which time I Rest, your distresed Serventt, Jos: Tolson. October the 17th 1707.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_031">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1707 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="291" />
+			<head> <note resp="editor" value="PAPER 77. (TOLSON TO BOWREY FROM HIS PRISON AT DUNKIRK.)" /> </head>
+			<p>Dunkirque, the 15th off November, 1707.</p>
+			<p>Sir, I Received yours dated the 22th off October, in which was one incloased to Thomas Studes, which I deliverd, and have in the Cover Sentt you an answare thereto from him to his Mother.</p>
+			<p>I gott the affadavitt Made according to your desire, and Sentt itt, which desire you will give me an accountt iff you have Received them, I mean the affadavitt and the copy, and there you will Finde in my Letter to you the Reason why I cold gitt none off the Rest to Signe with me.</p>
+			<p>I have had greatt trouble to gitt baill and itt hath cost me above 50 Shilings to procure <note resp="editor">a</note> Frind to keep me outt off the Comon prison, which hath been the occasion that I coulld nott answer your desire in the Letter, For that I cold nott go aboutt to gitt whatt accountt you desire. Butt by the Next post I will Send you the Nearest account that I can make up off whatt men and whatt money paid them.</p>
+			<p>I have taken No money upon the botem off Mr. Sheldon, nor any other, save 1000 Rupees off Sir Edward Littleton, which Ingageth or Enlargeth the Ships Cargo. <note resp="editor" range="4,5" orig="Ther[\e\]">There</note> is other bounds <note resp="editor" value="BONDS" /> , the Condissions off which will sertyffye you when itt please God that I shall Returne For England. I am Some thing indisposed att present and very week in my knee still.</p>
+			<p>I had 24 Men and boyes when Ingaged <note resp="editor" value="WITH THE ENEMY" /> and 23 when taken, 14 off them outt off England and 10 Shipd and <pb n="292" /> bought in the Contry <note resp="editor" value="INDIA" /> ; 2 off the last, being the cook and boy, was the owners slaves. The boy the Captain off the <note resp="editor" value="FRENCH" /> man off war gave me to tend upon me, butt iff I can Save him hee shall be att the owneres pleasure att my Return.</p>
+			<p>I have drawn a bill of Exchange For ten pound upon Mr. Dupuy by Reason off Mr. Puoarte being gone to Paris, and I have Received butt ten pounds off him, which I desire you to advize Mr. Dupuy off, and that you will be so Kinde as to See itt Excepted. So I Restt, Your distressed Servent in bonds, Jos: Tolson.</p>
+			<p><note resp="editor" value="ADDRESSED:" /> For Mr. Bowry Marchant, Liveing in Mareen Square, London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_032">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1708 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="292" />
+			<p><head> <note resp="editor" value="PAPER 78. (TOLSON'S OFFICIAL ACCOUNT OF THE PROCEEDINGS OF THE MARY GALLEY BEFORE HER CAPTURE.)" /> </head> <note resp="compiler" value="TO THOMAS BOWREY AND THE OWNERS OF THE MARY GALLEY" /></p>
+			<p>May the 15th 1708.</p>
+			<p>Sirs, I send you these according to your order att the Union Coffye house.</p>
+			<p>On the 24 off July Last, about 4 in the affternoon, being then in company with 14 Saill off Dutch and 2 English homeward bound East India Ships, itt hapened to prove a very thick Fog, and toward the morning Came on a Storm of winde, which broughtt the whole Fleett under a main Saill, the Winde att N. Et.</p>
+			<p>Att 2 in the affternoon I see one Dutch Ship and the <hi rend="type"><note resp="editor" range="4,6" orig="Fred[\er\]eck">Fredereck</note></hi> <pb n="293" /> bear up and Lay their heads to the Southward, which I did Likewise and berthed our Selves to Leewards off them both. A little time affter the <hi rend="type">Frederickes</hi> main tack gave way and I see her beat up and brought to on our Lee quarter. In the evening I perceived them to Fall to Leeward apace, and designeing to bear down to them, I Found itt to blow So hard that I durst nott venture to Medle with any Saill For Fear off carying all away or Foundering.</p>
+			<p>The next morning I boar down, haveing watched a Slatch off weather (I believe 3 Leagus), butt cold not desern any Ships, the weather haveing continued very thick all the time. So I brought to again.</p>
+			<p>The Storm abateing on the 30 off July I Survayed our watter and provissions and found <note resp="editor">them</note> in good Condission: 2 Months of all Sorts, according to Computation, and theirupon Consulted with all my officers whatt was best to be done. Wee concluded that in the Courses Steard they <note resp="editor" value="THE FLEET" /> designed to go to the Northward off the Islands off Fairo <note resp="editor" value="FAROE IS." /> , So in hopes that wee might meett with them their, I spent 9 dayes, butt Findeing all in vain, I Resolved to make the best off our way For the First porte that I cold gitt in Saffty to in England or Scottland. But <pb n="294" /> when I came near the Ferth <note resp="editor" value="OF FORTH" /> the winde blew very hard So that I cold not cary my topsaills with less then both Reeffes in, the winde at W. b So. to Wt. So I Resolved to make the best of my way For Newcastle.</p>
+			<p>Butt on the 14 off August in the morning see 2 Ships ahead off mee. So I tacked and Stood to the Northward. They gave me Chace all that day, and allthough wee careyed away our maintopmast, wee bore away and Steared Such courses as wee Lost them.</p>
+			<p>On the 15th in the morning, haveing gott up another topmast, butt the Riging nott Sett Fast, when I see that a priviteer that had given us Chace 2 houres, I see would inffallably Speek with us. I Resolved, as God is my wittness, to deffend my Charge with the Last Drop off my blood, and so caled all my peaple together and prepared our Selves to <note resp="editor" range="6,7" orig="Receiv[\e\]">Receive</note> him. He came under our Lee quarter, in order, as I beleive, to board us, butt Findeing <note resp="editor" range="2,3" orig="to[\o\]">too</note> warm a Receitt, hee Sheard off and Lay under our Lee bow, and their plied us with a very warm Fire, most From Small armes. For, I beleive, an hour and a halff beffore I Received that wound that disabled me. And then, by the help of Mr. Dupuy, I was Corryed down and ordered the Rest to go to Close quarters, which was perfformed and prepared For with the best provission I cold make, haveing 6 powder Chistes upon the quarter deck and 16 quarter Shelles, and upon the Forecasle 2 powder Chists, and my Small armes in the best Condission I cold Keep them.</p>
+			<p>Indead, the behaviour off my mate Griffin I canott Commend, <pb n="295" /> For beffore I was wounded in the Knee, hee had Lefft his quarters above a quarter off an hour, and taken with him all who was Givein him to take care off, telling them, as I understand since, that I had ordered them to Close quarters. And when Thomas Studes would have come up, hearing mee and the rest upon the deck busye in Entertaining and Returning the Enymyes Fire, hee would nott Lett him, and when the Priviteer putt off, <note resp="editor">in spite of</note> all that I cold <note resp="editor">do to</note> perswade him to go up and incorage the people, he Refused, telling mee that itt was Impossable to Stand upon the quarter deck.</p>
+			<p>So Mr. Dupuy Looking down, as I Remember, I beged off him to help mee up <note resp="editor" value="ON TO THE QUARTER-DECK" /> , and Mr. Griffin helped him to gitt mee up, butt Sitt and Served outt the powder him Selff Some time affter, till the Enimy was quite outt off muscatt Shott and makeing the best off his way. So haveing sitt till I was cold, my wounds become very painffull, and then they caryed me down and putt me to bed, and I ordered Mr. Griffin to make the best of their way For Noraway, the winde being Westerly, with which there was no hopes of gaining the coast off England or Scottland.</p>
+			<p>Butt the Managment that was used affter I was down, I pray God Lett never any honest man be a specktater off. For as I was infformed by the Carpenter <note resp="editor" value="JARRAD CUTBERSON" /> Next morning, hee <note resp="editor" value="GRIFFIN" /> went to his Cabin and did nott so much as inform them whatt course to Stear. And Sume time affter hee was goeing S.Et., when his Course was Et. And when I asked him what hee meened by that Course, hee went to his drafft and told me hee would bear away, For hee had not minded beffore the winde then being at S.S.Wt. And when Shee came beffore the winde, Shee Shiped Sume watter. And presently I heard such distraction and Swaring that wee Should all be drowned, as iff the Ship had been going to the bottom.</p>
+			<p>I asked the matter, and hee told me Shee shiped watter over the gunell, att which I ordered him to goe N. b W. with the <pb n="296" /> winde upon that quarter till hee came in the Lattitude off 57 <note resp="compiler" value="DEGREE SYMBOL OMITTED" /> 30' N. and then to goe away E.N.Et. In all this Time I beged off him to gitt up the maintop Saill, but cold not perswade him to do itt.</p>
+			<p>The day beffore wee ware taken he told mee hee was in the Lattitude I had ordered. So I ordered him to Stear away E.N.Et., and att 8 aclock Caled him and told him that I did nott think it saffe For him to Stand <note resp="editor" value="ON HIS COURSE" /> till 12, and that I would have him bring to att 10. Butt being so drunk that I could Scarce gitt him to Speek, hee told mee one watch cold not doe itt, and So, Contrary to my order, Fell aslep, as I was infformed, and stood <note resp="editor" value="ON HIS COURSE" /> till 12.</p>
+			<p>In the breek off Day they told me that wee where within 2 miles off the Shore off Uteland <note resp="editor" value="JUTLAND" /> , to my great Mortyffication, <note resp="editor">yet</note> praiseing God that so many Soulls had Escaped So Eminent a danger. Some time affter they told mee they See 3 Saill off hagboatts, which in hope to have gott a pilett outt off them, I ordered them to indeavour to Speek with them. Butt they whethered us and would not bear down. So being, by the Manidgment as I had seen, withoutt a better pilett, the Next Night would preduce a grave For all off us, I ordered him to Spread the Ensigne in the maintop mast shrouds to See iff any off them would bear down to us. But they would nott.</p>
+			<pb n="297" />
+			<p>Then hee <note resp="editor" value="GRIFFIN" /> cam and told me that they see 2 Ships to Leeward off us. I asked him what them Looked Like. Hee told mee hee beleived them to be 2 off the Dutch Fleatt, and asked mee iff hee should bear down to them. And I told him to do what hee would, and thinking that iff they ware an Enymy and to Leeward, they would unavoydably Speek with us, wee haveing No main top Saill. So God Allmighty knowes and be my Record whether my Liffe or the Ship I had in my Charge was most dear to mee. For while I am on this side the grave, the Lose off her hath taken away that which may be Imputed the Enjoyment off the Liffe in me.</p>
+			<p>And as For Those dimentts <note resp="editor" value="DIAMONDS" /> , I only desire you to consider whether iff I had had them all and Free off a bad consequence, whether they would have Surmounted my Intrests in the Ship or noe, whereas I took but one off the three parcells into my Custody, the prime cost off which, according to the bill off Laideing, is aboutt 600 pagodus; and whether that cold make mee satisffaction or nott, I Lieve you to be Judg off what Intrest I had in the Ships Saffty <note resp="editor">by</note> whatt is hear Incerted.</p>
+			<p>When you pleass to order me to wait upon you and the party their, which did nott apear yesterday, I shall be Ready. Your humble Servant, Jos: Tolson.</p>
+			<p><note resp="editor" value="ADDRESSED:" /> To Capt. Bowry and the Rest off the owners off <hi rend="type">Mary Gally</hi> .</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_033">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="B 1708 T EGRIST"></title>
+					<author key="ELIAS GRIST"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="297" />
+			<p><head> <note resp="editor" value="PAPER 79. (GRIST'S CHARGE OF COWARDICE AGAINST TOLSON AND GRIFFIN.)" /> </head> <note resp="compiler" value="TO THOMAS BOWREY" /></p>
+			<p>March 15th 1707/8.</p>
+			<p>Captn. Bowrey, Sir, The Bearer hereof desir'd me to Informe you he was not indebted any matter in the Ship's Booke, to which I can swear too. His Circumstances being very poor and mean, I suppose You will not deny paying him part of his Wages, considering he was a Person that behav'd himself very bravely in the Engagement with the French Privateer, when Mr. Tolson and his Rascally Mate Griffin left the Deck, and consequently, in their beleif, Gave up the Ship <hi rend="type">Mary Gally</hi> , the former having a wound in his Excuse, the latter not only keeping between Decks in the time of Engaging, but hindering those that were Quarter'd with <pb n="298" /> him from comming up to assist those that kept the Deck, as your Kinsman Thomas Studds and others that were with him inform'd me after the Engagement was over. I am Sir, Your humble Servant, Elias Grist.</p>
+			<p>Attested to per ... John Eliot.</p>
+			<p><note resp="editor" value="ADDRESSED:" /> To Captn. Thomas Bowrey, Present.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_034">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="B 1708 T EGRIST"></title>
+					<author key="ELIAS GRIST"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="325" />
+			<p><head> <note resp="editor" value="PAPER 94. (GRIST'S STATEMENTS AS TO HIS DEBT TO TOLSON.)" /> </head> <note resp="compiler" value="TO THOMAS BOWREY" /></p>
+			<p>May the 19th 1708.</p>
+			<p>Captain Bowrey, Sir, I am inform'd Captain Tolson avouches to you and the other Owners that the 190 Rix Dollers paid Mr. Moor for my accountt was not to runn upon the Bottom of the Ship and the primium, or advance upon it, <note resp="editor">but</note> to be left to the Discretion of the Owners att the safe arrivall of the Ship.</p>
+			<p>I wonder he should affirme soe known an Untruth, when in Mr. Griffins Hearing and alsoe in Mr. Dupuys, more then once or twice, this was the verbal agrement, that in case of the Loss of the Ship, that Debt to be null and void. And when we first discourst concerning that Debt, Griffin was by, and offered to pay Mr. Moor the money for my account, in case the Captain was not free to pay itt. Alsoe was paid out of the Ships stock near double the Summ for the account of Mr. Dupuy, on the very same Terms. And consequently the Owners may, with the same Equity, make a Demand of the money from Mr. Dupuy, as stopp any part of my Wages or Ships Debts upon that account.</p>
+			<p>And againe, Sir, att the juncture when this money was paid, how inconsistent must itt be with your Interest, nay with common Reason, to lessen the Ships Stock upon any other Terms then <pb n="326" /> the Bottom of the Ship, especially considering the smallness of itt, and that there was no necessity for itt, because I could be supplyed by another Hand. And if the money was Lent upon any other Terms (as itt was not), then the primium would have made but a small amount to the Debt.</p>
+			<p>When I saw Captain Tolson last, I show'd him the Terms wee agreed on in Refference to that money. All his answer was, he could not remember itt. But I find he can remember and forgett as suits best his Convenience.</p>
+			<p>And, Sir, as to that Objection about paying my part of wages Due to the Ships Company, that does concerne me Solely. Some of them are more indebted to me then my Share amounts too, and if any of them, for favours shown them in the voyage and out of Consideration to my present Circumstances, should be easy as to that matter, none of the Owners will suffer on that Account.</p>
+			<p>Therefore, I crave the favour of you, Sir, to Gitt in my money as soon as possible.</p>
+			<p>As to that matter concerning the 592 Rix Dollers said to be twice Charg'd in Mr. Moors Account Current, all I can say to the matter <note resp="editor">is that</note> I writt after a Coppy, and as Captain Tolson Dictated, the account was delivered to him, and he only Received the Ballance. And if Mr. Moors pay'd that Summ less then his Due, 'tis my Beleif itt was not with Desine, because that after he took his Account from me, in order to know the Ballance Due from him, he came the next morning and say'd he was not sattisfy'd with that account, because Captain Tolson had not Gave him Creditt for One half of some Charge he was att in Getting his Goods ashore, itt being, as he affirm'd, agreed soe between them, and brought an Account that he made up, affirming the Ballance came Short of the Captains Demand.</p>
+			<p>Now the Querie lays, if he was sensible of his Advantage, why would he not rather be Quiett and sett down the Gainer, rather then occasion the overlooking the Account againe, which must have found out the mistake, unless itt must be allow'd him to be a very honest Gentleman, as most that ever dealt with him avouch. But as to Captain Tolson's Character of him, I don't wonder att itt, for I never Knew him speak well of any man, besides Captain Jones.</p>
+			<p>And as to that other business, concerning the Sharing the 500 Dollers that Mr. Moor allow'd for Demorage, if I was to appear before the Tribunal of God to morrow, I could with Safety Swear <pb n="327" /> the minute before that (to the best of my memory) on Monday Evening, Captain Tolson, Mr. Griffin and my Self being att Mr. Vanderbegs att Batavia, he spoke to us to come with him into his Chamber, and having Shutt to the Door, made to us the following proposition, <foreign>Vizt.</foreign> , that in order for sharing the 500 Dollers, he would first take out 1/6 part, as being 1/6 part Owner; that I should have 1/24 part out for the same reason, and then the remainder should be divided in fifths, he taking two fifths, and the remaining 3/5 to be equally divided between Mr. Griffin and me.</p>
+			<p>Tis well for him Dupuy is absent and Griffin and I at variance. Otherways this part of the world would be too Hott to hold him.</p>
+			<p>I am inform'd, Sir, that my Name is sign'd to severall of Captain Tolsons papers. I am sensible <note resp="editor">that</note> to some that Mr. Griffin and Mr. Dupuy sign'd too, I sign'd alsoe, but I am fully assur'd to none of any vast importance in the latter part of the voyage.</p>
+			<p>I begg pardon, Sir, for being soe tedious, and am, Sir, Your Humble Servant, E. Grist</p>
+			<p><note resp="editor" value="ADDRESSED:" /> To Capt: Tho: Bowrey, In Marine Square, near Rattcliff Highway: Present.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_035">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="B 1708 T EGRIST"></title>
+					<author key="ELIAS GRIST"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="333" />
+			<head> <note resp="editor" value="PAPER 98. (GRIST'S REQUEST TO BOWREY TO RECOVER HIS CLAIMS FOR HIM.)" /> </head>
+			<p>August 9th 1708</p>
+			<p>Sir, I received your Note, but withall desire you to consider the Debts due from the Ships Company to me. As your Business could not be well perform'd by severall on board the Ship without my assisting them with Cloaths, &amp;c. (which was by the Captains Order), 'tis very hard if I must have no allowance for soe necessary supply.</p>
+			<p>Your answer heretofore was, I must have my Recourse to Captain Tolson, who Gave me Order for Serving the men; but if he be put past a possibility of paying me, I know not to whom to apply besides your Self and the rest of the Owners.</p>
+			<p>What I have all ready Given Oath too, I am, and ever shall be, ready to attest too, though upon my Death Bedd. But there can be no policy in Serving you farther to my Cost, which will follow if Captain Tolson recover no part of his wages. I desire, Sir, that Equity May have its Course. Then, I am well asshur'd, I shall be Consider'd.</p>
+			<p>I was cheifly accessary to saving the Ship once (which without vanity I may avouch), but never lent a helping hand to the loss of her. I am, Sir, Your humble Servant, Elias Grist <note resp="editor" value="ADDRESSED:" /> To Captain Thomas Bowrey, att his House in Marine Square, near Rattcliff Highway; Present.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_036">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1708 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="337" />
+			<head> <note resp="editor" value="PAPER 100. (TOLSON'S APPEAL TO BOWREY.)" /> </head>
+			<p>June the 15th 1708.</p>
+			<p>Sir, The Severty off your persicution is such that I canott Aprihend your Intention to bee Less then that you Intend to drive mee off the Stage, off which my Sad circomstances off the Loss off my Limes <note resp="editor" value="LIMBS" /> and all that I had in the world makes mee weary off; and you canott be more desireous off itt then I am Free to make you a Sacriffice off itt.</p>
+			<p>The great God be Judge off the Reason I have given you (For I know none) to proseed against mee in this Nature. Your deserning eye is able to pentrate into the unjustness off those Fals accusations which the devill and malis hath Inventted against me, off which God alone can be Judge, Since I Finde nothing will Stick with them to make their Fals Storyes plausable, So that iff they can butt invent, they can affirm. So that I can nott pretend <pb n="338" /> to composs any matters till I know whatt they are, and as you told mee that their Memery might nott bee good att a time when they might make their affadavitt, So that I Finde iff they have nott Invented anough, they Intend to do itt.</p>
+			<p>I only desire you to Concider the Case and do by me as you would doe by your Selff, and you would Never incorage Such inselentt villines, which plainly doth apear <note resp="editor">that</note> none in my Circomstance was Capable off keeping under Goverment without some Reger, For which their malis hath Invented those Storyes, Findeing you Redy to Incorage and give Ear to their ungrateffull and Fals useing me.</p>
+			<p>My nott deserning your perffections early hath proved my utter Ruen, For I allwayes did Supose Captain Bowryes vertues to have been Equelly composed with those pirffections off wisdom I Deserned in him, butt to my greatt disatisffaction, I Finde these perffections may be Saperatte, and honour goes no Forther then Intrest can cary itt. So that my want of Fore Knowledge hath made my Liffe a pray to a mercyles Enimy, to whome, God is my Record, I have given no Just ocation, Neither Do I know when <note resp="editor">? what</note> you can Expectt butt my Liffe, Except you would have me be your Slave, which I would willingly bee, iff you could turn my Skin From White to black, iff that would apeass you. But you canott Expectt that I can make any Such Sacryffice with my Known Vizogminy <note resp="editor" value="PHYSIOGNOMY" /> ; and according to whatt I can Fore See, you can have no other End then one off those, my misffortins haveing made my Condision Reather to be pityed than Envied, being Reduced to become a pencioner to the Charty off those which is pleased to admitt me to their table and to asist mee in the time off my Conffinement, to whome I am ingaged even for the meett I eatt and the Cloths I ware, Even For more then I can tell which way to repay or am worth in the World.</p>
+			<p>So that my condision being Such, I hope to Lett you have your Endes Shortly, butt nott till I can Leave that behind me that shall make apear your Crewltty. And allthough I never intend to survive the <note resp="editor" range="2,3" orig="di[\s\]covery">discovery</note> off any Secretts Committed to mee, I shall nott Faill to Leave that behind mee that shall.</p>
+			<p>Iff you please to answere these, I desire you to send itt to the Jameco Coffy house or To the Union Coffy house, For the <pb n="339" /> difference that is betwixt us is a Secrett to my wiffe, and I desire you would nott disclose itt. Yours, Jos: Tolson <note resp="editor" value="ADDRESSED:" /> To Captain Bowry, Liveing in Mereen Square, Marchant, London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_037">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1708 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="339" />
+			<head> <note resp="editor" value="PAPER 101. (TOLSON TO BOWREY REGARDING A PETTY CLAIM FOR BOARD FOR A PASSENGER ON THE HOMEWARD VOYAGE.)" /> </head>
+			<p>July the 6. 1708.</p>
+			<p>Sir, I send you these, desiring your Answer, that I may make Demands as Easy and Reasonable and shorte as I can.</p>
+			<p>As concerning the note to Mr. Finch att the <note resp="editor" range="3,4" orig="Cap[\e\]">Cape</note> , I desire you to take a <supplied range="1,5" orig="r[{ight{]">right</supplied> consideration off the matter, wherin you See <note resp="editor">that he</note> even made you criditure <note resp="editor" value="CREDITOR" /> For a passinger att my own table, which you know I can with Justice demand, and I cannott see any Reason itt can be Reffused, and Likewise Severall others off the men that Received money off me att the <note resp="editor" range="3,4" orig="Cap[\e\]">Cape</note> , which will, I do nott Question, be allowed mee. But it will contain a Long and teedious Consideration to an arbytrator. So that iff you are willing to pay that note to Mr. Finch, I am willing to Lett all such teedyous demands pas by. And as I have made you criditor For all, I canott Forebare complaining when you Reffuse so small a matter.</p>
+			<p>So I desire you will Lett me know your Resoltt in the mater in a Line to me directed to Mr. Johnsons. Your Servant, Jos. Tolson</p>
+			<p><note resp="editor" value="ADDRESSED:" /> To Captain Bowry, Liveing in Mareen Square, London</p>
+		</text>
+	</TEI>
+	<TEI xml:id="BOWREY_038">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1708 T JTOLSON"></title>
+					<author key="JOSEPH TOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="341" />
+			<head> <note resp="editor" value="PAPER 103. (TOLSON TO BOWREY ON THE CASE OF WRIGHT VS. ELLIOTT, AND SUGGESTING ARBITRATION AS TO THE OTHER MATTERS BETWEEN THEM.)" /> </head>
+			<p>June 29: 1708.</p>
+			<p>Sir, I understand by Mr. Hamon <note resp="editor" value="HAMMOND" /> that you have Reported that I was flouted outt off the court in the Late Triall betwixtt Mr. Wrightt and John Eliott. And as I doe beleive you are Imposed upon by mallishous persones Infformation, I hope, as itt is a thing that has to bee proved, that you will doe mee the Justice as to make a due Inquirey into the matter and give a just Reporte thereoff to those whome you have, in my opinion, undiscreetly made bold to Scandlies mee with.</p>
+			<p>In this I hope you will nott Faill, since it is a thing that Honour and Justice bindes every body to that is misled by Fals infformation. As For severall other Lies that you have been infformed in, I blame the <note resp="editor" range="1,2" orig="a[\u\]theres">autheres</note> and nott you. Butt, this being a thing that is very easy to be proved, I think you doe mee unjustice iff you doe nott make mee Reparattion in itt.</p>
+			<p>I canott even my selff with saffty to come and speek with you, understanding that their is an action out against me by Capt. Bapty For his 2 servants wages, and I am unwilling to lie in a prison and doth nott Know where to gitt baill. So I desire that you will speek to him and see whatt may be done in the matter withoutt Rigor.</p>
+			<p>For the other matters in queston, I am willing to Reffare itt to 2 Comanders off ships, you chuseing one and I another, iff you will give me your promise that att our meetting you will nott indiver me beeing arested. Butt things may, with the best off our Indivers, be accomodated For the beneffitt off my Selffe, you, and the rest of the owners, which will perhapes nott Fall out so, <pb n="342" /> iff Rigerous meenes be used and things put out off the Chanell they aught to run in.</p>
+			<p>So I desire you will come with my <note resp="editor" range="7,14" orig="brother[\-IN-LAW\]">brother-IN-LAW</note> Johnson to mee, that wee may consult who to leive the matter to; and iff you are nott inclined to leive itt to arbytrattion, that wee may consult other meens to bring itt to a speedy triall, which will be the Costlyest way off arbytration, and I beleive nott to our advantage.</p>
+			<p>I do nott obscond For any thing thatt you have to say against mee, but will apear att your somence <note resp="editor" value="SUMMONS" /> att any time. Your servant, Jos: Tolson</p>
+			<p>P.S. Mr. Johnson will waitt on you att chang <note resp="editor" value="EXCHANGE" /> time and I shall nott be Fore <note resp="editor" value="FAR" /> off.</p>
+			<p><note resp="editor" value="ADDRESSED:" /> To Capt. Bowry.</p>
+		</text>
+	</TEI>
+</teiCollection>

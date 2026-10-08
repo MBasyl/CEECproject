@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FHADDOC2">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>CORRESPONDENCE OF THE FAMILY OF HADDOCK 1657-1719. ED. BY EDWARD MAUNDE THOMPSON. CAMDEN MISCELLANY 8. CAMDEN NEW SERIES 31. 1883/1965.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="HADDOC2_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1688 T RHADDOCK"></title>
+					<author key="RICHARD HADDOCK I"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="36" />
+			<head> <note resp="editor" value="SIR RICHARD HADDOCK TO PHILIP FROWD." /> </head>
+			<p>Tower Hill, London, this 29th July, 1688. <hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>The last weeke, in a news lettr wrote by a <hi rend="sup" range="4,5" orig="serv=t=">servt</hi> of yours, one Mr. <hi rend="sup" range="3,4" orig="Edm=d=">Edmd</hi> Sawkell, there is a scandallous reflection on my <hi rend="sup" range="3,4" orig="hon=r=">honr</hi> and reputation, by his writeing that <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> <hi rend="sup" range="1,2" orig="R=d=">Rd</hi> Haddock <hi rend="sup" range="1,3" orig="w=th=">wth</hi> seuerall other seamen were gone into Holland, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> I have <hi rend="sup" range="3,4" orig="rec=d=">recd</hi> <hi rend="sup" range="1,4" orig="a=cct=">acct</hi> of <hi rend="sup" range="1,2" orig="s=d=">sd</hi> letter from 3 or 4 countys, and must beleive it hath flowne all the kingdome over.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>, I was this day to waite on you at <hi rend="sup" range="1,2" orig="y=r=">yr</hi> post ofice; but, haveing <hi rend="sup" range="3,4" orig="acc=t=">acct</hi> given me that you were in the country, thought fitt, before I spake <hi rend="sup" range="1,3" orig="w=th=">wth</hi> Mr. Sawkill, to give you notice hereof, and <hi rend="sup" range="1,2" orig="y=t=">yt</hi> you will readylie conclude I shall expect satisfaction from him for this scandall, at least <hi rend="sup" range="1,2" orig="y=t=">yt</hi> he finds out his author or else must conclud him to be the inventor himselfe. I do presume you know me so well as to beleive, however the King may please to deale <hi rend="sup" range="1,3" orig="w=th=">wth</hi> me <hi rend="sup" range="2,4" orig="(w=ch=">(wch</hi> hetherto hath bine extra kind), I shall never forsake my loyalty and duty to him, even to my last breath. Praying a lyne or two in answer, with great respect, I remaine</p>
+			<p>Your very <hi rend="sup" range="5,6" orig="afect=e=">afecte</hi> servant,</p>
+			<p><hi rend="sup" range="1,2" orig="R=d=">Rd</hi> H.</p>
+			<p>To Jn. <note resp="editor" value="SIC" /> Frowd, Esq.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HADDOC2_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1688 FN JHADDOCK"></title>
+					<author key="JOSEPH HADDOCK"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="37" />
+			<head> <note resp="editor" value="CAPTAIN JOSEPH HADDOCK TO HIS BROTHER, SIR RICHARD HADDOCK." /> </head>
+			<p>Abord the Ship Princess of Denmark, 17th Xber, 1688. Balasore Roade.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi> <hi rend="sup" range="4,5" orig="Rich=d=">Richd</hi> Haddock.</p>
+			<p>My ever <hi rend="sup" range="3,4" orig="hon=d=">hond</hi> Brother,</p>
+			<p>My last, of the <hi rend="sup" range="1,3" orig="7=th=">7th</hi> <hi rend="sup" range="3,4" orig="Aug=t=">Augt</hi> from Visagapatam, gave <hi rend="sup" range="2,3" orig="yo=r=">yor</hi> <hi rend="sup" range="3,4" orig="Hon=r=">Honr</hi> <hi rend="sup" range="3,4" orig="acc=t=">acct</hi> of our arrivall Madras and of our affaires to that tyme. The <hi rend="sup" range="2,4" orig="10=th=">10th</hi> <hi rend="sup" range="3,4" orig="Aug=t=">Augt</hi> we saild thence for Balasore, wher we arriv'd the <hi rend="sup" range="2,4" orig="15=th=">15th</hi>; in <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> bay we have <hi rend="sup" range="4,5" orig="cont=d=">contd</hi> and rid out the monsoone, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> has prov'd favourabler then expected (beinge leape yeare).</p>
+			<p>The <hi rend="sup" range="2,4" orig="15=th=">15th</hi> 7ber <hi rend="sup" range="3,4" orig="Cap=t=">Capt</hi> Heath arriv'd this place, who, by virtue of the President and Counsell of Madras order requir'd my goeinge up <hi rend="sup" range="1,3" orig="w=th=">wth</hi> hime to Chuttynutte in the river of Hugly (the place where our Agent and factorie resided), myselfe <hi rend="sup" range="1,3" orig="w=th=">wth</hi> the rest of the <hi rend="sup" range="6,8" orig="comand=rs=">comandrs</hi> of the Europe Shipps then in the river to assist hime in the <hi rend="sup" range="1,2" orig="R=t=">Rt</hi> <hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi> <hi rend="sup" range="4,5" orig="Comp=s=">Comps</hi> affairs. In fews days after our getting up to Chuttynutte, a letter was writ to the Nabob of Dacca (the cheife <hi rend="sup" range="5,6" orig="goven=r=">govenr</hi> of that citty), who had formerly requested our Agent that if we would assist hime <hi rend="sup" range="1,3" orig="w=th=">wth</hi> ships to transport soulders and horss from Chottagam to Arraccan (they beinge in warrs <hi rend="sup" range="1,3" orig="w=th=">wth</hi> that Kinge), he would give us his Pharwanna of a <hi rend="sup" range="7,8" orig="settlem=t=">settlemt</hi> of trade, <hi rend="sup" range="1,3" orig="w=th=">wth</hi> prevaledges as formerly accordinge to the 12 articles formerly sent hime from our agent &amp;c. Capt. Heath, in the letter sent, condesended to <pb n="38" /> the Nabob's request, in suplyinge hime <hi rend="sup" range="1,3" orig="w=th=">wth</hi> 10 ships and vessells for the Mogull's occations, to transport ther soulders and horss, provided they would allow of the buildinge of a fortyfiction <hi rend="sup" range="1,3" orig="w=th=in">wthin</hi> the river of Hugly, for the better security of the <hi rend="sup" range="1,2" orig="R=t=">Rt</hi> <hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi> <hi rend="sup" range="4,5" orig="Comp=s=">Comps</hi> estate and <hi rend="sup" range="3,5" orig="ser=ts=">serts</hi>; <hi rend="sup" range="1,3" orig="w=th=out">wthout</hi> <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> grant of a fortyfied place the <hi rend="sup" range="4,5" orig="Comp=s=">Comps</hi> <hi rend="sup" range="3,5" orig="ord=rs=">ordrs</hi> possitive are, to <hi rend="sup" range="1,3" orig="w=th=draw">wthdraw</hi> off all our factory from this place.</p>
+			<p>We continued heere 5 weeks for the Nabob's answer to the proposall: but not comeing, we, haveinge taken off all the <hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi> <hi rend="sup" range="4,5" orig="Comp=s=">Comps</hi> concernes from the shoare, saild from <hi rend="sup" range="7,9" orig="Chuttyn=ty=">Chuttynty</hi> the <hi rend="sup" range="1,3" orig="8=th=">8th</hi> 9ber, and passed by ther fortts peaceably. At our arrival Balasore found that the <hi rend="sup" range="5,6" orig="goven=r=">govenr</hi> of the towne had (some tyme before our comeinge) detaind the <hi rend="sup" range="1,2" orig="R=t=">Rt</hi> <hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi> <hi rend="sup" range="4,5" orig="Comp=s=">Comps</hi> goods, beinge this yeares <hi rend="sup" range="7,9" orig="investm=ts=">investmts</hi>, alsoe partic. mens goods; and would not permit none of the factors, nor our people that were ashoure buying <note resp="editor" range="6,10" orig="provit[\ions\]">provitions</note> , to come off. <hi rend="sup" range="3,4" orig="Cap=t=">Capt</hi> Heath sent 2 of our factors <hi rend="sup" range="1,3" orig="w=th=">wth</hi> a letter to the <hi rend="sup" range="5,6" orig="goven=r=">govenr</hi> (who was come downe to the bancksall, or point of sand goeinge into the river, wher he was makeinge a fortyfication), to demand the <hi rend="sup" range="1,2" orig="R=t=">Rt</hi> <hi rend="sup" range="4,5" orig="Honb=e=">Honbe</hi> <hi rend="sup" range="4,5" orig="Comp=s=">Comps</hi> goods <hi rend="sup" range="1,3" orig="w=th=">wth</hi> all our men. His answer was, what he did was by order from the Nabob; and, if he did dilliver our goods and men, should loose his head. 3 days after, 2 of the factors were againe sent to aquaint the <hi rend="sup" range="5,6" orig="goven=r=">govenr</hi> that our intention was to depart out these parts peaceable, we haveinge come away out Hugly river <hi rend="sup" range="1,3" orig="w=th=out">wthout</hi> doeinge any act of hostillity to any of the Mogull's subjects; therfore requird hime to send off our goods and people by faire meanes; if not, we would have them by force of armes. <hi rend="sup" range="1,3" orig="W=ch=">Wch</hi> hee not permitting them too goe off, the next day all our soulders, about 320, and upwards 240 seamen were put into the small vessels and all our boates; and early next morninge they landed a mile to the W.ward of the fort <hi rend="sup" range="2,4" orig="(w=ch=">(wch</hi> the <hi rend="sup" range="4,5" orig="govn=r=">govnr</hi> had rais'd); against <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> landinge place they had planted 5 small guns on a sandhill, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> they discharg'd at our men, and killd 2 and wounded 2 more; soe fled from the guns. And soone after, the cheife <hi rend="sup" range="3,4" orig="cap=t=">capt</hi> of our soulders had drawne all the soulders and seamen in order of battalia, marcht up to the fort, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>, at ther aproach, fired all ther guns they had <pb n="39" /> planted to the land; but, soone after, the <hi rend="sup" range="5,6" orig="goven=r=">govenr</hi> and all his men fleed out the fort <hi rend="sup" range="1,3" orig="w=th=out">wthout</hi> doeing much harme to our men; the <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> we possest <hi rend="sup" range="1,3" orig="w=th=out">wthout</hi> any farther opposition. In and about this fort they had upwards 40 guns mounted and a good wall made <hi rend="sup" range="1,3" orig="w=th=">wth</hi> timber and clay; might have bine sufficient (if manag'd by Europeans) to <note resp="editor">have</note> <hi rend="sup" range="1,3" orig="w=th=stood">wthstood</hi> a great armie of men, or at least done much more mischief then they did.</p>
+			<p>The <hi rend="sup" range="5,6" orig="goven=r=">govenr</hi>, after deserted his fort, made all hast possable up to Balasore towne, and orderd the factory house (in <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> were confind all our people, thirteene in number) to be sett on fire. Our people in the house defended themselves bravely, killinge <hi rend="sup" range="3,4" orig="sev=l=">sevl</hi> of the Moors; but by the firsness of the fire were forct to surrender themselves on tearmes to have ther lives and good useage. The next day Capt. Heath (who went ashoare <hi rend="sup" range="1,3" orig="w=th=">wth</hi> the soulders - <hi rend="sup" range="3,4" orig="Cap=t=">Capt</hi> Sharpe comanded the small vessells and boates that were to goe over the barr, leaveinge mee in comand of the ships in the roade) went up with all the soulders and seamen to Balasore towne by watter and landed short of old Balasore fort, the <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> they soone tooke; soe marcht into the towne, few or noe people beinge left to oppose them; the <hi rend="sup" range="5,6" orig="goven=r=">govenr</hi> disertinge it at ther comeinge, caryinge <hi rend="sup" range="1,3" orig="w=th=">wth</hi> hime all our English, amongst <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> are 3 of our ships <hi rend="sup" range="4,5" orig="comp=a=">compa</hi>, <hi rend="sup" range="3,4" orig="viz=t=">vizt</hi>. Mr. Davenant (beinge ashoare buyinge <note resp="editor" range="6,10" orig="provit[\ions\]">provitions</note> ), Charles Scarlet, midshipman, and Sam Harbin, <hi rend="sup" range="3,4" orig="gun=r=">gunr</hi>, <hi rend="sup" range="3,4" orig="ser=t=">sert</hi> of <hi rend="sup" range="3,4" orig="Cap=n=">Capn</hi> Heath's, his pursur, and 3 more, Mr. Stanly, cheife of the factory, the rest free men that trades in the country. As yet we cannot gett the <hi rend="sup" range="5,6" orig="goven=r=">govenr</hi> to give ther <hi rend="sup" range="8,9" orig="releasem=t=">releasemt</hi>. We have sent <hi rend="sup" range="3,4" orig="sev=l=">sevl</hi> messingers to hime, that we have not burnt ther towne nor ships, expectinge he would dilliver up our men; but, if not, we will returne and doe both. Our soulders (but seamen more espetially) have comitted many inhuemane actions in the towne, plundringe not only Moors but <hi rend="sup" range="3,4" orig="sev=l=">sevl</hi> Portugeese houses, and killed <hi rend="sup" range="3,4" orig="sev=l=">sevl</hi> innocent people. We have had the greatest loss in this axtion, <hi rend="sup" range="3,4" orig="viz=t=">vizt</hi>. 4 men killd and 3 wounded. Ther names are: Mr. Starland, 3d mate, Henry Grove, cheife trumpetter, Christopher Hogg, and <hi rend="sup" range="2,3" orig="Jn=o=">Jno</hi> Hinton, who very indiscreetly <pb n="40" /> went out <hi rend="sup" range="1,3" orig="w=th=">wth</hi> <hi rend="sup" range="3,4" orig="sev=l=">sevl</hi> more seamen to a garden house, expectinge great plunder, were cut off, <hi rend="sup" range="3,4" orig="sev=l=">sevl</hi> of them, by a party of horss. The 3 wounded are <hi rend="sup" range="3,5" orig="Hen=ry=">Henry</hi> Roxby, <hi rend="sup" range="4,5" orig="Fran=s=">Frans</hi> Johnson, and <hi rend="sup" range="2,3" orig="Jn=o=">Jno</hi> Smart.</p>
+			<p>I have, by the Williamson (by whom this is alsoe intended you), sent <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> <hi rend="sup" range="3,5" orig="Hen=ry=">Henry</hi> Johnson and <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Tho. Rawlinson, and alsoe to my wife, a list of our dead <hi rend="sup" range="2,3" orig="&amp;c=a=">&amp;ca</hi> men, in all 44. Our supernumery men <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> I brought out of England, beinge 27, at my arivall Madras, I aquaintd the President <hi rend="sup" range="5,7" orig="therw=th=">therwth</hi>, who offred them to Cap. Bromwell, the Rotchester haveinge lost most of ther men. But he refuseinge to pay the charge the <hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi> <hi rend="sup" range="4,5" orig="Comp=a=">Compa</hi> were at sendinge them out, they were not taken out ther; and what of them that are alive doe still remaine in our ship, not beinge demanded here by the agent. I supose our owners will be alowed for them at <hi rend="sup" range="2,3" orig="50=s=">50s</hi> per <hi rend="sup" range="1,2" orig="m=o=">mo</hi>, noe longer then our departure Madras, to <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> tyme we had lost 30 men. I doe not repent ther continueinge abord, haveinge had soe great mortolaty and most of them the best of our seamen.</p>
+			<p>I supose our next enterprize will be towards Chottagam, a place neere the coast of Arraccan. The <hi rend="sup" range="1,2" orig="R=t=">Rt</hi> <hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi> <hi rend="sup" range="4,5" orig="Comp=a=">Compa</hi> possative orders are for endeavouringe the takinge it; but I feare we shall not have strength sufficient to effect it, the Nabob haveinge sent many thousand of <note resp="editor">men</note> this yeare ther to over run and take the kingdome of Arracan. The king of that country beinge some tyme since dead, part of the people are in rebelion against the present <hi rend="sup" range="6,7" orig="goverm=t=">govermt</hi>; by <hi rend="sup" range="2,4" orig="wh=ch=">whch</hi> its supos'd the Mogullers will goe farr in takeing that country this yeare, and we frustrated of our designe.</p>
+			<p><hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi> Sir, I have not writt to any of owners (except the 2 in charty party), beleivinge we shall returne to Madras before the Williamson sailes for England. Our ship is in a very good condition and very thite. I beleive our stay in India will be the extreme of our tyme, for at present noe prospect of a freight for Europe; and I feare the brave trade of Bengall will be lost, at <hi rend="sup" range="2,4" orig="wh=ch=">whch</hi> the Dutch and French rejoyce, that this trade may wholy fall to them.</p>
+			<p>I have not elce to add; only please to present my duty, respects, <pb n="41" /> and love to all our deere relations and freinds. Thus, <hi rend="sup" range="1,3" orig="w=th=">wth</hi> my due respects to <hi rend="sup" range="2,3" orig="yo=r=">yor</hi> selfe and my good lady sister, doe remaine,</p>
+			<p><hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi> <hi rend="sup" range="1,2" orig="S=r=">Sr</hi>, <hi rend="sup" range="2,3" orig="yo=r=">yor</hi> affectionate bro. and <hi rend="sup" range="3,4" orig="Ser=t=">Sert</hi>, whilst</p>
+			<p><hi rend="sup" range="2,3" orig="Jo=s=">Jos</hi> Haddock.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi> I <hi rend="sup" range="3,4" orig="rec=d=">recd</hi> <hi rend="sup" range="2,3" orig="yo=r=">yor</hi> letter, alsoe one from my wife sent per the Defence; and returne my humble thancks for it.</p>
+			<p>For the <hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi> <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> <hi rend="sup" range="4,5" orig="Rich=d=">Richd</hi> Haddock, at his house on Tower Hill. Present. London.</p>
+			<p><hi rend="sup" range="1,2" orig="P=r=">Pr</hi> the Williamson, Capt. Ashby, <hi rend="sup" range="6,7" orig="Comand=r=">Comandr</hi>, D. G.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HADDOC2_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1692? FN R2HADDOCK"></title>
+					<author key="RICHARD HADDOCK II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="41" />
+			<head> <note resp="editor" value="RICHARD HADDOCK TO HIS FATHER, SIR RICHARD HADDOCK." /> </head>
+			<p>Aprill <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="2,3" orig="23=d=">23d</hi> <note resp="editor">1692</note> ; Munday, in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Hooke. Honourd <hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>This is to acquaint of our ingaging <hi rend="sup" range="1,3" orig="w=th=">wth</hi> <hi rend="sup" range="1,2" orig="y=e=">ye</hi> French and of our haveing gott <hi rend="sup" range="1,2" orig="y=e=">ye</hi> victory. Wee mett <hi rend="sup" range="1,2" orig="y=m=">ym</hi> of sea, May 19. There was about 60 saile. Wee fought <hi rend="sup" range="1,2" orig="y=m=">ym</hi> from 11 to 9 att night; since <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>, have been in pursuit of <hi rend="sup" range="1,2" orig="y=m=">ym</hi>. There is run ashoare, in Sherbrook bay, Torveil <hi rend="sup" range="1,3" orig="w=th=">wth</hi> 3 more capitall ships, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> are now burned. Cozen Tom Heath burnt Torveil; and have chased 14 saile more in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Hooke, where wee now are. <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Cloudsly Shovel is goeing in <hi rend="sup" range="1,3" orig="w=th=">wth</hi> <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="1,2" orig="3=d=">3d</hi> rates and fire-ships to destroy <hi rend="sup" range="1,2" orig="y=m=">ym</hi>. Wee have been soe unfortunate <pb n="42" /> as <note resp="editor">to</note> lose Rear <hi rend="sup" range="3,5" orig="Adm=ll=">Admll</hi> Carter in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> fight. I am very well and have received no wound; only a small splinter hitt mee on <hi rend="sup" range="1,2" orig="y=e=">ye</hi> thigh, but did no damage, only made itt black and blew. I would write more particularly, but <hi rend="sup" range="1,2" orig="y=e=">ye</hi> vessell I heare is goeing away presently; soe, haveing no more att present, butt duty to your self and my mother,</p>
+			<p>I remain your dutyfull Son,</p>
+			<p><hi rend="sup" range="4,5" orig="Rich=d=">Richd</hi> Haddock.</p>
+			<p>Cozen Ruffin is alive and very well. I will write <hi rend="sup" range="1,2" orig="y=e=">ye</hi> particulars of our fight as soon as wee come into any port.</p>
+			<p><hi rend="sup" range="1,2" orig="R=d=">Rd</hi> H.</p>
+			<p>For <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> <hi rend="sup" range="4,5" orig="Rich=d=">Richd</hi> Haddock, att <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Navy Office, in Crutched Fryers, London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HADDOC2_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1702 FN RHADDOCK"></title>
+					<author key="RICHARD HADDOCK I"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="43" />
+			<head> <note resp="editor" value="SIR RICHARD HADDOCK TO HIS SON RICHARD." /> </head>
+			<p>Navy Office, this 27th <hi rend="sup" range="3,4" orig="Nov=r=">Novr</hi>, 1702.</p>
+			<p>Deare Son,</p>
+			<p>I have <hi rend="sup" range="2,4" orig="yo=rs=">yors</hi> of yesterday's date, from the Downes, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> brings us the joyfull tydeings of <hi rend="sup" range="2,3" orig="yo=r=">yor</hi> safe arrivall there. <hi rend="sup" range="2,3" orig="Yo=r=">Yor</hi> long passage from Newfoundland put us in great feare of your wellfare, and perticularly your <hi rend="sup" range="2,3" orig="mo=r=">mor</hi> hath bine for a month or 5 weekes crying for you and <hi rend="sup" range="2,3" orig="yo=r=">yor</hi> brother <hi rend="sup" range="3,4" orig="Nic=s=">Nics</hi> safety; but blessed be God you are both come well home. Your <hi rend="sup" range="3,4" orig="bro=r=">bror</hi> now with us came up from the Downes by leave from his <hi rend="sup" range="4,5" orig="Capt=n=">Captn</hi>, and hath behaved himself with so much bravery and couradge that he hath gained the good report of the Duke of Ormond, his <hi rend="sup" range="4,5" orig="Capt=n=">Captn</hi>, &amp;c., both in the action at Rotta and St. Mary Port, and Vigo, and was the first man that borded one of the gallions at Vigo, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> is come home. I do not find by <hi rend="sup" range="2,3" orig="yo=r=">yor</hi> letter that you were <hi rend="sup" range="1,3" orig="w=th=">wth</hi> your Comodore at the takeing and destroying the French shipps to the southwards of Trepassa, and consequently you will not come in for your share of that capture. The news papers tells us <hi rend="sup" range="2,3" orig="yo=r=">yor</hi> prize is got into <hi rend="sup" range="4,5" orig="Plym=o=">Plymo</hi>, and for your boate <hi rend="sup" range="1,3" orig="w=th=">wth</hi> 5 men you say you left behind at <hi rend="sup" range="4,5" orig="Plym=o=">Plymo</hi> we never heard anything of it, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> gives you trouble; and because you write not of my Coz <hi rend="sup" range="1,4" orig="W=m's=">Wm's</hi> wellfare, I am conscernd for feare he might be in that boate. To morrow morning I intend to go to <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="3,5" orig="Adm=ty=">Admty</hi> and endeavor you may come into the River, if his R. Highness orders your cleaneing.</p>
+			<p>God Allmighty hath blest <hi rend="sup" range="1,2" orig="y=e=">ye</hi> forces of her <hi rend="sup" range="3,5" orig="Maj=ty=">Majty</hi> and her Allies, <pb n="44" /> both by land and sea, in a wonderfull manner; for <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> we lately had a publick day of thanksgiveing in this citty. The Queene, House of Lords and Comons, <hi rend="sup" range="1,3" orig="w=th=">wth</hi> the Bishops, Judges, &amp;c. came to <hi rend="sup" range="1,2" orig="S=t=">St</hi> Paul's Church, where, after sermon, Te Deum was sung.</p>
+			<p>Since your leaveing England, two of our bord are dead, <hi rend="sup" range="3,4" orig="viz=t=">vizt</hi>. Mr. Sotherne and my good freind <hi rend="sup" range="3,4" orig="Com=r=">Comr</hi> Willshaw, who dyed <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="2,3" orig="23=d=">23d</hi> <hi rend="sup" range="3,4" orig="Sep=r=">Sepr</hi> last. My Coz Anna Babb, that was in one of our almes houses at Stepny, is likewise dead, and my poore <hi rend="sup" range="3,4" orig="Coz=n=">Cozn</hi> Lockwood's son in law, <hi rend="sup" range="3,4" orig="Coz=n=">Cozn</hi> Hodges, dyed lately at Gosport, since his arrivall from Cadix and Vigo, who waited a tender on <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Duke of Ormond's shipp. We are all in good health, praised be God, and do kindly salut you. I am your most <hi rend="sup" range="8,9" orig="afection=t=">afectiont</hi> father,</p>
+			<p><hi rend="sup" range="1,2" orig="R=d=">Rd</hi> Haddock.</p>
+			<p>Pray let me know how <hi rend="sup" range="2,3" orig="yo=r=">yor</hi> shipp proves. I have concernd my selfe to get one of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="1,3" orig="4=th=">4th</hi> rates building at Deptford for you, and this day spake to <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Geo. Rooke about it, and formerly to <hi rend="sup" range="1,2" orig="y=e=">ye</hi> other 3 Councill of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Lord High <hi rend="sup" range="3,5" orig="Adm=ll=">Admll</hi>. I know she is tender by your reifeing your courses; and twas well hinted in yours to <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="3,5" orig="Adm=ty=">Admty</hi>. I am glad you past by <hi rend="sup" range="4,5" orig="Plym=o=">Plymo</hi>. Orders went thither some tyme since to cleane you and severall of <hi rend="sup" range="2,3" orig="yo=r=">yor</hi> consarts.</p>
+			<p><hi rend="sup" range="1,2" orig="R=d=">Rd</hi> H.</p>
+			<p>On Her Majesty's Service. To <hi rend="sup" range="4,5" orig="Capt=n=">Captn</hi> Richard Haddock, <hi rend="sup" range="6,7" orig="Comand=r=">Comandr</hi> of her <hi rend="sup" range="3,5" orig="Maj=ty=">Majty</hi> Shipp the Reserve, these present, In <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Downes.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HADDOC2_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1703 FN RHADDOCK"></title>
+					<author key="RICHARD HADDOCK I"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="44" />
+			<note resp="compiler" value="SIR RICHARD HADDOCK TO HIS SON RICHARD HADDOCK" />
+			<p>Navy Office, this <hi rend="sup" range="2,4" orig="10=th=">10th</hi> <hi rend="sup" range="6,7" orig="Decemb=r=">Decembr</hi>, 1703. My deare Son,</p>
+			<p>Your letter of the <hi rend="sup" range="2,4" orig="17=th=">17th</hi> <hi rend="sup" range="3,4" orig="Nov=r=">Novr</hi> past, giveing me <hi rend="sup" range="3,4" orig="acc=t=">acct</hi> of the unhapy disaster of your ship being run ashore by a Dutch pilot and of your happy getting off againe, I <hi rend="sup" range="3,4" orig="rec=d=">recd</hi> 3 or 4 ds. after its date; but, hopeing <pb n="45" /> you might have gote away before an answer could arrive you, I forbore answering it to you to Helvoet Sluce. I have just now <hi rend="sup" range="3,4" orig="rec=d=">recd</hi> yours of the <hi rend="sup" range="1,3" orig="7=th=">7th</hi> instant, Tuesday, and, to our great joy, the <hi rend="sup" range="3,4" orig="acc=t=">acct</hi> of God Almighty's wonderfull preservation of you in the late most dreadfull storm, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> no man liveing can remember the like. I perseave you have had an <hi rend="sup" range="3,4" orig="acc=t=">acct</hi> of the most sad and lamentable efects of it heere in England, not only in the losse of our <note resp="editor" range="5,8" orig="shipp[\ing\]">shipping</note> , but about 1500 men in the Queen's shipps. I shall not eneumerate <hi rend="sup" range="1,2" orig="y=e=">ye</hi> perticulars of the losse, only that Capt. Emes, <hi rend="sup" range="1,3" orig="w=th=">wth</hi> his wife and son and all <hi rend="sup" range="1,2" orig="y=e=">ye</hi> men in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Restauration, lost on <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Goodwin, and poore Tom Blake drowned at Bristoll in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Canterbury store ship cast away. The Dorcetshire we have <hi rend="sup" range="3,4" orig="acc=t=">acct</hi> of her being on <hi rend="sup" range="1,2" orig="y=e=">ye</hi> back of <hi rend="sup" range="4,5" orig="Yarm=o=">Yarmo</hi> Sands, cruseing, I supose for want of anchors and cables, and hope <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Association is cruseing in the sea on the like occasion. My deare son <hi rend="sup" range="3,4" orig="Nic=o=">Nico</hi> hapend to be sick on bord her, as <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> S. Fairebone wrote me from the Downes. I sent Tom Apleby imediatly to Deale to bring him up; but the ship sailed <hi rend="sup" range="1,2" orig="y=e=">ye</hi> morning before he gote downe. I hope he will come well home to us. Pray God the Russell may be got of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> sands and into Helvoet Sluce.</p>
+			<p>Wee haue 7 or 8 vessells <hi rend="sup" range="1,3" orig="w=th=">wth</hi> anchors and cables in <hi rend="sup" range="4,6" orig="Harw=ch=">Harwch</hi> or Oasely bay, ready to put to sea when we heare where <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Stafford is. <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Cloud. Shovell I hope now safe at the Nore; his mainemast cut downe after he had drove 3 <hi rend="sup" range="4,5" orig="leag=s=">leags</hi> from <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="5,6" orig="Longs=d=">Longsd</hi>, very neare the Galloper. <hi rend="sup" range="1,2" orig="Y=e=">Ye</hi> <hi rend="sup" range="1,2" orig="S=t=">St</hi> Geo. and R. Oake, now at Blackstakes, rode out <hi rend="sup" range="1,2" orig="y=e=">ye</hi> storme <hi rend="sup" range="1,3" orig="w=th=out">wthout</hi> damage; and the Cambridge I beleive the same. The 4 ships that broke from their ground takle was the Association, Russell, Revenge, and Dorcetshire. The Revenge was in Solebay some tyme since, and furnish <hi rend="sup" range="1,3" orig="w=th=">wth</hi> anchors and cables from <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Nottingham and another man of warr <hi rend="sup" range="1,2" orig="y=t=">yt</hi> went out <hi rend="sup" range="4,5" orig="Yarm=o=">Yarmo</hi> roads to looke for our shipps. Capt. Kerr in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Revenge gave <hi rend="sup" range="3,4" orig="acc=t=">acct</hi> that he saw <pb n="46" /> <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Association, Monday last was sevenight; so that we are in hope she is very well. I shall not inlarge, only to give you our kind saluts. Pray God send you <hi rend="sup" range="1,3" orig="w=th=">wth</hi> <hi rend="sup" range="1,2" orig="y=e=">ye</hi> King of Spaine well out that place and over to us. My harty and humble service to <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Geo: Rooke.</p>
+			<p>I am your most <hi rend="sup" range="4,5" orig="afec=t=">afect</hi> father,</p>
+			<p>R.H.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HADDOC2_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1706 FN NHADDOCK"></title>
+					<author key="NICHOLAS HADDOCK"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="49" />
+			<head> <note resp="editor" value="NICHOLAS HADDOCK TO HIS FATHER SIR RICHARD HADDOCK." /> </head>
+			<p><hi rend="sup" range="1,2" orig="S=t=">St</hi> George in Barcelona Road, this <hi rend="sup" range="1,3" orig="1=st=">1st</hi> of May, 1706, O.S. <hi rend="sup" range="3,4" orig="Hon=d=">Hond</hi> <hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>This comes to you by the Faulcon pink, which is sent home express <hi rend="sup" range="1,3" orig="w=th=">wth</hi> the good news of our releiving Barcelona in the greatest extremity. The French had made preparations for a generall assault that very day we came; and it must have been infallibly taken, had we not had the luckiest passage imaginable (being but five days from Lisbon to Cape Martin, where we joynd <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Jno. Leake).</p>
+			<p>Saturday last in the morning, when were about 5 leagues to the <hi rend="sup" range="1,2" orig="w=t=ward">wtward</hi> of Barcelona, my Lord Peterborow came of to the fleet <hi rend="sup" range="1,3" orig="w=th=">wth</hi> twleve <hi rend="sup" range="4,5" orig="hund=d=">hundd</hi> soldiers embarqued in felucas and boats, and in the afternoon got in and landed them, <hi rend="sup" range="1,3" orig="w=th=">wth</hi> all the soldiers out of the transports and most of the marines of the fleet. We have now about nine thousand soldiers in the towne. The French army consisted at first of twenty thousand; four of <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>, horse under the command of the Duke of Anjou. Their loss during this seige is computed to be five <note resp="editor">thousand</note> including a thousand sick and wounded they have left behind, when they raised the seige, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> was at twelve aclock last night. They have left 50 peices of brass cannon mounted and 15 mortars, and are now bound to Roussilion. They will find great difficultys on their march. The Miquelets, being very numerous and all in arms, will destroy a great many of 'em before they get out of Catalonia, it being a close country. The French squadron before this place consisted of 26 saile, line of battle ships. They sailed the night before we came, having intelligence of us by their scouts. They were all the supply the army had for provisions, for the Catalans have not given them the least; nor could a man of 'em stirr from his tent a musquet shot out of the Camp but they killed him. We are now sending four ships with <pb n="50" /> 6 hundred soldiers for Girone, to reinforce that garrison, lest the French should make any attempt on it, it lying in their way.</p>
+			<p>I hear there is an express come to Barcelona from my Lord Gallaway, giving an account of his being got to Toledo and on his march for Madrid. The lucky turn Providence has given to our affairs in these parts I suppose will be joyfull news in England; and this being the first certain <hi rend="sup" range="3,4" orig="acc=t=">acct</hi> you'l have, this long letter wont seem tedious.</p>
+			<p>I can expect no letters from you till <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Clowdsly joyne us, and then do hope shall hear of your welfare and some good news in return of all this, which, with my duty to <hi rend="sup" range="1,2" orig="y=r=">yr</hi> self and mother and love to all friends, is from,</p>
+			<p><hi rend="sup" range="3,4" orig="Hon=d=">Hond</hi> Sir, <hi rend="sup" range="1,2" orig="Y=r=">Yr</hi> dutifull Son,</p>
+			<p><hi rend="sup" range="1,2" orig="N=s=">Ns</hi> Haddock.</p>
+			<p>P.S. We have had an eclipse of the sun to-day; lasted above two hours, and for a quarter 'twas total and as dark as night. <hi rend="sup" range="1,2" orig="W=t=">Wt</hi> it may portend, I leave to the learned. Our fleet consists of 50 saile in the line; 13 of <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>, Dutch.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HADDOC2_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1706 FN NHADDOCK"></title>
+					<author key="NICHOLAS HADDOCK"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="50" />
+			<note resp="compiler" value="NICHOLAS HADDOCK TO HIS FATHER SIR RICHARD HADDOCK." />
+			<p>Alicant, this <hi rend="sup" range="2,4" orig="31=st=">31st</hi> of July, 1706.</p>
+			<p><hi rend="sup" range="3,4" orig="Hon=d=">Hond</hi> <hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>I have both <hi rend="sup" range="1,2" orig="y=r=">yr</hi> letters by <hi rend="sup" range="4,5" orig="Capt=n=">Captn</hi> Delevall, as also the butter and cheeses, for <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> I returne you thanks. I'm glad to hear both my sisters are so well recovered by the Bath. Pray God continue their healths. Sunday last we took this place, attacking it by land and sea; and almost all the people of it are run up to the castle, <hi rend="sup" range="1,3" orig="w=th=">wth</hi> the garrison, for protection. We assisted our army with 500 seamen. I have been ashore with 50 of our ship's company during <pb n="51" /> the seige; am very heartily fateigued, but very well in health. After we have got the castle, I hear the fleet will go for the Islands of Minorca and Majorca, and, after that, I hope home. If the <hi rend="sup" range="1,2" orig="S=t=">St</hi> George should not do, intend asking <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> <hi rend="sup" range="2,3" orig="Jn=o=">Jno</hi> Leake leave for my self.</p>
+			<p>I'm glad to hear the ship at Sheernes will be launcht so soon as March. I hope I'm pretty secure of her. I desire your excuse for this bad scrawle and blotted paper, but I write <hi rend="sup" range="1,3" orig="w=th=">wth</hi> a pen made <hi rend="sup" range="1,3" orig="w=th=">wth</hi> an old razor that I find in the house I'm quartered in. I have no more to say but my duty to <hi rend="sup" range="1,2" orig="y=r=">yr</hi> self and mother and love to all freinds in London and Mile end, and remaine,</p>
+			<p><hi rend="sup" range="3,4" orig="Hon=d=">Hond</hi> <hi rend="sup" range="1,2" orig="S=r=">Sr</hi>, <hi rend="sup" range="1,2" orig="Y=r=">Yr</hi> dutifull Son,</p>
+			<p>N. Haddock.</p>
+			<p>P.S. This <hi rend="sup" range="4,5" orig="lett=r=">lettr</hi> goes by the Rye.</p>
+			<p>To <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> <hi rend="sup" range="4,5" orig="Rich=d=">Richd</hi> Haddock, at the Navy Office in Crutched Fryars, London, these.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HADDOC2_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1709 T RHADDOCK"></title>
+					<author key="RICHARD HADDOCK I"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="51" />
+			<head> <note resp="editor" value="SIR RICHARD HADDOCK TO THE COMMISSIONERS OF THE ADMIRALTY." /> </head>
+			<p><hi rend="sup" range="2,4" orig="25=th=">25th</hi> July, 1709.</p>
+			<p>Gentlemen,</p>
+			<p>In the yeare 1672 I comanded as <hi rend="sup" range="4,5" orig="Capt=n=">Captn</hi> of the Royall James, under the <hi rend="sup" range="1,2" orig="R=t=">Rt</hi> <hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi> the Earle of <hi rend="sup" range="5,7" orig="Sandw=ch=">Sandwch</hi>, in the Sowle Bay fight. The said shipp, after a vigorous defence, was burnt by the Dutch; in <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> action I was wounded, the cure of <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> cost me, in surgeons, apothicary, nurses, &amp;c., betwext fower score and a hundred pounds. I have bine so remise and negligent as not to demaund satisfaction for my <hi rend="sup" range="10,11" orig="reimbursem=t=">reimbursemt</hi>. Do pray the favor of the bord I may have a bill made out, what you shall think convenient, haveing bine out of my mony now 36 ys. I likewise, in the yeare 1690 (being then one of the <hi rend="sup" range="3,5" orig="Com=rs=">Comrs</hi> for Victualling), was taken into custody at <hi rend="sup" range="6,7" orig="Portsm=o=">Portsmo</hi>, <pb n="52" /> and brought up a prisoner from thence by order of the then House of Comons, and remained as such a considerable tyme in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> hands of Mr. Topham, then sergant at armes to <hi rend="sup" range="1,2" orig="s=d=">sd</hi> house, under pretence of our poisoning the fleet then at sea (under <hi rend="sup" range="3,4" orig="com=d=">comd</hi> of <hi rend="sup" range="3,5" orig="Adm=ll=">Admll</hi> Herbert, now Earle of Torrington), with gutts in our beere and gaules in our beefe; and with great dificulty obtained to be bailed. I must not call it injustice in that august assembly, what they did to me; but it cost me about a hundred pounds to Mr. Topham for his fees, and to lawyers soliciting the House of Comons, <hi rend="sup" range="1,3" orig="w=th=">wth</hi> expences of entertainment whilst in custody; for satisfaction of <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> I presume the bord will not think fitt to allow me, except directed soe to doe by order of the Lord High <hi rend="sup" range="3,5" orig="Adm=ll=">Admll</hi>, for <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> shall make my aplication to him; but for my cure, I doubt not the favor and justice of the bord in ordering a bill to be made out.</p>
+			<p>I remain, <hi rend="sup" range="4,5" orig="Gent=n=">Gentn</hi>, <hi rend="sup" range="2,3" orig="yo=r=">yor</hi> very humble <hi rend="sup" range="4,5" orig="serv=t=">servt</hi>,</p>
+			<p><hi rend="sup" range="1,2" orig="R=d=">Rd</hi>. Haddock.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HADDOC2_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1712 FO RHADDOCK"></title>
+					<author key="RICHARD HADDOCK I"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="52" />
+			<head> <note resp="editor" value="SIR RICHARD HADDOCK TO HIS GRANDSON." /> </head>
+			<p>Clapham, <hi rend="sup" range="2,4" orig="28=th=">28th</hi> May, 1712, Wedensday.</p>
+			<p>Deare Grandson,</p>
+			<p>I came yesterday to this place, and, according to my promise, do answer yours of <hi rend="sup" range="2,4" orig="18=th=">18th</hi> instant from Christ Colledge in Oxford.</p>
+			<p>It happens to be this day 40 years that I was burnt out of the Royall James in the Sole Bay fight against the Dutch. Am well pleased to find the efforts you intend to make yourselfe famous in Westminster Hall. It is like the saying of your Unckle <hi rend="sup" range="4,5" orig="Nich=s=">Nichs</hi>, who doubted not but to be as great as <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Cloudesly Shovell was; and he pushes very faire for it. Your father and family went to Wakehurst <pb n="53" /> Satuarday last; tooke Betty and Fanny Clark downe <hi rend="sup" range="1,3" orig="w=th=">wth</hi> them; gote well thither. <hi rend="sup" range="2,3" orig="Yo=r=">Yor</hi> Unckle Richard, the week past, hath bine very ill <hi rend="sup" range="1,3" orig="w=th=">wth</hi> a feavor and ague, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> kept me from hence longer then I designed; is under the advice of Doctor Ratclif, who gave me leave to come downe hither, promiseing his care of him; and was downe staires when came away.</p>
+			<p>With my harty prayers for <hi rend="sup" range="2,3" orig="yo=r=">yor</hi> health and wellfare, I am</p>
+			<p><hi rend="sup" range="2,3" orig="Yo=r=">Yor</hi> most <hi rend="sup" range="4,5" orig="afec=t=">afect</hi> grandfather,</p>
+			<p><hi rend="sup" range="1,2" orig="R=d=">Rd</hi>. H.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HADDOC2_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1718 FN NHADDOCK"></title>
+					<author key="NICHOLAS HADDOCK"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="53" />
+			<head> <note resp="editor" value="CAPTAIN NICHOLAS HADDOCK TO HIS WIFE." /> </head>
+			<p>Grafton at sea, about 10 leagues from Cape Passaro, Aug. the <hi rend="sup" range="1,3" orig="4=th=">4th</hi>, 1718.</p>
+			<p>My <hi rend="sup" range="1,2" orig="d=r=">dr</hi> Fanny,</p>
+			<p>The Superbe being orderd from the fleet <hi rend="sup" range="1,3" orig="w=th=">wth</hi> the Admirall's letters, I send this to tell you I am well.</p>
+			<p>Five days ago we had a battle <hi rend="sup" range="1,3" orig="w=th=">wth</hi> the Spanish fleet off of Cape Passaro, on the Island of Sicily, in <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> severall of their ships were taken and some destroyd. The Grafton had her share in that action, and the Admirall has been pleased to make me great compliments on my behaviour that day. I shall soon be orderd to be refitted at Port Mahon, the ship requiring it. I had fifty men killd and wounded. Among the former was <hi rend="sup" range="1,2" orig="L=t=">Lt</hi> Bramble, who was appointed by the intrest of Sir Cha. Wager. I'm sorry for him, he being a <pb n="54" /> good officer. My Cousin Haddock chased towards the shoar after part of the Spanish fleet, when they separated, <hi rend="sup" range="1,3" orig="w=th=">wth</hi> 4 or 5 other ships whose signalls were made for that purpose, and they are not yet come into the fleet. However, I doubt not but he is well, the ships that they were sent after being of the smaller sort.</p>
+			<p>My <hi rend="sup" range="1,2" orig="d=r=">dr</hi>, pray send to Mrs. Harris to tell her her spouse is well. He dined aboard me the day after the action; he was one of the ships engaged.</p>
+			<p>Just before we saild from Naples I received <hi rend="sup" range="1,2" orig="y=r=">yr</hi> letter, and am glad to hear <hi rend="sup" range="1,2" orig="y=r=self">yrself</hi> and the little boy are well. I give my love to all freinds, and remaine, my <hi rend="sup" range="1,2" orig="d=r=">dr</hi> Fanny,</p>
+			<p><hi rend="sup" range="1,2" orig="Y=r=">Yr</hi> most <hi rend="sup" range="5,6" orig="affec=t=">affect</hi> husband,</p>
+			<p><hi rend="sup" range="1,2" orig="N=s=">Ns</hi>. Haddock.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HADDOC2_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1719 FN NHADDOCK"></title>
+					<author key="NICHOLAS HADDOCK"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="54" />
+			<note resp="compiler" value="CAPTAIN NICHOLAS HADDOCK TO HIS WIFE." />
+			<p>Grafton, at Regio, <hi rend="sup" range="3,5" orig="Jan=ry=">Janry</hi> the <hi rend="sup" range="2,4" orig="19=th=">19th</hi>, O.S., 1718/9. My dear Spouse,</p>
+			<p>I send this to tell you I am well. I believe, before this come to you, you will have heard of my having forced ashoar on Sicily a Spanish man of war of 70 guns, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> is overset and sunk. I <hi rend="sup" range="3,4" orig="rec=d=">recd</hi> some shot from her, but without much damage. My <hi rend="sup" range="1,2" orig="d=r=">dr</hi>, we are here at an anchor, in company <hi rend="sup" range="1,3" orig="w=th=">wth</hi> the Kent, <hi rend="sup" range="3,4" orig="Roy=l=">Royl</hi> Oake, and Rochester, to block up Camock, who is at Messina and will not venture out, <pb n="55" /> his squadron being much inferiour to us. By the news we receive from England, I conjecture Spain will soon be oblidgd to accept the terms proposed to 'em; after <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> I suppose the bigger ships will be orderd home, where I shall always be glad to be, whenever it consists <hi rend="sup" range="1,3" orig="w=th=">wth</hi> my honour; for, indeed, my dear Fanny, I heartily love you.</p>
+			<p>Pray give my love to all freinds, and I remaine, my <hi rend="sup" range="1,2" orig="d=r=">dr</hi>,</p>
+			<p><hi rend="sup" range="1,2" orig="Y=r=">Yr</hi> most affect. husband,</p>
+			<p><hi rend="sup" range="1,2" orig="N=s=">Ns</hi>. Haddock.</p>
+			<p>P.S. This goes for Naples <hi rend="sup" range="1,3" orig="w=th=">wth</hi> an express that Capt. Mathews sends to the <hi rend="sup" range="3,4" orig="Adm=l=">Adml</hi>, and from thence it will be forwarded to you.</p>
+			<p><hi rend="sup" range="1,2" orig="N=s=">Ns</hi> H.</p>
+		</text>
+	</TEI>
+</teiCollection>

@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FGEORGE3">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>THE CORRESPONDENCE OF KING GEORGE THE THIRD. VOLS. I-VI. ED. BY JOHN FORTESCUE. LONDON: MACMILLAN. 1927-1928.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="GEORGE3_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1765? FO GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="I,106" />
+			<head> <note resp="editor" value="NO. 74 - THE KING TO THE DUKE OF CUMBERLAND." /> </head>
+			<note resp="editor" value="20 MAY, 1765." />
+			<p>Dear Uncle - the very friendly &amp; warm part You have taken has given Me real satisfaction but I little thought I should be so troublesome to You as the Conduct of the Men I have employ'd forces me; I in the whole course of the transaction had propos'd consulting You in particular on all Military affairs, but now I must desire You to take the Command tomorrow Morning as Captain General; I should think Ld Albemarle very proper to put Your orders in execution; I have sent this by one who has my orders not to deliver this to any one but Yourself, &amp; to bring an immediate answer, &amp; also Your opinion where &amp; how soon we can meet for if any disturbance arises in the Night I should think the hour propos'd for tomorrow too late, I beg You will show the enclos'd Abstract of their very extraordinary paper to those whom You may think it may force to act a right part. I remain Dear Uncle Your most affectionate Nephew</p>
+			<p>George R.</p>
+			<p>Richmond.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1765 FO GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="I,118" />
+			<head> <note resp="editor" value="NO. 89 - THE KING TO THE DUKE OF CUMBERLAND." /> </head>
+			<p>Dear Uncle - Your very friendly concern for my situation will undoubtedly make You anxious to hear the fate of this day; the D. of Bedford came to ask leave to go to Wooburn, then he drew a Paper out of his Pocket &amp; read it to the following effect that he found he &amp; his Collegues had lost my favour that they would not serve without it that when he return'd in the course of the next Month if He did not find they were lik'd by me, &amp; if those they look'd upon as their personal Enemys, &amp; those who were in Opposition to them were not frown'd upon they would retire, many invectives against Ld Bute as his Enemy &amp; as wishing any others in their places; he even intimated that perhaps Persons of more elevated Stations Might do them disservice, then He enter'd on the mode of his first accepting in <pb n="I,119" /> Short I with difficulty kept my temper, but did master it, &amp; let him retire without giving him that kind of answer that my own feelings dictated; things being in this situation, I beg You will redouble Your attention that something may be soon form'd, for in this state of things no business is carry'd on, I know my Ministers don't disguise to the Foreigners that I dislike them this will be soon known all over Europe, therefore no time ought to be lost in restoring order into Government; I beg an answer may be sent me by some means or other whether this has been safely deliver'd, as to the bearer of it, He will not wait for it to prevent suspicion; the Lord Cavendishes brought the D. of Devonshire to day, who seems a pretty behav'd Young Man I remain Dear Uncle Your most affectionate Nephew George R.</p>
+			<p>Richmond Lodge</p>
+			<p>June <hi rend="sup" range="2,4" orig="12=th=">12th</hi> 1765.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1766 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="I,243" />
+			<head> <note resp="editor" value="NO. 212 - THE KING TO LORD ROCKINGHAM." /> </head>
+			<p>Queen's House Jan. 21st. 1766. a.m.</p>
+			<p>Ld. R. - I think Y. sending a written Answer to Mr. P. extrem'ly dangerous, &amp; therefore am clearly of opinion yt. Y. even seeing him alone is preferable; at ye. same time I confess yt. I think ye. D. of G. has more delicacy n/y there <pb n="I,244" /> appears cause for, in declining accompanying Y. I recommend it strongly to Y. to avoid a long Conversation by saying Y. business only permits Y. to call for a few minutes; be extrem'ly civil but firm in what Y. say; &amp; as ye. D. of G. will not accompany Y. I think ye. shewing him ye. impracticability of his answer to my 1st question is necessary; pray as soon as Y. have seen him, send Me a line how things have pass'd; as to ye. full explanation yt. may wait till I see Y. tomorrow. I am much pleas'd yt. opposition has forc'd Y. to hear Y. own Voice, which I hope will encourage Y. to stand forth in other Debates. Talbot is as right as I can desire on ye. Stamp Act; strong for our declaring our right but willing to repeal, &amp; has handsomely offer'd to attend ye. House daily &amp; answer ye. very indecent conduct of those who oppose with so little Manners or Candour.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1766? T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="I,309" />
+			<head> <note resp="editor" value="NO. 311 - THE KING TO LORD EGMONT." /> </head>
+			<p>Sunday <note resp="editor" value="18 MAY, 1766" /></p>
+			<p>m/30 past Six p.m.</p>
+			<p>My Dear Lord - I am very sensible of Your attachment to me in sending Me so very fully Your opinion on the present situation of affairs; I so thoroughly agree with You that among the many evils perhaps the taking the D. of Richmond may be the least; I have therefore consented to it; Ld. Dartmouth is to remain at the Head of the Board of Trade with the <foreign>tour de baton</foreign> in America ; Ld. North Vice Treasurer of Ireland; thus <pb n="I,310" /> the idea of a third Secretary of State is drop'd; I desire You will write to the Chancellor word of this as I promis'd him He should have an account as soon as anything seem'd settl'd; I wish you could convey to him what are my reasons for the part I have taken; indeed my sole hope is that time may give me materials to shew this Country once more in a flourishing condition but at present I don't see that happy hour.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1767 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="I,461" />
+			<head> <note resp="editor" value="NO. 488 - THE KING TO THE DUKE OF GRAFTON." /> </head>
+			<p>Queen's House March <hi rend="sup" range="1,3" orig="7=th=">7th</hi> 1767.</p>
+			<p>Duke of Grafton - I must refrain the pleasure of rejoicing with You on the very agreable issue of Yesterday, it augurs well for the subsequent days on the East India business, &amp; I am not without hopes that if pains are taken Lieutenant General Conway may be persuaded to take a more active part on this occasion than there was any reason to imagine; from this consideration on his acquainting Me last night with what had passed in the <pb n="I,462" /> House of Commons I wrote him the enclosed Note which I hope will have some effect on him. I look on all difficultys as sirmountable if there is a little attention &amp; am sanguine in hopes that this Country by due firmness in the Crown &amp; its Ministers will be at length preserved from the evils many expect.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1767 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="I,499" />
+			<head> <note resp="editor" value="NO. 548 - THE KING TO LORD HERTFORD." /> </head>
+			<p>Richmond Lodge July 17th 1767.</p>
+			<p>Lord Hertford - The Duke of Grafton has this day acquainted Me that on the maturest reflection He cannot prevail on himself to remain in the Treasury unless Lieut. Gen. Conway can be induced to continue Secretary of State; for that his situation would be too hazardous unless he could thoroughly rely on my principal Minister in the House of Commons, &amp; that Your Brother is the only person in whom he can place that degree of trust; I know the difficultys that must be encountered in Your attempting to persuade the General, &amp; have very fully stated them to the Duke of Grafton, but nothing I believe can induce him to alter his present determination; He has promised Me to get <hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Walpole to speak to the General &amp; I desire You will also assist in this, indeed Your Brother has it now in his power to extricate Me out of all my difficulties by lending himself at least for a time to my Civil Service; if He will but one moment coolly reflect, he must see he has most scrupulously fulfilled his unguarded promise to those who have not acted by him as he has towards them; for he has persuaded Me to cast my Eyes towards them, they have upon this made most indecent demands, which must inevitably oblige Me to go through any difficultys rather than submit to their Chains; if He thinks of his duty it must teach him that he must continue the Chief Minister in the House of Commons, as it will encourage <pb n="I,500" /> the Duke of Grafton to remain, &amp; consequently prevent every evil that otherwise may arise; if he feels a delicacy that would make him easier in holding another Province than that of the North, I will erect a Secretary of State for America, &amp; will undoubtedly give him the command of the very lucrative &amp; honorable Regiment I hinted to You the other day whenever it shall become vacant, succeed in this &amp; You may depend on it I shall remember Your conduct; on Sunday I hope I shall find You have thoroughly persuaded Your Brother.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1768 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,42" />
+			<head> <note resp="editor" value="NO. 651 - THE KING TO THE DUKE OF GRAFTON." /> </head>
+			<p>Richmond Lodge <hi rend="sup" range="3,4" orig="Sep=t=">Sept</hi> <hi rend="sup" range="2,4" orig="15=th=">15th</hi> 1768.</p>
+			<p>Duke of Grafton - Having had a conversation of some consequence with the Lord Chancellor Yesterday, I think it material to make You acquainted with it, as otherwise his answer to the letter You proposed writing to him during Your stay at Euston, may appear not very intelligible; He asked Me whether You &amp; Lord Shelburne had in the least approached each other during his absence; I very frankly said that Lord Shelburne manifestly still attempted to thwart every measure that originated from You, &amp; seemed resolved to propose none himself, &amp; that I believed He <pb n="II,43" /> was lying by for some Popular occasion to resign with some degree of eclat; that seeing this in a very strong light I had long declared to You that nothing could establish that harmony in the Cabinet which alone could give weight to measures taken either at home or abroad than the appointing a new Secretary to the Southern Department, He said He had long looked upon that measure as inevitable but that as the Lord who held that Employment had been recommended by Lord Chatham, He thought it best for Himself, to take a neuter part on this occasion, tho privately He could not conceal his thoughts to Me; &amp; that He must add, that Lord Shelburne had not only lost Your good opinion, but that of every one of the other active Members of the Cabinet; &amp; was even shy with Him, because He had not succeeded in raising doubts in his mind. I dropped the idea of Lord Rochford which seemed to please Him, as He could neither be called of the Bedford connection nor adverse to the Earl of Chatham, He then concluded with telling Me that the news from Hayes does not mend, &amp; that He himself entirely despairs of seeing that able Man ever in a state of health to be of any farther use in Publick Affairs. The King of Denmark has desir'd us to give him a private Ball on Monday, to which I certainly should have invited You if You had been in Town but knowing You are not fond of those Entertainments I shall not expect You, but if You had previously intended being in Town that day I should be glad of seeing You.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1768 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,67" />
+			<head> <note resp="editor" value="NO. 684 - THE KING TO LORD HILLSBOROUGH." /> </head>
+			<p>Richmond Lodge <hi rend="sup" range="2,3" orig="Oc=t=">Oct</hi> <hi rend="sup" range="2,4" orig="18=th=">18th</hi> 1768.</p>
+			<p>Lord Hillsborough - I have just received Your letter which is an additional proof of that Duty &amp; Attachment I have before experienced from You; the Post You hold cannot be in hands more to my satisfaction as well as to the credit of my Service; as to my Fortitude it shall not be diminished, but on the contrary as disagreable events arise is ever encreased as I have no View but the Prosperity of My Kingdoms I trust with some care the ill consequences of the late ill timed Resignation may be staved off; the Duke of Grafton behaves as He <supplied range="4,5" orig="ough[{t{]">ought</supplied> &amp; by the attention of the <hi rend="type">common friend</hi> that disposition may be encouraged, the <pb n="II,68" /> two that require most to be proved are the Lord Chancellor &amp; Lord North, the latter of whom with great abilities &amp; good Intentions is easily disturbed; When I see You on Friday I hope I shall be able by that time to shew You a better Scene than Your Zeal for my Service has at present painted in Your mind.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1769 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,89" />
+			<head> <note resp="editor" value="NO. 709 - THE KING TO LORD ROCHFORD." /> </head>
+			<p>Queens House April <hi rend="sup" range="2,4" orig="16=th=">16th</hi> 1769.</p>
+			<p>m/20 <hi rend="sup" range="1,2" orig="p=t=">pt</hi> 10 a.m.</p>
+			<p>Lord Rochford - Tho' thoroughly satisfied that You Will have every meeting at the London Tavern &amp; at Mile End watched; yet having seen in the Papers of Yesterday that the Freeholders of Middlesex are summoned to meet at the latter place to morrow; I think it right to mention how material it is that a proper person be sent there not only to give the earliest intelligence of the Resolutions taken there, as also of those who are the most active in the framing of them. I cannot conclude without a fresh expressing my conviction that if firmness be now shewn this affair will soon vanish into smoke, but if this is omitted no one can answer to what lengths Faction may not go.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1769 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,110" />
+			<head> <note resp="editor" value="NO. 736 - THE KING TO SIR JOSEPH YORKE." /> </head>
+			<p>Queen's House <hi rend="sup" range="3,4" orig="Dec=r=">Decr</hi> <hi rend="sup" range="2,4" orig="15=th=">15th</hi> 1769.</p>
+			<p>Sir Joseph Yorke - The experience I have of Your Zeal for my Service and of Your knowledge of the sentiments of the principal persons of the Republic, has occasioned my directing Baron Behr to enquire of You what conduct the United Provinces are most likely to adopt in case the clouds that seem daily to thicken should produce a new War, for if I form a plan of defence as Elector it must in great measure arise, from the hopes of assistance from so natural Ally as the Dutch.</p>
+			<p>I shall be desirous of hearing from You in consequence of this, and of learning how far the influence of the Prince of Orange gains ground, and whether Prince Lewis still retains <supplied>the</supplied> weight he had with that Prince.</p>
+			<p>as this is as yet only an Electoral concern You will send Your letter through the Channel of the German Resident.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1770 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,161" />
+			<head> <note resp="editor" value="NO. 816 - THE KING TO LORD WEYMOUTH." /> </head>
+			<p>Richmond Lodge <hi rend="sup" range="3,4" orig="Sep=t=">Sept</hi> <hi rend="sup" range="2,4" orig="30=th=">30th</hi> 1770.</p>
+			<p>Six o'clock p.m.</p>
+			<p>Lord Weymouth - I thoroughly approve of the openess and clearness with which You have in the inclosed draught given Your ideas to Lord Hillsborough on the necessity of more exactly defining Your department in case War should arise, least that Secrecy and dispatch on which the Success of War must greatly depend should suffer by extending the business to too many Offices.</p>
+			<p>Your conduct during the time You have held the Seals makes me desirous this affair should so far be accommodated as to enable You to feel pleasant in Your department; on the other hand I should be sorry if Lord Hillsborough felt himself agrieved; I know Your prudence can be relied on and Your wish of no farther encrease of department than what the good of the Service requires which ought alone to decide this affair, I therefore trust when You both coolly discuss this matter that such an expedient will occur as may be satisfactory, I am anxious that this may be previous to my seeing You on Wednesday.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1770 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,175" />
+			<head> <note resp="editor" value="NO. 844 - THE KING TO LORD ROCHFORD." /> </head>
+			<p>Queens House <hi rend="sup" range="3,4" orig="Dec=r=">Decr</hi> <hi rend="sup" range="1,3" orig="6=th=">6th</hi> 1770. m/44 <hi rend="sup" range="1,2" orig="p=t=">pt</hi> 10 a.m.</p>
+			<p>Lord Rochford - As I shall probably not see You alone this day and as the sending for You might occasion suspicion, I choose to take this method of opening my ideas to You on the very important subjects that will be this Evening laid before the Cabinet. From the moment Lord Weymouth expressed yesterday a wish that <hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Harris might be recalled and that I had from others heard he had at the meeting the night before avoided answering the proper question You had put whether all present were ready to advise the accepting the declaration if containing simply a disavowal of <hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Buccarelli and a restoration of the Island; I have seen the above proposal as intended with a view to prevent any accommodation. I owne I have no expectation the Spaniards will end this affair amicably yet I do not wish they should have it to say that they would have complied <pb n="II,176" /> provided we had not recalled the Secretary of the Embassy without giving them an opportunity to conform to our uniform demanded <note resp="editor" value="SIC" /> . The opening a new the negociation would be highly improper the delaying his recall not less so; but the sending him an exact draught of such a Declaration as we can receive with orders to acquaint <hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Grimaldi, that if he does not receive the King of Spain's consent to it without the alteration of an iota, the next day he instantly quit Spain; Such a measure would enable the Spanish Ambassador to stay and obey any directions he may receive whilst that proposed would of necessity immediately oblige him to quit the Kingdom, and consequently entirely shut the door against concluding this irksome affair as every honest and considerate man must wish.</p>
+			<p>As to the desire of the East India Company that they may be permitted to order Pondicherri and the French factory at Bengal to be attacked this seems to me highly improper, as the ordering them to collect their Forces and that if a War should be commenced they will soon receive directions to attack those places, which we may within a month send by a Frigate and for fear of accidents a Messenger may also be sent by land. I should be desirous of having an answer to this that I may know Your exact sentiments on these very important questions.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_013">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1771 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,204" />
+			<head> <note resp="editor" value="NO. 879 - THE KING TO SIR JOSEPH YORKE." /> </head>
+			<p>Queens House Jan. <hi rend="sup" range="1,3" orig="9=th=">9th</hi> 1771.</p>
+			<p>Sir Joseph Yorke - Your letter has in the fullest manner satisfied the questions upon which I was desirous of information, and will be very material for my guidance whenever the calamity of War shall appear indispensably necessary at present the firm though temperate language that has been held to the French Court has lowered their tone, and will I flatter myself shew that they must be less high in their future discussions; but great attention must be had to their conduct as they can never be trusted to and whenever I see any cause of just suspicion shall through Your channel convey my ideas to the Prince of Orange. I cannot help expressing my sorrow that the King of Prussia has any weight with that Prince, as I can never look upon him as either a sincere friend to this Country or to the United Provinces and as I know He has painted him to the Brunswick Family in the most unfavourable colours. I confess my political Creed is formed on the system of King William, England in conjunction with the House of Austria and the Republic seems the most secure barrier against the Family compact, and if Russia could be added to this, I think the Court of Versailles would not be in a hurry to commence hostillities; but this plan may be difficult to be effected, though I am sure it is the real interest of the four States.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_014">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1771 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,304" />
+			<head> <note resp="editor" value="NO. 994 - THE KING TO LORD NORTH." /> </head>
+			<p>Queens House <hi rend="sup" range="3,4" orig="Dec=r=">Decr</hi> <hi rend="sup" range="2,4" orig="29=th=">29th</hi> 1771.</p>
+			<p>m/8. pt. 9 pm.</p>
+			<p>Lord North - A Messenger is just arrived from Lieutenant Colonel Blaquiere with a note He has received unsigned from the Duke d'Aiguillon, who seems much allarmed at the idea of a Fort erected by us on the River St. John in the Gulph of Darien; I do not recollect that any such establishment has been directed from hence, so that I am at a loss to understand what he alludes to.</p>
+			<p>There is also arrived a Messenger from the Lord Lieutenant with the account that He has passed the Money Bill, that in consequence of it <hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Clements has pressed that a loan for 100,000&pound;. may be immediately made; that doubts having arisen whether this can properly be done untill the Second Money Bill is passed; the Chancellor and <hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Malone Chairman of the Committee of Supply have given it as their opinions that it may be <pb n="II,305" /> done; he has sent into the Country for those of the Prime Serjeant, the Attorney and Sollicitor General which when received he will also transmit, and wishes to have directions on the subject from Hence; He adds a Postscript that He Supposes the Money Bill will not be decided upon here, till he sends the Report of the three last mentioned Lawyers.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_015">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1772 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,364" />
+			<head> <note resp="editor" value="NO. 1089 - THE KING TO LORD SUFFOLK." /> </head>
+			<p>Lord Suffolk - On receiving the very authentic account of an intended attempt to change the Constitution of Sweden by some desperate measures, I thought it highly necessary to transmit it instantly to You with directions that if You had left London it should be carried to Lord Rochford; he unfortunately has sent Copies of the two Letters instead of putting their contents into another form; there is a letter of Vergennes which confirms the former one, but states that the stroke will not be struck till the middle of this month, I therefore hope Sir John Goodricke will be apprized in time; least the same imprudence should be repeated on this occasion, I have wrote directions to <hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Eden that the contents must only be sent to Sir John, not a Copy of the letter.</p>
+			<p>Kew July <hi rend="sup" range="1,3" orig="6=th=">6th</hi> 1772.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_016">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1772 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,375" />
+			<head> <note resp="editor" value="NO. 1108 - THE KING TO LORD SUFFOLK." /> </head>
+			<p>Lord Suffolk - The Judges opinion on the case of Jones does not give the smallest assistance; I owne all that has passed since the Report, only confirms me in his being guilty; but that every room may be given to getting to the bottom of the affair, I do not object to Your humane wish for a short respit, but the wretch ought to know that he is not to build upon it. I cannot see great reason for apprehending that this case will give rise to attempts of charging persons with this crime without foundation, for both Judges and Juries ought to be very cautious on such occasions, and where there is no truth the tale cannot well be supported; but I think his being executed may allarm others who are I fear but too guilty of the same Vice, for they will see that it is difficult sooner or later not to be brought to Justice.</p>
+			<p>Kew, <hi rend="sup" range="3,4" orig="Aug=t=">Augt</hi> 4th 1772.</p>
+			<p>m/40. <hi rend="sup" range="1,2" orig="p=t=">pt</hi> 7. a.m.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_017">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1773 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,475" />
+			<head> <note resp="editor" value="NO. 1230 - THE KING TO LORD SUFFOLK." /> </head>
+			<p>Lord Suffolk - I am much pleased that the wicked attempt of collecting different bodies of men with an intent of disturbing the peace of this Town has through the becoming vigilance of the Magistrates been prevented; nothing can be more proper than Your seeing this Evening the Attorney and the Solicitor General, that it may be thoroughly assertained what punishment can be inflicted on the Author of hand bills to encourage tumultuous assemblies; it is impossible that in any Society which deserves the appellation of civilized, such a crime shall not meet with a very exemplary one; the more I reflect on Your proposal of writing to the Lord Mayor and one of the Sheriffs, the more I think it proper</p>
+			<p>Queens House</p>
+			<p>April <hi rend="sup" range="2,4" orig="24=th=">24th</hi> 1773</p>
+			<p>m/48 pt 5 pm.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_018">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1773 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,2" />
+			<head> <note resp="editor" value="NO. 1291 - THE KING TO LORD BRISTOL." /> </head>
+			<p>Lord Bristol - I have learnt that my Laundress Mary Smith died on Monday. She suckled me, and to her great attention my having been reared is greatly owing; this ought to make me anxious for the welfare of her Children, who by her great imprudence are left destitute of support; I therefore desire You will appoint her Youngest Daughter Augusta Hicks to succeed as Laundress, who has frequently managed the business during different Illnesses with which she has been afflicted.</p>
+			<p>I saw Your Brother yesterday, who seems more shattered than after any former confinement, and even more mortified at his not being able to appear at Portsmouth than I expected; he seems to attribute his state of relaxation to the continually taking James's Powder which he has now abandoned; I hope his example will deter You from Medicines, and that You will attempt exercises as the best preservative against Gout, and change Your Abstemiousness, which if it succeeds in keeping off that horrid complaint will do it at the expence of Your health, and perhaps be productive of greater evils. George R.</p>
+			<p>Kew, July 8th 1773.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_019">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1774 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,59" />
+			<head> <note resp="editor" value="NO. 1379 - THE KING TO LORD NORTH." /> </head>
+			<p>Lord North - Since You left me this day, I have seen Lieutenant General Gage, who came to express his readiness though so lately come from America to return at a day's notice if the conduct of the Colonies should induce the directing coercive measures, his language was very consonant to his Character of an honest determined Man; he says they will be Lyons, whilst we are Lambs but if we take the resolute part they will undoubtedly prove very meek; he thinks the four Regiments intended to Relieve as many Regiments in America if sent to Boston are sufficient to prevent any disturbance; I wish You would see him and hear his ideas as to the mode of compelling Boston to submit to whatever may be thought necessary; indeed all men seem now to feel that the fatal compliance in 1766. has encouraged the Americans annually to encrease in their pretensions that thorough independency which one State has of another, but which is quite subversive of the obedience which a Colony owes to its Mother Country.</p>
+			<p>Queens House <hi rend="sup" range="3,4" orig="Feb=y=">Feby</hi> <hi rend="sup" range="1,3" orig="4=th=">4th</hi> 1774</p>
+			<p>m/46. <hi rend="sup" range="1,2" orig="p=t=">pt</hi> 6. p.m.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_020">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1774 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,119" />
+			<head> <note resp="editor" value="NO. 1493 - THE KING TO LORD NORTH." /> </head>
+			<p>Lord North - Having heard yesterday of a most scandalous paragraph that appeared in the Whitehall Evening Post in the course of last Week laying a matter to the charge of Lord Lewisham which though without the least shaddow of truth I have reason to know has caused much uneasiness to his worthy Parents, I cannot help mentioning it to You as his Relation, and should immagine that Lord Dartmouth is called upon to defend the amiable Young Man whose exemplary conduct at Oxford so fully does credit to the Principles instilled in him; besides the prosecution of a Printer by so worthy a Man as Lord Dartmouth must be attended with success, and would greatly tend to check that licentiousness which disgraces the freedom of the Press.</p>
+			<p>Kew July <hi rend="sup" range="2,4" orig="19=th=">19th</hi> 1774.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_021">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1775 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,247" />
+			<head> <note resp="editor" value="NO. 1697 - THE KING TO LORD NORTH." /> </head>
+			<p>Lord North - The letter from Captain Acland contains such laudible sentiments as a Citizen and a Soldier that I thoroughly approve of Your having transmitted it to Me; I desire You will contrive if he is in Town to see him tomorrow and to acquaint him how much I am pleased with the zeal he shews upon this occasion, that though I do not chuse as yet to give ear to the raising new Corps, if the time shall come that I shall think authorizes such measures, his plan shall be taken into consideration as well as others; the love he bears to the Military Profession actuated Me to encourage Lord Cornwallis to find an opportunity for Captain Acland though so lately come into the Service to purchase a Company; as no new Corps are as yet to be raised he may shew his zeal and at the same time do it to the assistance of his friend and Colonel, the <hi rend="sup" range="2,3" orig="33=d=">33d</hi> on the present Augmentation will want near 200. Men if he can raise them in the West it will be doing a signal Service and make Me the more willing when I see the proper opportunity to reward the activity of this deserving Young Man.</p>
+			<p>Many of Your friends seem to wish You should avoid appearing at Wells where probably the asking impertinent questions and putting You in an unpleasant conversation is the sole aim for the calling on You to appear; as I am not acquainted with what they think it possible to bring to light or what effect the non <pb n="III,248" /> appearance might have, I give no opinion, trusting that You have weighed the matter fully and in consequence made Your determination.</p>
+			<p>There has been much delay in framing a Proclamation declaring the conduct of the Americans Rebellious, and warning persons from corresponding with them; from the time it was first suggested I have seen it as most necessary first as it put people on their guard, and also as it shews the determination of prosecuting with vigour every measure that may tend to force those deluded People to Submission; it is now I think got into a good train, I have directed Lord Suffolk to have it shewn to You and if it meets with Your concurrence in its present State to take such further Steps as may be necessary for having it read and ordered to be published by the Privy Council on Wednesday.</p>
+			<p>Major Gen. Haldimand is arrived, and seems thoroughly acquainted with the Sentiments of the Americans I desire You will if possible See him; he says nothing but force can bring them to reason and ownes that till they have suffered for their Conduct that it would be dangerous to give ear to any propositions they might transmit; but if I am rightly informed they do not seem inclined to put on even the appearance of wishing in the least to recede from doctrines that it would be better totally to abandon them than to admit a single shaddow of them to be admitted.</p>
+			<p>If You can spare time to call here either tomorrow forenoon or in the Evening, I shall be glad to see You, but desire to hear before that I may be at home</p>
+			<p>Kew <hi rend="sup" range="3,4" orig="Aug=t=">Augt</hi> <hi rend="sup" range="2,4" orig="18=th=">18th</hi> 1775.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_022">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1775 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,285" />
+			<head> <note resp="editor" value="NO. 1752 - THE KING TO LORD NORTH." /> </head>
+			<p>Lord North - This Evening I have received a letter from Lord Rochford expressing his being too weak to attend tomorrow with the Seals, and desiring the change may be postponed till Monday; I think delays are improper, and as I am to give the American Seals on Saturday, I think of desiring Lord Rochford to put his Seals in a box, and then I can conferr them tomorrow as was settled this day on Lord Weymouth; If You agree with Me in opinion I shall on the receipt of Your answer write accordingly to Lord Rochford; Lord Gower must be desired by You to Summon a Privy Council for tomorrow to administer the Oaths of Office to Lord Dartmouth and Lord Weymouth.</p>
+			<p>Queens House</p>
+			<p>Nov. 9th. 1775.</p>
+			<p>m/35 <hi rend="sup" range="1,2" orig="p=t=">pt</hi>. 0. p.m.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_023">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1776 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,331" />
+			<head> <note resp="editor" value="NO. 1810 - THE KING TO LORD SANDWICH." /> </head>
+			<p>Queens House <hi rend="sup" range="3,4" orig="Jan=y=">Jany</hi> <hi rend="sup" range="2,4" orig="11=th=">11th</hi> 1776</p>
+			<p>m/33 pt 10. a.m.</p>
+			<p>Lord Sandwich - I sincerely condole with You on the melancholy event that prevents Your coming before Sunday to <hi rend="sup" range="1,2" orig="S=t=">St</hi> James's.</p>
+			<p>Sir Hugh Pallisser's letter shews he has not been idle during Your absence, and I trust Your activity will instill that vigilance into the inferiors in Your great department that no delay in sending out the Succours in the Spring will arise from the short notice You have had; You call it unprecedented, the expression in ordinary times ought undoubtedly to be attended to, but when such acts of vigour are shewn by the Rebellious Americans, we must shew that the English Lion when rouzed has not only his wonted resolution but has added the swiftness of the Race Horse. I should not be so desirous of employing Your tallents at the Head of the Admiralty Board if I did not entrust You with the general idea that is of late entertained that the Navy is not so quickly when called on fitted out as was expected by those who know Your unremitted ardour to effect whatever You undertake; my answer on all occasions has been that I did not deny that every other Department had been ready for the Southern Expedition three weeks sooner than the Navy but that the difficulty of obtaining Sailors was the cause of this, and that now a bounty is ordered, I trust things will be carried on with infinite dispatch.</p>
+			<p>I cannot too strongly inculcate the necessity of setting all Official forms aside that in the least delay the engaging Transports; I have reason to think the Ships of force fitting out at Philadelphia are not to attempt any engagement with Our Vessels of force but to intercept homeward bound India Men to obtain Salt Petre Ships must be fitted out for to prevent their Succeeding; I cannot help on this occasion reminding You of the idea You mentioned <pb n="III,332" /> some months ago of buying some Coal Vessels and fitting them out as Ships of War; in short every means of obtaining many Vessels ought to be addopted, and a considerable addition ought with the utmost expedition to be sent to strengthen the Southern Squadrons, for every intelligence points out <hi rend="sup" range="1,2" orig="S=t=">St</hi> Eustacia as the Port from whence the Americans hope in the course of the Winter to obtain Gun Powder, therefore between that place and N. America we ought to cover the Sea with Vessels to disappoint them in this essential article for carrying on the next Campaign.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_024">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1776 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,387" />
+			<head> <note resp="editor" value="NO. 1899 - THE KING TO LORD NORTH." /> </head>
+			<p>Lord North - I have signed the Warrants; The majority in favour of <hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Perry is very far superiour to what could reasonably have been expected. The Money <supplied>Bill</supplied> has ended as well as could have been wished. I will consent to the Pension for Sir John Blaquiere being granted in the mode he has desired but the quantum must not exceed 1000 &pound;.</p>
+			<p>I think You ought to write by the Ships now sailing for Canada to M. G. Carleton my approbation of his conduct and that Lady Mary will be the bearer of the Red Ribband.</p>
+			<p>I am also very well contented with the mode in which the business of the preparations of the Navy have been curtailed at the meeting on Thursday.</p>
+			<p>I am sorry to find I am to have an audience of Lord Claremont on Wednesday to deprecate his being not instantly made an Earl and I fear appealing to what Lord Weymouth said in my name sometime ago on which he built certain hopes of Success.</p>
+			<p>Kew. June <hi rend="sup" range="2,3" orig="22=d=">22d</hi>, 1776 m/13 <hi rend="sup" range="1,2" orig="p=t=">pt</hi> 11 p.m.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_025">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1777 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,458" />
+			<head> <note resp="editor" value="NO. 2027 - THE KING TO LORD NORTH." /> </head>
+			<p>Lord North has acted very properly in transmitting unto Me the letter he has received from Lord Percy; He cannot be surprised at the sorrow I feel at the occasion of it, and at my not entering on the subject till the fatal event has happened which I have but too much reason to expect; but I cannot help just mentioning that at the same time that I am very well enclined to shew marks of countenance and approbation to Lord Percy, I must also consider whether conferring one of the greatest Military rewards, may not hurt the Commanding Officer in N. America, who cannot complain if it is conferred on a Man of Quality who is his Senior in the Army, and perhaps by some arrangement I <pb n="III,459" /> may vacat something for Lord Percy. As to the Rangerships of Windsor Forrest and of the New Forrest, I shall certainly only have them held in trust for my Sons.</p>
+			<p>Kew July <hi rend="sup" range="1,3" orig="5=th=">5th</hi> 1777.</p>
+			<p>m/30 <hi rend="sup" range="1,2" orig="p=t=">pt</hi> 10 a.m.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_026">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1777 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,482" />
+			<head> <note resp="editor" value="NO. 2065 - THE KING TO LORD NORTH." /> </head>
+			<p>Kew Oct <hi rend="sup" range="1,3" orig="5=th=">5th</hi> 1777. m/30 <hi rend="sup" range="1,2" orig="p=t=">pt</hi> 11. a.m.</p>
+			<p>Lord North - I cannot suppose but that You was too much employed on Friday to have answered the letter of the Duke of <hi rend="sup" range="1,2" orig="S=t=">St</hi> Albans concerning his house at Windsor, I am desired by the Queen that when on Tuesday You decline in my name the borrowing his House You will add the Queen's Offer of purchasing his House, Stables, and Garden for &pound;4000. that You will clearly state that She does not chuse to Negociate, consequently at once offers what She knows to be far above the value. The Queen trusts that this stated by You will bring things to an immediate decision and as it is exactly what Lord Talbot is by Lord Guilford directed to propose it is not carrying on two Negociations, but the Queen thinks one word from You will advance things much faster than twenty from any other Person.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_027">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1778 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="IV,29" />
+			<head> <note resp="editor" value="NO. 2180 - THE KING TO LORD NORTH." /> </head>
+			<p>Queens House,</p>
+			<p>Jany. 30th 1778.</p>
+			<p>m/25 pt. 6 p.m.</p>
+			<p>Yesterday Lord Hertford shewed unto me the letter he had received from Lord Warwick, stating the desire he had that a County meeting might be conveened to form a Subscription for raising a number of Recruits sufficient for compleating one Regiment of Infantry, that the Towns of Coventry, Birmingham and Warwick were zealous for the measure; I very candidly told him that Lord North could have no objection to this mode if approved by him the Lord Lieutenant, that as to myself I was very clear Lord Warwick if thwarted in this proposal would lay the whole blame on him Lord Hertford, on which he consented to write to the Sheriff to authorise him to summon this meeting; this letter will be sent unless I this evening send to him to make him change his mode; I therefore state the whole to Lord North, and if I do not hear from him shall let the affair be conducted in the mode I have settled.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_028">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1779 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="IV,267" />
+			<head> <note resp="editor" value="NO. 2521 - THE KING TO LORD WEYMOUTH." /> </head>
+			<p>Queens House,</p>
+			<p>Feb. 6th 1779.</p>
+			<p>Lord Weymouth is too much attached to me to be indifferent as to the progress in replacing Lord Suffolk; the last night Lord North came to report the conversation he had held with Lord Howe, which undoubtedly was too diffuse for his determination to be accurately stated; though I think I clearly see <pb n="IV,268" /> he means to decline succeeding to Lord Sandwich; but to prevent further loss of time I have desired Lord North if possible this day to get Lord Clarendon to bring a clear answer from Lord Howe on this subject; should it prove that my opinion is founded, which Lord North concurrs in; I perceive Lord North rather enclines to looking out for a direct Successor to Lord Suffolk, than to proposing the advance of Lord Sandwich and opening the Admiralty; I wish you would maturely weigh this and consult the Chancellor, which will enable you when the Cabinet dinner is over this day, to enquire from Lord North what hopes he has of Lord Howe, which will naturally give you room to state your ideas; and I shall hope also to hear what occurs to you before I finally decide; for I trust you know me well enough to be convinced that I have no other wish than to contribute in doing for the best.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_029">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1779 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="IV,384" />
+			<head> <note resp="editor" value="NO. 2696 - THE KING TO LORD NORTH." /> </head>
+			<p>Kew,</p>
+			<p>July 2nd 1779,</p>
+			<p>m/ pt. 7 a.m.</p>
+			<p>I cannot give a stronger proof of my desire to forward any wish of Lord North's, than in chearfully undertaking, if the Attorney General Comes this day to resign, to employ every argument that I may think capable of persuading him to remain in my Service; but I never can subscribe to the idea that Lord North will be helpless and unsupported if, I should not succeed; I feel and not without well grounded proof, that the want of support Lord North has complained of, has greatly arisen from jealousy of the Attorney's too great influence; besides the Arrangement I have just made for the Lord Advocate solely arose from a doubt whether the Attorney would continue, and consequently that Lord North might be certain of an able debater at all times in the House of Commons; no man has a right to talk of leaving me at this Hour.</p>
+			<p>The Bishops may kiss hands this day.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_030">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1780 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="V,9" />
+			<head> <note resp="editor" value="NO. 2924 - THE KING TO LORD STORMONT." /> </head>
+			<p>Queen's House Jany. 16th 1780.</p>
+			<p>Lord Stormont - Previous to the Death of Lord Suffolk the Attorney was promised that a Reversion should be made out in favour of his Nephew Sir James Erskine of the Office of Director of the Chancery in Scotland after the Demise of the present Possessor Mr. David Scott; all the last Winter it was postponed as I understood at the desire of the Attorney General, and by one neglect or other no step has been taken till this hour; the Attorney though now I believe inclined to act properly in Public begins to complain that this promise has as yet not been yet fulfilled; You will therefore take the proper steps for compleating this affair; I wanted Lord North to state this to You; but though it was settled with Your Predecessor he had a delicacy of speaking to You on the Subject and desired it might originate from Me; I am no friend in general to Reversions but You will see that this originated from not having gratified of the Attorney in his wish of getting the Office of Chief Justice of the Common Pleas.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_031">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1780 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="V,25" />
+			<head> <note resp="editor" value="NO. 2955 - THE KING TO LORD NORTH." /> </head>
+			<p>Queens House Mar. 3d. 1780.</p>
+			<p>Least I should omit to mention to Lord North that I saw Lord Loudon Yesterday, I take this method of communicating to Him, that though Lord Loudon thought Lt. Col. Crawford would scarcely be called to America, yet He thought in a time of war and when no one could say whether this Island or Ireland might not require the service of the Guards, it was not proper for Officers in the Guards to be employed in foreign Courts; I owne the reason seems so forcible that I can by no means nominate Lt. Col. Crauford to a foreign Commission but on his quitting his Profession, and if I was to Advise him I should think in his Situation no means so advisable as His going to the East Indies.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_032">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1781 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="V,252" />
+			<head> <note resp="editor" value="NO. 3368 - THE KING TO LORD NORTH." /> </head>
+			<p>Windsor July 7th. 1781.</p>
+			<p>m/15 p. h/8 p.m.</p>
+			<p>On the death of the Bishop of Ely, my regard for the family of Yorke makes me willingly appoint the Bishop of Gloucester to that See; Ld. North will therefore apprize some of <supplied>the</supplied> family of it that the Bishop may be on Wednesday at St. James's; He must be succeeded by a Clergyman from Cambridge I trust Ld. North will consult the Archbishop of Canterbury and acquaint Him that I wish to confer the Bishoprick on the Clergyman who for private Character, as well as orthodoxy and learning may seem best qualified to be brought on the Bench.</p>
+			<p>Ld. Stormont acquainted me yesterday with the Death of <pb n="V,253" /> Baron Maule and said as that Office was so much connected with the Treasury He should not think himself authorized to recommend to it as He does to the Lords of Session; the recommendation Ld. North has made seems to be the most proper; Ld. Stormont has recommended to the other Office the Solicitor General of Scotland and I imagine at the instigation of Ld. Mansfield I therefore shall say nothing on that Office till Ld. North has spoke to Ld. Stormont.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_033">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1781 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="V,295" />
+			<head> <note resp="editor" value="NO. 3436 - THE KING TO LORD WEYMOUTH." /> </head>
+			<p>Windsor. Oct. 28th, 1781.</p>
+			<p>Lord Weymouth - The last Evening I received Your letter in favour of Lord Aylesford, on the approaching vacancy in the Post Office by Ld. Le Despencer being on the point of death; which gave me pleasure as it convinced Me that from a knowledge of the regard I have for You, you felt that this Application would increase the good inclination I have towards Lord Aylesford who insinuated his wish for that Office some months past; when it becomes vacant if the competition is only whose appointment will give me most pleasure I am not aware of any one more agreable to Me than Him now he is going to ally himself in so suitable a manner; but you know this Country too well not to feel that I must weigh on these occasions not only my inclination but what may be of most advantage to my Public Affairs, therefore till I see what Applications have been made I cannot say more than that I shall ever have a kind inclination through life to Lord Aylesford whilst He conducts himself to meet with Your Approbation.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_034">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1782? T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="V,422" />
+			<head> <note resp="editor" value="NO. 3596 - THE KING TO THE DUKE OF MONTAGU." /> </head>
+			<note resp="editor" value="27 MARCH, 1782?" />
+			<p>Duke of Montagu - Your heart which is ever affectionate must I am certain, feel for my situation at an hour when not only all my Ministers except the Chancellor, and most of my Court except yourself, Lord Ashburnham and my Bedchamber in its different branches are also swepped <note resp="editor" value="SIC" /> ; the agitation of my mind You may discover by the badness of my writing. What I have to communicate is that the whole party have refused to accept, and in short will rather see the Country in a flame than not restore the late Lieutenants of Wilts and East York to those County Honours. You know how I love Lord Aylesbury; I trust he will feel that this goes to my Soul: I have wrote him my distress, but I trust it will not make him quit the Queen's family, as he must see how I am used. Do not let him add to my distress. I must owne Lord Shelburne has done all he could to prevent the change in the County of Wilts, but without effect. George R.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_035">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1782 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="VI,2" />
+			<head> <note resp="editor" value="NO. 3705 - THE KING TO LORD SHELBURNE." /> </head>
+			<p>Queen's House, May 1st, 1782</p>
+			<p>m. 50 past 11 a.m.</p>
+			<p>The idea of directing the Ms. of Rockingham and the Chancellor of the Exchequer that any Bill or Bills for perfecting the reductions now fixed in the Civil List Establishments shall be drawn up by the Attorney General and the Solicitor, and by them be communicated to the three Law Lords, is highly material.</p>
+			<p>The Ms. of Rockingham wrote to Me yesterday in favour of Ld Carlisle, but I took care not to toutch on the Steward's Staff in my answer, on purpose to keep that consideration open, till I knew exactly how matters stood between the Duke of Marlborough and Lord Shelburne; so that it rests just as I could wish, and I certainly will not decide on that employment, till the Duke is thoroughly satisfied.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GEORGE3_036">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1783 T GEORGE3"></title>
+					<author key="GEORGE III"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="VI,204" />
+			<head> <note resp="editor" value="NO. 4055 - THE KING TO LORD SHELBURNE." /> </head>
+			<p>Windsor. Jany 4th, 1783</p>
+			<p>m. 25 past One</p>
+			<p>Lord Shelburne's Attention in acquainting Me of the satisfactory completion of that part of Monsr. de Vergennes' letter which Mr. de Rayneval last night communicated to Him and that the Chancellor, the two Secretaries and Mr. Pitt are clearly of opinion that Peace must no longer be trifled with, but the final Orders sent to Mr. Fitzherbert as soon as the French <pb n="VI,205" /> Courier returns, meets every way with my warmest thanks, for I was rather desponding as to the success of the Negociation.</p>
+			<p>I think it right just to give the heads of what dropped from the Duke of Richmond and Ld Keppel; the former said it was impossible he could continue a Member of the Cabinet after at a Meeting the Ultimatum had been settled, and that Ld Grantham had been authorized to offer Tobago in lieu of Dominica by a more intimate consultation; That he had found Ld Keppel and Gen. Conway equally ignorant of this transaction, that He did not mean that He could not attend Councils <hi rend="type">He did not guide</hi> , but He could not be a member of Council and consequently <hi rend="type">answerable for Measures of which he was ignorant</hi> ; but that as the taking that step hastily might prevent Peace, he would abstain from taking this step till that great measure had one way or other come to a decision; that He did not mean to blame Lord Grantham, whose conduct had ever been polite and ingenuous; that he had attacked the late Ministry because He thought they <hi rend="type">did not act in concert</hi> ; That on the same plan He must object to anyone acting as <hi rend="type">Sole Minister</hi> ; that he had <hi rend="type">no one measure to object to</hi> but that the Country would never bear a Prime Minister, and that We did nothing but yield one point after another to France.</p>
+			<p>Ld Keppel complained of having been constantly slighted, that Duty to Me made him silent till Peace was decided, but that he is convinced France will not conclude one.</p>
+			<p>Gen. Conway was attentive to his own Department and did not drop one sillable on the above affair, therefore I am certain will not join the two others.</p>
+		</text>
+	</TEI>
+</teiCollection>

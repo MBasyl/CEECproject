@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FTIXALL2">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>TIXALL LETTERS; OR THE CORRESPONDENCE OF THE ASTON FAMILY, AND THEIR FRIENDS, DURING THE SEVENTEENTH CENTURY. VOL. II. ED. BY CLIFFORD, ARTHUR. LONDON: LONGMAN, HURST, REES, ORME, AND BROWN AND EDINBURGH: ARCHIBALD CONSTABLE AND CO, AND JOHN BALLANTYNE AND CO. 1815.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="TIXALL2_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1684 FO WTHIMELBY"></title>
+					<author key="WINEFRID THIMELBY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="106" />
+			<p><head> <note resp="editor" value="LETTER LXXXII." /> </head> <note resp="compiler" value="WINEFRID THIMELBY TO HERBERT ASTON" /></p>
+			<p>July 13, 84.</p>
+			<p>Hond. dear Brother,</p>
+			<p>Mrs Aston is <normalised orig="saufly" auto="true">safely</normalised> <normalised orig="arryved" auto="true">arrived</normalised>, and as <normalised orig="kyndly" auto="true">kindly</normalised> <normalised orig="wellcomed" auto="true">welcomed</normalised> of all, as we can make appear, till longur time furnish us with <normalised orig="oportunity" auto="true">opportunity</normalised> of <normalised orig="reall" auto="true">real</normalised> servis to her. It had been enough for me, to understand her a <normalised orig="frind" auto="true">friend</normalised> to Bellamore: that alone had <normalised orig="comaunded" auto="true">commanded</normalised> all my forces, and <normalised orig="imployed" auto="true">employed</normalised> them to her best advantage, and my singular content. But experience tells <normalised orig="mee" auto="true">me</normalised>, that thing content is not to be had in this sad world, <normalised orig="unmixt" auto="true">unmixed</normalised> with cars and fears. For she brings the <normalised orig="unwellcom" auto="true">unwelcome</normalised> news of your decaying strength. How can you blame me for desiring to <normalised orig="drope" auto="true">drop</normalised> away, to spare my eyes <normalised orig="ther" auto="true">there</normalised> streams? If you dye before <normalised orig="mee" auto="true">me</normalised>, I shall quickly <normalised orig="goe" auto="true">go</normalised> after you. But then, alas! what <normalised orig="becoms" auto="true">becomes</normalised> of our dear <normalised orig="girlls" auto="true">girls</normalised> and <normalised orig="boyes" auto="true">boys</normalised>? <normalised orig="Thers" auto="true">Theirs</normalised> my <normalised orig="concearne" auto="true">concern</normalised>, <normalised orig="els" auto="true">else</normalised> I could afford you all the great advantages death will bring <pb n="107" /> you. Forgive me, dear brother, that I wish, and pray, that your <normalised orig="soiourning" auto="true">sojourning</normalised> may bee prolonged.</p>
+			<p>You end your letter with a <normalised orig="ridle" auto="true">riddle</normalised> I have not <normalised orig="witt" auto="true">wit</normalised> to find out. You say, you hope to hear I believe better of you then I did: which seems impossible; my faith <normalised orig="concearning" auto="true">concerning</normalised> you cannot bee more strongly <normalised orig="kynd" auto="true">kind</normalised>, no more then can my love increase.</p>
+			<p>I am unchangeably</p>
+			<p>Hod. dear Brother,</p>
+			<p>Your most <normalised orig="intirely" auto="true">entirely</normalised> loving,</p>
+			<p>though most unworthy sister,</p>
+			<p>W. Thim.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="TIXALL2_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 FO WTHIMELBY"></title>
+					<author key="WINEFRID THIMELBY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="108" />
+			<p><head> <note resp="editor" value="LETTER LXXXIII." /> </head> <note resp="compiler" value="WINEFRID THIMELBY TO HER NIECE MRS. LUMLY" /></p>
+			<p><hi rend="type">These for Mrs Lumly, within tow <normalised orig="dores" auto="true">doors</normalised> of Great <normalised orig="Turne" auto="true">Turn</normalised> style, in Lincolns-Inn fields,</hi> London,</p>
+			<p>May 5, 86.</p>
+			<p>Dearest <normalised orig="Neece" auto="true">Niece</normalised>,</p>
+			<p>Now your coronation <normalised orig="ioyes" auto="true">joys</normalised> are past, I expect you <normalised orig="shuld" auto="true">should</normalised> <normalised orig="crowne" auto="true">crown</normalised> me with the comfort of a letter, for <normalised orig="tis" auto="true">tic</normalised> a tedious time I have suffered by your silence. I confess I <normalised orig="speake" auto="true">speak</normalised> my shame, by discovering my self love, and car, to <normalised orig="purchas" auto="true">purchase</normalised> my delights in hearing from you, in circumstances that <normalised orig="shuld" auto="true">should</normalised> render me busied with nothing but preparation for death: for age sumons me quickly to my grave, and I thank God, I find no unwillingness to dye. But why lest I live, I must love. What did I say? Why lest I live, I must love. God forbid my love <pb n="109" /> <normalised orig="shuld" auto="true">should</normalised> dye with life. I <normalised orig="ment" auto="true">meant</normalised> to say, why lest I live, I must love to <normalised orig="converss" auto="true">converse</normalised> <normalised orig="wher" auto="true">where</normalised> I love; <normalised orig="therfor" auto="true">therefore</normalised> deny not that <normalised orig="lov'd" auto="true">loved</normalised> <normalised orig="ioy" auto="true">joy</normalised> of a line or tow <normalised orig="somtimes" auto="true">sometimes</normalised> to</p>
+			<p>Your most <normalised orig="intirely" auto="true">entirely</normalised> loving aunt,</p>
+			<p>W. Thimelby.</p>
+		</text>
+	</TEI>
+</teiCollection>

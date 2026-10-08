@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FGOWER">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>LORD GRANVILLE LEVESON GOWER: PRIVATE CORRESPONDENCE 1781 TO 1821. VOL 1. ED. BY CASTALIA COUNTESS GRANVILLE. LONDON: JOHN MURRAY. 1916.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="GOWER_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1783 FN GLGOWER"></title>
+					<author key="GRANVILLE LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="4" />
+			<head> <note resp="editor" value="G. L. G. TO HIS MOTHER." /> </head>
+			<p>11th November, 1783.</p>
+			<p>Dear Mama, - I thank you very much for the Letter, which I received this morning. The Holidays begin on the 20th of December. I hope to see you in about 3 weeks time. I thank you very much for the Apples and pears, which I received last Saturday. I wish I could write something to entertain you. Pray give My Duty to Papa, and Love to my Sisters. Dr. and Mrs. Kyte present their <hi rend="sup" range="4,6" orig="Comp=ts=">Compts</hi>. - I am, Dear Mama, Your Dutiful Son,</p>
+			<p>G. Leveson Gower.</p>
+			<p>Lord Chancellor came to see me Just now.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1785? FN SLGOWER"></title>
+					<author key="SUSANNAH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="5" />
+			<head> <note resp="editor" value="LADY GOWER TO G. L. G." /> </head>
+			<p>Whitehall, Saturday ye 19th <note resp="editor" value="PROBABLY FEBRUARY, 1785" /> .</p>
+			<p>My dearest Leveson, - I sent into the City to buy the best oranges that could be bought, and they went from hence last Thursday in the waggon. I thought you would have more Pleasure in seeing enough for your Friends, than in eating them yourself. I therefore sent as many as I thought would be good whilst they last, so if you will let me know that they agree with Mr. Woodhouse, and that you wish to have to give to your Acquaintance in the School near you, I will send some more, but you must let me know ten Days before those you have are finished.</p>
+			<p>The Dowager Lady Gower is still alive. She suffers dreadfully, but the Physicians think she may linger out a Day or two longer.</p>
+			<p>Mr. Pitt has gain'd himself great Credit by his two or three last Speeches. His Language and Oratory amazes, but the sensible thinking People are astonished at his knowledge. The Opposition even cannot help expressing Astonishment. Your Papa says that he is a most wonderful young man. His Passions are all guided by Reason, with a mind so improved, such Discretion, and so perfect a Knowledge of the Commerce, Funds, and Government of the Country that one must imagine to hear him on these subjects, <pb n="6" /> that he had the experience of fifty years, and at the same Time so clever, lively, and agreeable in Society, without the least <hi rend="type">assuming</hi> , that it is impossible to know him without liking him and wondering at his Knowledge and Parts.</p>
+			<p>Since writing the foregoing your Papa has had an <hi rend="sup" range="3,4" orig="Acc=t=">Acct</hi> of the Death of the Dowager Lady Gower. So you must go into Mourning. Our Compliments to Mr. and Mrs. Woodhouse. -</p>
+			<p>Yr. <hi rend="sup" range="5,6" orig="affec=e=">affece</hi>,</p>
+			<p>S. Gower.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1789 FN GLGOWER"></title>
+					<author key="GRANVILLE LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="12" />
+			<head> <note resp="editor" value="G. L. G. TO HIS SISTER, LADY SUSAN LEVESON GOWER." /> </head>
+			<p>Donnington, <hi rend="sup" range="3,5" orig="Feb=ry=">Febry</hi> <hi rend="sup" range="1,2" orig="3=d=">3d</hi>, 1789.</p>
+			<p>My dearest Susan, - I am much obliged to you for your letter, though a week old; I commend very much the style of the Epistle, but it wd. have sounded better had you written one with a later date. I was not mistaken in the word <hi rend="type">Tirade</hi> , for since I <hi rend="sup" range="3,4" orig="rec=d=">recd</hi> your last I looked it out, and find it to be a <hi rend="type">long train of words</hi> . If there is a long train of words, there must consequently be a long letter; so for the future mind how you attack your Brother. I shd. not have mentioned this, only if I had been silent you wd. have concluded that I gave up the Point. I really am in great want of Materials to make a letter long Enough to satisfy you; to begin to talk of my affection, &amp;c., towards you, wd. be the same as saying <hi rend="type">"Queen Anne is dead"</hi> - at least what I hope you have known before. Politics is the common topic of Conversation, but what can we in the Country say upon this Subject to a Londoner? To say <hi rend="type">I</hi> approve of the Measures of Mr. Pitt wd. be echoing the voice of the major part of Great Britain. The Country is charmingly pleasant at this time. It is exactly like <pb n="13" /> Spring: Snowdrops and Crocus's are in full Bloom. Pray give my Duty to and tell my Mother that I will write to her to-morrow. Poor Fury has had the Misfortune to be bit by a mad dog, but she has not as yet shown any signs of insanity, so I am in hopes she will live - her Son Questor is a fine dog. Adieu. - Your <hi rend="sup" range="5,9" orig="affec=nate=">affecnate</hi> Brother,</p>
+			<p>G. Leveson Gower.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1789 FN SLGOWER"></title>
+					<author key="SUSAN LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="16" />
+			<head> <note resp="editor" value="LADY SUSAN LEVESON GOWER TO G. L. G." /> </head>
+			<p>Thursday, 4th June. 1789.</p>
+			<p>My dearest Granville, - I with pleasure think of the time coming nearer to that when I shall enjoy the satisfaction of seeing you again, which (I hope by yourself you imagine) I much long for it. The other night at Boodle's the Prince after supper was as drunk as possible, and behaved very ill. Your friend Bruhl <foreign>ne lui ce`dait pas dans aucun de ces deux points</foreign> ; Mr. Sturt was also very drunk. They were all three obliged to be dragged out of Ranelagh; what a humiliating state man is then thrown into! I might moralize a great deal upon that Supper, but it would be thrown away, as I think (and hope) you will never require it. They say the fe`te given at Ranelagh by the Spanish Embassador was finer, prettier, and more magnificent than one can conceive; the best Supper imaginable and so well attended, a great deal finer than anything that has been yet seen. I have heard it cost him &pound;8,000, but I need not be spending my Rhetoric on this Subject as there is a full Account of this Gala in the Newspapers, though perhaps some of it may be erroneous. Sir John Wrottesley set off yesterday evening for Wrottesley. At the end of July he joins his Regiment at Edinburgh; he belongs to the same Lord Strathaven is in. I write this for Mama, who has not often her dear Granville out of her mind. Her Rheumatism grows worse. She is in continual pain with it, and it keeps her from sleeping; it is also very painful for her to write, with a great numbness. Your letters give Mama much comfort, so do not fail writing. - Yr. affec. Sister,</p>
+			<p>S. L. Gower.</p>
+			<p><hi rend="type">Ye 5th</hi> . - Ly. C. Howard is to be married to Mr. Price Campbell, who is about 30, a very good character, and has 11 or 12 thousand pounds a year. <foreign>Qu'en pensez-vous?</foreign></p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1790 FN GLGOWER"></title>
+					<author key="GRANVILLE LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="22" />
+			<head> <note resp="editor" value="G. L. G. TO HIS MOTHER." /> </head>
+			<p>Aberdeen, Aug. 18th, 1790.</p>
+			<p>My Dearest Mama, - Why our letters are so long upon the road is not in my power to say, but the letter which I wrote from Cockermouth I remember particularly was dated right. I am sorry I have not been so minute as I ought to have been with respect to the places we are going to, and the time we shall arrive at them, but we are ourselves never certain. A horse may not be well, the roads bad, or, in short, a thousand little Circumstances may happen to impede our progress. If we had not been so lucky <pb n="23" /> as to have found your letters and some from Ld. Galloway, we should have been supplied with money by a banker here, to whom we had a letter from Strathaven. Pray give my Duty to my father, and tell him how much I am obliged to him for his kindness in sending me money, and that I am sorry my carelessness should have perplexed him abt. the conveying it -</p>
+			<p>We found Aboyne Castle very pleasant; it appeared so very retired - a mere trio, consisting of persons to whom I have no small partiality. In shooting I had no great success, but the novelty of it was agreeable, and the tent, which belonged to Strathaven when in a marching regiment, was warm and comfortable. Our beds were mere boxes, and not good. Boringdon's horse, which was the real occasion of our long stay at Aboyne, is in a fair way of recovery, but he must be rode very gently lest a relapse should take place. We leave this town, which tho' large, is but bad and ugly. Having seen a little more of it, I rather change my opinion. Sleep at Peterhead, a watering place, and the next day proceed to Ld. Saltoun's, nr. Fraserburgh; stay there a day, and then go to Banff, where we see a place of Ld. Fife's; then on to Cullen, Ld. Finlayter's, stay a day; go to Gordon Castle, stay a day; then go to Elgin to Forres; by Fort George to Culloden, Mr. Forbes's, then to Inverness, and then to Fort Augustus; by Dalwhiney to Blair of Athol, stay a day with the Duke, then to Taymouth, stay a day with Ld. Breadalbane; by Tyndrum to Inverary, and by Loch Lomond to Glasgow, where I hope I shall find some letters from England. I have here given you so far of our route in very inelegant language, but if it is intelligible, both my and your purpose will be answered. You say in your letter that we managed ill in not writing to Ld. Galloway or Strathaven before we went to Edinburgh. Till I received yours at Cockermouth, we intended taking Edinburgh in our return, but yrs. mentioning that there wd. be a ball on Monday or Tuesday, induced us to think that Ld. G. and S. would not leave it before we arrived. Having thus cleared up our reputation with respect to our management in travelling matters, I will say how far we are successful in those of the Epistolary kind. Yours dated Friday, which Georgiana mentions I have not recd., but one of Monday 2d. Unless perhance you shd. have directed to Inverness, I shall not have the pleasure of another letter till we arrive at Glasgow. My love to my Sisters, and Believe me to be your most Dutiful Son,</p>
+			<p>G. Leveson Gower.</p>
+			<p>The &pound;100 which I <hi rend="sup" range="3,4" orig="rec=d=">recd</hi> is upon Ld. Galloway's account.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1790 FO ELGOWER"></title>
+					<author key="ELIZABETH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="25" />
+			<head> <note resp="editor" value="LADY SUTHERLAND TO LADY STAFFORD." /> </head>
+			<p>We were extremely happy, my dear Lady Stafford, to hear of the visit you promised us in your last Letter of Granville and Lord Garlies, and were expecting them with impatience yesterday, but they are not yet arrived. We have contrived to lodge them <foreign>chez nous</foreign> . I meant to have proposed to Lord Garlies to have partaged Lady Alva's Appartment, but it is possible to contrive it otherwise, and there is a very good room for Granville, that Miss Campbell evacuates (to use a fine Word), so that I shall have them under <hi rend="type">my own</hi> eye from Morning till Night. I shall be quite disappointed if anything should happen to make them change their Plan. I was sorry to hear of the Duchess of Argyle's death, as I thought it would distress you, and be a loss to her Family; it had been expected so long that I was not surprised to hear of it. I am at this moment very anxious about Lady F. Douglas, as I was quite alarmed at the account of her illness, and there are few People I should regret more, or that would be a greater loss to all their Friends. Lord Gower is <hi rend="type">bilious</hi> and <hi rend="type">rheumatic</hi> . I hope his visitors will do him good and make him forget his disorders. It is dark, dismal weather, and I am sorry that they should see Paris when it looks so blue and ill. If I was not very stupid I should try to tell you a long History I have just heard, of the King of Sardinia having declined interfering in French Affairs, and signified the <hi rend="type">same</hi> to the Comte d'Artois and Prince de <pb n="26" /> Conde`. The former was satisfied with what he said, the latter <hi rend="type">outrageous</hi> , and expressed his sentiments so strongly that he was desired to leave Turin, which some People say he has done. It is certain that many People expect the Comte d'Artois here, as the truth is that he is much tired of Turin, and begins to think that the amusements and life of France are to be preferred to all <hi rend="type">political prospects</hi> , and that it is not worth while to sacrifice one's present pleasure for an uncertain <hi rend="type">good</hi> ; in short, that his life is too short to be spent at Turin in hopes of a thing that may never come to pass; and the failure of the attempt of a counter revolution at Lyons has discouraged the Party so much that, all things considered, it is most likely he will come back, and the Prince de Conde` seek for an <foreign>asile ailleurs</foreign> . The Temple is getting ready for the reception of the Comte d'Artois.</p>
+			<p>We are to be at Court tomorrow from 11 o'Clock in the Morning till 10 at Night, with a very short interval. I have sent to get Tickets for <foreign>ces Messieurs</foreign> to see the grand Couvert at Night if they arrive, as it will be the best method of seeing the royal Family all eating Pork Stakes or some such thing together. The Duke of Orleans has discharged all his <foreign>Gentilhommes de la Chambre</foreign> , and has begun the reforms in his Family which are very necessary, though a loss to the People who depended upon him and helped to <hi rend="type">consume</hi> his Treasures. The King has sanctioned the decree concerning the Clergy; most of them have acceded to it, and he has also declared that the <hi rend="type">Queen</hi> is as <hi rend="type">zealous</hi> for the new Constitution as he is, so I suppose she is to take her <foreign> <hi rend="type">partie</hi> de bonne gra`ce</foreign> , and become a <hi rend="type">new Creature</hi> in thought, word, and deed.</p>
+			<p>Lord Gower is so busy to-day that he desires me to say he is afraid of not being able to write to Lord Stafford, which he intended. I am also to tell you that our three eldest Princes have been sending about all over Paris to try to raise a Loan (is that a proper expression?) of four millions of Livres (&pound;160,000), but from the nature of the security and the character of the Persons employed to negotiate, nobody will venture to give them anything, and there is no likelyhood of its success here. It is much talked of by all the banking People here; they have also done something similar in Holland. I saw an old acquaintance of the <pb n="27" /> Duchess of Bedford's yesterday, Madame de Forcalquier, who has been very handsome, and was married a long time ago to the son-in-law of the Comte de Toulouse, which makes her a sort of <hi rend="type">relict</hi> of the <foreign>jeunesse de</foreign> Louis XV., which is not a story of yesterday, <foreign>mais elle a encore des <hi rend="type">beaux restes</hi> </foreign> , and plays at Biribi every night of her Life, which is enough to wear anybody's patience out. There are about a dozen old Women who employ themselves in that way - <foreign>entre autres la Duchesse de Gramont</foreign> , M. de Choiseul's sister, like an old <foreign>Capitaine de Dragons</foreign> in Petticoats; <foreign>c'est une Femme a` faire peur</foreign> , and Lady Holderness says always was so.</p>
+			<p>My attention has been taken from my Letter to buy lace Ruffles for Lord Gower. If you want any fine point Lace I have seen some that is beautiful for 5 and 6 guineas per aune, and some much cheaper. Adieu, My dear Lady Stafford, pray write me Something to enliven me, for I am at this moment an <foreign>ennuyeuse Mortelle</foreign> . <foreign>Adieu, pour cette Anne`e.</foreign></p>
+			<p>S.</p>
+			<p>Paris, December 31st, 1790.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1790? FO ELGOWER"></title>
+					<author key="ELIZABETH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="29" />
+			<head> <note resp="editor" value="LADY SUTHERLAND TO LADY STAFFORD." /> </head>
+			<p>My dear Lady Stafford, - You will have so many Letters to-day from Paris that mine will be a <foreign>hors d'oeuvre</foreign> . However, I shall say a few words to tell you of the pleasure we have in the Company of <foreign>ces deux Messieurs</foreign> . If they like us as well as we like them they will lengthen their Visit. Granville had last Week a sort of Cold, which ended in bleeding at the Nose; he told us he was sometimes liable to it. I <hi rend="type">nursed</hi> him as well as I could without tormenting him; he has been perfectly well for some days, but Lord Gower says he ought to be <hi rend="type">taken care of</hi> till he finishes growing, as <hi rend="type">large Bodies</hi> are longer coming to their strength than little ones. The life of Paris is the best thing in the world for him, as he gets amusement without fatigue; therefore <hi rend="type">pray</hi> send him back in summer. <foreign>Pour moi je l'aime a` la folie</foreign> , and <foreign>si je n'e`tais pas d'un <hi rend="type">certain a`ge</hi> ce serait une affaire dangereuse, mais comme je suis la <hi rend="type">sagesse me`me</hi> </foreign> . I am with regard to him in the situation of an old Fairy <foreign>qui veille sur un jeune</foreign> and <foreign>beau Prince</foreign> , as you read in old legends and fairy tales. I don't know how he likes the French Ladies, but altogether he behaves with great propriety without quizzing anybody, which is an instance of self-denial. Lord Garlies we like of all things; he is so entertaining and agreeable that we all sit chattering two hours after Supper without thinking of going to sleep. <foreign>Vu ses agre`mens</foreign> and his conversation.</p>
+			<p>S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1790? FO ELGOWER"></title>
+					<author key="ELIZABETH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="30" />
+			<head> <note resp="editor" value="LADY SUTHERLAND TO LADY STAFFORD." /> </head>
+			<p><foreign>Vous vous flattez peut-e`tre Miladi, que ces Messieurs sont partis, mais je suis charme`e de vous dire qu'ils sont encore ici</foreign> , and are to remain a few days longer, and I hope are amusing themselves very well. I am very sorry that the time for their departure draws so near. Granville seems to be in a very good state of health. If nobody takes him by the nose, and if he keeps rather quiet for some time, he will be very strong, as he is <foreign>forme` <hi rend="type">en Hercule</hi> </foreign> . I think you will find his Shoulders pulled back by Mr. Huard, and perhaps his manner of coming into a room improved, but as he has naturally a good manner, <foreign>les gra`ces d'acquit ne paraitront pas peut-e`tre tant que s'il avait e`te` gauche, et contrefait avant de les apprendre</foreign> . Lord Garlies and I talk so much French, and in so very <hi rend="type">French</hi> a <hi rend="type">manner</hi> , that as I am just come from playing at Billiards with him you must not be surprised at my having begun my Letter in that Language.</p>
+			<p>As Travellers like to see all the curiosities of a country, they were in hopes of having met with something like a riot. Last Monday there was a combat at one of the <foreign>barrie`res</foreign> of Paris between a large Body of People who wanted to bring in smuggled goods, and the guards at the <foreign>Barrie`re</foreign> . They fired upon one another, and some people were killed. We had the satisfaction of hearing the alarm beat, for all the <foreign>garde nationale</foreign> to be under arms for two days together, but nothing further happened, only constant reports of skirmishes in different parts of the Town, and Guns that we frequently hear going off, which make Granville listen with attention, and wish to know what is the matter. <foreign>Nous autres anciens militaires</foreign> hear it without the least sensation, and I don't believe there will be any further riot, unless some of the common People who are near the scene of action get an accidental knock upon the Head, and there are so many of them to spare that it would not signify much if they were to be treated as Sparrows and killed in dozens at a time. <foreign>Voila` des tendres sentimens pour ceux qui s'y plaisent.</foreign> There have been also some disturbances about the Club <foreign>monarchique</foreign> . The Jacobins accuse them of seditious intentions, and I heard that they went last Night to attack the House of M. de Clermont Tonnerre, who is president of that Club, but I have not heard what they did. It is said to be proved that that Society distributed bread at a reduced price to the poor, in order to obtain partisans among the lower Class of the <foreign>Citoyens actifs</foreign> . This is all that has come to my knowledge, and I have not penetration to guess at the secret springs of the affair, or at what is likely to be the <hi rend="type">issue</hi> of it. I hear <pb n="31" /> that <foreign>La Cour</foreign> seemed to be in good spirits yesterday; they probably do not dislike troubled waters. The Faubourg St. Antoine was barricaded in the Evening, and some disturbances happened there, but nothing material - <foreign>mais cela renouvelle un peu les temps de la Fronde</foreign> . Granville is just come in from walking in the Garden, and they heard a great deal of firing, but whether it is that Heroes perish or that Sparrows fall we know not - we rather suppose the latter.</p>
+			<p>Independent of these military Operations, which do not annoy us as they are in a distant quarter, we are all very well amused. Besides the Spectacles, there are two or three Places to go to every Night. Lord Garlies <foreign>fait des grands progre`s avec les belles Dames</foreign> . I don't know if they mean to write their memoirs after their return to London in the style of Gramont and his friend Matta. Pray talk to Lord Garlies particularly about Madame d'Oudenarde, and in the course of conversation look him in the face and mention Madame de Fougi; and talk to Granville about the Princesse Lichnowsky, as if she was a Person you knew a great deal about.</p>
+			<p>I am very sorry to hear of the reason for Lord Stafford not being at the birthday. I hope it was more from precaution than necessity that he did not go, as going to Court is exactly the worst thing one can do in such circumstances, and the loss of a Birthday <foreign>n'est pas un plaisir perdu</foreign> .</p>
+			<p>We are all in hopes that the bad news they treated us with here from India is false. General Smyth is sure of it, and, as he says, delighted because he <hi rend="type">sides</hi> with government on that Subject, and thinks the present management of India excellent. He told <hi rend="type">Pitt</hi> so, and told <hi rend="type">Fox</hi> so before he left London, and he told <hi rend="type">Me</hi> so yesterday, and gave me a Bottle of Eau de Roses, or Odeur de Roses - I don't know how to spell it, <foreign>mais l'odeur est <hi rend="type">ravissante</hi> </foreign> .</p>
+			<p>I have got a Box at the French Play <foreign>qui me fait grand plaisir</foreign> , and I must go and write about it, and bid you adieu.</p>
+			<p>S.</p>
+			<p>Friday.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1791? FN GLGOWER"></title>
+					<author key="GRANVILLE LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="36" />
+			<head> <note resp="editor" value="G. L. G. TO HIS MOTHER." /> </head>
+			<p>Ch. Ch., Saturday <note resp="editor" value="PROBABLY NOVEMBER OR DECEMBER, 1791" /> .</p>
+			<p>I am afraid I have delayed writing so long that you will accuse me of being idle. I must, however, mention in my justification that I began two separate letters on Thursday and Friday, both of which I was unexpectedly prevented from finishing by visitors the first day, and last night by Holland supping particularly early. Ld. Lansdowne, Miss Vernon, and Miss Fox were the company who caused our commencing that meal at an earlier time than usual. His Lordship, whom I never had the honour of meeting before, appeared to have a very confused head - that is, knew a great many stories, but told anecdotes about some people when they ought to have been told of others; but this confusion might be perhaps owing to his thoughts being occupied by the Death of Prince Potemkin. A Mr. Jackson, who was Secretary to Mr. Ewart at Berlin, first communicated to us this information. He seems a sensible young man, but rather disappointed that a line of politics in the Northern Courts, different from that suggested by Mr. Ewart, should since have been adopted; and tho' a friend of Cartwright's, yet is sorry that his acquaintance with him shd. have been caused by his accompanying Mr. Fawkener, who put an end to our former plans respecting Russia. He was very well acquainted with Arthur Paget at Berlin, commended him, but said he had frequently odd humours in which he used to be very grave and fond of solitude. The Dean asked me to dine with him yesterday; we had a <foreign>parti Quatre</foreign> , consisting of this Mr. Jackson, Cartwright, the Dean, and myself. You have no idea how very kind the Dean has been to me; he <pb n="37" /> always was very much so, but I think this term more so than ever. I have constantly long conversations with him upon the subject of Algebra, and I really find myself always more improved by such conversations than by the Books of the Algebraists and the assistance of Wood, my tutor. The two latter can instruct how to proceed in sums, and how to answer questions required, but the Dean gives me the reasons for proceeding in that way. This is more likely to prevent my forgetting it than if I learnt it all by rote.</p>
+			<p>There was on Thursday a very splendid ball at Blenheim, made splendid by the variegated lamps and colouring of the frames at supper. The company was by no means beautiful, and the Ladies Spencer almost the only girls with whom I was acquainted. Lady Caroline being the first dancer, I thought proper to ask her Ladyship, and figured away three dances with her. Lady Skinner passed great eulogiums upon my dancing, but as she did the same with respect to Boringdon I did not feel much flattered - for certainly that of all others is what Boringdon least prides himself upon. Ld. Bagot has been at this place for two or three days, but tho' we have called upon each other, I had not the pleasure of seeing him till this morning. I asked his Son to drink wine at my rooms after dinner to-day, and I introduced him to Holland, Boringdon, Cartwright, &amp;c. He seems very inoffensive and good-natured, and as I had formed ideas of his appearance being extremely quizzical, I was glad to find I was a little wrong, tho' it must be owned he is not quite fashioned. My writing in this way may appear fine and coxcombical, but I put down in my letters to you just what comes into my head, without taking into consideration what idea of me it may give. Pray give my Duty to Father, and love to My Sisters, and Believe me, my Dr. Mama, - Your Dutiful Son,</p>
+			<p>G. Leveson Gower.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1792 FN GLGOWER"></title>
+					<author key="GRANVILLE LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="44" />
+			<head> <note resp="editor" value="G. L. G. TO LADY SUSAN LEVESON GOWER." /> </head>
+			<p>Francfort, July 7th, 1792. Saturday.</p>
+			<p>The very <hi rend="type">elegant</hi> epistle, My Dear Susan, that I had the pleasure of receiving from you a few days ago deserves both a speedy and entertaining answer, but as my poor abilities are by no means equal to the accomplishment of such a task in twenty minutes, I fear that your letter will not meet with its deserts. We are at this place deeply immersed in Gaiety; the dinners are more to look at than to feed upon, for I have not yet prevailed upon myself to eat much at two o'clock. We were at a <foreign>bal Masque`</foreign> on Thursday night, where there were a very considerable number of French and German women; the beauty of the former exceeded much that of the latter. Our friend Carency we saw; he says that he, <pb n="45" /> Tarente, and many more of the Noblesse are now living at Mayence. To-night the King of Prussia's Embassador gives a ball, to morrow night again public <foreign>Bal Masque`</foreign> , and on Monday a most splendid <foreign>bal</foreign> and <foreign>Souper</foreign> is given by the Prince Esterhazy, who is here as Embassador from the Emperor, and who was chosen out for that employment on account of his being the richest subject in Europe. We had flattered ourselves that, as he usually resides at Vienna, and as his Wife seems a very pleasing gracious woman, our acquaintance with them might have been a great advantage to us when at the Capital, but a Mr. Wodehouse (Son of a Sr. J. Wodehouse) informed me that at Vienna he gives no entertainments of any kind. This Mr. W. is really a pretty young man, and very different from what I remember him at Ch. Ch. This gives me some hopes that you will find me much improved and perfectly <foreign>manie`re`</foreign> . I have not, however, as yet put myself under the tuition of a dancing Master, as the Valses are the usual dances. I must first perfect myself in those. That you may know what pretty music we have at our Spectacles, I have sent you by Mr. Legge, who will be in England by the End of the Month, an opera which struck me as very pretty. I have only time to desire you to give my Duty to my Parents and love to Geo., and Believe me to be <hi rend="sup" range="1,2" orig="y=r=">yr</hi> <hi rend="sup" range="5,9" orig="affec=nate=">affecnate</hi> Brother,</p>
+			<p>G. L. G.</p>
+			<hi rend="type">Direct to Dresden.</hi>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1793 FN GLGOWER"></title>
+					<author key="GRANVILLE LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="62" />
+			<head> <note resp="editor" value="G. L. G. TO HIS MOTHER." /> </head>
+			<p>Warsaw, <hi rend="sup" range="3,5" orig="Jan=ry=">Janry</hi> <hi rend="sup" range="2,4" orig="14=th=">14th</hi>, 1793.</p>
+			<p>It is now above 3 weeks, my Dear Mother, since I last addressed you, of which 3 one has been employed at Moscow, nearly one at this place, and the remainder in travelling. I blame myself for omitting to write from Moscow. I had plenty of time upon my hands, but I imagined that one written here immediately upon my arrival, and after the perusal of your letters, would reach you as soon, and be more satisfactory. We have been here abt. 7 days; unluckily the post for England set off the day of our arrival. Having thus accounted in some <pb n="63" /> measure for what I am afraid has had the appearance of neglect, I will proceed by informing you that we have had a most prosperous journey from Petersburg to this place. We travelled in a Kibitka, which is a small waggon upon sledges, but is an open carriage. I did not mention to you our intention of adopting this northern equipage, as I thought you might imagine that there was some danger in exposing ourselves all night to the air, and though from the warmth of furs and blankets I was myself well persuaded that we shd. travel with much more convenience and rapidity, and with no more danger of catching cold than in our own carriages, yet I was not certain that I shd. convince you upon that point. The event, however, has justified my opinion, for we arrived here in perfect health, and had been 10 days shorter time coming 17 hundred mile than our carriages were coming 13 <hi rend="sup" range="1,2" orig="h=d=">hd</hi>. The society of Moscow we did not find agreeable; a degree of self sufficiency appeared amongst all the inhabitants, which arises in some measure from their having seen little of the world, and from a false idea they entertain that they, being removed from the imperial capital, are free; whereas the very reverse of freedom seemed to prevail, for we entered but few private houses where officers of the police were not stationed. The forests of Lithuania through which we passed are grand, both from the immensity of their extent and the loftiness of their timber. We were not fortunate enough to see any wild beasts, of which there are great abundance, but our servants saw some wolves. Thro' all the villages and towns thro' which we passed we found Russian soldiers, and tho' I understand the Governor general of all the troops, who resides here, does much towards the prevention of any oppression to the Peasants, yet it is a fact that we were obliged to pay the Money for our horses in that part of Lithuania where no regular posts are established, not to the peasants whose horses forwarded us, but to Russian Soldiers who forced them into that service. If oppression similar to this is exercised generally, which there is a reason to believe it is, I shall glory in any attempt that the French may make to raise up the Turks against Russia, and oblige her to recall her troops from this country. Do not imagine that I am become a democrat, for Polish Constitutionalists are as indignant at the proceedings of the French as the most violent aristocrats. I cannot finish this letter without mentioning the civility we have here experienced from his Majesty. There is a degree of affability in him which one sees seldom in a private individual, much less in a person of his rank and situation. A niece of his, Mad. Mnisvech, desired me to make all sorts of <pb n="64" /> speeches to Lady Sutherland for the very great kindness she had received from her at Paris. Do tell her and my brother that there are few places that I go to but what some civility is paid to me in consideration of my Brother's and her attention to people during their stay in France. I felt excessively hurt two days ago to hear of the death of Mrs. Robinson; it affected Boringdon excessively, but tho' he now feels melancholy, yet I hope he will soon recover his wonted spirits. The loss is very great, both to him and to his Cousins, the children of Lady Grantham. Gardiner seems very much liked here in that <foreign>petite socie`te`</foreign> which remains here. There are no balls or fe`tes, but there are charming little suppers of 8 or 10 persons consisting of pretty and pleasant women. I shd. like to stay here for some time, but we have determined to set off for Vienna in abt. 4 days. Do express to my Dear Father how much I feel his goodness to me in allowing me to pass my time so agreeably, and I hope I may say usefully. My love to my Sisters. I hope that matters are so arranged that I shall soon hear of the youngest being made happy. - Believe me to be, my Dearest Mother, your most Dutiful Son,</p>
+			<p>Leveson.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1793 TC JPARKER"></title>
+					<author key="JOHN PARKER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="66" />
+			<head> <note resp="editor" value="LORD BORINGDON TO G. L. G." /> </head>
+			<p>Brussels, Sat., 3 Aug., 1793.</p>
+			<p>Many Thanks to you for your letter of the 18th Ult., which I found here yesterday morning upon my return from Valenciennes. With the military ardour with which you seem lately inspired, I am sure you would have been much delighted at the ceremony which took place there the day before yesterday. To an humble individual who aspires to no such high ideas it was, I assure you, most extremely gratifying. The army of the Siege, which amounted to abt. 25,000 men, and the combined troops <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> were brought from the neighbourhood, also the Hessian Troops <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> are just arrived, caused the combined forces to amount to near 30,000 men. This very fine army, added to the joy evidently marked on everyone's countenance, the fineness of the day, the quantity of carriages, &amp;c., made it a most glorious Spectacle. I afterwards went into the town, which I found much damaged. One fifth at least must be entirely rebuilt. This you will readily believe when I tell you that above 55,000 bombs had been put into the town by the besiegers. It is much to be lamented that this most severe calamity has happened to almost the best town in France; I mean where the people were best disposed, and where fewer horrors have taken place. The General Brunie`re (who was in the town, and who, being an hostage at head quarters, I had an <hi rend="sup" range="3,5" orig="opp=ty=">oppty</hi> of conversing with) assured me that take Bourgeoisie and <hi rend="type">Garrison</hi> altogether, he did not believe there were 200 democrats in the town. Great part of the garrison at last refused to do service, and it was only by means of the despotism exercised by <hi rend="sup" range="3,4" orig="Mon=r=">Monr</hi> Cochon, a Commissary in the town from the Convention, and by the extravagant pay which he gave of 40 sous <hi rend="sup" range="1,2" orig="p=r=">pr</hi> <hi rend="type">hour</hi> to each working man, that so obstinate - one cannot say vigorous - resistance was made I went away from Brussels on Monday, and during my stay a <pb n="67" /> the camp, and particularly at the ceremony of the marching out of the garrison, had frequent opportunities of making my observations on the conduct of the Duke of York. I assure you it gave me infinite pleasure to see the manly and gentlemanlike way, and at the same time the very great precision, clearness and quickness <hi rend="sup" range="1,3" orig="w=th=">wth</hi> which he gave his orders upon all occasions. One cannot indeed fail to consider him as an ornament and blessing to his country, and the very flattering way in which persons of all countries and descriptions make mention of him must be highly grateful to every Englishman. It is not yet publickly known <hi rend="sup" range="2,4" orig="ag=st=">agst</hi> what places the combined armies are next to direct their operations. Dunkirk, Maubeuge, or Quesnoy seem, however, the places most generally supposed. As for myself, I propose to direct my operations towards Switzerland tomorrow <hi rend="sup" range="4,5" orig="morn=g=">morng</hi>. I have staid here much longer than I intended, and am determined to lose no more of the summer in a town, particularly as Morpeth has been waiting for me some time to make what is thought in general the tour most necessary for travellers to make in Switzerland. It will be with much regret that I leave this place, where people have been so extremely kind to me, and where I have become very intimately acquainted with a few whose manners and characters pleased me most. In almost every one of my letters I have entered a good deal into what concerns me personally, but as I observe you rarely do the same, as you deal almost entirely upon general topicks, as you tell me not the least how you spend your time, with whom you live, or any thing of this nature, it is quite impossible for me to do so again. I will tell you very fairly, however, that you lose nothing by it at present, as, if I was otherwise disposed, I have it not in my power to communicate any thing new or interesting to you concerning yr humble Servant. As I pass to Switzerland I propose going to see the army of Gl. Wuermser and the K. of Prussia, so that it will be near 10 days before I am there; write, however, directly, and address yr. letter to me <foreign>a` la poste restante a` Lausanne en Suisse</foreign> . - Believe me yrs. <hi rend="sup" range="3,5" orig="aff=te=">affte</hi></p>
+			<p>Boringdon.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_013">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1794 FN SLGOWER"></title>
+					<author key="SUSANNAH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="92" />
+			<head> <note resp="editor" value="LADY STAFFORD TO G. L. G. AT PLYMOUTH." /> </head>
+			<p>Whitehall, July ye 18th, 1794.</p>
+			<p>I have not <foreign>De quoi</foreign> to make an agreeable Letter, but I write to <hi rend="type">extract</hi> one from you. We want to know how you go on, if you have fix'd some Hours every Day for reading, or if you pass your Time as I heard of a young Officer. He is not ill looking, tolerably sensible, intolerably indolent, not given to <hi rend="type">sudden</hi> Commendation, good temper'd, idle, and not apt to be dissatisfied with himself, rather <hi rend="type">exigeant</hi> , and easily caught by the Artificies of Flattery. Well, this same young Man is liked in his Regiment, does his Duty as an Officer with great Exactness and Alacrity, but ( <foreign>par Malheur</foreign> ) a Lady, not a very young One, has got Possession of his Mind, some think of his Heart. Others believe that by Flattery, Professions of Friendship, and how much she is interested about him and all his Family, &amp;c., &amp;c., that he looks upon her as his <hi rend="type">best Friend</hi> , the <foreign>Depo`t</foreign> of all his Thoughts, and a sure and certain Guide for all his Actions; so this shackled young Man loiters away all his Mornings (except when he is upon Duty) with this fair One, swallowing all her Praises of his Perfections, and sucking in all the Satire that her inventive Genius disgorges. This is great Fun to some of his Brother Officers, who acknowledge her clever, but do not see her in the Light with which she is listen'd to by the Youngster. I won't tell you his Name; you are not much acquainted with him, and therefore you cannot strive to disentangle him, so let me proceed to inquiries about yourself. <pb n="93" /> Your <foreign>cher Pe`re</foreign> says that he thought we might have heard from you, and that you had better accustom yourself to making writing easy to you, for a Man of Business must have a great Deal of that Occupation. I have had much Conversation about you, but till Something is settled I will not relate. Lord Boringdon came to Town last Night about regimental Business; he is to dine with us this Day, and I believe returns to Morrow. He looks very well, and inquired after you. Morpeth is gone into Yorkshire. I understand that the Misunderstanding between the P. and Mrs. F. is made up. The story is too long to write, but after he had been persuaded by a certain Lady to give her up, and to write according to that Idea to Mrs. F., he found he could not live without her, and sent Messengers of Peace in Numbers. But Mrs. F. was for some Days <hi rend="type">sturdy</hi> ; she could not believe that he could continue to love her, when for Months he had given his Time to another, and had behav'd to her with the greatest Cruelty. But they are Friends now, and the mischief-maker is left to find out another, or to go on with you know who. All about Mrs. F. you can know more certainly from Jack Payne or Ld. H. Seymour. The News-Papers tell you of all the new Ministry; I will therefore leave them there, and inform you that I believe we shall go into Staffordshire next Week. Here we are in an Oven, and the Oven grows daily hotter. I wish I could be entertaining, for I wish you to like my Letters, but Fun left me long ago, and the little Sense I possess'd is lost in Relaxation. Adieu; write to me soon. Tell me if you see as much of Mrs. S. as you did last Year. If she appears as sensible, clever, entertaining, and <hi rend="type">sincere</hi> as she did then, tell me, too, if you like Blackstone's Commentaries, if you study them, and if you love your most affte.</p>
+			<p>S. Stafford.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_014">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1794 FN SLGOWER"></title>
+					<author key="SUSANNAH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="96" />
+			<head> <note resp="editor" value="LADY STAFFORD TO G. L. G." /> </head>
+			<p>Trentham, Augst. ye 5th, 1794.</p>
+			<p>Last Night, my dear Granville, I had the long wish'd for Pleasure of hearing from you. I am glad you had so many Letters to write, altho' it perhaps caused you to shorten that you wrote to me; yet it is by Practice that writing becomes easy, and every Man of Business must have a great Deal of that Occupation. I have not had an Opportunity of conversing with my Lord on the Subject of your Letter since its Arrival. He has frequently said that he was totally at a Loss, even in his own Mind, what would be most proper and advantageous for you. I have always said that if there is not some particular Situation specified, that nothing will be done. It is really difficult for Mr. Pitt to find out the Thing you would like, and your Father would like for you; besides, situations may arise in his Mind that he may be fearful might be thought not equal to your Rank in Life, without Something was named to him. I am now writing my own thoughts, for my Lord is busy with Somebody about County Business. I will therefore proceed with my Ideas - remember <hi rend="type">not</hi> Advice - but for you to make what use of them <pb n="97" /> you please. By your Letter I think you are of Opinion that being a Supernumerary in the Office would be attended with Disadvantages, without much Improvement. You do not give your Opinion of being private Secretary; I therefore think that you are inclined to that. That is certainly the Road to getting on, both as to Improvement and Emolument - I mean Emolument in future - for <hi rend="type">in</hi> that Situation - the Income, I believe, is not above &pound;100 <foreign>pr. An.</foreign> - Your Father's Objections were that he fear'd your not acquitting yourself well in the Business of that Situation, that it had been always occupied by People of inferior Rank, and that the World would say ill natured Things about your being in it from interested Motives. <hi rend="type">The Friend</hi> in our Conversation told me that perhaps Lord Stafford would not approve, that he might think it not a great enough Situation for his Son, that it is generally occupied by those who are of inferior Rank, but that Harry Legge had been private Secretary to (I forget which Chancellor of the Exchequer he named), and was afterwards in the highest Offices. He said that the Requisites for his private Secretary are Secrecy, attention to answering the Letters civilly to those who desire to wait upon him, to be exact in recollecting the Hours and Days that different People are appointed to come; that Mr. Pitt is the best temper'd Man in the World, and the most pleasant to <hi rend="type">work</hi> with, for he is clear and patient, and likes to make those happy with whom he has to transact Business; and he added, "If Lord Stafford, Lord Granville, and you approve of it, I think Mr. Pitt will like it." I was delighted with the Proposal, and assured him that I could answer for your Secrecy, that from your tender Infancy I could have trusted you with any Thing, and that I was certain you never had repeated any Thing that had been told you in Confidence. I have told you your Father's Objections, but I do not know that your inclining to it might not make him see it in a different Light. Now I will tell you that you must not suppose that you have received this Letter. My Impatience to have this Affair <foreign>en Train</foreign> is the Cause of my writing without your Father's Directions, with whom I cannot have an Opportunity of conversing this Day (being publick Day), for he is engaged the whole of the Morning. I wish'd to say that perhaps you may think it advisable to consult Lord Boringdon's Opinion of this Matter. He is very sensible and thoroughly interested in your Welfare, and when you have got his Ideas upon the Subject, to consult your own Judgment, and then to write exactly what you think and feel about it, submitting it all to your Father's better Judgment, in whose Kindness and Experience you will always place the most implicit Faith, whom <pb n="98" /> you wish to advise and direct you in every essential Affair. If you disapprove of being private Secretary, which <hi rend="type">the Friend</hi> told me is not at all a difficult business (for there is one belonging to the Office who has all the Business of the Office to do), you had better try to find out what you can ask for, and name that in your Letter. This is not by Way of a Letter, only a <hi rend="type">Theme</hi> for you to think of. I will write to Morrow if I can, and believe me always, my beloved Granville, with the tenderest Affection, Yours most faithfully,</p>
+			<p>S. Stafford.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_015">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1796? FN GLGOWER"></title>
+					<author key="GRANVILLE LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="130" />
+			<head> <note resp="editor" value="G. L. G. TO HIS MOTHER." /> </head>
+			<p>Paris, <hi rend="sup" range="2,5" orig="Oc=ber=">Ocber</hi> <hi rend="sup" range="2,3" orig="23=d=">23d</hi>, Sunday.</p>
+			<p>I wrote to you from Calais to inform you and My Father of my safe arrival at that port, and at the same time mentioned the attention and civility with which we were treated by the people there. During the whole of our journey we were every where equally well received, and although nothing very remarkable occurred, you will perhaps like to have a regular journal of our proceedings since I landed upon the French territory. On Wednesday Morning we left Calais after returning the visits of the Commandant of the town and the Commissary of the Executive power, and arrived at Boulogne about 5 o'Clock, where we found an excellent Inn kept by an English woman who had passed 18 months in the Conciergerie. The next day we got to Abbeville, where our accommodations were also very good, the 3d day to Clermont, and yesterday arrived about 3 o'Clock at Paris. The word <foreign>Citoyen</foreign> seemed but very little in use, and Hair Powder being very common, the <hi rend="type">appearance</hi> of the People was less democratic than in England. The desire of Peace seems to be universal. The Country appears in the highest state of cultivation, and the manners of the People much improved; they are much less noisy and pert than when I was last in France. I cannot express in sufficiently strong terms my satisfaction at Lord Malmesbury's manner towards me; he has put me upon the most confidential footing, has been in very good spirits, and I need not therefore add that my journey was very agreeable. I must not omit the Circumstance of having been embraced by the Poissardes; 2 posts from Paris we were met by a deputation, who opened the Carriage doors, presented us with Flowers, crying, <foreign>"Vive la paix mon Grand Ambassadeur!"</foreign> Our apartments here at present are not very good, but we shall in a day or two change them for some which we are told are very commodious. Every thing is very dear, nearly double the Price it was formerly. Paper Money seems to be in disuse, and specie is very plentiful. I have only to add my Duty to My Father, my love to Georgiana, and that I am your most Dutiful and <hi rend="sup" range="5,9" orig="affec=nate=">affecnate</hi> Son.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_016">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1796 TC GLGOWER"></title>
+					<author key="GRANVILLE LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="131" />
+			<head> <note resp="editor" value="G. L. G. TO LADY B." /> </head>
+			<p>Paris, <hi rend="sup" range="2,5" orig="Oc=ber=">Ocber</hi> <hi rend="sup" range="2,3" orig="23=d=">23d</hi>, '96. <hi rend="sup" range="1,2" orig="2=d=">2d</hi> Brumaire.</p>
+			<p>Do not be angry, but I have very little to say.</p>
+			<p>Our Journey from Calais hither was in every way agreeable. We were well received at every town, both by the inhabitants and by the Commandants of the Garrison, and the Commissaries of the Executive Power. At Ecouen, a Post from St. Denis, we were met by a deputation of Poissardes, by whom I had the satisfaction of being cordially embraced. This is the only female society into which I have as yet been introduced, but having only arrived yesterday, and being as yet not settled in our apartment, I am quite ignorant how I shall pass my time. Paris looks very much as it did formerly, except from the diminution in the number of carriages, the People very civil, and the word <foreign>Citoyen</foreign> very nearly in disuse. Even if I had not determined, according to Lord Malmesbury's wishes, to be silent upon all public affairs, I shd. have been unwilling to have said any thing upon the subject in this letter, because I am not sure that our letters may not be inspected by persons belonging to the Directory. I wish you would give me some Commissions for you. I shall see Perregaux before the Courier sets off and enquire for your <foreign>ne`cessaire</foreign> . Pray write to me and at length. I am desirous of knowing particularly how you are, and how your Sister's Eye goes on. When <pb n="132" /> do you settle in London? Interesting as the scene here is at present, I shd. feel little contented to remain here if I could see much of you in Town. I have just seen Perregaux, who informs me that he has in his possession a <foreign>ne`cessaire</foreign> belonging to the Dutchess, but denies you having any property in it. <foreign>Addio.</foreign></p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_017">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797 T HPONSONBY"></title>
+					<author key="HENRIETTA PONSONBY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="148" />
+			<head> <note resp="editor" value="LADY B. TO LADY STAFFORD." /> </head>
+			<p>May 5th, 1797.</p>
+			<p>You will think, my Dear Madam, that I am a very empty Newspaper, for since the time I undertook to send your Ladyship News there has been no one event of any sort or kind, but reports of the arrival of Messengers with Peace or War contradicted as fast as they were made. To-day, however, the Lord Mayor receiv'd a letter from Lord Hawkesbury announcing Peace, which he made known every where. The stocks in consequence rose to 70, when upon investigation, though seal'd with Ld. H.'s seal, the letter prov'd a forgery, written merely for the purpose of stockjobbing. It has made such a piece of work in London that I could not resist writing your Ladyship word of it, tho' not much worth it. Mr. Canning made an excellent Speech yesterday in Answer to Mr. Addington, full of wit and producing a great effect in the House. I am dying with impatience for Ld. G. to speak. I know he would acquit himself well, and am quite angry that too much diffidence prevents his attempting it. Ly. Worcester was at Devonshire House the night before last looking in great beauty, though I doubt not you have numbers of correspondents who write all that is worth hearing, yet as you can have none who would be happier to contribute in any way to your Ladyship or Ld. Stafford's amusement, the moment I hear any thing decisive about this terrible war I will take the Liberty of sending my <hi rend="type">Gazette</hi> . - Believe me, with great respect, Most sincerely Yrs.,</p>
+			<p>H. F. Bessborough.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_018">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797? FN GLGOWER"></title>
+					<author key="GRANVILLE LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="149" />
+			<head> <note resp="editor" value="G. L. G. TO HIS MOTHER." /> </head>
+			<p>Whitehall, May 31st. Wednesday.</p>
+			<p>My Dear Mother, - The News from Sheerness is very bad indeed. Two frigates, the St. Fiorenzo and Clyde, have escaped and put out to sea with their proper colours, but they have been replaced by three ships of the line from Ad. Duncan's fleet, who have joined with the red flag flying. I understand that Sir Ch. Grey has the best opinion of the steadiness of the troops under his Command, and it is expected that the Forts will fire upon the ships to-night. - Yrs. and my Father's ever Dutiful and <hi rend="sup" range="5,9" orig="affec=nate=">affecnate</hi> Son,</p>
+			<p>G. L. G.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_019">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797? FO ELGOWER"></title>
+					<author key="ELIZABETH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="150" />
+			<head> <note resp="editor" value="LADY SUTHERLAND TO LADY STAFFORD." /> </head>
+			<p>Albemarle Street, June ye 8th.</p>
+			<p>I feel much obliged to you, My dear Ly. Stafford, for your last kind Letter, and particularly for what you say concerning myself. I hope we shall all soon be able to come to Trentham, though we cannot yet settle the time, as Ld. Gower seems to be uncertain if he shall be able to get away very soon. He is this Evening going down with Mr. Huskisson to Sheerness to see what is to be seen in those environs. There is some great event expected on one side or the other tomorrow, as they declared their intention in a very impertinent Letter to the King (which began "Health and fraternity"), and desired him to change his ministers and send them an answer in the space of 24 hours, otherwise they would wait no longer, but do something to astonish the world; and it is supposed about tomorrow something will be done, either by them or by government, as they have been suffered to go on quite long enough. They propose, having seen Sheerness, etc., to return to Town on Saturday. There is now a great talk of peace, and impatience for the return of the Messenger which was sent to Paris last Week. Ld. Gower desires me to mention to Ld. <pb n="151" /> Stafford for his own information, as he thought it right he shd. know it, that he believes himself to have had some hand in this message being sent, being clearly of opinion that peace is the only remedy for all our evils, and that in this moment the French government is likely to be very favorable to a negotiation. He thinks it a very necessary step, and is extremely glad it has been done. He has had several conversations with Mr. Pitt and Mr. Dundas about it, and thinks what he said had some weight with them, so it is to be hoped their secret advisers will not be beheaded. He begs you will not say anything of all this. Ld. Gower is just come in. A favorable answer arrived this <hi rend="sup" range="1,2" orig="M=g=">Mg</hi> from the Directory, so somebody will go immediately, but it is not said who. Probably Ld. Malmesbury, if he is well enough.</p>
+			<p>There has been a little engagement at Sheerness, the particulars of which you will see in the Papers. I shall wait till Mr. Huskisson comes, in case there shd. be anything more.</p>
+			<p>We are all very sorry for Ly. Worcester's little boy; he is rather better this <hi rend="sup" range="1,2" orig="M=g=">Mg</hi>, but it is not likely he can recover if they are right about the complaint. Ld. G. was much pleased with the good report of the Yeomanry; he had a very long account of it from Major Eliot, who has great reason to be satisfied with his success.</p>
+			<p>The <hi rend="type">Lancaster</hi> has come in on unconditional submission. The East York fired 40 rounds upon the Sailors who landed to pillage. The East York was only a Serjeant's guard commanded by a man of the name of <hi rend="type">Sutherland</hi> , who Sir Ch. Grey immediately recommended for promotion. They are going to set off at 6 O'Clock. Adieu. - Ever yours,</p>
+			<p>S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_020">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797 FO ELGOWER"></title>
+					<author key="ELIZABETH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="152" />
+			<head> <note resp="editor" value="LADY SUTHERLAND TO LADY STAFFORD." /> </head>
+			<p>London, Saturday, 5 o'Clock, June 10th, 1797.</p>
+			<p>My dear Lady Stafford, - Lord Gower is this moment arrived from Sheerness, having made the most successful expedition possible. Yesterday <hi rend="sup" range="1,2" orig="M=g=">Mg</hi> he saw Sheerness in a state of siege, every moment in expectation of being attacked. While they were at Dinner they were told that the Fleet were firing upon two Ships, the Repulse and the Leopard; they saw everything perfectly, and went on board the Repulse, which is a good deal damaged. A Lieut. had his Leg shot off. The Director and the Monmouth fired at her. He left Rochester this <hi rend="sup" range="1,2" orig="M=g=">Mg</hi> at 9 O'Clock, and is just come, thinking himself very fortunate in having seen all this as well as if he had been on board during an Engagement. This Morning an Account is come that the whole Fleet have struck the red flag and come in with unconditional submission, which is the best news we could possibly have.</p>
+			<p>We have not heard what is become of Parker, &amp;c. A good many different People have been taken up for distributing seditious Papers.</p>
+			<p>I must send my Letter, for here is the Bellman. Adieu, My dear Ly. S. - Ever affec'ly yours,</p>
+			<p>S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_021">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797? FN SLGOWER"></title>
+					<author key="SUSANNAH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="157" />
+			<head> <note resp="editor" value="LADY STAFFORD TO G. L. G." /> </head>
+			<p>Trentham, Monday, ye 26th.</p>
+			<p>My dearest Leveson, - Last Night I sent you a Hodge-Podge Sort of a Letter, containing Advice, kind Anxiety, and parental Affection, but so confused and so ill composed that when I awaked this Morning I wish'd for it again in my Possession to have revised and corrected. As that cannot be, I must beg of you to burn it, but to remember it contain'd opinions of those whom you must know see you with the most partial Dispositions; therefore, if you are not aware that Resolutions, without Rules to support them, are ineffectual, look around, and you will be persuaded that there is not any Thing we estimate so fallacious as the Strength of our own Resolutions, nor any Fallacy that we so unwillingly detect; we resolve, and resolve, and as often desert our Purpose, and without any Abatement to self Confidence. That this should prevail for a Time is natural; but when Conviction takes Place, and we become sensible of the little Dependance we can place in our Resolutions, the Method to be adopted is plain and certain: that of laying down Rules, and adhering to them, to combat and overcome any bad Habit that we could wish to get the better of. As I think it unlikely you may ever have so advantageous an Opportunity again, I am more ardently anxious that you should make the best Use of this. I know you have Capabilities, Understanding, &amp;c., but that will not satisfy me. I shall not think you have Merit unless you have distinguish'd Merit. You are now exposed to the Notice of these Kingdoms, and you may cause the Occurrence of so extraordinary an Advantage to bring you into publick Life. Pray consult Lord Malmesbury; be advised by him. Lord Morpeth has much scientific and political Instruction from his Father. Yours is more capable of giving the best, but the short Times you see him, and various Circumstances have prevented the Advantage you might have reap'd from his Information. I hope you will endeavour to be first. I should be sorry that you envied Lord Morpeth's Merits, but I hope you will improve your own Talents. A proper Emulation exalteth the Mind, and it is this which I wish you to feel. You must not hate me for persecuting you on this Subject; now is the Time to call forth all your Energy, to be what your Father so ardently wishes, and what it is in your Power to be. Adieu. I will not at present say more, tho' it employs the whole of my Thoughts. - Ever, my much loved Granville, Your most affte.,</p>
+			<p>S. Stafford.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_022">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797? FN SLGOWER"></title>
+					<author key="SUSANNAH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="184" />
+			<head> <note resp="editor" value="LADY STAFFORD TO G. L. G. AT WHITEHALL." /> </head>
+			<p>Trentham, Friday Night <note resp="editor" value="9TH DECEMBER" /> .</p>
+			<p>I am afraid, my dear Granville, you will receive an angry Letter from your Father, for he said, when Mr. Fenton was out of the Room, "Can you believe it possible that Granville could think of declining such an Opportunity? Without an Attachment at Home makes him unwilling to stir from London, it could <pb n="185" /> not enter his mind. He talks of Timidity. That is all a Farce. No young Man ever had such Opportunities as he has had; he seems to me to be totally without Ambition, to have no Wish to distinguish himself. If he declines this Business, I shall not expect any thing from him in future. And is it possible that he can determine a thing of such Consequence to his future Prospects in Life without consulting me? I will write to him to Morrow." "Pray do not vex yourself, my Lord; he says only he shall be inclined to refuse should Mr. Pitt consent to Lord Malmesbury's Proposal," was all the Answer I made. Good Night. I must go to bed. Ever yours, my beloved Granville.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_023">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797 FN GLGOWER"></title>
+					<author key="GRANVILLE LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="186" />
+			<head> <note resp="editor" value="G. L. G. TO HIS FATHER." /> </head>
+			<p>Whitehall, <hi rend="sup" range="3,6" orig="Dec=ber=">Decber</hi> 11th, 1797.</p>
+			<p>My Dear Father, - In consequence of your kind letter, I wrote to Lord Malmesbury, and told him that as he had expressed himself so strongly as to the propriety of my not neglecting the present opportunity of going to Berlin, and as I had received a letter from you in which you recommend to me very strongly to put away all such diffident feelings as would make me shrink from the charge of so difficult a business, I could not decline any longer profiting of his very kind offer of mentioning it to Mr. Pitt. I should be very much hurt if you could suppose that my unwillingness to accept it proceeded from any other than the real cause, an alarm at the very great importance and difficulty of the mission; one in which failure was by no means improbable; and to whatever cause the failure might be attributed, the world would fix it upon Govt. having employed a person of youth and inexperience in diplomatic affairs.</p>
+			<p>Opposition have at length decided they will attend. Fox comes down on Friday next, and the whole party are in high spirits from flattering themselves that the proposed measure of triple assessment will be very unpopular. A plan of Govt. undertaking the insurance which my Mother mentions in one of her letters to me has been submitted to Mr. Pitt. I have not heard what are the objections. <foreign>Prima facie</foreign> there appear to be no other than the monopolizing a trade which has been in the hands of a great many individuals whose property is embarked upon it, and from whom without injustice you cannot take it away. Pray give my Duty to my Mother, and I am your ever Dutiful and <hi rend="sup" range="5,9" orig="affec=nate=">affecnate</hi> Son,</p>
+			<p>G. L. G.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_024">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797? FN SLGOWER"></title>
+					<author key="SUSANNAH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="187" />
+			<head> <note resp="editor" value="LADY STAFFORD TO G. L. G." /> </head>
+			<p>Thursday Night.</p>
+			<p>My Lord is very much pleased with your Letter, and he hopes Ld. Malmesbury's Recommendation will succeed, and that every Part of the Business may prove to your Heart's Content. He is sure you will have every assistance from Ld. M., and that Mr. Canning will be most sincerely inclined to be of Service to you. Mr. Sparrow was here Yesterday. My Lord desired him to try to get a short plain Sort of Statement of the present Bill printed to disperse in the County, to frustrate the Reports and Misrepresentations made Use of by the Opposition, and the Jacobins to create Discontent. Your Father is of Opinion that Government should have Something of this Nature sent all over this Island, and in so plain Language that common People may understand that the Poor, and the less Poor, are exempt from the assess'd Taxes. He thinks Government should not delay this Measure, and that the Pamphlet should mention the Necessity of Money being raised, the Consideration which Mr. Pitt shews for People unable to contribute, and the Pains taken by our internal Enemies to poison the Minds of those who by acceding to this Measure would be aiding the Exertions of Government to save us from impending Ruin. I had a Letter last Light from Port Eliot. G. says they are all Kindness to her. Lady Harrowby made us a Morning Visit, which prevented my writing several Letters, and occasions my scribbling <hi rend="type">away</hi> now without hardly knowing that I say. Two of the Ladies Stewart are with us; I like both. They know more than most Girls, and, without being in their Manner exactly the Thing, they are most pleasing, cheerful, not a Grain of Affectation nor Deceit. My Lord seems to be partial to them. Lord and Lady Galloway are at Creswell. Mr. Inge has been here; he is quite handsome, sensible, and civil. His <hi rend="type">Rage</hi> for hunting is abated, and we think Lady Elizabeth very fortunate, for we hear a vast Deal of Good of him. The Pigots are here. Adieu, my dearest dear Leveson. Your Father thinks with you that Government taking <hi rend="type">the Insurance of Captures</hi> into their Hands would not be advisable, although there are sensible plodding Heads that advise it. We saw a Letter from London, which says that the Opposition is so disunited as to make it very uncertain whether or no they will appear in their Places in the House of Commons to Morrow. Good Night. That every Good may constantly attend you is the constant Wish of your most affte</p>
+			<p>S. Stafford.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_025">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1798 FN GLGOWER"></title>
+					<author key="GRANVILLE LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="203" />
+			<head> <note resp="editor" value="G. L. G. TO HIS MOTHER." /> </head>
+			<p>Berlin, <hi rend="sup" range="3,5" orig="Jan=ry=">Janry</hi> <hi rend="sup" range="2,4" orig="30=th=">30th</hi>, 1798.</p>
+			<p>The time of my departure from this place remains still uncertain. The King is recovering, but it will be some days before the Physicians will allow him to leave his bed. I do not believe he has been at any period of his illness in danger, but the Measles sometimes prove fatal to a grown-up person, and it was impossible not to feel very anxious till the disorder had passed the Crisis. There never was a Monarch who conducted himself in every respect so well as the young King, and the people of Berlin are enthusiastically attached to him. He and the Queen are living most comfortably together. I met her accidentally the other Evening, and was quite delighted with her; she is very pretty, and more graceful dignity and gentleness of manner I never beheld. She was quite in an undress such as she wears by the King's bedside, which since his illness she scarcely ever quits. Her conversation with me was very gracious.</p>
+			<p>I afterwards danced with her Sister Princess Louis at a great Ball given by Count Alvensleben; she seems to possess the same sort of good nature as the Queen, and seemed more gay and lively. I shall pass by Brunswick on my return to England, which I hope will happen in less than a fortnight. By that time I flatter myself my Father will be come to London. Pray give my Duty to him. With Ld. Elgin we are perfectly well pleased. He has been very good natured and quite unreserved. I find the greatest comfort in the society of Frere, and should have really died of ennui had I not been accompanied by him. Adieu.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_026">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1798 T GCANNING"></title>
+					<author key="GEORGE CANNING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="212" />
+			<head> <note resp="editor" value="MR. CANNING TO LADY STAFFORD." /> </head>
+			<p>Ashbourne, Wednesday, <hi rend="sup" range="3,4" orig="Aug=t=">Augt</hi> 1st, 1798.</p>
+			<p>Dear Lady Stafford, - On my return here yesterday I found a letter from Mr. Pitt, in which is the following Sentence upon the subject on which I talked with you and Lord Stafford.</p>
+			<p>"I am very glad that you are to visit Trentham in your way, and shall be the more so, on every account, if you can secure Ld. Granville to move our Address of Congratulation (for such I think it must be) at the beginning of the Session." The topics of "Congratulation" to which he refers will be to be drawn from Ireland (where every thing is going on better and better every day, and in a way that really seems to promise an extinction of what remains of the Rebellion and of the Conspiracy that produced it - much more speedy and much more complete than could reasonably have been expected), and perhaps also from the Mediterranean, to which quarter it is impossible not to look with the most sanguine hope.</p>
+			<p>Whatever the topics may be, it will, I am sure, be Granville's own fault if he does not acquit himself <hi rend="type">very</hi> creditably - and there are very many points of view in which it is of high importance that he should not lose the opportunity.</p>
+			<p>You will, of course, write to him upon the subject as soon as you think proper. I shall not write till I get to Town.</p>
+			<p>I am delighted to have seen Lord Stafford so well. I need not desire you to assure him of my respect and affection, nor request you to believe me ever, dear Lady Stafford, Most sincerely yours,</p>
+			<p>Geo. Canning.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_027">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1798 T GCANNING"></title>
+					<author key="GEORGE CANNING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="218" />
+			<head> <note resp="editor" value="GEORGE CANNING TO LADY STAFFORD." /> </head>
+			<p>Downing Street, Aug. 21, 1798.</p>
+			<p>Dear Lady Stafford, - I should feel very loth to transmit to you the inclosed account of Buonaparte's success; if I could not at the same time tell you that there are those in London who refuse to believe it in the extent here stated, and who found their incredulity on not unsubstantial reasons.</p>
+			<p>First. The Turk who carried the Intelligence to Constantinople, having fled while the French were yet landing, could not possibly have formed an accurate estimate of the number of Troops, and by the statement which he makes corresponding so exactly with what <pb n="219" /> is known and has long been published to be the force of Buonaparte's fleet, it should seem that he (the Turk) reported rather what he had chosen to believe than what he had actually seen.</p>
+			<p>Secondly. There are concurrent rumours from all parts of Italy of an Action having taken place between Nelson and Buonaparte, and the mail by which the inclosed Intelligence comes, brings also a letter from Trieste, dated August 2d, which states confidently that Nelson had gained a victory over Buonaparte off the Island of Candia on the 10th of July.</p>
+			<p>It is probable, therefore, that the party arrived at Alexandria consists only of the advanced division of the French Fleet, and that Buonaparte himself with the main body may still have been overtaken by Nelson.</p>
+			<p>You must extract from these facts and opinions as much hope as will support you and Lord Stafford till I can tell you that we have actually heard from Nelson. - I am ever, dear Madam, Most sincerely yours.</p>
+			<p>Geo. Canning.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_028">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1798 T GCANNING"></title>
+					<author key="GEORGE CANNING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="223" />
+			<head> <note resp="editor" value="G. CANNING TO LADY STAFFORD." /> </head>
+			<p>Downing Street, Mond., <hi rend="sup" range="4,5" orig="Sept=r=">Septr</hi> 10, 1798.</p>
+			<p>Dear Lady Stafford, - I really had not the heart to send you the bad news on Saturday as soon as I heard it. My own disappointment was so severe that I thought it charitable to leave any body that had any chance of not hearing the account for a day or two in possession of their hopes as long as it was possible. Now, however, that the Newspapers must have prepared you to know the worst, I come with my confirmation of the Intelligence, that you may not think that I have forgotten you. There is, alas! no doubt to be entertained of the fact. Nelson <hi rend="type">is</hi> returned to Syracuse after 27 days' fruitless search for Buonaparte. To be sure, after six days' waiting for accounts, he intended to set off in search of him again. And there is still no <hi rend="type">undoubtable</hi> account of Buonaparte's disembarkation at Alexandria. But I will not encourage you to build much hope on these circumstances. I dare not. And I will therefore only add my most affectionate respects to <hi rend="sup" range="1,2" orig="L=d=">Ld</hi> Stafford, and the assurance that I am ever, dear Madam, Most sincerely and faithfully yours,</p>
+			<p>Geo. Canning.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_029">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1798 T GCANNING"></title>
+					<author key="GEORGE CANNING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="231" />
+			<head> <note resp="editor" value="MR. CANNING TO LADY STAFFORD." /> </head>
+			<p>Spring Garden, Wednesd., Novr. 21, 1798.</p>
+			<p>My note from the Treasury Bench will have set your heart at ease as to the event of yesterday. I have nothing to retract or qualify in the short and decisive account which I gave you of Granville's performance; but, on the contrary, to assure you that it was considered by every body that heard him in the same light in which I represented it to you - as all that his most sanguine or most affectionate friends could wish, and more, very much more, than the public were prepared to expect from him. I can not express to you how much I was delighted, both with his excellence and with the universal approbation which It received. It puts him quite on a new form. It is now his own fault entirely if he does not make himself a considerable man in this Country. I need not desire you to exhort him to endeavour to become so. And you know that he will not fail for want of exhortation from me.</p>
+			<p>I again and again congratulate you and Lord Stafford and Lady Susan (who I hear is with you) on an event which I know will make you all so proud and so happy. - Ever, dear Lady Stafford, Most sincerely Yours,</p>
+			<p>G. C.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_030">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1798 FN SLGOWER"></title>
+					<author key="SUSANNAH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="231" />
+			<head> <note resp="editor" value="LADY STAFFORD TO G. L. G. IN WHITEHALL." /> </head>
+			<p>Trentham, Wednesday Night, 23 Nov., 1798.</p>
+			<p>My dearest Leveson, - Your Father and I had the Happiness of receiving a most kind Letter of Approbation from Mr. Canning of your Performance last Night. His words are: "Gran. has acquitted himself in a Manner to gratify your most sanguine Wishes," and he mentions Mr. Pitt's Complts. of Congratulation to us on the Occasion. I have likewise a most satisfactory Letter from Mr. Ryder. He had told us that he was sure you would do yourself Credit. In his Letter he says: "I have the Pleasure of telling you that my Predictions have been fully accomplish'd. His Speech must answer your warmest Wishes, <pb n="232" /> his Diffidence was only sufficient to set it off, and not in any Degree to obscure its Effect, and every Topic was touch'd with Skill and Spirit." Think, my dear beloved Granville, how happy these Accounts have made your dear Father and I! I am sure Lord Boringdon is pleased, and you may be assured that no One feels it with greater Satisfaction than Lord Worcester. Susan is delighted. Good Night. I cannot express the Feelings I had in reading Mr. Canning's and Mr. Ryder's Letters. Adieu.</p>
+			<p>S. Stafford.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_031">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1799 TC GCANNING"></title>
+					<author key="GEORGE CANNING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="256" />
+			<head> <note resp="editor" value="G. CANNING TO G. L. G." /> </head>
+			<p>Walmer Castle, August 30th, 1799.</p>
+			<p>I had determined not to write to you for a few days - not till I could speak more confidently than I dare venture to do at present. I have certainly no reason to complain of my reception, and every reason to rejoice that I took the resolution of coming here in defiance of your Sister's advice; and she herself is convinced that I did right in so doing.</p>
+			<p>Dundas is not here, and Pitt was called to Town yesterday, so that there is nobody with us but Lady Jane. Your Sister and Ryder, however, are hard by, and dine and stay the evening here every day. Pitt and Dundas return to-morrow.</p>
+			<p>The time of <hi rend="type">her</hi> stay is doubtful, and so therefore is mine. Titchfield is to go from Brighthelmston to Welbeck either on the 3rd or the 10th, and she stays here till she goes to join them in Town on their way. I hope it may be the longer date, as I would willingly not speak too soon. And my present state, though uncertain, is so little painful that I care not how much It is prolonged. If the 10th is the day, I am afraid you and I shall not meet till we meet in Staffordshire - or rather in Derbyshire - for I think I must get you to <hi rend="type">come to me</hi> for a day before you leave the Country, as I shall not be able to quit Ashbourne so soon after my arrival there after having put off my arrival so long. But of this hereafter.</p>
+			<p>I have ascertained that the false and ill impression which had been made <hi rend="type">did</hi> originate at Bulstrode. It is done away, I think, and I even doubt whether its previous existence has done mischief. No reason, however, for not revenging.</p>
+			<p>Your Sister has behaved as if she were <hi rend="type">my</hi> Sister too. Ryder also has shewn a sort of warmth of which I did not believe him capable. Pitt is almost all that you could be to me, with the addition of as much of a father as a person so little above one's own age can feel or shew. <hi rend="sup" range="1,2" orig="L=y=">Ly</hi> Jane, I am assured, suspects nothing, which is strange.</p>
+			<p>Remember that I have not mentioned to your Sister my communication to you.</p>
+			<p>Write to me to-morrow, even if you have written to-day. God bless you.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_032">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1799 TC GCANNING"></title>
+					<author key="GEORGE CANNING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="257" />
+			<head> <note resp="editor" value="G. CANNING TO G. L. G." /> </head>
+			<p>Walmer Castle, September 10th, 1799.</p>
+			<p>Read the enclosed Letter.</p>
+			<p>You will immediately conceive, from your knowledge of my general dislike to Foreign Employment (arising in a great measure from the persuasion that I am very ill-qualified for it), and of the <hi rend="type">disagreeableness</hi> which I experienced during my Under <hi rend="sup" range="5,6" orig="Secry=p=">Secryp</hi> with <hi rend="sup" range="1,2" orig="L=d=">Ld</hi> G., and of the particular circumstances under which I stand at present, that my first consideration, upon receiving this Letter, was how I could contrive most properly to decline the proposal conveyed in it. Such in truth was my first wish; and nothing could have removed it (as I think) except the finding, upon discussing the matter with Pitt, his mind so little satisfied with my idea of declining the proposal on any ground that could be stated to <hi rend="sup" range="1,2" orig="L=d=">Ld</hi> G., that I felt myself obliged to agree to answer it with a qualified acceptance. The qualification is of course rendered necessary by the possibility of my having other Engagements, precisely at the moment at which this mission ought to be undertaken. What I have said to <hi rend="sup" range="1,2" orig="L=d=">Ld</hi> G., therefore, is that his proposal has a good deal perplexed me, as I certainly had laid my account for having the next two or three months for my own private affairs; and that there was one business, of a private nature, which, if it happened to interfere with the Holland plan, would lay me under the necessity of giving up the latter; but that, barring this one impediment - though I would confess that I by no means delighted in the project, and by no means thought myself qualified to execute the service to my own satisfaction, or, indeed, half so well as many persons whom I thought I could point out to him - yet as I did feel that in times like these one had no right to put one's own personal comfort or credit against any the smallest public advantage, to which one might be supposed capable of contributing; and as I felt, above all things, that <hi rend="type">he</hi> had a full right to expect from me any thing that I could do to contribute to his comfort - barring this one possible impediment - I was at his service." You will, I think, see that I could not but answer as I have done. And now, dear Granville, can not you guess, and have not you already anticipated, the request which I have to make to you, in which, if I do not succeed, I am not sure that I shall not repent of my decision? If not, read over again the last two pages of <hi rend="sup" range="1,2" orig="L=d=">Ld</hi> G.'s letter to me, and imagine them addressed, with some small variations, from me to you; and then tell me whether, if I should go, You would not <pb n="258" /> go with me; not in any public character - that would be impossible, even if it were not for many reasons improper - but without title or occupation, as G. Ellis went with <hi rend="sup" range="1,2" orig="L=d=">Ld</hi> M. and with Sir J. H. for your own amusement and improvement, and for my comfort and assistance, to live in my house, and share my labours, and be a part, and not the least efficient part, of myself in the many things which I shall have to do, and so many of which you can do much better than I can. You see, <hi rend="sup" range="1,2" orig="L=d=">Ld</hi> G. considers six weeks as the utmost extent of the mission. And how can you employ six weeks better than in assisting at a Negotiation, which, if it succeeds, will form a striking point in the history of nations, and will lay, perhaps, in a great degree the foundations of the general peace with which this war some (God send many) years hence must be concluded? Your regimental cares will be off your hands (at least, I hope so, though the precise plan for obtaining the new army out of the Militia is not yet arranged) for I cannot suppose that the military business in Holland will be sufficiently forward to admit of our diplomatic transactions beginning before the end of the approaching Session of Parliament.</p>
+			<p>The opportunity which we shall have of talking this business over in London makes it unnecessary for me to suggest here many other obvious considerations that weigh with me to wish you to go with me, and will, I hope, weigh with you to comply with my wishes. I cannot suppose that <hi rend="sup" range="1,2" orig="L=d=">Ld</hi> Grenville could have the smallest objection to it; indeed, I should not put the question to him in such a way as to leave it open to him to make any objection of a light nature. I have mentioned to Pitt my intention of proposing it to you; and I need not tell you that he approves of it most highly.</p>
+			<p>The hopes of having you with me have altered my first view of the whole project so much that I really begin to look upon it (provided It can be made compatible with other Objects which I have most at heart) with much less distaste than I could have expected. Not that even now I do not rather desire, upon the whole, that the Cup might pass from me. But if it must be drunk, your sharing it with me will be such a comfort as I cannot well describe.</p>
+			<p>As to the main Object of all my hopes and wishes and anxieties - supposing there to be nothing that clashed in point of <hi rend="type">time</hi> - I have brought myself, upon reflection, to believe that this Plan might be rather of use to It than otherwise; not to the <hi rend="type">attainment</hi> of it - <hi rend="type">that</hi> will be decided (I tremble to think It <hi rend="type">will</hi> be decided, and that I dare not anticipate <hi rend="type">hers</hi> ) by to-morrow's or Thursday's post - but in other points of view, in which it does not cease to <pb n="259" /> present itself to me, whenever I am for a few minutes sanguine enough to allow myself to believe the attainment of it probable. Every thing of public service that I can perform, and every thing of public distinction that I can fairly obtain, is so much (in my way of feeling the subject) deducted from the extreme inequality which subsists between me and Miss S. in point of worldly consideration and importance, and I should think it particularly unfit and ungraceful to decline employment in which those who have a right to suppose they know me imagine I could be useful, and as the appearance of being selected for which is certainly honourable, merely because it will be disagreeable to me - at a moment when, by such an event as that to which I am now looking anxiously and fearfully forward, I might be understood to be no longer to the same degree dependent on my own exertions, and might be construed therefore to have made a determination to exert myself to the same degree no longer. Do not you feel this as I do?</p>
+			<p>If I could have every thing exactly my own way, I would have, in the first place, such an Account to-morrow of the conversation with <hi rend="sup" range="1,2" orig="L=d=">Ld</hi> G. as I dare not venture to frame to my own imagination, lest I should be bitterly disappointed; then I would have opportunity during the next month or six weeks of seeing her either here again or at Welbeck, and of settling every thing to my content, to my happiness, and hope, and could almost say, I believe to hers; then, come the Dutch business when it will, so that it does not extend beyond the period which <hi rend="sup" range="1,2" orig="L=d=">Ld</hi> G. assigns to it; then, after another interval passed at Welbeck (or where ever else), the opening of the Session of Parliament - full of opportunities, and in the course of it a Privy Councillor's Office, as early in the course of it as possible (Ireland would be still better than <hi rend="type">all</hi> this, but without deaths or casualties I do not see how that <hi rend="type">can</hi> be managed <hi rend="type">fairly</hi> ). And then, Granville, I think I should feel a little less ashamed of being made as happy as I wish to be than, with all my wishes, I should feel myself under a proceeding more precipitate and overwhelming. Perhaps in all <hi rend="type">this</hi> you will <hi rend="type">not</hi> feel as I do; but you will understand my feelings exactly, or I have been in the habit of opening my whole heart to you to little purpose. I know you <hi rend="type">will</hi> understand me.</p>
+			<p>At the same time, all this fine plan does not depend upon me. I can neither arrange the conquest of Holland, on the one hand, so as to suit my views in other respects, nor can I <hi rend="type">counsel</hi> delay - nor perhaps (when the hour of trial came) willingly agree to it - in respect to other objects, in order to introduce my Dutch Interlude. Fortunately for you, my paper is out. God bless you. Write to me immediately, and return <hi rend="sup" range="1,2" orig="L=d=">Ld</hi> G.'s letter.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_033">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1799? TC HPONSONBY"></title>
+					<author key="HENRIETTA PONSONBY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="262" />
+			<head> <note resp="editor" value="LADY B. TO G. L. G." /> </head>
+			<p>Margate <note resp="editor" value="SEPTEMBER" /> .</p>
+			<p>My Dear G., - What you tell me is exactly what I wrote you word was explain'd to my Sister - that Sol's offer was accepted, but that after that time the number of offers was so great that it was found expedient to repress this <hi rend="type">military ardour</hi> - lest the quantity of officers who had their profession to learn, now that the service seem'd more serious than was expected, should embarrass rather than assist our troops; that from this reason it was determin'd only Military men should go - you see, the event tallies perfectly with this - since, notwithstanding Sol's appointment, he is not gone. He thinks just as you do upon it. All his letters say that it is useless now to dispute whether he did wisely or foolishly in first offering himself, since, that offer once made, every increase of <foreign>De`sagre`ment</foreign> or danger are merely stronger reasons for him to press his going, which he has done most earnestly; but he says there seems little chance of it now, as the whole business seems dropp'd. This agrees so perfectly with what my Brother and Mr. W. said, that I cannot help thinking they were founded in their assertions. You seem to have as many Turtles as we have here - we are living upon them. I admire your <hi rend="type">only</hi> reason for not making love to Ly. Thanet. By the by, I forgot to tell you that tho' very likely, if Ly. T. <pb n="263" /> was talking low and fast, Sheridan might not understand, yet it is not safe to trust too much to his ignorance of French. I remember once his overhearing a long conversation between Prince Carency and me, and I thought I never should have heard the end of his tormenting me upon it. He sent me day after day different translations - some verse, some prose - of this unfortunate conversation, and no end of the quizzing about it. You hate a commission, but as you are concern'd in this, perhaps you will undertake it. I wish you would send to Fosbrook and speak to him about the private door which he promis'd me faithfully to have done. As there are so few of the subscribers in town, and you have a box to go to, it might still be done if he would set about it immediately. I wish you would also ask what the expense would be, as perhaps that is the difficulty. It cannot be very great, and would be worth a little. If you and the rest will give a guinea apiece towards it, I will undertake to pay the remainder. Offer him this; it will forward the door more than anything. But write me word by <hi rend="type">return of post</hi> whether you undertake the commission or not, as if you do not I must apply to somebody else. I hope Ld. Bor. remembers his promise of subscribing.</p>
+			<p>If Fosbrook makes any difficulty about the door, I will write to Kemble.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_034">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1799? FN SLGOWER"></title>
+					<author key="SUSANNAH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="268" />
+			<head> <note resp="editor" value="LADY STAFFORD TO G. L. G." /> </head>
+			<p>Trentham, Monday ye 17th <note resp="editor" value="OCTOBER" /> .</p>
+			<p>I am quite glad that you have a great Deal to do; you never appear to such Advantage as when that is the Case. You must let us know when we may speak of your Undertaking, for though it appears to me from the Nature of it that it cannot be a Secret, yet without your Permission we keep Silence. I never before Lord M.'s <hi rend="type">Aide-de-Campship</hi> got into a Scrape by repeating, and I think it will be the last. Mr. Sparrow was here Yesterday. He said it was reported at Lichfield that you had offer'd your Services as Volunteer. My Lord made little or no Answer. We must trouble you to let us know with what Success you proceed in your forming a Battalion. You may suppose we are desirous to be inform'd of every thing of the Sort relating to you, and there is not a Creature but yourself to whom we can apply for Intelligence on the Subject. I will not mention the many brave Men we have lost in Holland, nor the Regrets we feel on that Subject. We saw two spirited Letters to Mr. Bent from his Son, who was wounded on the 2d. The last is dated the 8th, in which he hopes to be able soon to join the Regiment and to help to give the French another <hi rend="type">Peppering</hi> . He had not an Idea of our Army leaving Holland, but, on the contrary, says: "We shall (with the Co-operation of the Navy) be in Possession of Amsterdam without Difficulty, after we have driven the French from two or three strong Positions, which cannot be effected without brave fighting, for the French fight well, though they dare not trust the Dutch, whom they believe inimical to them. Glory leads us, and you may depend upon our proving victorious." Is there not a Glimmering of Hope that the French Accts. of their Successes in Switzerland and Suvarrow being beaten may be a Fabrication? We flatter ourselves that certainly there is much to be allow'd for French Exaggeration. No one writes us any News of this Sort, in which we are most interested, and I do not know who to apply to for this Sort of Information. I cannot tell you how hurt my Lord was when he read the Monday's Extraordinary Gazette, and my Brother was not a Comforter; he saw it as bad as your Father did. So I argued what I did <hi rend="type">not</hi> think, and would not allow the Consequences they foretold. Though I did not convince, yet I flatter myself I did Good, though none to myself, for my Lord abused <pb n="269" /> me for <hi rend="type">thinking as I wish'd, my Prejudices with Eyes shut to the Truth</hi> , &amp;c., &amp;c. However, I do really flatter myself that every Thing will at last prove for the Good of these Kingdoms and the Interest of true Religion and of Virtue. Your Father is vastly well, but so disappointed that our Expedition to Holland has turn'd out so disadvantagiously that he <hi rend="type">worries</hi> himself even to <hi rend="type">fear</hi> the arrival of the Post. Mr. and Mrs. Sneyd were here on Tuesday. He is not less violent on the Subject of the new Militia Bill than he was last Summer, and with <hi rend="type">some Anger approved</hi> of Mr. Ryder's Resignation, saying: "he was in the right; that in spite of Mr. Ryder's vindicating the Measure, he felt it not a Situation for <hi rend="type">a Gentleman now</hi> to remain in a Militia Corps." Adieu, my dearest Leveson. We wish for long and frequent Letters from you. - Ever your most affte.</p>
+			<p>S. Stafford.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_035">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1799? FN SLGOWER"></title>
+					<author key="SUSANNAH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="269" />
+			<head> <note resp="editor" value="LADY STAFFORD TO G. L. G." /> </head>
+			<p>Trentham, Thursday, ye 24th Oct.</p>
+			<p>We have received both your Letters. As soon as my Lord had read That Part in yours of Monday of your Regiment being no Secret, he told of your being employ'd in raising a Regiment to the People here. I am quite concern'd to find by that we receiv'd this Evening that it had not been mention'd to the King for his Majesty's Approbation. I do not wonder that he was displeased at so inattentive an Omission, and I fear he may long feel sore on the Subject, though he may not stop the Measure. Has not our Expedition to Holland been attended with Misfortune! And the <foreign>Finale</foreign> appears to me quite mortifying, though I suppose necessity obliged us to agree to such Conditions. Yet they are humiliating, and when I read of Brune's Civility to Gen. Don, and his talking so highly of our Army, I am really provoked, for it is put in the Papers as a high Compliment. Good Night, my Dear. Forgive this hurrying, ill written Letter, and pray let us know as soon as you can the Effect of Mr. Dundas' Letter, and if you are to go on with raising a Regiment, and whether that may not occasion <pb n="270" /> your coming to this County to get Men. Once more Adieu. <hi rend="type">We</hi> shall be anxious to hear again from you. - Ever, my own beloved Granville, your most affte.</p>
+			<p>S. Stafford.</p>
+			<p>P.S. - Is it true that Lady Augusta has return'd, and the Child with her? And what is the History of her going and coming back?</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_036">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1799 T GCANNING"></title>
+					<author key="GEORGE CANNING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="271" />
+			<head> <note resp="editor" value="MR. CANNING TO LADY STAFFORD." /> </head>
+			<p>Ashbourne, Monday, Nov. 18, 1799.</p>
+			<p>Dear Lady Stafford, - Your letter reached town a few days after I had set out for Ashbourne.</p>
+			<p>It was forwarded to this place, and met me on my arrival here the day before yesterday. I will not trust to the circuitous post between this place and Trentham to convey to you all the comfort that I can send you upon a subject which interests you <pb n="272" /> so deeply. The first and greatest comfort that I can give you is by assuring you that there is not the smallest blame attaching to Granville in any part of the transaction which has ended so much to his disappointment and mortification. He has, on the contrary, all the merit that belongs to the having undertaken a very troublesome task from the very best motives - a desire of distinguishing himself honourably and of being useful to his Country. And he has the additional merit of having conducted himself throughout the whole of a very provoking discussion with perfect temper and prudence, and of bearing the ultimate decision against him with great good humour.</p>
+			<p>The <hi rend="type">difficulties</hi> in which he finds himself involved by this decision can be (so far as I know) nothing more than trouble and vexation, and the necessity of explaining to the different Individuals who had engaged to serve with him the little share that he has in the rejection of their services. I cannot for a moment suppose that a single shilling of the expence which has been incurred can be suffered to fall upon him. Indeed, Mr. Pitt has repeatedly said, both to me alone and to Granville in my presence, that he should be borne harmless. The defeat of the Plan (which, so far as I can judge, and so far as Mr. Dundas's opinion and Mr. Pitt's are to be believed, was calculated much more for the public service than with a view to any advantage to Granville) is owing wholly to some military prejudices entertained in a higher quarter, which were combated both by Mr. Pitt and Mr. Dundas as long as they could be combated with decency, and as long as there appeared the least chance of their being able to overcome them.</p>
+			<p>Once again be assured Granville has no fault, but much merit, in the whole business. I write to Ryder to ask after Lady Susan, and I shall therefore only desire you to make my most affectionate regrets to Lord Stafford, and believe me, ever most affectionately yours,</p>
+			<p>Geo. Canning.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_037">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1799 T SLGOWER"></title>
+					<author key="SUSANNAH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="272" />
+			<head> <note resp="editor" value="LADY STAFFORD TO MR. CANNING." /> </head>
+			<p>Trentham, <hi rend="sup" range="3,4" orig="Nov=r=">Novr</hi> <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="2,4" orig="19=th=">19th</hi>, '99.</p>
+			<p>My dear Mr. Canning, - I am more obliged to you than I can express for the comfort and satisfaction your Letter has given to my Lord and me. Your Approbation of Granville in the whole of this Transaction, and the account you give of his Prudence and Temper is most gratifying to us, and removes fears and anxieties which have disturb'd us exceedingly. I know not how to express how sensibly we feel the kind interest you take in everything relating to him. Indeed, your unremitting Friendship for my beloved Granville, and your particular attention <pb n="273" /> to my Lord, have made you very dear to me. You may say it is of little Consequence to have gain'd the affection and esteem of an old woman, but I have a Pleasure in telling you that I am with very great Regard and Gratitude, <hi rend="sup" range="1,2" orig="Y=r=">Yr</hi> <hi rend="sup" range="5,7" orig="affec=te=">affecte</hi> and <hi rend="sup" range="3,4" orig="obe=t=">obet</hi>, &amp;c.,</p>
+			<p>S. Stafford.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_038">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1800? FN SLGOWER"></title>
+					<author key="SUSANNAH LEVESON GOWER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="277" />
+			<head> <note resp="editor" value="LADY STAFFORD TO G. L. G." /> </head>
+			<p>Bath, May ye 5th.</p>
+			<p>Yesterday, my dear Granville, we had the Pleasure of hearing from you. My Lord thinks when you can write so well that you can surely speak to your own Credit and Advantage in the H. of Commons. He lays your Silence chiefly at the Door of Indolence. I hope in this he is mistaken, for I have read somewhere that Indolence is almost an incurable Disorder; that Love, Hatred, Revenge, or Jealousy can easier be rooted out of the Mind than Indolence; that it requires more Resolution to conquer it than most People are Masters of. Should this Fiend have taken Possession of you, I trust you will prove that you can overcome it. We read with Pleasure Lord Boringdon's Speeches in the House; they prove that his Mind is not entirely <hi rend="type">a Mark Antony's</hi> . We want to see the same Proofs of you in the H. of Commons. Parents are anxious, troublesome Sort of Beings when they have the Advancement of a Son at Heart, but I will quit this subject for the present and tell you that we have heard a great Deal of that same D. of Rochefoucauld Liancourt since I wrote to you last. There is a Mr. Noot (I know not how to spell his Name) who is at the Head of some medical Department in Canada, and a great Friend of Lord Dorchester; he had a Letter from the Governor of Massachusetts to say that the D. of R. Liancourt had done much Mischief in America, that he was there as a Spy, that General Simcoe had received him with <pb n="278" /> great Attention and Civility in Canada, where His Grace was doing much Mischief, and to advise Lord Dorchester not to allow him to come into his Part of Canada, respecting which Lord Dorchester inquired, found it to be all true, and order'd him from thence immediately. The latter Part he mentions in his Book. But what astonishes some of the People here is, that the foregoing must have been communicated to Government, and yet he was allow'd to come here from America, when there was every Reason to believe he was then a Spy from France in this Country. They suppose that at least there is <hi rend="type">one</hi> Friend to these Sort of Emigrants, in some of the Offices of Government. My Lord supposes that Mr. Pitt will think that you <hi rend="type">certainly</hi> are to be consider'd at the general Election, therefore the Expression <hi rend="type">that Mr. Pitt is now determined, if any possible Vacancy can be contrived</hi> , that you will have a Lordship <hi rend="type">in the Treasury</hi> , that <hi rend="type">if</hi> is not a Promise, and you have been taught to believe these last five Years that you were to be <hi rend="type">consider'd</hi> . Your Father wishes to believe that there is not a Doubt on the Subject, for Mr. Pitt knows how zealous your Father is on this Subject, and he thinks that Mr. Pitt is desirous to gratify this desire, yet if there are others who may have less Pretensions to Mr. Pitt's Friendship than your Father has, yet by Solicitations and persevering Applications get Promises, you may remain in <foreign>Statu quo</foreign> . He therefore cannot feel at all comfortable without an Assurance on this Subject. You are the Person in whom he is most interested, and any Favour granted to you, or any Benefit you receive, he feels it as done to himself. By what you write he understands that you mean your Father should speak, or write when he comes to London, that he may then procure a Promise.</p>
+			<p>We cannot wish Mr. Ryder to refuse so great an Income as the Treasurer of the Navy in Lieu of being joint Pay-Master, yet their being removed from that House, were we to live much in London, would be the Cause of Lamentation to us. I am glad to hear that Miss Scott is recovering. I hope she will not disappoint Mr. Canning. Some Letters we have doubt it. Bath, which abounds in News, is of a different Opinion. Lord Lansdowne arrived here last Saturday; lives in this Street. We have not seen him; there are many people here whom we never see, as we exhibit only in the Pump-Room. We read of Balls, Assemblies, &amp;c., &amp;c., and of all your Male Friends appearing there, but not a Word of Granville! I suppose Lady B. is in Town. Must that prevent your taking Notice of other <hi rend="type">Fashionables</hi> ? You gain the Approbation of all around the Country Quarters where your Regiment has been; in those Places you are not call'd fine, and all inquire most kindly after you. I <pb n="279" /> hope you will succeed as well when you come into your own County, and put a Stop to all Intention of an Opposition. I think if my Lord talks big, and gives out that he will stand a Contest that it will not be attempted, though I believe Lord Dudley has it much at Heart. Good Night. When I do write I do generally give you a large Dose of my Ideas, &amp;c., &amp;c. - Ever, my own beloved Granville, Your most affte.</p>
+			<p>S. Stafford.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="GOWER_039">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1800 T GCANNING"></title>
+					<author key="GEORGE CANNING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="279" />
+			<head> <note resp="editor" value="G. CANNING TO LADY STAFFORD." /> </head>
+			<p>Spring Garden, May 12th, 1800.</p>
+			<p>My dear Lady Stafford, - The kind interest which you and Lord Stafford have always taken in whatever has concerned me, would make it unpardonable in me if you were not to be among the very first to whom I communicated an Event the most essential to my happiness that has ever yet occurred in the course of my life. I know that you have long more than suspected the secret of that attachment, which has occupied all my thoughts and wishes since the month of August last; and I do not need to be told that you have felt for me during all the anxiety of different kinds under which I have (of late particularly) suffered. And I am confident, therefore, that when I tell you that <hi rend="type">all</hi> that anxiety is now happily removed; and that the same week which has restored the Person in whose welfare my whole comfort was involved from a dangerous illness, has also brought with it the decision which confirms her <hi rend="type">mine</hi> , you will enter cordially into all the joy which I feel on an occasion thus doubly delightful to me. I make no apology, therefore, for troubling you with this <pb n="280" /> Letter; and will only add with my best respects to <hi rend="sup" range="1,2" orig="L=d=">Ld</hi> Stafford, the assurance that I am ever, dear Lady Stafford, Most affectionately yours,</p>
+			<p>Geo. Canning.</p>
+			<p>I ought not to leave a blank space, when I have to congratulate you and <hi rend="sup" range="1,2" orig="L=d=">Ld</hi> Stafford on Ryder's appointment to the Treasurership of the Navy; tho' I can hardly do this without seeming to call upon <hi rend="type">you</hi> to congratulate <hi rend="type">me</hi> on my succession to Ryder in the Pay Office. I wish it had been possible for Granville to vacate, that the arrangement might have been completed by his having the Lordship of the Admiralty. <hi rend="type">It was his, if he could have taken it.</hi></p>
+		</text>
+	</TEI>
+</teiCollection>

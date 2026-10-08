@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FHURD">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>SAMPLE 1 = THE EARLY LETTERS OF BISHOP RICHARD HURD 1739-1762. ED. BY SARAH BREWER. CHURCH OF ENGLAND RECORD SOCIETY, VOL. 3. WOODBRIDGE: BOYDELL PRESS. 1995.</titleStmt>
+			<titleStmt>SAMPLE 2 = THE CORRESPONDENCE OF RICHARD HURD &amp; WILLIAM MASON AND LETTERS OF RICHARD HURD TO THOMAS GRAY. ED. BY LEONARD WHIBLEY. CAMBRIDGE: CAMBRIDGE UNIVERSITY PRESS. 1932.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<!-- SAMPLE 1 -->
+	<TEI xml:id="HURD_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1739 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="8" />
+			<head> <note resp="editor" value="3 TO JOHN POTTER 11 NOVEMBER 1739" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / the Revd. Mr. Potter at / Batcombe near Brewton / in Somersetshire / By London.</p>
+			<p>Camb: Novr. 11th. 1739.</p>
+			<p>Dear Sir</p>
+			<p>I am now sate down to answer your two Letters. And as to ye. first, I cannot but observe yt. yr. passion for the happy Lady, you mention'd, is perfectly honourable, &amp; altogether worthy a Gentleman, &amp; a Clergyman. There is certainly something in love of a very refin'd, &amp; delicate nature, when founded upon virtue, &amp; good sense, &amp; under the guidance of reason. And I can't but rejoyce to find your's of yt. kind; a remarkable instance of wch. you have given in being so exact in a point, in wch. it had been excusable to have offended. As warm a lover with a less share of good sense would hardly have prevail'd upon himself to neglect the completion of his happiness, for the distant, possible difficulties, yt. might arise in the remainder of his life. But you have judg'd better, &amp; giv'n the Lady at once a convincing proof of your affection &amp; prudence. <foreign>Pecuniam in loco negligere, maximum interdum est lucrum</foreign> , says Master Terence, &amp; to neglect happiness in it's proper place is sometimes the best way of encreasing it. The case before us is, I think, one of yt. nature, &amp; I don't in the least doubt but Providence will hereafter make up your loss with ample Interest. And that she may do this by bestowing upon you as large a living, as you can desire, in a short time is the sincere wish of one, who at present lies under the disgrace of a suspected friend. By the conclusion of this last sentence you'll easily <note resp="editor" value="see DELETED" /> perceive I am passing from your former, to your late letter. And of wch. give me leave to say, yt. it is ye. only disagreeable one, I ever receiv'd from Mr. Potter. To suspect my friendship, &amp; sincerity, to accuse me of coolness &amp; indifference, &amp; to represent me either as forgetfull, or designedly negligent of a friend, for whom I have often profess'd great esteem, &amp; respect, these, Sir, are particulars that bear so hard upon my reputation, yt. I could not peruse your letter with that pleasure, &amp; satisfaction, I was wont to do. It would be easy to enlarge upon this subject but as it is in itself very disagreeable I shall leave it; after having first observ'd to you, yt. you have prevented me in making any Apologies for my long Silence, by mentioning the fifth of November. Nor will you be surpriz'd at it's engrossing the greatest part of my Time, if you consider the niceness of <note resp="editor" range="7,8" orig="Em~anue[\l\]ian">Em~anuelian</note> Ears, &amp; the slow Invention of their Orator. But of this enough; proceed we now to answer the remaining part of your letter. And here, if it had not the appearance of flattery, I should immediatly say, you might have spar'd yourself the trouble of proving to me, yt. the Country had not yet vitiated your taste of polite learning. The Style &amp; manner in wch your letters are wrote, abundantly convince me, yt. the Revd. Mr. <pb n="9" /> Potter of Batcombe is not chang'd from Ds. Potter of Em~anuel, &amp; yt. Pope, Prior, &amp; Addison are not less your Favourites in Somersetshire, than formerly they were in the Seat of the Muses. The Pierian Spring has too delicate a flavour, ever to be exchang'd by any thinking man for a more ignoble liquor; &amp; tho' his health, or some other extraordinary cause may oblige him to draw from a common, or insipid stream, yet his taste can never so far degenerate as to forget the delightful relish of the one, &amp; prefer a less pure draught of the other. This, Sir, is the case of all those, who have ever tasted that sacred Spring; but you who have drunk largely of it, &amp; whose Brain has been sober'd by copious draughts, can never forget the richness of it's flavour, or drink with pleasure of any other Stream. If you will excuse the coarseness of the Comparison, I would venture to say, yt. the Mental Taste, I have hitherto been speaking of, is not very unlike the <note resp="editor" value="that CHANGED TO the" /> corporeal Taste of those good Wives, who by degrees contract so great a love for Gin, yt. it is not in their power to lay it aside, &amp; betake themselves to any other liquor. I have indeed beg'd pardon for the meaness of my Allusion; but upon a review it is so nauseous upon so delicate a Subject as that of Taste, yt. I am very sensible, if it meets with pardon, it deserves none. I have run directly counter to the practice of all polite writers, &amp; instead of discovering a fineness of taste in my manner of talking upon that subject, have only convinc'd you, yt. I want that Taste I commend, &amp; am entirely ignorant of the Elegancies of a genteel Style. We are told of Longinus, yt.</p>
+			<p>"His own Example strengthens all his Law"</p>
+			<p>And yt. "He is himself the great Sublime he draws." But it may be said as truly to my honour, yt. my own Example weakens my observations, &amp; yt. I am just the reverse of that polite Taste I would describe. From what has been said it appears a dubious case, whether I am a proper judge of a fine taste, or no, or rather it evidently appears, I am not. The consequence of wch. is, yt. I pay no great complement to your letters, when I affirm them to be written in an elegant taste. But whatever may be determin'd of that point, this I can affirm, yt. they are always particularly agreeable to me, and always discover that taste wch. I have ever look'd upon to be a fine one. And therefore give me leave to say further, yt. you cannot oblige me more, than by writing very frequently; and (if I thought <note resp="editor" value="it could DELETED" /> my letters could be as agreeable to you), I would faithfully promise, they should be as frequently answer'd by, Sir, your unjustly suspected Friend, &amp; Humble Servt.</p>
+			<p>R. Hurd.</p>
+			<p>P.S.</p>
+			<p>I need say nothing of your Brother, because he writes by this post.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1740 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="31" />
+			<head> <note resp="editor" value="10 TO JOHN POTTER 14 DECEMBER 1740" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / the Revd. Mr. Potter at Batcombe / near Brewton / in / Somersetshire. / By London.</p>
+			<p>Camb: Decr. 14th. 1740.</p>
+			<p>Dear Sir</p>
+			<p>I am at last at leisure to answer your very obliging Letter, and shall begin with thanking you for the Speech, you sent me by yr. Brother. It was indeed, as you foretold, of no great Service to me, &amp; therefore I cannot easily admit your Excuse for not sending your own. "But it was incorrect, it seems, &amp; therefore you would not let me see it". Surely my friend has no great opinion of my Candour &amp; sincerity to make such an Apology. Incorrectnesses I could have pardon'd, nay perhaps should have admir'd. For there is something beautiful in the negligent, careless strokes of a Master hand.</p>
+			<p>As to your Brother's Affair, twas a great <note resp="editor" range="4,6" orig="plea[\su\]re">pleasure</note> to me to find it so soon, &amp; so happily compos'd. <note resp="editor" value="Your Brother, DELETED" /> I suppose, He has wrote you an acct. of Particulars, &amp; therefore you'll not expect me to enlarge upon it. Only this I must add by way of reply to your request, yt. had there been any occasion for my advice in the Affair, he should not have wanted it.</p>
+			<p>Sometime ago he favour'd me with the sight of a small paper of verses, written upon Dr. Bowden, that shew'd a truer spirit, &amp; a more masterly turn of Expression, yn. I had before observ'd in his Compositions. Upon a perusal of them, I gave him the commendation, he deserv'd, &amp; encourag'd him to employ his more vacant hours in amusements of that kind. In doing which I had this double view; 1st. by putting him upon composition to improve his taste in polite learning; &amp; in the next place, to draw him off by that means from some little indiscretions to wch. the fire &amp; vivacity of his youth &amp; temper are in his more disengag'd moments apt to subject him. For the same reason I have sometimes recommended to him books of polite Amusement, yt. were new to him, &amp; have endeavour'd to mix 'em so with his other Studies, as to give no interruption to them. If you think me right in this, I shall receive some pleasure, as I have contributed something to his instruction &amp; interest, and as it may serve to shew my respect for you both.</p>
+			<p>The Amatorial Differences, you mention'd, surpriz'd me a good deal, &amp; are a fresh instance of the hypocrisy, &amp; falseness, of that Sex, we call fair. I faithfully believe an Elegant, but idle Writer of the Augustan Age, when he tells us from his own Experience,</p>
+			<pb n="32" />
+			<foreign>Difficile est subito` longum deponere amorem.</foreign>
+			<p>Catullus.</p>
+			<p>But at the same time I don't doubt but my friend will remember, that to conquer such difficulties is the business, &amp; province of noble &amp; exalted Spirits. The Occasion must necessarily suggest to you the first Scene of Terence's Eunuch, &amp; perhaps some other passages of the <note resp="editor" value="like DELETED" /> like Nature in Heathen Literature. And indeed such helps may be of no inconsiderable Service to a delicate, &amp; refin'd Imagination. But besides these, I doubt not but Mr. Potter will draw such assistances from Religion (for the importance of the Occasion will, I think, justify so serious a thought) and Philosophy, as will enable him to bear up against all the Attacks of love, &amp; Beauty, of faithlessness &amp; Woman. Methinks I see you after a certain intermediate Space, <foreign>post aliquod spatium requiemque furoris</foreign> , look back with transport upon the dangers, &amp; difficulties, you've <note resp="editor" value="escap'd DELETED" /> past. 'Twill be something like a review of the many hazards, &amp; fortunate escapes, wch. an old traveller entertains himself with, upon retiring to a calm retreat, far from the uncertain &amp; delusive Deep, that had once tempted him to leave the Shore, &amp; had been the Scene of his former disquietudes, &amp; misfortunes. It were easy to carry on this Allusion much further, had not Horace already done it with infinitely greater beauty in one of his Odes. All yt. I shall add is an hearty wish, yt. you may happily escape the present Shipwreck; &amp; may soon be in a condition to testify your happiness, not by suspending, but sending a votive Table to your well-Wisher. In short, you must give me leave once more to press you to undertake your promis'd work. And this I am the more inclin'd to do at present, as it will serve for an agreeable amusement in your present troubles, &amp;, I hope, call <note resp="editor" range="2,3" orig="of[\f\]">off</note> your thoughts from yt. Object, that had hitherto engross'd but too many of them.</p>
+			<p>What you mention about coming to Camb: next Summer gives me great pleasure, &amp; I will, if possible, contrive to meet you there. Hudson has not wrote to me since April; &amp; Go~ld has been silent a long time. Whether I am to be favour'd with a continuance of their correspondence, is a secret, wch. my <note resp="editor" value="prophetick DELETED" /> <note resp="editor" range="0,2" orig="[\un\]discerning">undiscerning</note> Eyes cannot at present pry into. But however that be, it will be some comfort to me, yt. I have not yet lost the regard, &amp; correspondence of my good friend of Somerset.</p>
+			<p>From the whole tenor of this Epistle you'll easily perceive I am in a very idle humour, &amp; have wrote with Ease. This indeed generally passes for a complement, but then it must be such ease, as proceeds from art, not Chance: The latter of wch. has been the chief governess in this Scroll. Notwithstanding wch. believe me to be (what I am not the less on acct. of my present disposition) your most Sincere Friend, &amp; Servt.</p>
+			<p>R. Hurd.</p>
+			<p>P.S.</p>
+			<p>Your B: is yours: write very soon.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1741 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="43" />
+			<head> <note resp="editor" value="16 TO JOHN POTTER 19 APRIL 1741" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / the Revd. Mr. Potter at Batcombe / near Brewton in / Somersetshire / By London.</p>
+			<p>Camb. April 19th. 1741.</p>
+			<p>Dear Sr,</p>
+			<p>Your last very handsome &amp; obliging letter gave me that pleasure, I always receive from the correspondence of a sincere &amp; ingenious Friend. As the contents of it were elegant, I was entertain'd; as they were friendly, I was delighted. For both I am oblig'd to you. Only one part has thrown me into a Dilemma, yt. I hardly know how to get over. Your manner of expression in some places carries in it so great an Air of complement, yt. it must infer no small degree of vanity to believe you; &amp; yet there is something so truly cordial, &amp; affectionate runs thro' the whole; yt. I cannot disbelieve you. The most prudent way perhaps is to moderate the affair a little: I hope, I believe, I know you respect me; that respect might carry you too far in your profession of it, &amp; heighten your colouring too much. However it be, I am determin'd rather to be thought vain, than suspicious; the one <note resp="editor" value="implies DELETED" /> indeed implies a weakness, but such a one as is pardonable; whereas the other has something criminal in it's nature, &amp; betrays a darkness of Soul, I should be sorry to be charg'd with.</p>
+			<p>Should I enlarge upon the ease, &amp; beauty of your Poetry at this time, it would look too much like an exchange of complement, &amp; a mere return of words. I cannot however omitt saying, <note resp="editor" range="3,11" orig="the[\y DELETED\]">they DELETED</note> lines pleas'd me; &amp; if there be any fault in them, 'tis that they are too much in the taste, &amp; manner of Prior's. A little paradoxical this, you'll think, yt. to be very like one of the best of Poets, is to be faulty! But 'tis easily explain'd: our taste for poetry in this age is founded entirely upon the practice, &amp; manner of Mr. Pope, &amp; as Prior happens to differ from him in the turn, &amp; run of his versification, he is not look'd upon as an exact model. This indeed seems to be his only fault; he is rather loose &amp; careless in his numbers, &amp; often so, as to take off from the delicacy &amp; beauty of a Sentiment. I ascribe not this to negligence, or the want of a discerning Ear; Mr. Prior is well known to have excell'd in the later, &amp;, I believe, he us'd much care. 'Twas perhaps rather owing to too great an affectation of ease in writing, wch., tho' justly admir'd in this poet, &amp; indeed the greatest perfection in works of Genius, should never be aim'd at, &amp; observ'd at the expence of Strength, harmony, &amp; beauty. But I ask pardon <note resp="editor" value="both DELETED" /> for the freedom I have taken both with your (justly) favourite Poet, &amp; with you. Sincerity is one of the first qualifications you require in yr. Ideal friend, &amp; if I could be vain enough to think any part of so amiable a character belong'd to me, 'tis that. The other eminent virtues, requir'd <note resp="editor" value="requisite CHANGED TO requir'd" /> in your piece, I presume not to lay any claim to, but this I arrogate to myself with so much confidence, yt. I shall venture to assert in the following couplet,</p>
+			<p>"My tongue impartial never will commend</p>
+			<p>The slightest Errors ev'n in a Friend." <pb n="44" /> It gives me some pain to observe, yt. the word Pen wd. suit this place, much better than Tongue. A length of days has pass'd, since it was in my power to use ys. member in your Service. Too many mountains rise between us to suffer any sounds to reach your ears, from this quarter, except what are made visible upon paper. And this way (thank Heav'n) we can converse. Nor Seas, nor deserts can prevent this kind of Intercourse; but our thoughts, fleeting &amp; transient, as they are, become permanent &amp; lasting, &amp; take a secure flight to whatever part of the Globe, it may please their master to send them. 'Tis for this reason, yt. the absence of friends becomes tolerable, &amp; 'tis from this expedient, if anything should hinder our meeting at Cambridge this year, that I promise myself some comfort. Believe me, Sr., to see you here wd. be the greatest pleasure, &amp; if it can be done with any sort of convenience, you may be sure, I shall endeavour to do it. But Cambridge is not at present so agreeable to me, as once it was, &amp; whether other reasons may not conspire to hurry me away before the commencement, is what I cannot now promise. In the mean time be assur'd of my affection for you, &amp; doubt not of my sincere endeavours to see you, &amp; to serve you.</p>
+			<p>Your Brother the other day recd. a very handsome letter from the Author of the late English Aeneid. It was occasion'd by a complement <note resp="editor" value="your Brother DELETED" /> he made him upon his Translation; a pretty Poem, but not quite so correct, as 'tis wish'd it had been. I had seen it some time before, but as yr. Brother never gave me the least hint of his design, I did not pass so severe a judgment upon it, as otherwise I should have done. However Mr. Pitt seems to like it very much: the complement he has recd. upon this occasion, &amp; indeed the whole letter, do him more honour, than 'tis proper any other person should mention to him.</p>
+			<p>I am glad to find, you have read Dr. Delany's life of David; I am certain it pleas'd you. There is an uncommon Spirit runs thro' the whole performance, &amp; something so ingenious in the digressions, disquisitions, &amp;c that, I think, I never met with anything more entertaining. In his remarks on the 18th. Psalm, the Dr. observes (if I remember right, for I have not the book by me) that the word Temple is us'd by the inspir'd Author to signify the Heavens with great beauty in the <supplied range="6,12" orig="follow[{ing Pas{]sage">following Passage</supplied>. "In my distress I called upon the Lord, &amp; cried unto my God: <note resp="editor">He</note> heard my voice out of his Temple &amp;c." Ps. 18. v. 6.</p>
+			<p>I was pleas'd the other day to find it us'd exactly in the same <note resp="editor">sense</note> by the Sublime Lucretius:</p>
+			<foreign>... jam nemo, fessus satiate videndi,</foreign>
+			<foreign>Suspicere in caeli dignatur lucida <hi rend="type">Templa</hi> .</foreign>
+			<p>L. 2. v. 1037.</p>
+			<p>It occurs also in a passage of the first Book, where the Epithet Tonitralia, to wch. it is <pb n="45" /> joyn'd, wd. not improperly mark the Idea, we have of that Temple, when "the Lord thunders in it, &amp; the <supplied range="4,7" orig="High[{est{]">Highest</supplied> gives his voice." <foreign>Ibid:</foreign> v:13.</p>
+			<foreign>"Neve ruant caeli Tonitralia Templa superne`."</foreign>
+			<p>L. 1. v. 1098.</p>
+			<p>I don't recollect, that this form of Expression is ever us'd by Virgil.</p>
+			<p>An excellent paragraph in yr. last letter to yr. Brother has prevented my saying anything upon the Subject of yr. Love. Keep to your resolution, &amp; all's well.</p>
+			<p>You see I did a politic thing in my last to explode method, since I should <supplied range="0,7" orig="[{have fou{]nd">have found</supplied> it a very difficult task to have connected so many different Scraps, as this letter consists of, in any tolerable form &amp; order. It has been of vast Service to me thro' the whole, &amp; gives me an opportunity ev'n at the last of letting you know, without any form, yt. the polite Scheme, I hinted to you, was learning French. And to shew you I have made some progress in the language, give me leave to subscribe myself, but with the sincerity of an Englishman, <foreign>Vo`tre tre`s humble Serviteur</foreign></p>
+			<p>R. Hurd.</p>
+			<p>P.S.</p>
+			<p>Yr. Bro: is all but Bachelor, &amp; at yr. Service.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1742 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="55" />
+			<head> <note resp="editor" value="21 TO EDWARD MACRO 1 JANUARY 1742" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Mr. Edward Macro at the Revd. Dr. / Macro's in Norton near St. Edmunds Bury / Suffolk. / By <supplied range="4,6" orig="Lond[{on{]">London</supplied></p>
+			<p>Brewood Jan: 1st. 1741-2</p>
+			<p>Dear Sir,</p>
+			<p>Your last found me in the middle of a Sermon; and as that kind of business does not love Interruption, you'll forgive my deferring to answer it, till I had in some sort brought it to a conclusion. I thank you, Sir, for that regard, I might almost say, zeal, you shew for my Interest: it discovers a Sincerity and warmth of friendship, <note resp="editor" value="for me, DELETED" /> and therefore lays me under the most agreable Obligation. As to the Curacy, you mention, I am not in a capacity to take it at present; I am not, nor can be in orders till Lent, and the Gentleman, I suppose, cannot wait till then. Thirty five pds. a year is indeed but a small thing; however, as I have a desire to settle in that part of the world, if that difficulty could be got over, I should incline to accept it. I do not conceive, of what use the house, you speak of, can be <note resp="editor" value="... DELETED" /> to me, since my income would hardly enable me to set up for an Housekeeper. I should like too to know the distance of the place from Bury, and whether the Rector resides at it. If Mr. Lyne writes, I shall take care to send letters of thanks both to him and Mr. Elliot: till then I dare say you'll think it more prudent in me to omit them. An obligation I am as ready to acknowledge as any man, but am afraid, that to be forward in this case would have too much the Air of Sollicitation, and Assiduity; things of wch. you know I am not very fond. In the mean time 'tis a very sensible pleasure to me to find Mr. Elliot interesting himself in my behalf; as the worthiness of his character had always attracted my esteem, and as the many valuable qualities, he possesses, makes it an honour to be regarded by him. To say the truth, he is almost the only Man of fortune, whose acquaintance I have ever had the honor of, to whom I could have been pleas'd to have recommended myself. - The favour of Mr. Lyne you may imagine I take kindly, as it comes from one, whose kindness I had no reason to expect. But as I consider Mr. Macro, as the <foreign>primum <pb n="56" /> mobile</foreign> , or the Spring, that has set ev'n these in action, 'tis to him I can't but think myself more particularly oblig'd. - I need not apologize for leaving a Subject with some abruptness, wch., if continu'd, would displease you. Let me therefore chuse a less offensive <note resp="editor" value="Subject DELETED" /> Topick. Mr. Cox, I remember, mentioned an Emendation Dr. Macro had made in I Ep. Cor c. 14. v. 6, where, instead of <note resp="compiler" value="GREEK OMITTED" /> <note resp="editor" value="..." /> I would read <note resp="compiler" value="GREEK OMITTED" /> , or <note resp="compiler" value="GREEK OMITTED" /> , or something like it. The alteration <note resp="editor" value="..." /> I let great light in upon a passage, as it now stands, sufficiently obscure. But he seem'd at the same time to doubt, if <note resp="compiler" value="GREEK OMITTED" /> was ever us'd in that sense in good Greek. I happen'd the other day to meet with it used in the new Testament exactly in the same manner, in wch. the Dr. would use it there. 'Tis in the 13. c. of the Acts of Ap: and the 41st. verse, where <note resp="compiler" value="GREEK OMITTED" /> is to be constru'd <foreign>etiamsi</foreign> , and has the same force, as <note resp="compiler" value="GREEK OMITTED" /> . The remark, I am afraid, will be but of little Service: however I could not help just taking notice of it.</p>
+			<p>What luck had I to mention the Muses in my last? Or if I must mention them, why was it done in the sneering and disrespectful form of, <foreign>si Muses placet</foreign> ? The jades have been even with me for't: they have plaug'd me with rhyme, &amp; it's attendant, Head-ach, pretty heartily since that time; and as if versifying of any kind were not punishment enough, they have put me upon the most painful and laborious part of it. To speak plain English, in the <note resp="editor" value="late DELETED" /> frost, that happen'd about a fortnight ago, and wch. hung the hedges with a Snowy kind of Substance, in forms the most lovely I remember to have seen, the thought struck me, that a description of it would be no disagreable amusement at a time, when I found myself confin'd to the House. But a second thought convinc'd me of the rashness of my design, by putting me in mind of the fine description of winter in Virgil's Georgicks, and that after him an attempt of that kind must be most impertinent. However not being willing to be entirely balk'd of my aim, I resolv'd to attempt a translation of that famous Episode, and apply in some sort the Scythian-winterpiece to our own condition in Staffordshire. The inimitable beauty of the Original, when I came to look into it, somewhat discourag'd me; however I went thro' it, and shall here send you a copy for your amusement. 'Tis usual with tenants to make little presents at this Season to their Landlords; a goose, or Turky is carry'd with great form to the Squire, and tho' he wants them not, &amp; has much better of his own, yet he never fails to accept them, and, if he happens to be, what they call, a well-spoken man, with expressions of great civility and respect. Permit me, Sir, to imitate this laudable custom, and 'tho' there is no want of amusements at Norton, please to accept this, as my Xstmas Offering. A friend, I think, has a greater right to them, than a Landlord; and as this is the only one in my power to make, let not the meaness of it be any Objection. Upon comparing it with the Original you'll perceive I have taken some liberty in two or three places, but it is in such, as I must confess to you I was not able to turn more literally with any tolerable grace. The line, that describes Icicles hanging at the beards of the Scythians, is extremely beautiful in the Latin; but I could not cloath the Image in any English words, that did not evidently turn it into burlesque. Dr. Trap, I remember, says there is <pb n="57" /> fire in this description of Virgil, but I wish my copy be not too cold and <note resp="editor" value="..." /> have any degree of heat in it. All I shall say further upon it <note resp="editor" value="..." /> this weather lasts, my complement will not be ill-tim'd; since Nature will afford you a pretty exact Image of that, wch. is the Subject of it. The Scythian <supplied range="1,6" orig="W[{inter{]-piece">Winter-piece</supplied> from Virgil's Georg: L. 3. 1. 349.</p>
+			<note resp="compiler" value="VERSE OMITTED" />
+			<p><pb n="58" /> After this tedious letter, I shall not detain you long. 'Twould however be unpardonable in me to omit the complements of the Season, and my Service to Mr. Cox. The usual mirth and good-humour of this part of the year will furnish you with abundant matter to write upon. I shall therefore expect, you'll keep me in countenance, by sending me an answer very soon, that shall bear some proportion to the length of this. I am, dear Sir, your most oblig'd Friend &amp; Servt.</p>
+			<p>R. Hurd.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1742 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="58" />
+			<head> <note resp="editor" value="22 TO JOHN POTTER 15 APRIL 1742" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / the Revd. Mr. Potter at Batcombe / near Brewton in / Somersetshire. / By London. Dear Sir,</p>
+			<p>Your last opens with such tenderness of Sentiment and Expression, that I could not help concluding at first, you had forgot yourself, and directed a letter to me, that was intended only for Hetty. Indeed the profession you make of your regard for me, and my letters, is so much above anything, either I, or they, can pretend to, that I could not well give it any other turn. At least I am to resolve it into that habitual complaisance, wch. grows upon a man in Love, and by degrees wears him, like the Air and converse of a Court, into a degree of Politeness, unknown to the rest of the world. In one point however I am willing to think my comparison fails; for tho' I have charg'd you with a Courtier's politeness, yet you have not, I am sure, his Insincerity; and that is an Idea, wch. the word Courtier has been usually made to convey. In short, I believe you to be, tho' a Lover, that is half a Courtier, a very honest man; and that your letter, however extravagant in point of language, at least means this, that you have a real respect for me. I would willingly shew you the same in my turn, and by some act or other convince you, if it should seem necessary, of a mutual, and, I hope, equal respect from me. This I am now about to attempt by writing you, what I have not done to any one a long time, a whole Sheet. The Subject may indeed chance to want an Apology, for it is of myself. Yet the making one would have in it an air of greater distance, and form than ought to be observ'd between Friends. Take then the following Impertinence, and treat it as you please.</p>
+			<p>About a Month ago I receiv'd a very obliging Offer, from a friend at Cambridge (whom, I believe, you don't know, and therefore I need not mention) of a little Living <pb n="59" /> in Norfolk, about 70, or 80 pds. a year, and a neat house upon it. As my Inclination leads me to settle somewhere in that part of the Kingdom, and as the Thing itself was not of a contemptible value, you'll imagine I was not backward to accept it. Some small difficulty however arising about it, my Friend advis'd me by the next Post to appear upon the Spot, and settle matters myself. Immediatly upon this I went for Cambridge, and got there last Sunday Fortnight. From thence I rode to my Friend's Father, whose Interest it was, that procur'd me this living, and who was the chief Manager in the affair. Upon consulting him the great Difficulty, I found, was my not being in Orders, and under Age. This made it necessary <note resp="editor" value="for me DELETED" /> to choose a Person to hold it for me; but who that Person, was the Task. Considering however that Hudson was very near, within about 16 miles, and that "Honest" was the Epithet we us'd to give him, I resolv'd to ask the Favour of him. With this design the next Day brought me to Ipswich, or rather Wherestead. I was riding by the house, and was just going to enquire where he liv'd, when Bob came running out, broad awake, you may be sure, and marvelling much to see me there. His Eyes indeed, as well as his words, witness'd his Surprize; but glad he was to see me, and, my horse committed to the care of a Servt., in we went. Osculation, and a Commerce of hands, you'll imagine, pass'd between us. This over, down we sat, and began to chatter. But not to tire you with a Detail of particulars, after Dinner, and over a glass of wine, I told him the design of my coming, and, in short, beg'd him to hold a Living for me. After a few questions about Residence &amp;c he told me, he would; and it was presently agreed, that he should enter upon it by Trinity Sunday, (for it wd. not lapse till after) and that I should be Curate. In order to this <note resp="editor" value="I am DELETED" /> I intend at that time, for I am yet a lay-man, to take Orders. The remaining part of the Evening we spent very chearfully, and among our friends and acquaintance did not forget those in Somersetshire. The next morning I took leave, and return'd to my new Friend, or rather Patron, with whom I pass'd two or three Days most agreeably. He was, I found, a very polite, and learned man, well vers'd in most Sciences, but particularly curious in Manuscripts, Medals, and painting. He has an <note resp="editor" range="2,4" orig="ex[\ce\]llent">excellent</note> collection in each of these ways, and very obliging in giving me a <pb n="60" /> Sight of 'em. From his conversation I with pleasure observ'd an extreme candour, in his judgment both of men, and books. He seems a most generous friend; particularly his civilities to me were beyond anything, I ever met with. On Saturday I return'd to Cambridge, din'd on Sunday with the Master of Emm:, and was the other part of the Day with my Friends. On Monday I set out for Shropshire, met with bad weather by the way, but reach'd Hatton by the Thursday following, wch., to be exact in the chronology of my Expedition, was April 8th. 1742. As I rode thro' the open fields in Northamptonshire, I could not but observe with pity the sad State of modern Shepherds: ah! how unlike the golden dreams I had form'd to myself in considering the Antient. Instead of a lovely Antrum, so much talk'd of in Virgil, a thin, leafless Thom was all the Shelter; and so far from piping it, like their old Brethren, were they, that not a single note was hear'd throughout the doleful Region. Their condition seem'd to me the more miserable, from <note resp="editor" value="seeing them DELETED" /> their being expos'd at that time to some heavy Show'rs; and from thence instead of regarding them, as I had us'd to do, as the favourites, I now began to look upon 'em as Objects of the peculiar wrath, of Heav'n. But to amuse myself in that disagreeable Situation, I attempted to throw a few thoughts of this kind, wch. the melancholly Scene <note resp="editor" value="before DELETED" /> suggested, into Rhyme, and as Pack Horses may be <note resp="editor" range="5,6" orig="suppo[\s\]">suppos</note>'d to do with their Bells, divert myself on the road with a little Gingling. What a kind of Sound they may make in your Ears I know not; 'tis a comfort however, that if you do not like, you may refuse to hear, 'em. To be read, or thrown by therefore, just as you please, I have wrote you a Copy of them. I call it, for I know not what other name to give it, a Soliloquy.</p>
+			<note resp="compiler" value="VERSE OMITTED" />
+			<pb n="61" />
+			<p>Now I am got upon Poetry, pray have you seen the new Dunciad? It is believ'd to be, and certainly is, Mr. Pope's. No one, that I know of, but himself could finish a piece with such exactness. Yet there are some reasons, might tempt one to think otherwise. Pray give me your Opinion in your next. If you have not seen it, it will entertain you; for tho' some other studies may not, yet Poetry is, I think, allow'd to consist with Love. <foreign>Haec bene conveniunt, et in una sede morantur.</foreign> (To a Scholar and a Friend I never apologize for a Scrap of a Latin.) Tho' I must own I could wish the latter were expell'd it's Seat; I should then hope for more of the former from you. I should then too hope, you'd be at leisure to give me now and then a thought upon my fav'rite Subject, Pastoral. For, tho' I do nothing this way at present, I don't forget it. I have lately appli'd to a Gentleman, that is going to make the Tour of Italy, to inform me in some things relating to Mantua, particularly what is the present face of the Country, and whether it answers in any degree to the description, Virgil has left of it. But this, with ev'rything that concerns this whimsical Design, I beg may be a Secret. Will your Brother do anything tow'rds it? Tell him I wish to see his thoughts. He might in the compass of a few letters write me many valuable hints. Let me hear from <pb n="62" /> both of you very soon; 'twill be a pleasure <note resp="editor" value="to me DELETED" /> to be detain'd by each of you, as long as I have detain'd you. I am, dear Sir, your most faithful Friend and Servt.</p>
+			<p>R. Hurd.</p>
+			<p>Hatton-Grange: April 15th. 1742.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1742 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="81" />
+			<head> <note resp="editor" value="33 TO MARY MACRO 3 OCTOBER 1742" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Mrs. Macro at Norton to be left / at Mr. Haywood's in the Cook-row / in Bury St. Edmunds. / Suffolk.</p>
+			<p>Sunday Night Reymerston.</p>
+			<p>Madam,</p>
+			<p>An ugly, vexatious business of a Sermon deny'd me the pleasure of answering your last favour sooner. I have been sacrificing it to day to the people of Reymerston, (or rather to the winds, for they, I believe, had the greatest Share of it.) &amp; now I am retir'd to my peaceful solitary cell, there to indulge a happy hour in writing to Mrs. Macro. To begin with some appearance of Order I thank you, Madam, for your last two Sides, &amp; am only sorry that paper is so scarce at Norton as not to afford you three. Neither Horace nor the Doctor shall intimidate me, so long as the threaten'd verbosity comes from such a Correspondent. The Dr. calls it impetuous, &amp; would thereby intimate it's Allusion to a torrent, but with submission he had been more exact, &amp; kept nearer to the truth, had he compar'd it, as Homer does Ulysse's Eloquence, to the soft fleeces of descending Snows. For like them, were I addressing any but yourself, I should not scruple to say,</p>
+			<p>Your copious Accents fall with easy art,</p>
+			<p>Melting they fall, &amp; sink into the heart. <pb n="82" /> If anything in such a couplet could be objected to, it would be the term <hi rend="type">copious</hi> ; for as yet I have not been so happy to find that epithet applicable to you.</p>
+			<p>But, Madam, how could you be so cruel as not to administer a little comfort to one on so sad an occasion as that of the Gardinerian Affair. You are so good <note resp="editor">as</note> to take some friendly notice of the Shixworthian, wch. yet I never regarded; but here, when consolation had been so kind, you quite desert me. Tho' upon second thoughts (for I've learn'd from the Dr. that ev'ry thing has two handles) I believe you did right. You could not well reconcile me to myself without some sort of praise, or Encomium, &amp; I know my weakness too well to think I could stand your praises without Vanity. My modesty indeed you're pleas'd to say would secure me there; &amp; 'tis true I believe it would, were the praises to come from some <note resp="editor" value="... DELETED" /> mouths I could mention, as for instance were Mrs. Gardiner's inclin'd, as I am inclin'd to think <note resp="editor" value="... DELETED" /> it is not, to heap 'em upon me - but then, Madam, when - but hold I am got into a Sentence that I am sensible I cannot finish without offending, &amp; rather than do that, I'll e'en leave it abruptly, &amp; begin a second.</p>
+			<p>My new Neighbours Dr. Sharpin &amp; his Lady are come. This afternoon a civil Invitation carry'd me to drink Tea there. I find him a good genteel sensible Man: as he had no company the conversation soon turned on literary Subjects. I encourag'd it's tendency yt. way, &amp; had the Satisfaction of reading a considerable Scholar in him. On my leaving him betwixt Six &amp; Seven (wch. I did to give myself the greater pleasure of writing this) he ask'd me to stay Supper, &amp; on my refusal, attended, as you'll imagine, with an Excuse, added that he was in hopes of seeing me often, &amp; that we should be good Neighbours. My answer to this you'll guess, &amp; therefore I shall not encumber my paper with it. In short his whole behaviour had so much of the Gentleman in it, &amp; his conversation of the man of Sense, that I rejoyce extremely at his arrival, &amp; promise myself, what I did not expect to find, good company in Reymerston. As I know your goodness leads you to rejoyce with your friends on ev'ry instance of their good fortune, I could not help mentioning this to you.</p>
+			<p>Mrs. Sharpin is really a well-behav'd woman.</p>
+			<p>Pray my Service to your <hi rend="type">Majestic</hi> Son. The grandeur of his Person has charm'd all the Eyes of Reymerston. One of my neighbours says he's a mighty well-look'd Gentleman, a second calls him a brave young man, &amp; a third, Mary Cocker the Blacksmith's Wife, is of opinion that he has the very presence of a Prince. You'll guess after this how their poor puny parson goes down with 'em. In short I am so alarm'd on this <pb n="83" /> occasion, &amp; am in such a dread lest the admir'd <hi rend="type">majesticality</hi> of his Appearance should alienate the good folks' affections from their lawful Pastor, that I could almost wish his last year's consumption had thinn'd him a little more, &amp; sunk his personableness into a narrower dimension. Pray tell him I think myself oblig'd for the good of the public to admonish him, <note resp="editor" value="for the future DELETED" /> either to make his appearance for the future like other folks, or not to appear at all at Reymerston.</p>
+			<p>Well! 'tis growing late, &amp; yet I don't perceive myself at all drowsy. How you may be indeed by this time I will not take upon me to say; but if you have any Inclination for a nap, there's no likelihood of your taking it yet quietly. Like Mrs. G-'s, my Larum is <note resp="editor" value="Larum's CHANGED TO Larum is" /> still upon the run, tho' ev'ry soul chance to be fast asleep round me. In this indeed she has the Advantage: I have no right honourable to ennoble a Sentence with, no high-sounding <note resp="editor" range="3,12" orig="Ses[\quipedali\]an">Sesquipedalian</note> Titles to swell my Style <note resp="editor" value="with DELETED" /> , &amp; thunder in the Ear's of my Auditors. That, if anything, might bid fair to keep folks awake; but as for my uniform, humble prate, how is it possible that should have any wakeful Effect, or keep a single Eye from closing? But hold, you'll say, what! always upon Mrs. G-r? Why no truly, I'll e'en leave that to my L-d - &amp; since you must by this time be weary of the Subject, I'll promise for your ease not to mention it any more.</p>
+			<p>You say, you mention'd ev'ry particular of the Shixworth Treatment to Mr. Longe. I wish he would not take it ill from me that I should send you so particular an Account of it. I did not indeed intend it should go any farther. I regarded it not myself, &amp; imagining you would know that, design'd it rather for your Amusement. The account indeed was punctually, literally true; but would it not appear to him like carrying tales, &amp; complaining idly? However I am sensible your Intention was, as in ev'rything else, extremely kind; &amp; after all you would judge much better, than I can, whether it would give Offence. What I am concern'd for is to preserve such a decorum in my behaviour tow'rds Mr. Longe &amp; his family, as not to incur their just censure or Exception, since that would be to bare a more valu'd friend's Side &amp; make their passes at him more easy &amp; successful. In short 'tis, as you observe, thro' me the <foreign>malheureux</foreign> Guardian is to be wounded, &amp; if a passage be once made thro' my spare ribs, the Dr. has not long to survive me. 'Tis on this account I have ventur'd to propose the foregoing Scruple; &amp; if it seems to express any sort of dissatisfaction about what two of my best friends have meant in my favour, they will please to consider it, as it really is, as a sincere &amp; unfeign'd proof of my being their Oblig'd, Humble Servt.</p>
+			<p>R: Hurd.</p>
+			<p>3 Octr. 1742. Reymerston.</p>
+			<p>I beg my Service to Dr. Macro and Miss. I hope I need not say how agreable a letter wd. be on yr. first leisure.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1743 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="94" />
+			<head> <note resp="editor" value="39 TO JOHN POTTER 27 JANUARY 1743" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / the reverend Mr. Potter / at <note resp="editor" range="6,7" orig="Bacomb[\e\]">Bacombe</note> near <note resp="editor" range="6,7" orig="Brewto[\n\]">Brewton</note> / Somersetshire. / by London. Dear Sir,</p>
+			<p>I thank you for the Sermons &amp; Alphabet. I am glad you had not the trouble of transcribing, for as I have now time to learn the characters, they will do full as well.</p>
+			<p>Your last was just what I expected, &amp; shews me how well you can still rally a College life. All I have to say for myself is, that it at present favours some designs, which I am willing to pursue, &amp; is otherwise agreable in a good measure to my Inclination &amp; Taste.</p>
+			<p>The suddeness of the change after a seeming Resolution to the contrary was what, I can readily imagine, most surpriz'd you. But I had apprehended thro' mistake that Dr. Macro was agst. it; whereas upon my mentioning the affair to him he entirely advis'd it. To lay the whole proceeding on this occasion before you in as short a compass as I can, Smalley marry'd: the College wrote to me: Dr. Macro advis'd: I went to College; learn'd Hebrew in four days, &amp; was chose Fellow.</p>
+			<p>'Twas a real pleasure to me yt. by this means a way was open'd for a little thing for your Brother; especially as that, I knew, would further introduce him to the Acquaintance of Dr. Macro. There are some few difficulties, or more properly Impositions, which I am sorry to find he must submit to in regard of his board. But notwithstanding these the thing, I hope, will turn out tolerably to his Satisfaction. I had a letter from him yesterday, in wch. he seems to be in spirits, &amp; not displeas'd with his Neighbours.</p>
+			<p>Our visit to Norton I guess you must have heard of: the Dr. has a very favorable opinion of your Brother &amp; will be always glad to see him.</p>
+			<p>The talk of the University at present is about the late Election of a Provost at King's. Dr. George is the man chose by the Society, but the Bishop of Lincoln, who is Visitor of the College disputes the validity of their proceedings on account of there <note resp="editor" value="there WRITTEN OVER their" /> <pb n="95" /> being improper Officers employ'd in them. All that can be yet concluded about the issue of this Dispute, is that the Lawyers are likely to get handsomly by it.</p>
+			<p>The controversy betwixt Middleton &amp; our Public Orator grows very warm. The Orator is a good deal gall'd with Middleton's Sneers, &amp; is sending in all haste to the press a voluminous Answer. His friends are under pretty great Apprehensions of the ill Success of this attempt on the <hi rend="type">Epistles</hi> of the Old, &amp; the <hi rend="type">History</hi> of the Modern, Cicero. It was indeed pretty daring in our new-made Orator to attack the most acute controvertist of the Age, especially on a Subject, wch., if any man, the Author of the L. of Cicero ought to understand. But it seems a little fatal to the Orators to fall under the correction of Middleton; &amp; if this comes off no better than the last, I would advise the next, should Middleton be then alive, to learn from their Example.</p>
+			<p>Pray give me your thoughts of Dr. Young's <note resp="editor" range="8,11" orig="melancho[\lly\]">melancholly</note> Muse, when you <note resp="editor" value="... DELETED" /> write next. I should wish you to be particular because the Critics, I find, are very much divided.</p>
+			<p>In answer to your next, wch. I beg may be very quick, I shall say a great deal. At this time you must excuse me, if a number of letters, wch. thro' a late neglect of all my friends, pours in upon me, obliges me sooner, than I could wish, to write myself, dear Sir, your most faithful Friend &amp; S:</p>
+			<p>R. Hurd.</p>
+			<p>Cambridge: 27. Jan. 1742-3.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1743 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="104" />
+			<head> <note resp="editor" value="46 TO MARY MACRO 22 JUNE 1743" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Mrs. Macro at Norton to be left at / Mr. Haywood's in the Cook-Row / Bury St. Edmunds / Suffolk. / By London.</p>
+			<p>Madam,</p>
+			<p>The favor of your last, at a time when I was indebted to you for a former letter, is such as I know not well in what terms to acknowledge. Tho', to say the truth, I rather take it as a polite reproof to my Indolence, and yt. your purpose was to shame me out of my Silence by a degree of goodness, I had no reason to expect. You see, Madam, <pb n="105" /> how industrious I am to lessen my Obligation to you, or rather how sensible I am of my fault by raising such a Suspicion. But to make something like an Apology for it, you'll permit me to urge a constant round of company, which has engross'd almost ev'ry waking hour for these three whole weeks. Last night I return'd, &amp; this morning soon as sleep had left me, and light &amp; reflection made their way to my Pillow, what should strike my conscience first, but this Omission of thanks for Mrs. Macro's Letters? Alarm'd at the thought, and starting like Virgil's Chief with a God at his Elbow, I immediatly arose; determining with all Speed to discharge myself of a debt, which on ev'ry Recollection lay so heavy upon me. But to turn to your Letters. - What you observe in the first of them of Women in different parts of the World is very Satyrical: but had any of our Sex, after some years Travel, brought back such a remark, your's or some female Wit, would have soon made 'em smart for it. For do the Women indeed cut such odd figures in the several Countries of the World? What Brutes then must the Men be in those several Countries, an obliging conformity to whose Taste is the true cause of that Oddness? What a Monster might not an ill Fancy make of the shapely Fir in your Garden, and could you on such change lay the fault on the Fir? Mistake me not, Madam; I am not for running a degrading Parallel between the Glory of Creation, and a Tree, but if the tender and pliant dispositions of the one, like the Branches of the other, are so form'd as to yield and give way to wrong Impressions, what Woman can help it? Left to themselves, they had rose in all the Elegance of Shape, and shot out into ev'ry lovely tendency and disposition. But there is no resisting Steel &amp; a bad Taste: the distortions, that follow, are easily accounted for, and if their Graces are lopp'd off, there is no doubt about the hand, that did it. See! but the Gall, you have dropp'd in this part of your letter, and which your Pen has convey'd so artfully, that I had almost expos'd myself by taking it seriously, and undertaking a defence of the female world in ys. particular. Well! I find you with milder designs in your next Paragraph, list'ning to the Nightingales, planting for their repast and (could I hope it) wasting a thought on me. For, Madam, whatever be the Cause, to be the Subject of Mrs. Macro's thoughts at the distance of 200 miles, is enough to raise a Vanity, which no consideration of the want of 15 years can easily suppress. And now I am got on this Subject of a Lady's Age, which, permit me to say, you have here represented in a very disadvantageous manner, I shall venture to express my thoughts upon it in a Simile, that just jumps into my Brain, and which I think marks the truth of the case with great Exactness. The illustrious thought comes from Heav'n, and therefore 'twould be degrading it too much not to dress it up in Rhyme. - Be pleas'd then to take it thus:</p>
+			<note resp="compiler" value="VERSE OMITTED" />
+			<pb n="106" />
+			<p>Your Account of the demolition of the old Tower pleas'd me extremely; but here again you seem a little Satyrical, when you close it with a "What cannot the head &amp; hands of MAN do?" Yes they can raise, as you are candid enough to own in the following lines, a new Edifice with Venetian Ornaments on the Ruins of the other, &amp; will not that restore 'em to favour? Sure you are the only Lady in Suffolk, that would express so tender a concern on a change of Fashion! But I come to your last favour: and here what shall I say to your Account of the Travellers? Envy 'em to be sure I must, not only for their pleasure in viewing the works of Alcinous &amp; Palladio, (by which understand the wonders of Stow) but for steering their course towrd's Die, &amp; Mrs. Gardiner. Well! what reception had the Dr.? say, good Madam, for I am very impatient, how did the flirts of the one, and forward tossings of the other agree with him? Did the Dr., (but I cannot hope such news) did the Dr. nap a little - or to give me some comfort, was not my friend rather sleepy - O! what did the Creature say of my Stupidity! - and Miss Die - sure she does not still say I am nasty! The truth is, I am in great Agitation about the Event of this journey, but whatever it be, I beg you'll favour me with a minute account as soon as possible. The Curate of Reymerston, I suppose, bears some part in the play &amp; you'll be able to send me at least one Scene about him. I read that part of your entertaining letter, which relates to Mrs. G., to my Father, telling him the occasion of the pleasantry; at which the good old Gentleman laugh'd heartily; and if he could ever think of taking so long a journey, I may venture to add, there is no family he would take a sincerer pleasure in paying his respects to, whether his old Acquaintance were there or not, than the good Family at Norton. He bade me present his humble Service to ev'ry body in it.</p>
+			<p>What you just mention about a Dome, Columns, Pilasters, Niches, Ballustrade, Stucco-work &amp;c picques my curiosity so much, that I am very inquisitive to know <pb n="107" /> more; and indeed if I cannot procure a description of them very soon, I shall revenge it upon you by coming in Person to view it with my own Eyes. Oh! that Garden, &amp; those Walks in this lovely Season! - See! but how Sense, &amp; Books are connected with the Idea of Norton, when I cannot leave the mention of it without inquiring if you have read The New Marianne. If you have not, I dare almost venture to say, never was such Nature, such beauty, such passion, such ev'ry thing that is lovely, put together in one piece. Not Pamela itself has Marianne's charm, &amp; delicacy, tho' perhaps it may exceed in variety of Characters. - Twere too great a fall after this to ask, if you have seen the Epistle from Anne Boleyn to H: 8. - After all this prate let me draw your trouble to an end, by desiring my H: Service to Dr. Macro, whose repose I should have invaded e'er now, but that I have only to say, Mr. Gough is alive, and that I have wrote to him on the Subject of those letters, but without receiving as yet any Answer. I am, with compliments to Miss Macro, Madam, your most oblig'd &amp; most obedient Servt.</p>
+			<p>R. Hurd.</p>
+			<p>Hatton-Grange: 22. June. 1743.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1743 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="107" />
+			<head> <note resp="editor" value="47 TO EDWARD MACRO 22 JUNE 1743" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To Mr. Macro.</p>
+			<p>Dear Sir,</p>
+			<p>I am glad to find from your's, &amp; Mr's Macro's letter, that you have been so agreably entertain'd in the Country. My request is, that you would not, like a Miser, keep the whole Satisfaction to yourself, but impart something of it, at least in Description, to your Friend. If I am right in my conjecture you have seen Ld. Cobham's, and then you <pb n="108" /> cannot but have a large field for curious Observation. Pray let me know too, how the Plan of Norton goes on, for it seems of late to have receiv'd some considerable Improvements, tho' what, or exactly in what manner I am yet to learn.</p>
+			<p>I can't but felicite (that you know is the fashionable term) Ld. Radnor's Nephew on his being plac'd under the care of Dr. Middleton: 'twas excellently judg'd, &amp; if the young Gentleman has any Parts, he must find his Account in't.</p>
+			<p>Mr. Whitehead's Epistle from Anne Boleyn to H: 8. I have seen, &amp; must agree with you, that it cannot much advance his Character in Poetry. If I may own my opinion of it to a friend, it is too spiritless, too void of Passion, too heavily imagin'd, to bear any comparison with the lovely, tho' itself perhaps inaccurate Model, on which it was form'd. But I'll say no more: you are already too severe on the Author, in believing, as you say, that he never will <hi rend="type">now</hi> shine as a Poet.</p>
+			<p>Since my last I have made a pretty long Visit to Mr. B. - His suspicions, for I can call 'em nothing else, were extremely trifling, and can be only accounted for from that too natural turn of the unfortunate, which disposes them to be fretful on ev'ry little occasion, and suspect the whole world, &amp; not least their truest friends. We talk'd the matter over for some time; after which conversation flow'd in it's old easy channel, and the same <note resp="editor" range="2,5" orig="ea[\se,\]">ease,</note> freedom &amp; chearfullness appear'd in his behaviour, as before. I must own I am pleas'd at ys. almost unexpected reconciliation (for when throughly warm'd I knew him to be very resolute) as I cannot bear, that any man, who has done me real favors, should think I use him ill.</p>
+			<p>But I have troubl'd you already too much on ys. Subject; forgive the impertinence, &amp; believe me, dear Sir, with great sincerity your very affectionate Friend &amp; oblig'd Humble Servt.</p>
+			<p>R: H:</p>
+			<p>Hatton-Grange: 22. June. 1743.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1744 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="137" />
+			<head> <note resp="editor" value="63 TO EDWARD MACRO 25 SEPTEMBER 1744" /> </head>
+			<p>Camb: 25. Sept. 1744.</p>
+			<p>Dear Sir,</p>
+			<p>As Mr. Beauvoir tells me, he intends to set out for Bury-fair to morrow, I was willing to take the opportunity of paying my respects to you in a letter. As to your's dated the 12th. Inst. I know not by what fortune it happen'd, but I never receiv'd it, till Saturday last; when Mr. Beauvoir deliverd it to me together with one from Dr. Macro.</p>
+			<p>Since my last to you I have read the other Vol. of the life of Sethos, &amp; as I then promis'd, shall now trouble you with my thoughts upon it. Upon the whole then I think it an excellently well wrote book: the plan of it is new &amp; interesting: abundance of Aegyptian learning &amp; Antiquity is curiously interwove in it; and the Adventures are many of 'em singular &amp; affecting. But on the other hand I am apt to suspect, the French <note resp="editor" value="french CHANGED TO French" /> loquacity prevails too much in many places; that several parts have too much the Air of wonder &amp; romance to make any great impression; &amp; that in his Characters there is not so much of Nature &amp; of real life as might be wish'd in them. Ev'n Sethos himself is rather a character to be gaz'd at, than imitated. The Knight-Errant is so predominant in his Undertakings; he is always so unerringly right in his counsils, &amp; so perpetually successfull in the execution of them, that for my part I <pb n="138" /> could never look upon him, quite thro' the book, but as a mere creature of the Writer's fancy. It will be said perhaps the very design of the Author was to draw a perfect character. It may be so. But I should then be tempted, if it were not too pert, to attack that very design. A perfect character is certainly a Monster in Writing. It is out of nature, we can't even conceive it. Nay it disappoints the use, we might otherwise make of it. For who will set about to imitate a character, which he plainly perceives must be to him inimitable? Besides, this has ev'ry way a bad Effect in the History. It not only, as I said before, leads one to think the whole account unreal; but takes away all the pleasure of Suspense &amp; Expectation, by ensuring to us before-hand the Success of ev'ry Atchievement. I knew he would settle a colony, before he landed; &amp; was sure he would take his towns, before he form'd the Siege. I will only add further, that the concluding Stroke of his resigning the kingdom, &amp; throwing himself into a College of Priests, which were intended to round &amp; finish his character, displeas'd me very much. There is something greatly visionary in all that part; or rather it is an Absurd compliment growing out of the Popish Notion of Heroism &amp; true Greatness. You doubtless observ'd, how very artfull the whole Representation of the Aegyptian Priesthood is, &amp; how carefully ev'ry little incident is improv'd to their Advantage. The Abbot doubtless did not overlook the Service it might do his own Order to draw in so amiable a light a Set of men, to whom in their affected, &amp; mysterious Sanctities they are known to bear so near a Resemblance. The young Dauphin, (for whose use I presume the work was design'd) might by the prejudice of so early an Impression take Paris for Thebes, &amp; the College of the Sorbonne for the Temple of Isis. And in consequence of this who knows but we may one day see the present Sethos of that priestly Nation, after having acquir'd great glory by a life of Arms, resign the lustre of a crown, &amp; as the last &amp; greatest Deed of a brave life, throw himself into the sacred Shade of a Sacerdotal College!</p>
+			<p>I am, Dear Sir, Your friend, &amp; Servant</p>
+			<p>R. Hurd.</p>
+			<p>My compliments.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1744 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="138" />
+			<head> <note resp="editor" value="64 TO SIR EDWARD LITTLETON 21 DECEMBER 1744" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To Sr. Ed: Littleton Bart. / at Pipe-Ridware Dear Sir,</p>
+			<p>My promise, I think, was to trouble you with a longer letter, than I was at liberty to do last week; &amp; the Sight of this will convince you, that I have kept my word but too <pb n="139" /> faithfully. As the news of the Place is naturally the first thing you'll enquire after, I begin with telling you, that Dr. Tunstall is made Chaplain to the Arch-Bishop, &amp; that by this means the Care of an hundred &amp; twenty pupils devolves upon my friend Mr. Powell. As you know the character of this Gentleman, you'll rejoyce to hear of so good fortune befalling him so early. Since the Dr. left us, my L. Burleigh came to St. <note resp="editor">John's</note> &amp; is admitted under Mr. Powell. My Lord seems a good-natur'd, worthy <note resp="editor">man</note> &amp;, if his Parts are none of the brightest, his Sobriety &amp; Diligence, I am told bid fair to make up for the want of 'em.</p>
+			<p>Sr. John Rouse after all is admitted of Trinity, to the no small Disapointment, I believe, of Mr. Keller. Indeed my Lady Rouse has us'd him scandalously, but the tale is too long to come within the limits of a Letter; &amp; besides 'twill serve to furnish a Conversation, when I see you.</p>
+			<p>As to literary news, the only thing of consequence, that has hitherto appear'd this winter, is Dr. Middleton's Book of Antiquities: And this, 'tis said, is not so remarkable on account of the novelty of it's remarks, as for the exquisite Latin, in which 'tis wrote. And this praise indeed is so just, that you might pass immediatly from your favourite Tully to him, &amp; scarcely perceive a Difference.</p>
+			<pb n="140" />
+			<p>But more of this, when I have the pleasure of talking such matters over with you in College. This you tell me shall be very soon; &amp; I will venture to add as a further Inducement to so dutifull a Son of Alma Mater, as Sr. Edward Littleton, that, after an Absence of three-months, She is very impatient to see him.</p>
+			<p>I must not forget to ask (tho' you know me not very curious in Political matters) how the present face of things is regarded by our Staffordshire Gentlemen. If fame tells true, we are to have a notable Revolution in State-Directors. All the honest men are to come in at once, &amp; now, if ever, is the time for Golden Days, &amp; the prosperity of Old-England. Your friend Virgil (for you'll excuse a Scrap of Latin from a College) has it something differently: - <foreign>redeunt Saturnia Regna: Iam <hi rend="type">nova Progenies</hi> caelo demittitur alto</foreign> . My Lord Gower is esteem'd by ev'ry one as the Pollio of the Age; &amp; to be sure there can be no doubt about applying the words <foreign>Regnat Apollo</foreign> . One might go on to interpret other parts of that famous Prophecy of our own Days; but as the <note resp="editor" value="..." /> way is to wait the completion of an Oracle, before one applies it, I <note resp="editor" value="..." /> hazard no more conjectures at present; but conclude in asserting <supplied range="0,2" orig="[{wh{]at">what</supplied> I am quite sure of, that I am, Dear Sir, your most faithfull, humble Servt.</p>
+			<p>R. Hurd.</p>
+			<p>Camb: 21. Dec. 1744.</p>
+			<p>P.S.</p>
+			<p>Your Venison was the best thas has been seen here a great while. Upon this, &amp; other accts. ev'ry body is much your Humble Servant.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1745 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="142" />
+			<head> <note resp="editor" value="66 TO MARY MACRO 29 AUGUST 1745" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Mrs. Macro at Norton / to be left at Mr. Hayward's / in the Cook-Row / Bury St. Edmunds. / Suffolk.</p>
+			<p>Camb. 29. Aug. 1745.</p>
+			<p>Madam!</p>
+			<p>Your last favour gave me much such a Splenatic kind of Satisfaction, as the covetous Man receives from the Sight of a fine Estate <note resp="editor" value="Estate WRITTEN OVER Estates" /> , which he wishes in his own possession. The Entertainments of Ipswich, the Conversations of Norton, &amp; let me add, the wonders of your Apelles, were charming enough to contemplate, but how could one help grieving at being shut out from them? The truth is, ev'ry body that comes hither from <note resp="editor" value="from WRITTEN OVER to" /> You seems to be in a conspiracy against me, &amp; to carry on the Design of your Letter.</p>
+			<p>Mr. Thurlbourn comes with a solemn, book-selling Face, &amp; protests he did not think Norton had been so sweet a place as he found it. The Gardens were as large again as his Expectation, &amp; then they were so snug &amp; pleasant - But this is a trifle. Mr. Du Quesne sets himself up in an Elbow-Chair, &amp; harangues me by the half-hour together. - 'Tis really a sweet place, begins he - that Norton! The new Rooms are so beautifully fitting up, - the carving is so pretty &amp; then the Stuco looks so well, that I was quite delighted. What a lovely place is the little Closet to the Best-Bedchamber! - And then he runs over ev'ry minuter Ornament in it. - Well - &amp; proceeds He, you can't imagine how merry we were, - we did so laugh, &amp; chat, &amp; dance - &amp; then the Gentlemen are so good, &amp; the Ladies so agreable! - Here indeed I could hold out no longer. The other part I bore pretty well, but when he came to insult me with the last particular, I was quite outrageous, &amp; could almost have found in my <pb n="143" /> heart to have broke his pipe for him. - But just so Mr. Hubbard also serves me; so that amongst 'em all I have a sad Life, &amp; am ev'ry day put in mind how much happier I should be, than I am, if I was where, I must not be. The only thing <note resp="editor" value="think CHANGED TO thing" /> I have for it is to get out of the hearing; which I intend to do some time next week, that being the time fix'd upon for our Staffordshire Journey. The first &amp; second week are to be spent amongst forms, &amp; Ceremonials; the <note resp="editor" value="second DELETED" /> third &amp; fourth amongst friends &amp; my good old Parents. I must own I have a pleasure of no small size to come here; &amp; unwilling as I am &amp; backward to move from hence, I never think on this <note resp="editor" value="the CHANGED TO this" /> last part of my Design, but methinks I feel a filial fondness push me on strangely. When I turn my Horse from thence, my direct course is back again to Cambridge; from thence to Norton, &amp; from thence to Reymerston. See but what a Scheme I have plann'd for myself: if this does not drive thee, Jaundice, all is lost <note resp="editor" value="with me, DELETED" /> , &amp; thou art triumphant. At present I am much in the State, as when I troubl'd you with an Account of myself last. Not out of order enough to be ill, nor well enough to be in health; not dispirited enough to be hypp'd, nor alert enough to be in Spirits. My Horse trots me into a Complexion by that time I return from the Hills, &amp; I lose it again by the next morning. O! how uncertain were a Lady's conquests, if her bloom &amp; the lustre of her Eye were as changing as mine! - if the delicate Mixture of the white &amp; red in a Lady's cheek <note resp="editor" value="came DELETED" /> was to come &amp; go, like my Yellow! But Venus, &amp; all the Graces forbid it! - Rather wither all the Roses in June! &amp; perish a whole Spring of flowers! - The Ardor of this prayer, &amp; the Subject of it should methinks be some proof of my returning Spirits. And I know not how it is, but I feel a <supplied range="5,7" orig="great[{er{]">greater</supplied> Alacrity of heart at this instant than I have <supplied range="8,11" orig="experien[{c'd{]">experienc'd</supplied> for some time. If I were call'd upon for a reason of this change, I should certainly say, it was the Expectation, I please <note resp="editor" value="pleas'd CHANGED TO please" /> myself with, of an answer to this Scroll, that enlivens my Spirits. After the fatigue of a long Journey, &amp; the formality of I know not how many visits, what a refreshment, think I, would it be to regale on an agreable Packet, prepar'd by Mrs. Macro's hand, &amp; directed to Hatton-Grange-Salop! The Thought <note resp="editor" value="thought CHANGED TO Thought" /> of this is so flattering, that I must take it along with me; &amp; therefore committing myself to Your Goodness I am, Madam, your most Obedient &amp; most Oblig'd Hble Servt.</p>
+			<p>R. Hurd.</p>
+			<p>P.S.</p>
+			<p>You'll please to present my Hble Service to Miss Macro.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_013">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1745 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="147" />
+			<head> <note resp="editor" value="68 TO SIR EDWARD LITTLETON 29 NOVEMBER 1745" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Sr. Edwd. Littleton Bart. Captain in / Ld. Gower's Regiment at the / Assembly-House in / Chester / By London</p>
+			<p>Camb. 29. Nov. 1745.</p>
+			<p>Dear Sir Edward!</p>
+			<p>In answer to your's of the 16th. Inst. I wrote a great deal of grave Stuff, such as occurr'd to me in the Humour I was then in, &amp; sent it inclos'd in a Letter to Mrs. Littleton. Whether You will receive it by the time this comes to hand I know not, but am willing to take the first Post to answer your last favor, which comes from Chester. I <supplied>am</supplied> glad to hear You are so strong in yt. City, &amp; that You <supplied>are</supplied> preparing to make a good resistance to the Rebels, if they think proper to shape their course that way; tho' we incline to think, as You do, that it is not for their Interest to come against You. By an Account wch. came with the same Post, as Your's, from Jack Roper, who writes from Lichfield, &amp; is Major-Brigade under Ligonier, we are in great Expectation of the whole Affair's being over in a little time. If so, we shall have the pleasure to see you <note resp="editor" value="in a short time. DELETED" /> soon. But if anything falls out to protract this Business, &amp; You are detain'd upon Duty from us longer than we imagine, I shall take it as a favor, as I hinted in my last, if you'll oblige me with a Letter ev'ry Post. You are now in the Center of news, &amp; at a Season like this You'll allow us to be very inquisitive after it. For this reason, as also because it inform'd me of your Health &amp; good Spirits I was much oblig'd, &amp; entertain'd by your last; &amp; you must not refuse me the continuance of such favors.</p>
+			<p>I cannot wonder to hear You have no time for Books. Mars has no fellowship with the Muses; nor I find with Venus according to the Account you give me, for the <pb n="148" /> Ladies as well as Learning are fled from Chester. The last indeed is <note resp="editor" value="... DELETED" /> a stale, Antiquated jade, but old D. (as You call him) must surely lament the loss of the former.</p>
+			<p>I accept your Colonel's <hi rend="type">twofold</hi> Reason for Absence, tho' a third perhaps is not very difficult to guess at.</p>
+			<p>Here is no news to send You, &amp; therefore, without further Impertinence, I am always, Dear Sr. Edward, Your most Faithfull</p>
+			<note resp="editor" value="..." />
+			<p>R. Hurd.</p>
+			<p>P.S.</p>
+			<p>Mr. Nevile, Manwaring, &amp; Bridgmans of Queens <note resp="editor" value="..." /> in desiring Services.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_014">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1746 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="156" />
+			<head> <note resp="editor" value="73 TO EDWARD MACRO 2 JANUARY 1746" /> </head>
+			<p>Camb. 2. Jan. 1745-6.</p>
+			<p>Dear Sir,</p>
+			<p>The pathetic Account, you give of the ravages of the Rebel Army, &amp; the Disturbance &amp; Tumult they create in private families, is very touching, &amp; I assure you, was felt by me very sensibly. But you are unquestionably right in giving no Encouragement to any gloomy Reflexions of your own, &amp; composing yourself as much as possible amidst the Alarms of others. Rebellions &amp; Invasions are doubtless horrid Sounds, but I trust in God our Ears will not be stunn'd with them much longer. But this being the Subject of hourly talk, &amp; having just now prated a whole Sheet-full on it to Mrs. Macro, I trouble you no farther.</p>
+			<p>I have Commotions of another kind to write of. The University proceedings in regard of a Subscription &amp;c. have made a good deal of noise; &amp; by some means or other, I perceive, have reach'd Norton; &amp; that in no very advantagious Light, for Mrs. <pb n="157" /> Macro tells me, Ye have had a very odd Account of 'em. For this reason I shall here send you a true State of the case. In October the Chancellour was consulted about what Steps were proper to be taken by the University in so critical a Season; &amp; his Answer was, that an Association was highly necessary; but yt. as for a Subscription he knew not, if it would be expected. As the Parliament was then sitting, he concluded such Supplies would be granted, as might supersede the necessity of private Contributions. After this, &amp; without a second Application to Him (as he might reasonably expect, if upon maturer thoughts the University thought a Subscription necessary) the V. Chancellor &amp; his Mates, to shew the forwardness of their zeal, &amp; from an ardent passion doubtless for their Country's Service, apply'd themselves to the Duke of New Castle, mentioning the desire they had of testifying their Loyalty by a Subscription &amp; desiring Directions from him, in what manner they should apply the money to be rais'd by it. All this was done by a Junto of Heads, as I before hinted, who had their frequent meetings &amp; cabals about this important Affair, &amp; took care to transact ev'ry thing without consulting at all with, or communicating their Intentions to, the Body. Nay they went further: besides this secret treating with the D. of N., they had their nightly Assemblies in order to agree upon the Sums to be rais'd: they had ev'n settl'd it amongst 'em, not only how much the University should give, but what should be the Quota of each College. - My College, says one Reverend Head-piece, shall pay so much; &amp; mine, quoth a second, so much. - They had also drawn up a Grace, wch. in good time they would condescend to propose to the Senate, in wch. with great modesty they had enter'd their whole Body, for a Committee to <note resp="editor" value="dispose of DELETED" /> manage &amp; dispose of the entire Subscription. This Series of proceedings, as you'll imagine, when it came to be known, gave general Offence. It was evident, their design was to make a Job of the Affair, &amp; <note resp="editor" value="had a mind DELETED" /> to assume the whole merit to themselves. It was manifest too, that they had us'd the University scandalously. Upon this an Agreement was enter'd into, as a fit return for their Insolence, &amp; in order to disapoint, &amp; pique their pride in a point the most tender to them, to stop their Grace for a Committee, &amp; to exclude the greatest part of the Heads out of it. This was but serving 'em right &amp; it was in itself reasonable; the Heads having no more <pb n="158" /> Authority in the Senate than other members, &amp; therefore having no claim to be consider'd before them. In consequence of this their Grace was rejected, tho' they had artfully contriv'd, in order to get it pass'd, to joyn to this Grace for the Committee another for the Sum to be subscrib'd, concluding that, as both must pass or neither, the University would rather chuse to vote the former, than incur the Odium of rejecting the later. But they found themselves mistaken: their Grace was thrown out with general Indignation, tho' not till after having propos'd, for the sake of avoiding their intended Odium, to offer each Grace separately. Here then, I conjecture, commences <note resp="editor" value="FIRST c WRITTEN OVER ?b" /> the oddness of the Affair, &amp; the University has been censur'd as opposing a Subscription itself; which I assure you was very far from being the <supplied range="3,5" orig="cas[{e,{]">case,</supplied> the only point in view being to secure ourselves from being the Dupes of the Heads. In this cause, if it be a disgracefull one, I must freely own myself to have been concern'd, &amp; I will add, with a hearty, good will. For I, who have a most unlimited Aversion to Tyranny, who can half forgive Cromwell, &amp; envy Brutus his Stroke at Caesar, could not refuse my voice against a pack of lordly, insolent, temporizing Heads; who have as little Ability to rule, as they have Authority, &amp; are equally disqualify'd from prescribing to the University by their Heads, as our public Statutes. In short the Dispute lasted with great warmth for a whole week, without coming to any Conclusion, the Heads still persisting in their impudent Designs, &amp; the Body opposing them. At length it was agreed the Vice-Chancellor should be appointed Treasurer, to receive 400 pd.s from the public Chest, &amp; the manner of applying it was prescrib'd by the Senate. During this contest the Kephalarchy (for that was the new Name given to the tyranny of the Heads) gave it out, that such as oppos'd them, oppos'd the thing itself, &amp; did it from a principle of Disaffection - the common, thread-bare Cant of fools, or knaves, when they are not allow'd to have their own way. - As to the Subscription itself, which has been for some time carrying on, I believe it will be so very handsome, as effectually to cgnfute that silly Calumny. - I must not omit a noble thing of our excellent C., who neglected as he thought himself, &amp; indeed really was, sent an Order for 600 pd.s, to be added to the University-Subscription, (&amp; not to pass as a separate one of his own) as together making up a Sum, in his own obliging terms, <hi rend="type">more becoming the honor &amp; Dignity of such a Body</hi> . - You see a Grace &amp; Nobleness in this Act worthy the blood of the Seymour family. - Our M-r, by Chance, or some such cause, was on the right Side. Heav'n send you fresh Happiness with this &amp; ev'ry new Year.</p>
+			<p>Adieu.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_015">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1746 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="164" />
+			<head> <note resp="editor" value="78 TO MARY MACRO 22 AUGUST 1746" /> </head>
+			<p>Camb. 22. Aug. 1746.</p>
+			<p>Madam,</p>
+			<p>I had the favour of Your's, which shall be answer'd more at length, as it deserves, in a short time. At present my Intention in writing is to acquaint You with the Event of Mr. Brinkley's Tryal, which I attended, &amp; which I thought You would be desirous to have an early Account of. The Court sate yesterday Morning by seven o' Clock, &amp; the Cause lasted till within a few Minutes of twelve. The main Difficulty lay in accounting for such a wound, as the Deceas'd died of, by the fragment of a Chamber-Pot. For the Shape of it was semi-circular, &amp; as clean or smooth, as if it had been made by the keenest Instrument. Whereas the fragment, which was suppos'd to give it, was of a triangular shape drawn out into a sharp point at top; &amp; being a piece of a Pot would be expected to tear the flesh, instead of clearly dividing it, &amp; so leave the wound jagged. But in order to remove these Difficulties several similar Cases were produc'd: one especially of a young Girl, who fell down upon a Bason, a part of which running into her Neck, &amp; leaving, as the Girl's Mother attested, a smooth wound, occasion'd her Death within a few Minutes; another of a person, falling upon a Pint-Pot, which he was carrying full of Ale across a Street, a fragment of which running into the very place, where Ashton's wound was, the Person died immediatly. <pb n="165" /> This later Case had the greater weight, as coming from a Surgeon, who was sent for immediatly upon the Accident, but who, notwithstanding that he had not above 300 yards to go, came too late. This Surgeon attested also, that the wound in this case was smooth. As to the semicircular form of the wound, Dr. Heberden observ'd (&amp; it was of great Use to the Prisoner) that it was more likely to proceed from a blunt Instrument, than a sharp one; for that he had frequently, since the thing happen'd, attempted to thrust his finger, or some obtuse Instrument thro' Paper or Parchment, &amp; that in so doing the rent was always of that form. He added, that indeed this must needs be the Case, for a blunt Instrument pressing the Skin inwards, &amp; not penetrating the Surface immediatly, would burst it, as it were, &amp; so of course leave that shap'd wound; whereas a sharp Instrument instantly piercing the Skin would not. This Observation, which appear'd just, strongly favour'd the Prisoner. As to the other Circumstances, they were none of them of any great weight, &amp; were more easily accounted for. One indeed seem'd considerable at first, which was, that Brinkley burst open the Door of the deceas'd, in order to come to him that night, which might naturally be constru'd as a Mark of Violence. But it appear'd, that the Door was so slightly fasten'd, that it was the usual way in which the deceas'd came in himself, seldom using a Key, but opening it with a very slight Push. Upon the whole (for I cannot pretend to relate all the Circumstances, which came into Consideration) the Evidence agst. the Prisoner was so slight, &amp; so weakly founded, that the Jury without any Hesitation brought him in unanimously <hi rend="type">Not Guilty</hi> . For my part, having attended to the whole tryal with all the Care, I could, I <note resp="editor" value="I WRITTEN OVER wd" /> should incline to think, He was quite innocent; which also his intrepid, &amp; secure behaviour all along seem'd to indicate. If anything, He appear'd perhaps too insensible. When the jury brought Him in <hi rend="type">Not Guilty</hi> He discover'd no more Signs of Joy, than he had before of Fear, or Concern: Either case perhaps the Effect of conscious Innocence, but a little Sensibility had touch'd me more. You'll please to accept this hasty Narrative with your usual Candour, &amp; believe me always, with all Respect, Madam, Your most Oblig'd &amp; most Obedt. Servt.</p>
+			<p>R. Hurd.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_016">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1747 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="169" />
+			<head> <note resp="editor" value="82 TO WILLIAM MASON 7 MAY 1747" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Mr Mason at the Revd Mr Mason's / in Hull / Yorkshire / By London. Caxton Bag</p>
+			<p>Dear Sir</p>
+			<p>I am just return'd from a fortnight's ramble into Norfolk; wch must be my Excuse <pb n="170" /> for not acknowledging, so soon as I ought, your present of Musaeus.</p>
+			<p>This Piece has now had it's fate; &amp; tho' You must have known it long since from other hands, I must have leave to say, that ev'ry body here reads &amp; admires it. Nothing ever pleas'd so generally: It has caught all sorts of Readers from Heads of Colleges down to little Coffee-House Critics. If there be here &amp; there a little Envy, it dares not so much as shew itself in faint praises. Ev'ry one is asham'd not to appear struck, with what charms ev'ry body. Don't suspect me of flattery: I am only making a true &amp; faithfull Report, which I do with the greater pleasure, as I hope this early tast of honest fame, a motive which a Poet may freely avow, &amp; the noblest indeed that can excite to any Undertaking, will engage You without further Scruple to complete your other Imitations of Milton. The success of anything You do hereafter is certain; ev'n if one may suppose it to have much less merit, than Musaeus, which nothing I am sure of Your's can ever have.</p>
+			<p>I know You are in pain, till I quit this Subject; but You must allow me to say, it gives me the greatest Joy to observe this public testimony to the Merit of a Person, who has hitherto been so unjust to Himself, as by all means to conceal it. And I could not resist the pleasure of persecuting You with some part of the Applause, You fly from, ev'n tho' I follow'd You to that very Hawthorn-shade, which, You hop'd, might secure You from it.</p>
+			<p>Next to Musaeus, the Thing, that occasions most noise here is a piece of Dr Middleton's, which undertakes to overthrow the Credit of the Fathers. You may not perhaps be much interested in Theological Disputes; but, as a Composition only, it may chance to entertain You.</p>
+			<pb n="171" />
+			<p>A Postscript very well exposes an absurd whimsy of Dr Chapman.</p>
+			<p>Since this Attack upon the antient Fathers, another with equal Violence has been made upon a certain modern one. And to heighten the Surprize, <foreign>Dux faemina facti</foreign> - that is to say, the old Lady of Yorkshire has fall'n tooth &amp; nail upon Dr Rutherforth, set on too by Mr Warburton, who leads her to the Ring, &amp; in a short Speech, after the old Homerical Mode of Taunt &amp; Defiance, commits Her to the Engagement. The Short of the story is, that the old Lady writes with a Spirit below her Years tho' 'tis observ'd of Her, that She has reason in her rage &amp; upon the whole seems to have pretty well expos'd that very foolish Book, call'd an Essay upon Virtue.</p>
+			<p>This is all the literary News I know of worth sending. In return You must tell me, what grove has shelter'd You &amp; the Muse, &amp; what new Designs She has put You upon in your Retirement. Genial Suns &amp; blue Skies are strong Incitements; above all in this fav'rite month, wch no <note resp="editor" value="Poet DELETED" /> Son of the Muses ever let pass without some poetical tribute to it.</p>
+			<p>Sr Edwd Littleton, (who is just come in from his Journey out of Staffordshire &amp; sends Services &amp; thanks for Your Poem) prevents my saying anything more at <pb n="172" /> present, but that I am always, with an entire respect, Dear Sir, Your most Faithfull Friend &amp; Servt</p>
+			<p>R. Hurd.</p>
+			<p>Camb. 7. May. 1747.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_017">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1747 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="175" />
+			<head> <note resp="editor" value="85 TO SIR EDWARD LITTLETON 17 OCTOBER 1747" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Sir Edward Littleton Bart. / at Pipe-Ridware near / Lichfield. / Turn at Coleshill. / With Speed. Dear Sir Edward,</p>
+			<p>If You receive this in time, to give me the opportunity of hearing from You by Friday next, I beg the favour of You to inclose three or four of Mr Salmon's Receipts, <pb n="176" /> &amp; to direct to me at Mr Cox's at the Hen &amp; Chickens in Birmingham. These I have wanted very much, upon all occasions, that have offer'd, of solliciting for Him. Tho' nothing, I believe, could have done him much Service with those, I have hitherto met with; who are strongly prejudic'd against the man, either from his party principles, or his Abuses of the University of Oxford. I have yet some prospect at Birmingham &amp; shall therefore, as I said, be glad to receive some receipts there on friday next.</p>
+			<p>Your Expedition to Chester has, I hear, been not unsuccessful. Mr Fenton, who was here the other day, tells me of some pictures, which You brought back with You, &amp; which I could have been glad of seeing, before my return to Cambridge, if Pipe-Ridware had not lain too much out of the way. I am sorry, there are no Letters.</p>
+			<p>Busts I hear'd nothing of. But You will give me a more particular account of these things in your letter.</p>
+			<p>I am, with services to Mrs Littleton &amp; your Brother, Dear Sir, Your most Faithfull, Humble Servt</p>
+			<p>R. Hurd.</p>
+			<p>Hatton: 17. Oct. 1747.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_018">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1748 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="186" />
+			<head> <note resp="editor" value="92 TO SIR EDWARD LITTLETON 15 NOVEMBER 1748" /> </head>
+			<p>Camb: 15. Nov. 1748.</p>
+			<p>Dear Sir</p>
+			<p>I have two of your favours now before me. The last, as containing some matters of business, shall be answer'd first.</p>
+			<p>Immediatly on the receipt of it, I went to Trinity, but found that Dr Vernon was in London, where a letter will find him, directed to him, as minister of Bloomsbury Church; or, if you chuse to stay so long, he will be down here sometime next month &amp; then I will speak with him myself.</p>
+			<p>Your name is this day taken out. You a little mistake what I mention'd about the treat of wine to the parlour, which is not in the nature of a fee, but means what you call (taking it for another thing) <note resp="editor" value="taking DELETED" /> a decent leave of the college. This, you see, can only be done, when you are present, &amp; therefore I gave your compliments to the fellows, &amp; acquainted them with your design of drinking a glass of wine with them sometime this winter, either in your way to or from London.</p>
+			<p>There is no ceremony of any kind at the cutting out of your name.</p>
+			<p>You have been very good in using so much care &amp; dispatch in paying the money to my brother. I have here inclos'd a bond, duly executed; &amp; for the receipt, you need not give yourself the trouble to keep it, as I never mean to make any use of it. Give me leave to put an end to your trouble in this affair with assuring you, that your whole conduct in it has not only laid me under the greatest obligation, but has much confirm'd that unfeign'd affection &amp; esteem I so justly entertain for you. You have convinc'd me, how well you <supplied range="1,4" orig="k[{now{]">know</supplied> to enter into the spirit of the philosopher's <foreign>pulchrum &amp; decorum</foreign> .</p>
+			<p>I now return, with a new page, to your other letter, where I find many things worth the noting. First I am to thank you for my A. Philips; &amp; by the way Dr Macro, whom I saw last week, charg'd me with abundant compliments for his epistolary packet: The old Gentleman laugh'd at the high value you would seem to set on the collar of Brawn &amp; is sure it is only meant as a prelude to something better.</p>
+			<p>I really pity your situation in respect of the Salvator Rosas, which Mr B. ought in <pb n="187" /> all reason to give up to your impatient curiosity. Tho' a little difficulty at coming at these treasures gives an edge to an Antiquarian's passion.</p>
+			<p>Our friend Mr P.'s Virgil will, I doubt not, be a master-piece</p>
+			<p>of polite critical learning. Perhaps a conversation between the author &amp; patron, well hit off by your favrite Hogarth, might furnish a very agreable frontispiece. The all-submitting reverence of the critic, &amp; the half-approving glance &amp; nod of his very observant oracle, might afford expression enough for a pleasant picture. But I leave this to your quicker &amp; more Hogarthian imagination, &amp; pass on to a graver subject, which occurs to me from what you say of Mr. Lane's &amp; Sally Fowler's marriage. Your reflexions upon it are but too just. I am as much at a loss to account for Mr Fowler's consent, as I am at the young gentleman's indiscretion. If it was not a down-right love affair, it appears to me altogether mysterious.</p>
+			<p>I am glad to hear that Ld Brook's estate is to be had at last witht. the drudgery of applications. If it appears, that Ld Gower intended to force you upon them, I shall think very meanly of him.</p>
+			<p>In following the thread of your letter I am come again at a little business. You refer me to your brother abt. the Study-rent; from whom I learn, that the last rect. was for 2. 12. 6 in easter Qr.; so that the study-rent for midsr. Qr. ending at Michs. last (for in all the college rents we go by the common quarters) is yet to be paid. And it was in relation to this that I put my query to you, having some doubt, that I might have charg'd the whole half year together in the last bill. But this will be set right in your next account.</p>
+			<p>Mr Littleton excuses his neglect of writing abt. the paper-guards, as also of not <pb n="188" /> sending the geography from the absence of Mr Salmon, who is gone to read lectures this quarter in town. He has receiv'd the bill from Mr Cobb.</p>
+			<p>The Neviles are well &amp; send services; &amp; I am always, with complimts. to Mrs. Littleton, Dear Sir, Your most faithful, humble servt</p>
+			<p>R. Hurd.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_019">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1748 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="188" />
+			<head> <note resp="editor" value="93 TO JOHN POTTER 26 DECEMBER 1748" /> </head>
+			<p>Camb: 26. Dec. 1748.</p>
+			<p>Dear Sir</p>
+			<p>Your brother has inform'd me of his safe return to Norfolk, &amp; also of the very handsome legacy your late Aunt has left you. This last is so good a piece of news &amp; gives me such real pleasure, that I cannot defer a moment longer my answer to your last letter, &amp; taking the opportunity, which that gives me, of congratulating with you very heartily upon it. A good living in addition to this, which you are in constant expectation of, would afford your friends the satisfaction of seeing you plac'd, I dare not say above the reach of fortune, but above the apparent danger of it.</p>
+			<p>We have been very busy here in choosing a new Chancellor upon the death of the D. of Somerset. The papers must have inform'd you of our choice of the D. of Newcastle to succeed him. We have had a most complaisant answer to our compliments &amp; notification of his election; &amp; are told, that his Grace intends us the honour of a visit in person sometime this spring. The ceremony of Installation is expected to be very magnificent. The time is not yet fix'd, but will probably be about Easters.</p>
+			<p>As one misfortune, they say, seldom comes alone, besides the D. of Somerset, we have also lost our Prof: of Divinity; whose mastership of P.House will this day be fill'd up by Dr. Keene, brother to the Spanish Ambassador. The professorship is expected <pb n="189" /> to be giv'n to Mr Green of St John's, whom perhaps you do not remember. This is all the news of the place, except that we are writing verses upon the peace &amp; amongst the rest (as you will see on the <supplied range="8,10" orig="back-sid[{e o{]f">back-side of</supplied> this) your most Affect: humble Servt</p>
+			<p>R. Hurd.</p>
+			<note resp="compiler" value="POEM OMITTED" />
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_020">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1749 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="198" />
+			<head> <note resp="editor" value="100 TO SIR EDWARD LITTLETON 26 MAY 1749" /> </head>
+			<p>Dear Sir Edward</p>
+			<p>Your last informs me you was packing up, I suppose, for Staffordshire, &amp; therefore I direct this to you at Ridware. Your conference with Mr Villiers was something curious, <pb n="199" /> &amp; your management of it shews with what unshaken fidelity you can keep a secret. Yet as I would not be the occasion of bringing you into the like distress for the future, having no reasons for concealing myself so cautiously, as before, I shall very readily release you from all engagements of secrecy on this head: I mean, that you are at full liberty to disclose the matter to such persons, as may think it worth their while to be inquisitive about it, and whom you may think it worth your while to inform of it. I am very glad you receiv'd a copy yourself, before you left town. The commentary you will find very little chang'd from what it was, when you first saw it. The notes, I believe, are for the most part new. As I flatter myself, you will give them a reading, as well as the introduction, it will give me a pleasure to hear your freest thoughts of them. On looking the book over very hastily, I observ'd the following gross blunders, which you will please to correct with your pen. Notes p. 86. 4th. line from the bottom. For <hi rend="type">court</hi> read <hi rend="type">cart</hi> . P. 89. 5th. line for <hi rend="type">poets</hi> read <hi rend="type">acts</hi> . P. 91. last line in the notes for <foreign>teratur</foreign> read <foreign>feratur</foreign> . P. 103 9th. line for <hi rend="type">this purpose</hi> read <hi rend="type">the purpose</hi> . There are some others, which you will easily rectify yourself.</p>
+			<p>You don't say a word of being here in June, or attending the Installation, tho' we expect both. That you may not plead ignorance of the latter, I must acquaint you, that it will certainly be on the saturday before the commencement. The sale of the pictures is not yet fix'd, but you may depend on the earliest information from me.</p>
+			<p>Mr Taylor &amp; his brother have been here, to whom I was glad to shew any civilities in my power, as well from inclination, as that you did me the favor to request it of me. We manag'd matters so well, as to get the business of his degree dispatch'd in 3 or 4 days.</p>
+			<p>You will give my service to Mr Tonyn, whom I should be glad to see in Staffordshire, if I come there this summer. But this, at present, is uncertain. One thing you may at all times be assur'd of, that I can want no inducement to come to you, being always, with an intire respect, Dearest Sir, Your most faithful &amp; affect: servt</p>
+			<p>R Hurd.</p>
+			<p>Camb: 26. May. 1749.</p>
+			<p>My comp. to Mrs. Littleton.</p>
+			<p>I am delighted to hear of your agreemt. with Ld Brook.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_021">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1749 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="203" />
+			<head> <note resp="editor" value="103 TO THOMAS BALGUY 18 AUGUST 1749" /> </head>
+			<p>Camb. 18. Aug. 1749.</p>
+			<p>Dear Sir</p>
+			<p>It is in vain to flatter myself any longer with the hopes of seeing you in the north this summer. I find it impracticable on many accounts, which I need not be particular in explaning to you. You will easily believe, that I should not deny myself so much pleasure, if it were not singularly inconvenient. I will beg you to give my compliments to Mr Wright &amp; to tell him, yt. I shall hope to find some other occasion of paying my respects to him. It is not the least of my disappointmts., that I am not able to wast some of these fine days at Rumley.</p>
+			<p>To enliven, or at least relieve, this solitude, I have taken to my long neglected fiddle. You can't imagine, what pains I am at, &amp; how fast I improve under the forming hand of M. Fischer. Not a grain of tast: but a wonderful exactness of <hi rend="type">fingering</hi> , <hi rend="type">bowing</hi> &amp;c. This is the grammar of music. The flourish of rhetoric is to come after. If indeed it ever comes, which, to say the truth, I much doubt. For this fit can never last long. And November &amp; you will furnish better amusements. But 'tis something to keep awake in the mean time. I have said the more on this frivolous subject, to shew you, that, if this indolent summer should turn out ill <foreign>pour la sante`</foreign> , you are not to place <pb n="204" /> it to the acct of my books; which you will hereby understand to be quite guiltless.</p>
+			<p>Your friends at St John's are well &amp; send services. Mr Allen talks of writing, when the affair of Barrow is decided. I would not have you be impatient for this event. For the Seniors gave in their answer only last week. 'Tis, I hear, very long &amp; very learned. What entertainment to see all the logical dexterity of Aristotle's family employ'd on this good occasion. 'Tis not one of those dry disputes, which, because turning on words, some philosophers affect to call frivolous. This, you know, is more than a <note resp="editor" value="GREEK OMITTED" /> . Mr Burrow bids me say, that there was no Indictmt. at the Assizes.</p>
+			<p>A few days ago I receiv'd a packet from Prior-Park. It contain'd, besides a letter, (in which is a curious paragraph, concerning two great persons, altogether <hi rend="type">esoteric</hi> ,) the mss notes on Mr Pope's Im. of the Ep. to Augustus; sent, as he says, "to convince me, how much a Comment. on that piece of Horace is wanting". You may be sure, it had not this effect. At least I was not to own it. My answer however was drawn in such a way, as to leave me at liberty, either to decline or follow his advice, as I may find myself dispos'd to either. But this is of small moment. You will ask after the notes themselves. They are many of them very curious; especially some, which give us the characters of eminent writers, as Ld Shaftesbury, Bp Sprat, <pb n="205" /> Mr Addison, &amp; Dr Bentley. I am pleas'd with the last, wch. does justice to the great Critic. Two or three notes are purposely brought in to abuse Bps. This delights me, for reasons you will easily guess at. There are besides some ingenious criticisms. On the whole I like the notes extremely, &amp; believe you will, when you see 'em. To inform you more particularly of them, would be to transcribe 'em. He observes in his letter, yt. he has written comments as well as notes on all the <hi rend="type">moral</hi> epistles. The Ed. will certainly be clever.</p>
+			<p>I need not say, how glad I shall be to receive a letter from you, being, as you see, quite desolate, &amp; always, with great truth, Dear Sir, Your most affectionate &amp; faithful humble Servt</p>
+			<p>R. Hurd.</p>
+			<p>Not a syllable from Mr Powell.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_022">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1750 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="213" />
+			<head> <note resp="editor" value="109 TO SIR EDWARD LITTLETON 29 MARCH 1750" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Sir Edward Littleton Bart / at Mr Cosgreave's in / Suffolk Street / Charing-Cross / London. Dear Sir</p>
+			<p>I have the pleasure of two of your letters to acknowledge.</p>
+			<p>In the first you criticize the new play. You do not express your opinion of it very determinately. But I think, your objections amount to thus much. That there are no marks of great genius in the drawing of his characters. And that, in particular, the Roman Father is drawn with too much humanity.</p>
+			<p>The first obj. is certainly just. Mr W. is not capable of that sublime, &amp; those strong touches of nature, wch sometimes strike &amp; almost astonish us in the writings of Shakespear. This was not to be expected from him. To excell in this kind is the <pb n="214" /> privilege only of first-rate spirits. The world never produc'd but very few of them. It should therefore satisfy us, &amp; indeed may be reckon'd a considerable merit in a writer, if he be able to conduct his subject simply &amp; naturally, if his characters do in the main represent real life, &amp; if there be no gross violations of good sense in their sentiments or actions. And this merit I take the <hi rend="type">Roman father</hi> to have. It has the principal beauties of Corneille, witht. his blemishes &amp; absurdities.</p>
+			<p>Your other obj. is well aim'd, if you take your idea of the <hi rend="type">R. Father</hi> , as you ought to do, from the Roman history &amp; manners. Strictly speaking, he shd have been drawn witht. those compassionate relentings. But ye house wd not have endur'd this. Such a severity of manners wd have seem'd incredible &amp; out of nature. That he might not shock his audience, he was therefore oblig'd to soften his character a little. But then this shews (what I take to be certainly the case) that the story itself is, considering our difference of manners, a very improper one for our stage.</p>
+			<p>Tho' Dr Nevile is no great admirer, as you rightly suppos'd, yet he is more candid, than I expected.</p>
+			<p>In your second favour you are so obliging, as to press my going with you into Staffordshire, with Mr Macro. I need not say, that this would be very agreable to me, on ev'ry account. But things are so circumstanc'd, yt I cannot, with any convenience, leave college till tow'rds Midsummer. Then indeed I have long promis'd myself the pleasure of spending some agreable days with you at the Coppice. And perhaps that time, may suit Mr Macro full as well. When he comes, I will talk with him &amp; let you know our resolutions.</p>
+			<p>I am vastly oblig'd to you for Inigo Jones. 'Tis an excellent print.</p>
+			<p>You have also laid me under fresh obligations by procuring me some others, wch you give me leave to expect soon, &amp; by a promise of some part of your paper-treasure. Mr Mainwaring let drop something of Mr Hutcheson. If one of the letters, you design for me, shd be of his hand, I shall be very happy.</p>
+			<p>But <supplied range="1,2" orig="m[{y{]">my</supplied> <note resp="editor" value="..." /> obligation to you is for your acceptance of the little <note resp="editor" value="..." /> of <hi rend="type">Trag. &amp; <pb n="215" /> Comedy</hi> . I have never seen it, &amp; am afraid, 'tis of no great value. But your partiality to the A. of poetry made me incline to flatter myself, that you wd not refuse it.</p>
+			<p>After so many favours done to myself, I cannot, in mere gratitude, but rejoyce very sincerely with you on your late good success at Auctions. <hi rend="type">Trevisiani</hi> is surely a good name. One of Dr Macro's best pictures is, if I remember right, of his hand. Your Ryisdale must be valuable.</p>
+			<p>I shall write again, when Mr Macro arrives. In the mean time let me know, what pass'd at the Countess of Sunderland's.</p>
+			<p>Dearest Sir, Your most affectionate &amp; oblig'd humble Servt</p>
+			<p>R. Hurd.</p>
+			<p>Camb. 29. March. 1750.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_023">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1751 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="227" />
+			<head> <note resp="editor" value="119 TO SIR EDWARD LITTLETON 26 APRIL 1751" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Sir Edward Littleton Bart / at Mr Jonquier's in Suffolk-Street / Charing-Cross / London Dear Sir</p>
+			<p>I have your obliging letter and have many thanks to give you for your present of Nanteuil and the care you take of the pictures and prints in Matthyson's hands. If you will please to send the box to the Green Dragon in Bishop-Gate-Street to go by Mr Gillam's wagon, it will <note resp="editor" value="be DELETED" /> come safe hither. I must get you to take Matthyson's receipt, when you pay him.</p>
+			<p>After enriching my little collection with such a rarity, as the best head of Nanteuil, I should be very selfish indeed not to rejoyce with you on the purchase of a first rate <hi rend="type">Berghem</hi> ; for such I have no doubt it is. I shall be very impatient to see it.</p>
+			<p>You ask, if I can go into Staff: with you about the middle of next month; but, first, if I can make ye Norfolk tour with you. These questions I cannot resolve at present. I'm engaged so deeply in the business of Authorship (for another project has come across me, since I saw you) that it is most probable, <note resp="editor" value="that DELETED" /> I cannot stir from this place on any acct till June. However I must needs see you here. I have several things to say to you. And if I can contrive matters so as to be at liberty, you may command me as you please. But, as I said, nothing must prevent you making us in your way; whether I am or not. One thing I'll mention now, which I think should determine you.</p>
+			<p>I think I have hear'd you say that some time or other you intended the college a piece of plate. Would it not be the time to do this, if you are so kind to design us that <pb n="228" /> favour, before you go abroad? And if so, can you take a fitter time to mention it to the Master, than this?</p>
+			<p>Your brother too, as I think is partly settled (but this is another important business on which we want to consult you) &amp; is leaving us very soon. Which you will think another reason for using this opportunity.</p>
+			<p>But be this as it will, I must insist absolutely on your staying some days with us on your return into the country. I have a thousand things to say to you. Mr Afflecks bed and chambers are too at your service. Your brother expects it. All your friends press it. In short I know not what to say, but that I want exceedingly to see you here and that I am, with the truest affection, Dearest Sir, Your much obliged and entirely faithful friend &amp; Servt</p>
+			<p>R Hurd.</p>
+			<p>Camb. 26. Ap. 1751.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_024">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1751 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="228" />
+			<head> <note resp="editor" value="120 TO EDWARD MACRO 21 MAY 1751" /> </head>
+			<p>Cambridge 21. May. 1751.</p>
+			<p>Dear Sir</p>
+			<p>You will think I have exceeded ev'n my usual laziness in neglecting you all this while. But the truth is, I have been kept in constant expectation of this foolish book upon Horace. And I purposely omitted writing, till I could desire your acceptance of it. It is this day published; and on Saturday next I shall send by Smith two copies, one for yourself, and another for the Doctor.</p>
+			<p>I take for granted, you intend going into Staffordshire very soon. Sir Edward, as I expect, will be here in a fortnight's time, at the farthest. He talked of visiting Houghton; and then proceeding directly for the country. I hope you will be ready to give him the meeting at this place, that we may all set out together.</p>
+			<p>I had some time ago a letter from Mr Sam: Tatem. It was to recommend to me a young gentleman, Mr Boehm, eldest son to the person, he used to talk so much of. He is a very pretty young man, and a good scholar. He is admitted of Clare-Hall.</p>
+			<p>Poor Mr Butler is, at present, very ill of his old disorder. I am, as usual, sometimes <pb n="229" /> pretty well and sometimes complaining, but, in all states and in all humours, very much Dear Sir, Your faithful and affectionate friend &amp; Servt</p>
+			<p>R Hurd.</p>
+			<p>My compliments to ev'ry body; especially Mrs Macro, to whom I shall endeavour to pay my respects, if it be but for a day or two before I go into Staffordshire. Perhaps I may fetch you hither.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_025">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1752 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="235" />
+			<head> <note resp="editor" value="125 TO WILLIAM MASON 29 OCTOBER 1752" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To Mr Mason Fellow of / Pembroke Hall in / Cambridge.</p>
+			<p>London 29 Oct 1752</p>
+			<p>Dear Mr Mason</p>
+			<p>I am thus far on my way to Norfolk, for wch I set out to morrow, with hopes of coming to you on Saturday next or very soon after.</p>
+			<pb n="236" />
+			<p>You expect to be congratulated on the success of <hi rend="type">your</hi> Orator. Tho' I question if the disappointment, tho' it may chagrin for the present, will do the <hi rend="type">other</hi> any real hurt. On the contrary I, who hold <hi rend="type">that all things work together for good</hi> , I mean for the advancement of such as diligently seek and perfectly <hi rend="type">deserve</hi> preferment, am of opinion that it may do him much present credit and recommend him to some future service. At least I seemed to collect thus much this morning from a conversation with one who usually speaks the sense of the great world and was, I found, well informed in the circumstances of the case and the reasons of R's disappointment. But of this not a word, for I come from the schools of Wise men, of whom I have learnt the golden rule of <hi rend="type">caution</hi> . To you perhaps I may hereafter explain myself more particularly. But for the present I say no more, and ev'n for this little exact silence.</p>
+			<p>Mr W. &amp; I laughed at your account of <hi rend="type" range="1,2" orig="C(^s^)">Cs</hi> persecuting letters. They will certainly be printed and, it may be said, will do your fame at least as much service as the fond encomiums of F. For both these however I truly pity you. Was not Pope in the right when he preferred <hi rend="type">a fool's hate to his love</hi> ?</p>
+			<p>As to the <hi rend="type">faithful Shepherdess</hi> , the event, as you say, turns out much to the credit of my divining faculty, the happiness of which arises not from my superior <hi rend="type">knowledge of the town and the world</hi> , as you jestingly put it, but from my acquaintance with Garrick's ill taste, and foible as an actor. He is <foreign>entre nous</foreign> nothing when he is not playing tricks and shewing attitudes, for which You and Fletcher left him little room. Mr W. abuses him for this folly. By the way You must send him your MSS when he comes to town which will be in less than a fortnight. I saw Garrick last night in his element, playing <pb n="237" /> <hi rend="type">Jaffier</hi> with Mossop whom the town admires in <hi rend="type">Pierre</hi> . Write like Otway and You will please. But when You do this, You will at least lose one of your admirers.</p>
+			<p>I have a deal to say to you on this head and on another of more importance. Have nothing to do with a great Lord in the North. You shall know my reasons when I see you. I have so wretched a pen that writing is uneasy to me. All that You and I want to learn is to be content with a little and then we may be happier than great men, falsely so called, can make us.</p>
+			<p>All at Prior-Park sincerely esteem you. I cannot be more, than I am, Dearest Sir, Your affectionate friend &amp; Servt</p>
+			<p>R Hurd.</p>
+			<p>You must direct to <hi rend="type">Mr Brown at Carlisle in Cumberland</hi> .</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_026">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1752 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="237" />
+			<head> <note resp="editor" value="126 TO SIR EDWARD LITTLETON 6 NOVEMBER 1752" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Sir Edward Littleton Bart / at Tedgely Coppice near / Penkrich / Staffordshire. / By Lond.</p>
+			<p>Reymerston Norfolk Nov. 6. 1752.</p>
+			<p>Dear Sir Edward</p>
+			<p>This is the first moment's leisure I have had to acknowledge your favour of the 20th past, which I receiv'd but the day before I set out for this place from Prior-Park.</p>
+			<p>I am not a little perplexed by your kind proposal; which, I can easily perceive, was intended by You as well for my particular benefit as the service of the young gentleman whom You so warmly and, I dare say, so justly recommend to me. It <pb n="238" /> therefore gives me pain to decline what You ask of me. And yet I must deal fairly with You. The early affection I had conceived for You and the sollicitations of dear Mr Budworth were inducements I could not resist in your case. And tho' the satisfaction and success I had in your education might be temptations to any other, I find myself much averse to engage in a second care of this nature. You know my way is not to make a sine cure of so important a charge. And to be plain with you, I have always thought the time and attention, requisite to a due discharge of this office, more than it can be usually worth the while of any but professed Tutors, who have a number of pupils and have devoted themselves to this care, to lay out upon it. For my own part, whether it be the indolence of my temper or the undue value I place on my own leisure and amusements, these are my sentiments in my own case.</p>
+			<p>You say, the young Gentleman's coming to Emmanuel and ev'n to Cambridge depends entirely on my agreeing to this proposal. I am not, You will readily believe, so far prejudiced in favour of either as to press the matter farther than may be for his real service. All I can say therefore is, that, if it shall be thought proper to place the young gentleman in our college (and I need not acquaint You with either the characters or abilities of our tutors) my regard for You and for a person so nearly related to Lady Littleton, as Mr Horton, will determine me to pay a very particular attention to his studies and morals, and to do him all the good offices I can in the way of advice or occasional information. More than this I shall trust your candour to excuse me from undertaking, for the reasons already mentioned. And I am the freer in saying this, because I know how much the partiality of your friendship is concerned in this recommendation. If You, my dear Sir Edward had no reason to be dissatisfied with me in your own case, I am very happy. But I say it with all sincerity, if Mr Horton's design be to consult the real advantage of his son's education, he will be at no loss to find, in either of our universities, at least as diligent and, I ought to think, a much abler Tutor than,</p>
+			<p>Dear Sir, Your very obliged and affectionate humble Servt</p>
+			<p>R Hurd.</p>
+			<p>Please to give my humble Service to Lady Littleton.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_027">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1753 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="250" />
+			<head> <note resp="editor" value="135 TO THOMAS BALGUY 27 SEPTEMBER 1753" /> </head>
+			<p>Dear Sir</p>
+			<p>I receiv'd your favour of the 21 of August at Norton from which place I returned last Saturday. I mention this to excuse my neglect of You all this while, as it was not possible for me to give you a satisfactory answer to your queries about your Chambers, till I came back to college. On inquiry I find John Ludlam took care to get the rooms painted before he went out of college, and he now tells me he is taking incredible pains to get the locks cleaned and all other things in readiness for your reception. In short I rely so much on his diligence and punctuality as to have no doubt of evry thing being prepared to your mind in a very short time, and may therefore venture to invite you hither as soon as you please; which, from some hints dropped in your letter, I please myself with supposing may be sooner this year than usual. Don't mistake these for words of form and compliment. I really want you terribly; and am as impatient to draw a chair by your new fire-side as You can be. Besides our friends get together apace. Mr Powel fixes for good next Sunday: Dr Ogden is fixed: Mr Allen only elopes for a fortnight: and Manwaring is with us for the whole winter. - Poor Mason's affliction you have hear'd of. He has lost his father: and since that, two servants have dyed out of the family, and his mother is now ill. All this looks like a contagious fever, which alarms us all exceedingly for him: and besides we fear his situation in <pb n="251" /> other respects is but indifferent. Pray write a word to him, if you have not already. Advise him to come away from Hull or say any thing else to him that you please. Any thing from a friend on these occasions carries some comfort with it.</p>
+			<p>I am glad to find that neither the flames of love nor of a fever, be it which it will, can waste your spirits. You cannot tell how much I envy you this disposition, which surely, if it be not health, is something much better. Only with this alacrity of mind I want to see your bodily forces established that you may in earnest apply yourself to some things, which I hold to be in a public as well as private view of great importance.</p>
+			<p>Mr Warburton is at P. P. from whence I had a letter the other day which speaks an unusual flow of spirits. I had told him of a project Mr Browne had, and with which he wanted to draw me, of taking a trip next Spring to Paris, Berlin and I know not what other great towns of Europe. I had said something betwixt jest and earnest against this humour of sauntering up and down, under the specious pretence of seeing men and manners. And in taking notice of this part of my letter, after a great deal of excellent ridicule of the false taste in travelling, he comes at last to describe the <hi rend="type">true</hi> , and bids me instruct our friend of Carlisle in the following manner.- As I have nothing by a thousandth part so good of my own to entertain you with, I will transcribe the whole paragraph. - "This (says he) is enough for any one who only wants to study men for his Use. But if our aspiring friend would go higher, and study human nature, in and for itself, he must take a much longer Tour than that of Europe. He must first go and catch her undressed, nay quite naked, in North-America and at the Cape of Good-Hope. He may then examine how she appears crampt, untracted, and buttoned up close in the strait tunic of Law and Custom, as in China and Japan: Or spread out and enlarged above her common size, in the long and flowing Robe of Enthusiasm, amongst the Arabs and Saracens: Or lastly, as she flutters in the old Rags of worn-out Policy and civil Government, and almost ready to run back, naked to the deserts, as on the Mediterranean Coast of Africa. These, tell him, are the grand Scenes for the true Philosopher, for the citizen of the world, to contemplate. The <hi rend="type">Tour of Europe</hi> is like the entertainment that Plutarch speaks of, which Pompey's host of Epirus gave him. There were many dishes, and they had a seeming variety; but when he came to examine them narrowly, he found them all made out of one Hog, and indeed nothing but <hi rend="type">Pork</hi> differently disguised". -</p>
+			<p>This may be called a <hi rend="type">Charge</hi> to Travellers, which I thought would entertain and perhaps instruct You more than a late Charge to the Clergy of the Arch-Deaconry of Essex: of which I know no more than that it lays the ignorance and corruption of Churchmen in these times to the account of Pamphlet-Clubs.</p>
+			<pb n="252" />
+			<p>Come soon, and in the mean time write one line that I may know You are coming.</p>
+			<p>Dearest Sir, Your most affectionate and faithful friend and Servant</p>
+			<p>R Hurd</p>
+			<p>Camb. 27. Sept. 1753.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_028">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1753 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="252" />
+			<head> <note resp="editor" value="136 TO WILLIAM MASON 22 OCTOBER 1753" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Mr Mason at George's Coffee-House / near Temple-Bar / London.</p>
+			<p>Dear Sir</p>
+			<p>I write a few lines, rather because you seem to expect it of me, than that I have anything of consequence enough to make up a letter.</p>
+			<p>I had scarcely begun to reconcile myself to the bad news, I had receiv'd from Hull, before I was attacked from another quarter, and in the most sensible manner; I mean with the report of poor Mr Horton's death, which happen'd suddenly, in one of those fits to which he had, for some time, been subject. You did not know Him, and, as it happens, it is very well You did not. For he was, without exception, the most amiable young man, I ever knew, and had a kind of fascination in his behaviour, which won upon all his acquaintance in a wonderful manner. It is some time since the qualities of the head have had but the second, and indeed a very subordinate place with me in my estimation of those few friends, whose acquaintance I care to cultivate. But the person, I speak of, had united these, in a high degree, with the most engaging temper I have ever met with. So that, on all accounts, I cannot but feel his loss very sensibly.</p>
+			<p>I have been reading much of late in a very contemplative author (tis Bishop Butler) <pb n="253" /> of this life's being a state of moral discipline and probation. I ev'ry day, more and more, find it to be so. And perhaps it is the best use, which our continuance in such a wretched world as this can serve to. You see by this the temper I write in, and how much it needs the correction of that discipline which the various accidents of life are perpetually furnishing.</p>
+			<p>But not to trouble You with these uneasy reflexions, which what has so lately befallen yourself must have given but too much room for, let me only say I shall be glad to see You here very soon and much more, if You return to us with those good spirits which You so rightly endeavour to keep up under all your distresses.</p>
+			<p>You will find all your friends here, except Mr Grey who, as You would hear from himself, was called away, immediately on his coming hither, by the illness of a near Relation.</p>
+			<p>I gave Mr Warburton some account of You, when I wrote last.</p>
+			<p>At all times believe me, Dear Sir, Your affectionate humble Servt</p>
+			<p>R Hurd.</p>
+			<p>Cambridge 22. Oct. 1753.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_029">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1754 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="257" />
+			<head> <note resp="editor" value="142 TO SIR EDWARD LITTLETON 22 FEBRUARY 1754" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To Sir Edward Littleton Bart / at his Seat near Penkrich / Staffordshire / By London</p>
+			<p>Cambridge 22 Feb. 1754</p>
+			<p>Dear Sir Edward</p>
+			<p>You have contriv'd a very polite reason for my accepting Mr Horton's favour which is by taking it as an obligation done to yourself. But this is your way of construing all favours done to your friends. Betwixt You, I leave You to guess what must be <note resp="editor">the</note> sum of my obligation. However on thinking further on the matter, I have determin'd not to decline his civility and shall accordingly write him a letter of acknowledgments this post.</p>
+			<p>Lady Littleton's better health and your resolution to resume the design of building are two things that give me an extreme pleasure. I have indeed some thoughts of seeing Tedgely this Summer, but whether so soon as April, I cannot take upon me to promise. I wish I may come too late to be at your consultations about the plan. I had much rather be at the laying of the Corner-Stone. By the way I wish You would think well of the project of inclosing. If this will be at any considerable expence of beauty in laying out the Park, I think You should by no means do it. The other is not a consideration for You in executing such a design.</p>
+			<p>Your accounts and this project will, I suppose, leave You no time or attention for parliamentary concerns. Will You forgive us, if I tell You we could not help a little <pb n="258" /> diverting ourselves here at the abortion of your Lichfield designs. We say there is a sort of fatality attending the policy of your friends. Something or other generally defeats them; and yet it seems your managers were no vulgar politicians and, as Machiavel advises, were resolv'd not to boggle at small matters. Seriously Sir W. Bagot and the old Stagers, who knew how things were carried, must have been greatly to blame. However You will gain something better by this misconduct, than an Election, which is a great deal of experience. Our Mr Nevile is more arch on the occasion than I dare tell You, but bids me say (and I believe very truly) that <hi rend="type">whether Whig or Tory he shall always love You</hi> .</p>
+			<p>Our design of building, I believe, is quite over. So that there can be no impropriety in your pursuing your first thought of obliging the college with a present in another way.</p>
+			<p>All our Services to Lady Littleton. The Neviles and Mr Mainwaring and Balguy are much Your's; and believe me most affectionately Dear Sir, Your entire friend &amp; oblig'd humble Servt</p>
+			<p>R Hurd.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_030">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1755 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="267" />
+			<head> <note resp="editor" value="152 TO SIR EDWARD LITTLETON 15 MARCH 1755" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Sir Edward Littleton Bart / at his Seat near Penkrich / Staffordshire</p>
+			<p>Dear Sir</p>
+			<p>You will expect two lines from me before I leave the Town. The first week I was here the weather was so cold that I thought it to no purpose to see Mr Rysbrack. <pb n="268" /> When I call'd upon him he said it would be necessary to sit three or four times and that it would take up eight or ten days. As this is longer than I can possibly stay at present I have resolv'd to take another opportunity and shall probably come hither in June for that purpose. He seems to think my bad head will not be disgracd by being turn'd into Stone. And we have almost agreed about the attitude and dress. The head is to turn a little on one side; no cap or wig, but a thin hair upon it - a little loose drapery over the Shoulders. -</p>
+			<p>I am wonderfully taken with Lady Ls picture. There is no fault unless the colouring be perhaps a little too faint and hardly clear enough. But Dr Brown thinks it quite right and so does Mr Mason. The flowers are certainly inimitable. -</p>
+			<p>Mr Balguy and I had the pleasure to dine with Lady Littleton who seems pretty well. She looks much better than in the Summer. But Dr Heberden says She is not quite well.</p>
+			<p>Dr Brown and Mr Balguy send compliments. We set out to morrow for Cambridge, where I shall be glad of a line from You. You seem to mistake my design about the Bust: I only meant one of about 40 or 50 pounds, which Mr Rysbrack tells me is the highest price of a Bust - But the thing is of no consequence, unless You prefer it to any other method of disposing of the Sum, You are so good to intend us.</p>
+			<p>I write with so wretched a pen that I wish You may read what I have written.</p>
+			<p>Your's most entirely</p>
+			<p>R Hurd.</p>
+			<p>London 15 March 1755.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_031">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1755 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="277" />
+			<head> <note resp="editor" value="163 TO WILLIAM MASON 31 DECEMBER 1755" /> </head>
+			<p>Dear Sir</p>
+			<p>For You who</p>
+			<p>"In Chiswick Bow'rs your easy hours employ" <pb n="278" /> not to find time to give me a letter is very inexcusable. And if I knew in what way to do it, I should certainly punish You as You deserve. Perhaps the best revenge I can take will be to teaze You into the remembrance of your old friends, if nothing else will do it.</p>
+			<p>I understand from Dr N. that Dodsley is not over-fond of engaging in this second Imitation. I suppose he is very right in believing that it will not sell. And yet worse things sell ev'ry day. It is true, the sort of writing does not suit the Dr perfectly. Besides other defects, he neither thinks nor speaks exactly enough to excell in the Horatian manners. Yet in all the things he has attempted in this way there are pretty things enough, one would think, to carry off a six-penny pamphlet. But betwixt a want of curiosity and of taste in this our age, an obscure writer has a bad time of it.</p>
+			<p>You are to know that, as I have no expectation of entertainment from the wits of these days, I mean now You have burnt your Lyre, I am content to seek it in the past ages. And as I know not why I have always conceiv'd high things of the Italian poets, I have been lately trying to get some acquaintance with them. Tho' I cannot boast of <pb n="279" /> having made any great progress in them, I see enough to convince me that they are above evry thing which is call'd poetry in the other modern languages, except perhaps in our own, which I am us'd to prefer before all others for the force of colouring and height of Invention. Or if this be a prejudice, it is not, I think, to affirm that the french poetry is the tamest poorest thing in the world in comparison of the Italian. One thing that created a presumption in favour of this last, was the observing that Italy was the School to our own poets, and indeed writers of all sorts, at the time when they were the best. It is plain that Milton owed almost as much to the Tuscan as the Greek poets.</p>
+			<p>In short I'm grown on the sudden such an <foreign>inamarato</foreign> of these Italian Bards, that I can almost bear their Sonnets. Yet I wonder that, when they have so many better things to value themselves upon, they should lay such a stress on this elegant indeed, but trifling form of composition. I suspect the folly might arise from a wrong interpretation of the famous maxim - <foreign>Difficilia quae pulchra</foreign> , which says only that <hi rend="type">excellent things are difficult</hi> , whereas they seem to have taken the matter the other way and to have gone on the supposition, that <hi rend="type">difficult things are always excellent</hi> ; a maxim, which for anything I know might set the discarded french dancers above the best poets.</p>
+			<p>I reverence that great critic Mr Dodsley prodigiously for his sagacious conjectures about the author of a late pamphlet. However I agree with You that Jortin did not deserve the honour of this ridicule. And I'm persuaded, whoever the writer was, that he was betrayed into it by the weakest of all our passions, an inordinate friendship: In short the very same which makes me run on at this strange rate and pester You with <pb n="280" /> <note resp="compiler" value="EDITION REPEATS In short the very same which makes me run on at this strange rate and pester You with" /> so long a letter, when I might well have sav'd both You and myself that trouble by leaving You to guess how entirely I am always, Dear Sir, Your affectionate friend and Servant</p>
+			<p>R Hurd</p>
+			<p>Camb. 31 Dec 1755</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_032">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1756 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="290" />
+			<head> <note resp="editor" value="171 TO WILLIAM MASON 7 AUGUST 1756" /> </head>
+			<p>Brighthelmstone 7 Aug. 1756.</p>
+			<p>Dear Mr Mason</p>
+			<p>I did not care to press You to a journey which I doubted would not be very agreable to You, but we were much disappointed in not seeing You, especially after Mr Noble had informed us that You certainty intended it. I should have been glad of your <pb n="291" /> company for many reasons; amongst others that I might have known something more of the new scheme You have enterd upon. I rejoyce with You on this project, not only because I dare say it is a good one, but because it will serve to fill up your time and employ your leisure very agreably. I cannot tell how You find it but the best part of my entertainment in this foolish world arises from my own thoughts, which, bad as they are, are a better amusement than any I find in what is calld general conversation. Some of these I should perhaps have troubled You with, if I had seen You here. I told You of my Political Dialogue. It runs out into two parts, each of them pretty long, but the subject, at least if I don't spoil it in the handling, not uninteresting. The first of these is quite finishd, I mean thrown completely into form, so that I might have taken your judgment of it. I must now be contented to wait till we meet next winter at Cambridge, by which time I hope to have finishd the remainder, which is to finish all that I intend of this nature. If You get Caractacus in the same forwardness I promise to repay your criticism, not with the dull civility current amongst authors, but with the free censure of one that takes a greater interest in what You write than in any trash of his own.</p>
+			<p>I suppose You would learn from Dr Warb that he leaves Durham immediately after the 13th inst. So that You will hardly pay the visit You designd him.</p>
+			<p>You are very kind in your wishes that I may find the full benefit of this Sea-Regimen. I <note resp="editor" value="cannot DELETED" /> dare not promise myself too much from it. I remember those oracular lines of Pope</p>
+			<note resp="compiler" value="COUPLET OMITTED" />
+			<p>It is enough if I can but palliate a disorder which comes, like all our woe, by <pb n="292" /> inheritance. Happy! if I but inherited the integrity of mind and serenity of temper which made it so easy to him from whom I derivd it.</p>
+			<p>But I grow too grave even for You. Let me end with telling You that Mr Powell is here with his Sister. They came down on a visit to an Essex family that is here and I suppose will leave us again next week.</p>
+			<p>Mr Manwaring sends compliments. If this finds You in Town, remember us both to Mr Noble. Believe me most cordially, Dear Sir, Your affectionate friend &amp; Servant</p>
+			<p>R Hurd</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_033">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1756 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="295" />
+			<head> <note resp="editor" value="174 TO JOHN POTTER 16 NOVEMBER 1756" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / The Reverend Mr Potter / at Axbridge near / Wells in / Somersetshire</p>
+			<p>Camb. 16. Nov. 1756</p>
+			<p>Dear Sir</p>
+			<p>As lazy a correspondent as I am, I could not excuse it to myself if I did not write one word to acquaint you with my Presentation to a college living. It is Thurcaston, near Leicester. A Rectory of between two and three hundred pounds a year. I have seen the Place and think it agreable enough for the country, wch, I need not tell you, is no Paradise. The house is a good one, and in good repair. The Gardens are as pleasant as I have ever seen belonging to a Parsonage. With these temptations however I have no design of settling there immediately. It is probable that I may not go to reside there till Spring twelvemonth. In the mean time I hope your Brother will be no loser. I shall keep Reymerston in my own hands till next Michs. And by that time I believe his Bp will do something for him. Or at the worst, as Mr Hudson is not likely to reside there himself, your Brother will have it in his choice to continue in the Curacy.</p>
+			<p>I hope to hear a good account of your building, and what concerns me more, of your health, which your Brother tells me, of late has been but indifferent. It is possible I may find time this next Summer to pay you a short visit. But whether I am to have this pleasure or no, let me assure you of my constant good wishes, as being always with great truth, Dear Sir, Your faithful and affectionate friend &amp; Servt</p>
+			<p>R. Hurd.</p>
+			<p>P.S.</p>
+			<p>Pray remember me very kindly to Mrs Potter.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_034">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1757 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="299" />
+			<head> <note resp="editor" value="176 TO THOMAS GRAY 7 JANUARY 1757" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Mr Gray at / Pembroke-Hall. Dear Sir,</p>
+			<p>I will beg the favour of your Milton once more. I have considerd your Observations in the Paper you oblig'd me with yesterday. I think them excellent and shall correct accordingly.</p>
+			<pb n="300" />
+			<p>The only one of the least consequence that sticks with me is your hint about the Introduction. And I owe it to your frankness, to tell you my sincere sentiments. I hate the hypocrisy of those men, who think to cover their own dullness under the mask of piety, as much as You can do. I know too what is to be said for those who have not devoted themselves to a Profession: And still further for those who read the Poets, not for amusement only, but to contend with the best of them. I honour, in a word, true poetry and true Poets as much as any body. And I think, in particular, with You, that Mr Pope's apologies for himself were very needless. Yet still in my own case I must profess to You with sincerity, that what I say in the Letter is my real opinion. The Profession, I am of, is a sacred one. And tho' it does not oblige me to renounce the poets, my business, I think, should lie elsewhere. I assure You, I take this design to be but a decent one in my circumstances, and, considering the circumstances of the time, an absolute Duty. So that when these things are out of my hands, and the few Dialogues I mention'd to you, I have determin'd long since to pass the remainder of my Life (I mean if in that Remainder I do anything as a writer) in the concerns of my own Profession.</p>
+			<p>However there are some things in the Introduction put more strongly than they needed to have been, and these I shall soften; principally because what I leave will then be understood, not as words of course, but as my real meaning.</p>
+			<p>You will think I treat you very formally, in entering into this serious explanation. I do it to shew you on what grounds, and with what reluctance, I deny myself the use of any part of your kind Intimations to me.</p>
+			<p>I am, Dear Sir Your very Oblig'd humble Servant</p>
+			<p>R. Hurd.</p>
+			<p>Eman: Friday morning.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_035">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1757? T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="307" />
+			<head> <note resp="editor" value="179 TO THOMAS GRAY (MARCH/APRIL 1757)" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Mr Gray of Pembroke</p>
+			<p>Dear Sir,</p>
+			<p>You want amusement at this time. I therefore take the liberty to inclose a translation of Aristotle's Ode, which I have thoughts of printing in the notes on Horace. In the main, it reads easily enough; but You will tell me what it wants of being to your mind. Mr Nevile was so good to turn it for me, and I know will take a pleasure to correct it according to any hints You shall give him. I need not say that the Original is in Diog. Laertius and in the 15th book, I think, of the Athenaeus.</p>
+			<p>Dear Sir, Your faithful humble Servant</p>
+			<p>R Hurd</p>
+			<p>Eman: Tuesday.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_036">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1757 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="312" />
+			<head> <note resp="editor" value="185 TO THOMAS GRAY 16 AUGUST 1757" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Thomas Gray Esqr / at Mrs Rogers' at Stoke / near Windsor / Bucks</p>
+			<p>Dear Sir</p>
+			<p>I give You many thanks for the favour of your Odes, which I have received after a tedious expectation. You may be sure the title-page amused us a good deal, but Mr Brown has explained it. It is not worth while to tell You how they are received here. But every body would be thought to admire. 'Tis true, I believe, the greater part don't understand them.</p>
+			<p>I have been amusing myself in my way, since You left us. The Letter to Mason is printed off, and I shall send You a copy very soon to Dodsley's. The dialogues too are all finished after a sort; so that I shall have work enough for you against our next meeting in November. I should be better pleased, if You would find work for me. And I hope You don't forget, among your other amusements this summer, your design for a history of the English poetry. You might be regulating your plan, and digesting the materials You have by You. I shall teaze You perpetually, till You set about this project <pb n="313" /> in good earnest. It is a wonderful favourite with me, and will, I am certain, in your hands be a work of much use as well as elegance.</p>
+			<p>Mason has never once writ in all this time, which I take prodigiously ill, and desire You will tell him so. Dr Warburton sends me word too, he did not keep his appointment with him of going to Durham. So that I can only conclude he is laid up of a fit of the Muse, or perhaps is gone to pay a visit to his Druids at Mona.</p>
+			<p>If You give me the pleasure of hearing from You, You must write very soon. For I grow sick of this place, and set out on the 29th on my summer rambles. It will be a satisfaction to hear that You are well. I am sollicitous for nothing else. For You can never want the best sort of amusements. Once more, let me thank You for the Odes, which I like the better upon every reading. Mr Nevile too desires me to make his acknowledgments in full form. He is mightily flatter'd with the Present You was so kind to make him</p>
+			<p>I am, Dear Sir, Your very affectionate humble Servant</p>
+			<p>R Hurd.</p>
+			<p>Eman: Col: 16. Aug. 1757.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_037">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1757 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="315" />
+			<head> <note resp="editor" value="188 TO THOMAS GRAY 28 AUGUST 1757" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Thomas Gray Esqr</p>
+			<p>Camb. 28. Aug. 1757.</p>
+			<p>Dear Sir</p>
+			<p>I write this to be conveyed to You by Mr Mason. We were together, when your favour of the 25th arrived, and laughed very heartily at the judgments of your great men and great women. Poor people, it is not for them to understand what You write. But without understanding, they will learn to admire, of their Betters. Evry body here, that knows anything of such things, applauds the Odes. And the readers of Pindar dote upon them.</p>
+			<p>I am truly concernd for what You tell me of your indisposition. You must abstain from books for the present, and use all the exercise You can. I should fancy, if You took a Post-chaise and went to dine with Mason at Kensington, it would be a relief to You. His Caractacus mends daily, and will come to good in the end, in spite of Lords and Ladies, who will not like it.</p>
+			<p>I set forward on my journey to morrow. If I find a day of leisure, or rather of <foreign>enui</foreign> , I may attempt to enliven it by writing to You again. In the mean time, take care of your health and believe me, Dear Sir, Your very affectionate friend and humble Servant</p>
+			<p>R Hurd</p>
+			<p>P.S.</p>
+			<p>Mr Brown, to whom I shew'd the paragraph in yr Letter, sends compliments.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_038">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1757 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="321" />
+			<head> <note resp="editor" value="194 TO WILLIAM MASON 21 DECEMBER 1757" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / the Revd Mr Mason</p>
+			<p>Prior-Park 21 Dec. 1757.</p>
+			<p>Dear Sir</p>
+			<p>We are perfectly satisfied, or rather delighted with evry part of your and Mr G.s conduct, with regard to the Lawrell. It could not be for the credit of either of You to accept it. And, to tell You my plain mind, it should not have been offerred. But great men never think greatly.</p>
+			<p>As to W. we hope he will succeed, and are of opinion that the thing is more suitable to his situation and character. He has lost his dignity long since by throwing himself <pb n="322" /> into a dependance, without a Profession. Besides You know my opinion (tho' I have the greatest esteem and value for his other virtues) that he has no great poetical dignity to sustain. On the whole, tho' I would not for a Bprick have seen your temples entwind with this tarnishd lawrel, I shall rejoyce to see it flourish on his head. The salary will be a pretty addition to the little things he has got: and 'tis bad trusting, in his case, for others of more credit or value.</p>
+			<p>It is entertaining, as You say, the prudery of Garrick: As if one player were not as fit stuff to make a Laureate of, as another!</p>
+			<p>You will pick up many things, I dare say, for your purpose out of the Druidical books, the Dean sent You.</p>
+			<p>We return to town in January. I believe I must be in Grov'nor Square. Dr W. is so kind in pressing me to be with him, and my inclinations, You may be sure, draw so strongly that way, that I shall not go about to excuse myself from giving him that trouble.</p>
+			<p>The dialogues, I believe, will go to the press. But to be at leisure to attend to the printing and revision of them, I shall in all likelihood withdraw pretty soon to Cambridge.</p>
+			<p>The family are much Your's. Dr W. is always talking to me about Caractacus. The fame of this play, when made what You will make it, is the only true Lawrel for your wearing.</p>
+			<p>Believe me, my dear friend, Your's most inviolably</p>
+			<p>R Hurd</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_039">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1758 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="324" />
+			<head> <note resp="editor" value="197 TO SIR EDWARD LITTLETON 4 FEBRUARY 1758" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Sir Edwd. Lyttleton Bart: / at Teddesly Park / Staffordshire</p>
+			<p>Dear Sir Edward</p>
+			<p>You may be sure I condole most sincerely with You for the loss of our worthy friend. I fear'd, he was in no good way when I left him in November. But he himself apprehended his danger so little, that none of us could prevail upon him to call in a Physician. His case was singular and very unhappy. It seems the Cartilages of his breast were ossified to that degree that they would not give room for the Lungs to play. This occasiond his illness to be very painful. Poor man, he had many excellent qualities, which his friends will not easily forget. His Brother of Jesus feels very tenderly on the occasion. Indeed there was always the most entire affection between the two Brothers.</p>
+			<p>Many reasons have concurred to keep me here in this obliging family much longer than I designd. I am now to be on the wing in a few days. I shall probably stay in London some weeks; after which I propose seeing Mr Macro in Suffolk, if he resolves not to come up to town.</p>
+			<p>You are very good to think of obliging me with a cast of your Bust. I need not say that I shall esteem this favour very highly. I have a place in my eye that will do excellently for the reception of such an ornament.</p>
+			<pb n="325" />
+			<p>The Dean and Mrs W. are gone to town. The rest of the family charge me with their best respects to Lady Littleton, and Yourself.</p>
+			<p>My domestic matters are in a fair way to be settled to my satisfaction. But I shall be able to say more of this, when I get to London.</p>
+			<p>I beg my humble service to Lady Littleton and am ever, Dear Sir, Your most faithful and affectionate Servant</p>
+			<p>R Hurd</p>
+			<p>P. Park 4. Feb. 1758.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_040">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1759 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="338" />
+			<head> <note resp="editor" value="215 TO WILLIAM MASON 25 JUNE 1759" /> </head>
+			<p>Dear Mr Mason</p>
+			<p>You don't write, and yet You know I am quite alone, and You know too how much I depend on your Letters for the relief of my solitude.</p>
+			<p>I thank You however for sending me the two pamphlets, I spoke of. There is much truth, but no great wit or humour in the Letter from the Blacksmith. If the writer of <pb n="339" /> Douglas be the author, I am much scandalized with the indecency of such a satyr on the established church of Scotland, from a member and a minister of it.</p>
+			<p>But this is nothing to the licence and effrontery of the other man of wit, who has not learnd that Lesson, which even Dunces ought to learn - <hi rend="type">not to scorn his God</hi> . Voltaire is the most infamous writer of his age, and in nothing discovers the littleness of his genius more than in writing to the level of the most infamous part of his readers. The <foreign>mens divinior</foreign> never stoops so low. Even the Atheist Lucretius is always <hi rend="type">moral</hi> , which the author of <hi rend="type">Candide</hi> is not. Besides Lucretius had a celebrated sect of philosophers on his side, amongst whom were some of the most virtuous men at Rome. Our poet's sect is only the rabble of corrupt men in shameless courts and debauch'd cities. And so much for <foreign>L'Optimisme</foreign> .</p>
+			<p>Dr Warburton says he has receivd your Letter, and intends to write to You, I believe to scold You for your human Sacrifices. I confess, I wish this only blemish were remov'd from your tragedy, as I hope it will be in some future editions. Dr Balguy would tell You the fine things our friend says of your odes. Let me know if so much as one fashionable reader about the court, be of the same opinion. The Ladies, I doubt, will give You up as too refin'd and too learned for them.</p>
+			<p>You talk'd of returning soon to Aston. May I expect the pleasure of seeing You here on your way? I stay here till the end of July, and then remove most probably to Weymouth. Send me a Bushell of news about Caractacus, and say for pity if You have found one reasonable creature that speaks well of the Dialogues. I have much to apprehend. For even You are a little squeamish about the Notes, and Millar makes no scruple to condemn the Preface.</p>
+			<p>People are so silly as to encourage my vanity by writing me compliments, from all quarters, on your Elegy.</p>
+			<pb n="340" />
+			<p>If You did not think to do it, pray send a copy of Caractacus to your great admirer, Dr Macro.</p>
+			<p>Dear Mr Mason, Your's eternally</p>
+			<p>R Hurd</p>
+			<p>Thurcaston 25. June. 1759.</p>
+			<p><note resp="compiler" value="ASTERISK OMITTED" /> It must be directed to him at Norton to be left at Mr Lambert's in the Cook-Row Bury</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_041">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1759 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="349" />
+			<head> <note resp="editor" value="225 TO THOMAS BALGUY 2 NOVEMBER 1759" /> </head>
+			<p>Dear Mr Balguy</p>
+			<p>After the frequent letters I pester'd You with a month or two ago, I had a mind to give You some respite, till your return to college. You give the best reason in the world for your continuance at Camb. For if what we hear be true, tho' it may remove our friend from his fellowship, it will hardly take him from college. I rather hope, &amp; believe it will facilitate something else. However that be, I desire You will assure him of the extreme pleasure I take in the news of his good fortune.</p>
+			<p>It would be endless to say all that comes in my head, in answer to the several things mentiond in your last Letter. But as to L. Clarendon, I must tell You, it would cost You many a pipe of tobacco, &amp; as much wine as your Archdeaconry is worth, to talk me out of my good opinion of that man &amp; minister. I know You think his fine pen seduces me into an admiration of him. But it has a higher source. I believe no very <pb n="350" /> ambitious man was ever half so honest. And it has never been my fortune to meet with an honest minister, half so able. But alass, what could honesty &amp; ability in conjunction do, in such times, &amp; under such a master? To shew You, that I require something more than ability even in a writer, I must tell You that <hi rend="type">Davila</hi> whom I amuse myself with at this time, is not half the favourite with me as L. Clarendon. Not, that he does not excell supremely in all the arts of historical compositions. But he does not <hi rend="type">feel for <note resp="editor" value="virtue DELETED" /> goodness</hi> , like Lord Clarendon. And without this seasoning, a common Newspaper would be almost as agreable reading to me, as a page of Livy. This Davila is a very politician, &amp; we may truly say with the poet, I mean as interpreted by Lord Shaftesbury, <foreign>rarus communis sensus in illa` Fortuna`</foreign> - Hence he is perfectly enamourd of that She-monster, something between a fox &amp; an Hyaena, the Q. Mother. And hence he can relate the horrid Bartholomew Massacre in a stile that shews he regrets nothing in that affair, but it's want of success, or at most it's defects in point of policy. I confess to You, I had much ado to bring myself to read any more of this accomplish'd historian.</p>
+			<p>I don't wonder at your observation, that You have generally found yourself disappointed in the characters You have most admired in history. The reason is, none but very ambitious men figure <note resp="editor" value="... DELETED" /> there, &amp; their circumstances must be very happy, if very ambitious men can afford, for any length of time, to be very honest. Hence these characters are such rarities, when they occur, I mean the characters of ambitious men, not infamously wicked. But it would be misanthropy indeed, to take one's measure of mankind, from historic characters.</p>
+			<p>After all the clamours agst the Dialogues, they are now reprinting, &amp; I do not submit to make a single alteration, not so much as to withdraw the Preface. You see how very an author I am at bottom.</p>
+			<pb n="351" />
+			<p>Having by just transition come to that grateful subject, <hi rend="type">self</hi> , I must tell You that I lead a life here, which You will think pitiable, &amp; most men, wretched. I am so entirely alone that for weeks together I see no human face, but that of my own Servants, &amp; of my parishioners at Church on Sundays. Yet with all this, one day slides after another so easily &amp; insensibly, that I have no complaints to make of my situation. 'Tis true I should be happier far with You, &amp; others of my friends, but <hi rend="type">use</hi> , that great friend to human life, reconciles me to my lot, &amp; keeps me from being positively unhappy. My chief amusement is in my books, &amp; the correspondence of my friends. When You write (&amp; perhaps in this consideration, You will write to me very often) let me know, what books You meet with, new or old, that You think will give me entertainment. You know my taste pretty well; &amp; I am so well acquainted with Your's, that I am sure I shall be pleasd with any thing You think fit to recommend to me.</p>
+			<p>Adieu, my good friend. And believe me ever most sincerely &amp; affectionately Your's</p>
+			<p>R Hurd</p>
+			<p>Thurcaston 2. Nov. 1759.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_042">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1760 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="361" />
+			<head> <note resp="editor" value="238 TO SIR EDWARD LITTLETON 29 OCTOBER 1760" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Sir Edward Littleton Bart / at Teddesly Park near / Lichfield / Staffordshire</p>
+			<p>Thurcaston 29 Oct. 1760</p>
+			<p>Dear Sir Edward</p>
+			<p>I have been return'd to this place about a month from Weymouth, where I passed some weeks very agreably with Mr Allen's family. It seems likely that I shall be confined here the rest of the winter, having at present no Curate; the Gentleman You remember to have seen with me, &amp; to whom You was so kind, having got a better thing, than my Curacy, in the neighbourhood. Mr. Jolland.</p>
+			<p>You will believe how much I was shocked with the news of poor Mr Fenton's <pb n="362" /> death. He was one of the honestest &amp; worthiest men I ever knew, &amp; so friendly that, even on my own account, I have great reason to lament the loss of him. It seems, his only child died before him, &amp; without doubt hasten'd very much his own fate. I have the greatest pity for Mrs Fenton, to whom this double Stroke must be very grievous.</p>
+			<p>But enough on this melancholly subject. I had the pleasure to be informed some time ago of the alliance between Yours &amp; Mr Wallace's family. I know the satisfaction You will receive from this event, &amp; beg leave to congratulate both with You &amp; them very sincerely.</p>
+			<p>I expect a very particular account of the progress of the new house. The summer, as I take it, has been favourable to You.</p>
+			<p>Be pleas'd to present my humble service to Lady Littleton, &amp; to believe me always, with all affection, Dear Sir, Your most faithful humble Servant</p>
+			<p>R Hurd</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_043">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1760 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="362" />
+			<head> <note resp="editor" value="239 TO WILLIAM MASON 30 NOVEMBER 1760" /> </head>
+			<p>Thurcaston Nov. 30. 1760</p>
+			<p>Dear Sir</p>
+			<p>I have receiv'd your pitiful Letter of the 19th from Cambridge, &amp; don't care to tell You, at this moment, what I think of You. Your best way will be to send me your Poem directly. It may be, <foreign>Mactata veniam lenior hostia</foreign> . Tho' I tell You beforehand, if your poem be not excellent, I am determin'd to dislike it. You think to bespeak my favour by the opinion of Mr Gray. As if I car'd for twenty of your own trade. You must turn to your Horace, for a proper idea of a Critic,</p>
+			<foreign>Impiger, iracundus, inexorabilis, acer.</foreign>
+			<p>After all, to shew You how well prepar'd I am for a piece of Poetry, I just now come from the reading of Tasso's <hi rend="type">Gierusal. Liberata </hi> ; in which it is my odd fortune to dislike ev'rything which Voltaire, &amp; such critics as He, commend, &amp; to admire evrything <pb n="363" /> which they censure. As a Copyist of Virgil &amp; the antients, He is but feeble, &amp; passable at the best. As an original painter of the world of Magic &amp; Enchantments, he is inimitable. On the whole, no french man is capable of entering into the merits of this extraordinary poem. With all it's blemishes, it will live when a hundred <hi rend="type">Henriades</hi> are justly forgotten.</p>
+			<p>You don't say a word of new books. Yet somebody spoke to me the other day of a history, by this Voltaire, of <hi rend="type">Peter the Great</hi> . His taste for this sort of writing is as singular, as for Epic poetry. He has Written, I think, three histories, That of Louis XIV, of Charles the XII, &amp; now of Czar Peter: i.e. Of a Swaggerer, a Madman, &amp; a Savage. The only book he ever writ, that reads like a history, &amp; is indeed a fit subject for one, is his Epic Poem.</p>
+			<p>The Bp, You say, is much pester'd with business. I believe, he is; yet I have rarely been a week without receiving a Letter from him. This raises my ideas prodigiously of your late engagements.</p>
+			<p>I desire to be remember'd to Mr &amp; Mrs Wood, &amp; am more than You deserve Your affect. friend &amp; Servant</p>
+			<p>R Hurd</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_044">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1761 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="374" />
+			<head> <note resp="editor" value="247 TO WILLIAM MASON 3 MAY 1761" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / The Reverend Mr Mason / at the Right Honble the Earl of Holdernesse's / Arlington Street / London Dear Sir</p>
+			<p>You are an impudent bard, that You are, to satirize two Lords at once, &amp; certainly fall under the Statute of <foreign>Scandalum Magnatum</foreign> , in the proper sense. However it is my <pb n="375" /> weakness to approve all You do. The Epigram is not without it's salt. Tho' what You mean by writing such lawless things, at the time You are solliciting preferment, I cannot imagine. Learn of Dr Squire or Dr Pyle, to correct your style &amp; manner, or I denounce the pains of poverty &amp; poetry upon You, as long as You live.</p>
+			<p>Your thought of meeting me at P. Park is excellent. The Bp visits sooner than I expected, so that I shall be with him, I hope without fail, before the end of the month. Your being there to receive me, will give me fresh spirits for this long journey. I charge You, don't disappoint me. I shall <note resp="editor" value="... DELETED" /> accept no excuse, unless it be the Residentiariship of York.</p>
+			<p>Your present of the Dialogue was very welcome &amp; unexpected. I had hear'd nothing of it. It shews me, what my vanity would not let me see before, I mean the reason why my Dialogue of famous memory was so ill received by You judges. It was not the <hi rend="type">form</hi> , as you flatterers pretended. It was the <hi rend="type">execution</hi> , that did all the mischief. If I had known how to write like Rousseau, it's success had been certain. But to have done with this fond subject, myself, &amp; to say a word of <hi rend="type">the Citizen of Geneva</hi> .</p>
+			<p>His <foreign>entretien</foreign> is excellent. Yet how Mr Gray should like it so much, after liking the <hi rend="type">Letters</hi> so little, I cannot imagine. It looks as if he began to be ashamed of his former judgment. There is nothing in the Dialogue but what he had said, or at least intimated up &amp; down in his work.</p>
+			<p>I repeat it, Mr Mason, the man that does not approve the N. Heloise, cannot cordially be approved by me. And I have accordingly required Dr Balguy (who by the way is at Bath, &amp; will be there till tow'rds the end of this month) to retract his opinion of it, on the pain of my utmost displeasure.</p>
+			<pb n="376" />
+			<p>I have just finish'd a trifle in 12 short Letters, which You &amp; one or two more will perhaps take the trouble of reading, &amp; which no body else will. I may perhaps take the fancy to bring it with me to Prior-Park.</p>
+			<p>You are a pitiful philosopher. Talk of pique &amp; I know not what, because great men take no notice of You! Do You know, that if You deserved their countenance &amp; preferments, I should not esteem You half so much as I do? Be content with my esteem, witht a prebend. I can tell You, it is not lavished away upon so many, as that it should seem a trifle to You.</p>
+			<p>I quit this magnificent style to tell You, I expect a Letter from You forthwith, whether You go to Prior-Park or no.</p>
+			<p>God bless You, my dear Sir; Accept this benediction from my Lord Bp of Gloucester's unworthy Chaplain, &amp; from your assured friend</p>
+			<p>R Hurd</p>
+			<p>Thurcaston May. 3. 1761.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_045">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1761 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="382" />
+			<head> <note resp="editor" value="253 TO SIR EDWARD LITTLETON 14 DECEMBER 1761" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Sir Edward Littleton Bart / at his Seat near Lichfield / Staffordshire</p>
+			<p>Thurcaston 14. Decr. 1761.</p>
+			<p>Dear Sir</p>
+			<p>I have your favour of the 5th. What you say in answer to my last, is kind &amp; satisfactory. I have not a word more to say upon that subject.</p>
+			<p>You are very obliging in the affair of Sharshill. But, as it certainly will not be worth my taking, so I think You do perfectly right to think of disposing of it in the way You mention. As to Mr Moss, I remember something of him, &amp; believe he behaved himself well in College, but this is all I can say. Mr Bickham is not, as You seem to <pb n="383" /> have supposed, at Loughborough, where he is not expected till the Spring. I do not certainly know whether he be at present in College. I think your best way will be, to signify to Mr Moss that it will be proper for him to procure a Letter from Mr Hubbard, who was his Tutor, testifying his opinion of him. This Letter, if it be to his advantage, will be of weight with all the Electors. If it be not, You will have the best reason for declining to serve him. It is usual, in such cases, to apply for these Letters. And Mr Hubbard, You may be sure, will express his real opinion. It is not his way to make a compliment of such matters.</p>
+			<p>As to the affair of the Assize-Sermon, I will tell you what I think of it, with my usual frankness. These things are usual compliments to the Minister of the High-Sheriff's parish. And as Mr Stafford is a very reputable clergyman, &amp; in the chief of your own Preferments, I think You should by all means make him your Chaplain on this occasion. It will do him credit, &amp; is what he will naturally expect.</p>
+			<p>To say the truth, these public sermons are so much things of course, &amp; so little minded by any body, that there can be no reason for You to go out of the common road. And for myself, tho' I see your kind intention in proposing me, I had much rather decline it. But tho' I tell You my real sentiments plainly, as I would always do on all occasions, &amp; should certainly, in your case, employ Mr Stafford, yet if You continue to think otherwise, You know it is not possible for me to deny You anything. I will certainly preach, if You would have me. But, as I said, my judgment is entirely on the other side. You will determine this affair at your leisure.</p>
+			<p>I cannot but, again, very much applaud your design in the disposal of Sharshill. It will be a valuable addition to the School, if You can fix a deserving man in it. It will serve to keep him there, which will be a further benefit to the country. In all views, the thought is worthy of You, &amp; will do You much honour.</p>
+			<p>You will please to present my compliments &amp; best wishes to Lady Littleton, &amp; to be believe me, with all affection, My dear Sir, Your most faithful humble Servt.</p>
+			<p>R Hurd</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_046">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1762 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="394" />
+			<head> <note resp="editor" value="265 TO THOMAS BALGUY 1 JULY 1762" /> </head>
+			<p>Thurcaston 1. July. 1762</p>
+			<p>Dear Sir</p>
+			<p>I have your kind favour of the 5th past, &amp; am so well satisfied with your general approbation of the Trifle, I sent You, as to give You leave to make any objections, You please, to particular parts. The <hi rend="type">first</hi> edition went off so quick, that Millar would needs print off a <hi rend="type">second</hi> forthwith; tho' I can hardly think the Demand will continue for so mere an amusement. I sent a copy of the <hi rend="type">Letters</hi> to Mr T. Warton. I certainly meant no incivility to him, &amp; shall be sorry if he takes it in that light. I had spoke my opinion very plainly &amp; truly, of his <hi rend="type">Observations</hi> , in the Letter on Imitation.</p>
+			<pb n="395" />
+			<p>I now set forward immediately for Gloucester. My journey has been delayed by a very kind &amp; unexpected Visit of the Bp of Gloucester, who staid near a fortnight with me, &amp; left me yesterday. He returns to P. P. &amp; then removes to Gloucester next week. I obtained a sight of so much of the <hi rend="type">Disc. on the Spirit</hi> as is printed off. Some Sheets came hither to the Bishop. It will be a very fine &amp; useful work. I am particularly taken with the part, that concerns Wesley, tho' the whole abounds with very curious things. If any thing can preserve the clergy in their senses, it must be such an admonition as this. As to those, who are already run mad, they are fit only for Monroe, to whose charitable care indeed Wesley &amp; his Coadjutors commit them.</p>
+			<p>Mrs Warburton is not yet perfectly recovered. She &amp; Miss Allen are at Weymouth, for the use of the Sea-Water. I hope there is no doubt but that she will follow the Bishop very soon to Gloucester. Mr Allen &amp; the rest of the Family are reasonably well.</p>
+			<p>You will let me know by a Letter to me under cover to the Bp at Gloucester, that You are well after the fatigue of your Visitation, &amp; that You have received your Italian books safe.</p>
+			<p>You, as well as I, have lost very much in your not being of our party, this last fortnight.</p>
+			<p>I am, Dear Sir, Your very affectionate humble Servant</p>
+			<p>R Hurd</p>
+			<p>P.S.</p>
+			<p>It will perhaps be an amusement to You to understand that my <foreign>quondam</foreign> friend, Dr Heberden, likes the Letters on Chivalry better than any thing I have ever written. <pb n="396" /> This intelligence I receive from Sir E. Littleton, who has lately been under his hands in Town, where he picked up the fashionable fever, which for some reason or other they call, it seems, the <foreign>Influenza</foreign> . He is now got into the country, &amp; is much better.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_047">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1762 T RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="396" />
+			<head> <note resp="editor" value="266 TO SIR EDWARD LITTLETON 30 AUGUST 1762" /> </head>
+			<p><note resp="editor" value="ADDRESSED:" /> To / Sir Edward Littleton Bart. / at Teddesly Park near / Lichfield / Staffordshire</p>
+			<p>Weymouth Aug. 30. 1762</p>
+			<p>Dear Sir Edward</p>
+			<p>I thank You for your kind favour of the 19th of June. Soon after the receipt of it I removed to Gloucester, &amp; am just now arrived at this place. The family here are reasonably well &amp; return to Prior-Park in about a fortnight. Mr Allen expects a visit at that time from my Lord Chancellor, &amp; will have me stay with him till towards the end of the month, for the opportunity of making me known to the great man. One inconvenience however attends this scheme, which is, that I shall not be able to wait upon You at Teddesly before my return into Leicestershire, which must needs be as soon as possible after Michaelmas. My design therefore now is to make a journey on purpose to pay my respects to You &amp; Lady Littleton, as soon as I can get a week or two's leisure for that Purpose.</p>
+			<p>The Letters, You speak so kindly of, have been better received, than I could expect such a trifle would be. You are right in thinking Dr Heberden's compliment somewhat extraordinary. But I know the reason, &amp; You shall know it, when I have the pleasure to see You.</p>
+			<p>I rejoyce with You for your having got thro' all the disagreable trouble of your Shrievalty, &amp; hope I may rejoyce with You upon your having got the better, entirely, of your late Indisposition.</p>
+			<pb n="397" />
+			<p>I hear nothing of Mr Macro, but suppose he continues in London. The conduct both of Father &amp; Son <note resp="editor" value="are DELETED" /> is to me wholly unaccountable.</p>
+			<p>I beg my best compliments to Lady Littleton &amp; am ever, with my warmest good wishes for your health &amp; happiness in all respects, Dear Sir Edward, Your most faithful &amp; affectionate humble Servant</p>
+			<p>R Hurd</p>
+		</text>
+	</TEI>
+</teiCollection>

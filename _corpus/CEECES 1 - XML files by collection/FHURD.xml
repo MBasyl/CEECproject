@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FHURD">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>SAMPLE 1 = THE EARLY LETTERS OF BISHOP RICHARD HURD 1739-1762. ED. BY SARAH BREWER. CHURCH OF ENGLAND RECORD SOCIETY, VOL. 3. WOODBRIDGE: BOYDELL PRESS. 1995.</titleStmt>
+			<titleStmt>SAMPLE 2 = THE CORRESPONDENCE OF RICHARD HURD &amp; WILLIAM MASON AND LETTERS OF RICHARD HURD TO THOMAS GRAY. ED. BY LEONARD WHIBLEY. CAMBRIDGE: CAMBRIDGE UNIVERSITY PRESS. 1932.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<!-- SAMPLE 2 -->
+	<TEI xml:id="HURD_048">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1764 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="61" />
+			<p><head> <note resp="editor" value="XXV HURD TO MASON" /> </head> <note resp="compiler" value="TO WILLIAM MASON" /> <hi rend="type">Thurcaston, Jan. 22, 1764</hi></p>
+			<p>Dear <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Mason,</p>
+			<p>You did well to begin your last Letter with so many handsome things on the new Dialogues, or I had shewn no mercy to the concluding part of it, in which you tell me of your design of running away to London. You a Philosopher, indeed! and after your Vignette &amp; <foreign>vitam quae faciunt beatiorem</foreign> ! - For shame, turn to your Epictetus &amp; learn the difference between <note resp="compiler" value="GREEK OMITTED" /> and <note resp="compiler" value="GREEK OMITTED" /> - But I have told the Bishop of you &amp; so leave you to his correction.</p>
+			<p>I have received your very elegant volume, which now flames in the forehead of my Library. When I have your other copy, I shall read you, for the last time, with the severity of a critic. But I believe you are now so polished, that I shall find little to object to you. In the mean time let me thank you for this agreable present. How proud I am of the conspicuous figure I make in it, you will understand from these lines of Ovid, which I have transcribed into the first page. <pb n="62" /></p>
+			<note resp="compiler" value="LATIN COUPLET OMITTED" />
+			<p>I should tell you that my favourite Vignette has not suffered in the least, from binding. The Sonnet is pretty: but you Poets have not a word of truth in you. So well did Fontaine observe of you, in all respects - <foreign>Le mensonge et les vers de tout tems sont amis</foreign> .</p>
+			<p><hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Nevile, not knowing where you are, desires me to convey his thanks for your present to him. The substance of what he says is this - that he approves your omissions in this volume, but that the exclusion of the Installation Ode will certainly give offence - <note resp="editor">This you will not be sorry for</note> - that the improvements of the <hi rend="type">Water-Nymph</hi> are excellent, &amp; that the close of it has now a dignity becoming the author - that, in short, he is much pleased with the whole, which he thinks you have polished very highly, &amp; that the <hi rend="type">motto</hi> to Musaeus is singularly happy. - As you compliment <hi rend="type">my</hi> skill in these things, I will give you the satisfaction to understand, that I am as much pleased with it, as he is.</p>
+			<p>But now to return, as is natural, to myself. I am much flattered, that the Dialogues are to your taste. <pb n="63" /> As to the <hi rend="type">Prediction</hi> , I think a good part of it is, or at least has been fullfilled: &amp; for what remains, the Universities, if they are wise, will understand it as a hint for their further improvement. You may be right in what you say of the court &amp; town Readers. But no management, I suspect, would reconcile them to the subject.</p>
+			<p>What you mentioned of the Pastorel in Huetius book <foreign>de l'esprit</foreign> , occasioned me to send for it. It is a detestable one: in short, a system of the grossest sort of Epicureanism. Besides his libertinism &amp; infidelity, both which are in the extreme, the author is a most egregious coxcomb: but so indeed are all the foreign fashionable philosophers of the time, that I have seen, the <hi rend="type">Diderots</hi> , the <hi rend="type">D'alemberts</hi> , the <hi rend="type">Duclos</hi> , &amp; the rest of them. This modest <hi rend="type">Huetius</hi> thinks the science of morals is yet in it's infancy; &amp; I shall think so too, if the world be such a child as to put itself to school to this Philosopher. Now I know the character of the man, I really believe he took his Pastoral poem, <hi rend="type">himself</hi> , out of your works, &amp; was coxcomb enough to pass the plagiarism upon some other. At all events, his testimony can do you no honour. As a <hi rend="type">Philosopher</hi> , he is an Adorer of David Hume; and indeed just such another <hi rend="type">critic</hi> .</p>
+			<pb n="64" />
+			<p><hi rend="type">Jan.</hi> 29. Thus far I had written several days ago, &amp; then bethought myself that I knew not whither to direct to you, &amp; so stopped my hand, till I should receive another Letter from you. This I have just now done, &amp; will therefore resume my pen, tho' I have already scribbled a reasonable quantity to you. You flatter me not a little in what you say of <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Gray's approbation of the dialogues. Now you &amp; he are of the same mind, I will presume to think they are not altogether without merit. There are but two or three men, whose opinion you &amp; I are sollicitous about.</p>
+			<p>The world, beside, may censure or commend. I confess if <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Gray &amp; you had not been favourable to those pages you mention, I would never have set pen to paper again. When I showed the Bp. of Gl. the MS he singled them out, as you have done. I mention this to show you how completely my vanity is now satisfied.</p>
+			<p>But enough, or more than enough, on this subject. As to your own Book, you certainly mistake the matter. As there is not much new in it, it might not be much talked of at present, but every body will purchase it.</p>
+			<p>I received a Letter from the Professor of Poetry at Oxford, in which are these words - "My most sincere thanks are due to <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Mason for his kind expressions concerning me. I think he is perfectly right with regard to his Isis. I hope for the pleasure of seeing many <pb n="65" /> new things in his Volume". <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Professor, you see, is short &amp; laconic, &amp; by no means ceremonious; but I believe he means very honestly.</p>
+			<p>I return to your Letter from Pembroke Hall, I have not seen, &amp; never desire to see the Duellist. Such a wretch is employed, as one would expect, in abusing the Bp &amp; you. But the compliment is half-spoiled, when the honour of his abuse falls upon such as those two others. I think of these two, I believe, just as you do; but depend upon it our Satirist sees no difference. I guess at your B. who is said to have commended <hi rend="type">the three Characters</hi> , &amp; I love the honest indignation you express upon it.</p>
+			<p>A propos to our Bishop, you will see him in Town with <hi rend="sup" range="1,3" orig="M=rs=">Mrs</hi>. Warburton. By the way, he tells me a fine story about you, nothing less than that you are going to be married. Was this fair, not to give me one hint of it? He even quotes, for his authority, your friend Lord Delaware, who told him, he believed it was true, but pretended to know nothing of the Party. He <pb n="66" /> then concludes in these words, so expressive of himself - <hi rend="type">Whatever there is in it, I wish him happy with all that warmth I bear to my friends: for a worthier man lives not</hi> . I mention this to shew you that the warmth, you expressed on the occasion mentioned above, is not likely to be thrown away (as the warmth of friendship too often is) on a man insensible, or unworthy of it. - But as to this <hi rend="type">marriage</hi> , it runs strangely in my head. I am the more inclined to believe, there may be something in it, as I remember you did not tast my raillery at Aston, when, for want of other subjects to divert our <foreign>ennui</foreign> , it would sometimes fall on that topic. See that you tell me the whole truth, &amp; speedily too. You may safely do it, for, notwithstanding the liberties I may sometimes take, as a Batcheler &amp; Badineer, yet, as Milton says <hi rend="type">I deem mysteriously of the genial Bed</hi> , &amp; no doubt think with Solomon (tho' it be a Text indeed I never preach upon) that <hi rend="type">He who findeth a wife findeth a good thing</hi> , as you may read at large in the <hi rend="sup" range="2,4" orig="18=th=">18th</hi>. Ch. of Proverbs &amp; the <hi rend="sup" range="2,3" orig="22=d=">22d</hi>. verse. 'Tis true, that great Clerk, <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Doctor Kennicot says the text is mutilated, and that it should be (as he pretends to find, it is in some Manuscripts), He that findeth a <hi rend="type">good</hi> wife, findeth a good thing. And this way indeed, the assertion of the wise man is more incontrovertible. But then whether a wise man would deliver so trifling a proposition, as this, that <hi rend="type">a good thing is a good thing</hi> , I leave the learned to consider. It is enough that I take the <pb n="67" /> proposition to be true, in a <hi rend="type">reasonable</hi> sense, without his emendation. Upon this occasion I have examined your Vignette again, &amp; there I find the <hi rend="type">Bust</hi> has a further meaning than I was aware of. It certainly stands for a <hi rend="type">Wife</hi> , as one of those good things, <foreign>vitam quae faciunt beatiorem</foreign> .</p>
+			<p>I must still turn another page, but it shall be the last, for the present. God knows when I shall be in town, or whether I shall be there this Spring at all. The Bp. invites me very kindly to Grov'ner Square: &amp; I should rejoyce to bring you back with me. But then this marriage spoils all again. In short, I will not tell you what I shall do, till I heer further from you. In the mean time as you are in a Lord's house, and will see <hi rend="type">my</hi> Lord, remember to send me half a dozen franks, of one of their names, for this late Printing has quite ruined me. And if it had not been for your directing me to write under cover to Lord Delaware, there is no knowing what all this paper would have cost you. Yet if I had taken as much more it would but very imperfectly have told you the affection with which I am ever, my Dear Sir, married or unmarried, bond or free,</p>
+			<p>Your's unalterably</p>
+			<p>R. Hurd</p>
+			<p>Signed &amp; sealed this <hi rend="sup" range="2,4" orig="29=th=">29th</hi>. of Jan. 1764, but it may be some days, before I have an opportunity of sending to the Post at Leicester.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_049">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1770 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="73" />
+			<p><head> <note resp="editor" value="XXVIII HURD TO MASON" /> </head> <note resp="compiler" value="TO WILLIAM MASON" /> <hi rend="type">Lincoln's Inn, May 8, 1770</hi></p>
+			<p>Dear <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Mason</p>
+			<p>Your long Letter of the <hi rend="sup" range="1,3" orig="9=th=">9th</hi>. past was very kind. When it came I was out of town, &amp; did not return till the end of Easter week; so that you could not receive my Lectures by Lord <note resp="editor" range="1,11" orig="H[\oldernesse\]">Holdernesse</note> . But, to be honest with you, if I had been at home, I should not have sent them: for I have only one copy, that is fit for use, &amp; I am every day adding or altering something, as fresh hints occur to me.</p>
+			<p>I know not what to say to Bridlington. It is a long way off; yet, if I proposed amusement to my self in <pb n="74" /> visiting the Ocean, I should prefer that place to any other for the chance of your company. The truth is, I expect to be out of humour all the time, &amp; out of health too; &amp; it would be a bad compliment to you to make you partake, or even to be a witness, of my infirmities. The Bp's visitation will not be over till towards the end of June; &amp; then, &amp; not till then, I shall take my resolution. In the mean time, let me be acquainted with your Motions, that I may suit my self to your convenience, if at length I should resolve for Bridlington.</p>
+			<p>And why may not I be permitted to see your Argentile? Do you think that I should apply my rules to what is professedly written without, &amp; against Rule? That would be, as the comic poet says, <foreign>insanire cum ratione</foreign> . The case was different with your Georgic: And when you write by rule, I shall never suffer you to swerve an inch from it. After all I am confident, I should like your Argentile; &amp;, at a proper time, I must &amp; will see it.</p>
+			<p>The amount of my Prophecy was only this, That the faction have missed their aim, for the present: what may come hereafter, I know not; or rather <hi rend="type">I do know</hi> , for I well remember that, tho' the Catalinarian conspiracy <pb n="75" /> was suppressed, other Catalines sprung up, &amp; Rome expired in no long time after. By the way, I recommend it to you (when you have finished Mosheim, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. is a good book) to read Sallust with care, &amp; then to tell me honestly what you think of our present patriots, &amp; of their virtuous projects in favour of English Liberty. The use of history is only to amuse a few idle men. It never did any other good; because, when the time comes to profit by it, men are too vicious to take the benefit of its instructions. I could moralise in this way thro' the rest of my paper, but think you do well to turn yourself to your Back Gammon, rather than to Politics. I wish you a pleasant game with your Curate, &amp; am ever, my dear Sir, most entirely</p>
+			<p>Your's</p>
+			<p>R. H.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_050">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1771 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="77" />
+			<p><head> <note resp="editor" value="XXX HURD TO MASON" /> </head> <note resp="compiler" value="TO WILLIAM MASON" /> <hi rend="type">Thurcaston <hi rend="sup" range="4,5" orig="Sept=r=">Septr</hi>. 15, 1771</hi></p>
+			<p>Dear <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Mason</p>
+			<p>Your kind Letter of the <hi rend="sup" range="2,4" orig="11=th=">11th</hi>. found me at this place, where, except for about a fortnight, in which I made an excursion to Birmingham &amp; Gloucester, I have constantly been, since I left London in the end of June.</p>
+			<p>I shall waste none of my paper in stating the punctilios of our correspondence. Our friendship is above <pb n="78" /> &amp; beyond every thing of that sort. Poor <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Gray! I sympathise tenderly with you for the loss of him. He had many &amp; great virtues, the lustre of which was a little obscured to those, who did not know him well, by some peculiarities in his manner, &amp; of which he had not the full enjoyment himself, from a too splenetic habit. His learning was considerable; and his taste &amp; genius above all praise. He showed the sincerity of his friendship, &amp; at the same time a true judgment, in leaving his papers to your care. I question not but many of the <hi rend="type">fragments</hi> , you mention, will deserve to be made public; tho' hardly anything, he could have finished himself for the press, would add much to his fame, which already is as high, as it well can be, &amp; yet not higher than is right: So just has this capricious world been, in one instance, to superior merit! Of his other MSS there may be room for more deliberation: And you do well to propose taking the opinion of your more judicious friends. If you honour me with a place in this list, you may depend on knowing my real sentiments, whatever they may be.</p>
+			<p>To return now to the rest of your Letter, in which you ask kindly after my health, &amp; a little <hi rend="type">enviously</hi> , I think, after my Post-chaise. Of the <hi rend="type">first</hi> , let it be enough to say, that it is better than it has been: And of the <hi rend="type">Second</hi> , that the Coachmaker disappointed me, at least for this summer, tho' he promises fair against the next. Most probably I shall trust to him no longer <pb n="79" /> than till I return to town: If I do not find a right good secondhand chaise provided for me by that time, I shall hardly wait any longer, but be impatient &amp; extravagant enough to order a new one to my mind. Will you accept this disappointment, now, as an apology for my not coming to York? To be honest with you, I do not expect that you should. But my little, or great affairs, call them which you will, confine me here for the small remainder of the vacation, which yet, without intending you a compliment, I should spend much more pleasantly with the Praecentor of York.</p>
+			<p>Poor Balguy has been ill, &amp; much distressed in his family connections. Our good Bishop is alone at Gloucester, &amp; deserves a long Letter from you, while Mrs W. is traversing the Emperor's dominions, in company with Mr &amp; Mrs Poultney. This, I think, is all the news I have to tell you, except that my Lord of Lincoln preached a most excellent sermon on Wednesday last at the opening of our Leicester-Infirmary, &amp;, what you will like to hear better, is removing in all hast to Amen-Corner, where you &amp; I shall meet many a good time, it is to be hoped, next winter, as we used to do in Scotland Yard.</p>
+			<p>Adieu, my dear friend, &amp; believe me, most unfeignedly your's</p>
+			<p>R. Hurd</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_051">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1772 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="80" />
+			<p><head> <note resp="editor" value="XXXI HURD TO MASON" /> </head> <note resp="compiler" value="TO WILLIAM MASON" /> <hi rend="type">Lincoln's Inn <hi rend="sup" range="3,4" orig="Dec=r=">Decr</hi>. 24, 1772</hi></p>
+			<p>And so you expected my compliments on the success of Elfrida, &amp; the honour of your new connection with the Manager of Covent Garden Theatre. To tell you the truth, in one word, I know nothing of plays or players. Not but, as Socrates went to see Euripides' tragedies, it might not have been beneath the dignity of my wisdom to show the same respect to your Elfrida, if constant ill health, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. has attended me ever since I came hither in the end of October, had not kept me at home. All I know is that last night should have been the <hi rend="sup" range="2,4" orig="18=th=">18th</hi>. time of exhibition, if Miss Catley had not been ill. ... Yes, I can say one thing more: your good friend <hi rend="sup" range="1,2" orig="L=d=">Ld</hi>. Mansfield took the French Embassador to see Elfrida. The report is said to be favourable enough: Only Orgar's character was thought extravagant. I am told indeed (&amp; so I said in answer to this criticism) that Orgar's part is overacted. In general, they say the action is but indifferent. So that the success, after all, may be owing very much to the Musick, &amp; especially to the <hi rend="type">person</hi> of Elfrida. But enough of this.</p>
+			<p>Dr Balguy's charge is, as you say, an excellent one, and deserves your thanks. It is strange your <pb n="81" /> A.B. did not see, that the principles, the author goes upon, are the very reverse of those, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. a certain bench espoused on a late occasion. I think it was but charity for once to set the public right. I suppose, you will hear nothing farther from the author on this subject. He comes to town next week for the winter. <hi rend="sup" range="1,2" orig="D=r=">Dr</hi>. Powell's charge is a good one in its way, but on another subject. As to your friend of Lincoln's Inn, set yourself at ease: You will not find him in the hast, again, in the catalogue of authors.</p>
+			<p>The <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Wollaston, you speak of, is brother to my Assistant - a well-intentioned but weak man. His scheme cannot take. I hear of no body that comes into it, but the Dean of Lincoln, the Master of the Charterhouse, and <hi rend="sup" range="1,2" orig="D=r=">Dr</hi>. Porteus.</p>
+			<p>I agree with you: the Bp. of <note resp="editor" range="1,7" orig="L[\incoln\]">Lincoln</note> has done <pb n="82" /> perfectly well to give his Archdeaconry to Mr Bickham. As to our good friend, he is not in town, &amp; talks of not being here the whole winter. Nay, Madam talks in the same manner. I should have gone to them these hollidays, if I had been well enough to stir from my fire-side. It grieves me to find that, with the other infirmities of age, the best man in the world grows captious &amp; querulous. If you write (as I <hi rend="sup" range="1,2" orig="w=d=">wd</hi>. have you do, sometimes) take care what you say: things affect him very differently from what they used to do.</p>
+			<p>I hope we shall see you here in the Spring, notwithstanding what you said of fixing altogether at Aston. I want to consult you on some things relating to myself, as whether I should take a house, &amp; settle in town, &amp; give up Thurcaston, &amp; what I am to do with poor John, whose hopes of a provision here are all blasted. But God be with you, for the present; &amp; believe me always very cordially your's</p>
+			<p>R. H.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_052">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1773 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="82" />
+			<p><head> <note resp="editor" value="XXXII HURD TO MASON" /> </head> <note resp="compiler" value="TO WILLIAM MASON" /> <hi rend="type">Lincoln's Inn, April 14, 1773</hi></p>
+			<p>Dear <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Mason</p>
+			<p>Don't imagine I should have neglected you so long, if I had had a word to say to you worth making the subject of a Letter. My health, since I wrote last, has been tolerable; but that is all I have to boast of; for <pb n="83" /> the town has afforded me little or no amusement. I have long since lost my relish for what are called <hi rend="type">diversions</hi> , &amp; have little left even for <hi rend="type">books</hi> , even if the dullness of the present times could supply me with any, that were readible. Yes, I beg your friend Sir <note resp="editor" range="1,4" orig="J[\ohn\]">John</note> Dalrymple's pardon: his appendix is really entertaining: And, if it were not for the petulant satyr on <foreign>la te`te couronne`e</foreign> , I might perhaps allow that the Epistle to Sir W. Chambers has its merits. As to the tragical outcry of A. Stuart on a good friend of mine, I must positively aver that it is very ill, as well as passionately written.</p>
+			<pb n="84" />
+			<p>To tell you the truth, the pleasantest part of my time this winter, has been spent among your Dowagers, to whom our good friend of <note resp="editor" range="1,7" orig="H[\anover\]">Hanover</note> <note resp="editor" range="2,6" orig="Sq[\uare\]">Square</note> did me the honour to introduce me. My chief objection to them is, that, as I find from their conversation, they spoil you terribly. Out of pure kindness to you, I do what I can to lessen you in their esteem; but, to say the truth, to small purpose. I even saw in the hands of one of them, the etching of your Head, in an elegant purple frame, sprinkled with bay leaves (of her own workmanship) and inscribed with this motto - <hi rend="type">As worthy of the Purple as the Bays</hi> . Think how a Churchman &amp; Critic, like myself, must have been shocked with this adulation!</p>
+			<p>But now, to be very serious. I believe, your advice about Thurcaston may be good: And yet, If I knew how to provide for poor Ball, I should not hesitate a moment about resigning it. It <hi rend="sup" range="1,2" orig="w=d=">wd</hi>. do no good to increase his sallary, unless I could ensure it to him for life. ... I have been looking out for a house, but have <pb n="85" /> not sped yet, &amp; I think shall not, the price of houses in a situation, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I like, being more than I ought to give. But enough of this project.</p>
+			<p><hi rend="sup" range="1,2" orig="D=r=">Dr</hi>. Balguy has carried a town cold with him to Bath, &amp; our friend the Bp is where he has been all the winter, at Gloucester. I am to go to him at the end of June, to attend him on his visitation - What I shall do with myself afterwards, I no more know, than how the Bishops will get out of the scrape, they have brought themselves into with the Dissenters. But what care you about Bishops, when you can get your <hi rend="type">purple</hi> better cheap from <hi rend="sup" range="1,3" orig="M=rs=">Mrs</hi>. Delaney! - As to your Whitsunday sermon, why did not you send it me, for my revisal. You had no opportunity, I warrant; as if I had not seen, &amp;, to my shame, without remembring, &amp; knowing again, the good &amp; amiable countenance of your relative, &amp; my <foreign>quondam</foreign> Host, Mrs Dodsworth.</p>
+			<p>Adieu, my dear Sir! - tho' I should have taken my leave of you, before I had turned a new leaf, as, upon recollection, I now find that my loquacity will put you to the expence of four pence extraordinary, that is, eight pence more than twenty such sheets as this are worth. Who knows but this Letter may get in to some future collection of a Sir J. Dalrymple (for assuredly you will preserve it in your strong box at Aston) &amp;, therefore to baulk the curiosity of malignant readers, I will conclude it without the name of your assured friend &amp; Servant.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_053">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1788 TC WMASON"></title>
+					<author key="WILLIAM MASON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="98" />
+			<p><head> <note resp="editor" value="XXXVIII MASON TO HURD" /> </head> <note resp="compiler" value="TO RICHARD HURD" /> <hi rend="type">Aston July 19 1788</hi></p>
+			<p>My dear Lord</p>
+			<p>I have sent the Picture this day to Sheffield according to your Lordships directions &amp; I hope it will be forwarded to Hartlebury from Birmingham safely.</p>
+			<p>It may not be amiss to give you with it some <hi rend="type">Notices</hi> as Old Pegge and his brother antiquarians call them of the Original. <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. is painted down to the knees on a three-quarter Canvas. The right hand holds a letter superscribed To Joseph Add (the rest of the word is hid by the thumb) one of his Majestys <hi rend="type" range="4,9" orig="Prin(^ciple^)">Principle</hi> Secretarys of State. on the side is a table on <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. are two volumes of Rymers Foedera.</p>
+			<pb n="99" />
+			<p>As the Picture belongs now to the family of the late Governor Verelst, who when living could give me no other account of it <supplied>than</supplied> that it had been long an heirloom, I suspect it to be painted by Cornelius Verelst, the son of Harman who was brother of Simon the famous Flower Painter whom Prior has complimented. Harman who was a Portrait Painter died 1700 &amp; left a Son Cornelius of the same Profession (see <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Walpoles Catalogue vol. 3, p. 34) who I beleive was the Governors Grandfather .</p>
+			<p><hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Addison sat to Jervas for his picture in 1715 as appears from a joint Letter of Popes &amp; Gays (see Warburtons Edition vol. 7. P. 307.) two years before he was made Secretary of State. This is one Reason why I do not think Jervas Painted the Picture in question. Another is that Jervas was a Scholar &amp; would not have written <hi rend="type">principle</hi> . However this be, as <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Addison died in 1719 &amp; was born in 1672, He must have been 45 or 46 when he sat for this Picture, and the Countenance of it agrees with that Age. I think that <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. your Lordship has appears much older. so much for my notices. I must however set you right in one thing that the Copy was not painted by myself, <pb n="100" /> but by a Friend of mine <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Holland who was of Peterhouse. I don't know whether you recollect him. I think it a very accurate Copy but you must hang it on a side light on acct of some small defect in the Canvas, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. a front light only renders Visible.</p>
+			<p>I wish your Lordship may get as easily through the fatigues I find brewing for you, as you did thro' the Tryal. For my Part I know not <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I should hold the more <hi rend="type">penible</hi> . <hi rend="sup" range="1,3" orig="M=rs=">Mrs</hi>. Abigail says in your favorite comedy "now the Coast is clear I may call in my Drummer". &amp; so say I "that the Coast must be clear before your Lordship must call in</p>
+			<p>Your very faithful &amp; affectionate humble Servant</p>
+			<p>W. Mason</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_054">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1791 TC WMASON"></title>
+					<author key="WILLIAM MASON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="100" />
+			<p><head> <note resp="editor" value="XXXIX MASON TO HURD" /> </head> <note resp="compiler" value="TO RICHARD HURD" /> <hi rend="type">York Nov. 26 1791</hi></p>
+			<p>My Dear Lord,</p>
+			<p>I don't write to your Lordship so often as I think of you, &amp; wish to enquire after your health, because I <pb n="101" /> know that answering Letters is troublesome to you. and altho' I send you at present a short letter of my own, in order to inclose a very long one, I shall not expect an answer relative to either, for a reason <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. will hereafter appear in the course of my Epistle.</p>
+			<p>First let me assure you that the Person who writ the Letter gave me the copy of it, without the least guess concerning the use I meant to make of it. I only told him I thought it was well written contained many right sentiments, &amp; that I wished to communicate it to a friend. The writer is the Son of a Parochial Clergyman in this City, who died young, &amp; left a wife &amp; four or five children absolutely unprovided for. I remember (about 20 years ago) that I contributed a few guineas to a subscription here, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. proved ample enough to enable his Widow to open a linnen-drapers shop, where as occasion offerd I bought my family linnen. This Son was of a studious turn, &amp; my friend <hi rend="sup" range="1,2" orig="D=r=">Dr</hi>. Burgh took a good deal of pains in preparing <supplied>him</supplied> for admittance into Clare Hall, but where he did not stay long enough to become a graduate, probably on <hi rend="sup" range="3,4" orig="acc=t=">acct</hi>. of his finances. He has been four or five years in Priest's orders, has a small Curacy with two <pb n="102" /> Churches near York, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. he expects to lose soon on the Death of his Rector who is very old &amp; infirm. He has lately had the offer of a preachership in Scotland near Montrose, the profits of which are not by any means considerable &amp; I beleive depend on contribution. He had reason to beleive from the Letter of <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. R., who advised him to come to the Place by way of probation, that Socinianism and free thinking were very fashionable in that quarter, &amp; the Letter, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I saw, was a very <hi rend="type">scotch</hi> one &amp; led to that Idea. All this told, your Lordship will have all the Data necessary previous to your Perusal of this his answer. His going into Scotland is still in suspense &amp; he need not determine on the journey till next March.</p>
+			<p>In the interim, I own I am wishing (so much has the Letter prejudiced me in his favour) that some good Curacy if not some small living might be procured him in England; and I fancy that your Lordship when you have <hi rend="type">redde</hi> it may <hi rend="type">wish</hi> so too, &amp;, if you wish, you may perhaps find opportunity to fulfill our joint wish. But observe me, my dear Lord! I make no personal request. I only throw the Letter, like a Lottery ticket into a wheel, where it may possibly turn up a <hi rend="type">small</hi> prize; or from a possibility you may transfer it into some other ecclesiastical Wheel, where small prizes may bear a greater proportion to blanks than in your own. What may procure him, as a single man, a mere maintenance is all I aspire at for him. In vindication of my own impartiality in attempting to do him service, I will add that he is a descendant of that rank <pb n="103" /> Tory Bishop Watson in James the <hi rend="sup" range="1,4" orig="2=d's=">2d's</hi> time, and the first things that brought him into my notice, were a couple of well written Letters about a year ago in the Gentleman's Magazine <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. he had published in vindication of his ancestor's character against some person who had attacked it. My Whigism was not strong enough to refuse giving him credit for the attempt. I remember <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Pope in one of his Letters to Dean Swift solicits him to subscribe to Old Sam Westley's comment on Job because he was a staunch Tory, &amp; I quote his authority for my example in the present case for troubling your Lordship with a Letter, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. has run out to a much greater Length than I intended, when I sat down to write it. I am now in the first Month of a second residence <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I have had resolution to take with the hope that next summer (if not for the whole of my Life) I may have more time to visit my friends, and amongst these to visit your Lordship at Hartlebury. I am with my kind Compliments to your Nephew (who I could wish would give me a single line with regard to your Lordship's health) My Dear Lord</p>
+			<p>Your very sincere &amp; devoted Servant</p>
+			<p>W. Mason</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_055">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1794 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="104" />
+			<p><head> <note resp="editor" value="XL HURD TO MASON" /> </head> <note resp="compiler" value="TO WILLIAM MASON" /> Dear <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Mason</p>
+			<p>My nephew incloses to you some seeds of our oriental plant (whether rightly named by my Gardiner, I cannot say) &amp; I take the opportunity to write one word to you.</p>
+			<p>You will see that what you said to me, when you was here, had it's proper weight with me, when I tell you that I have sent the Bp's Life to the press. Only so many copies will be worked off as will satisfy the demands of the Purchasers of the <hi rend="sup" range="1,3" orig="4=th=">4th</hi>. edition, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I think are not more than 200. So bounded is my ambition both for my friend, &amp; for myself!</p>
+			<p>I have lately amused myself with reading again your agreable life of <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Gray. His Letters paint his character to the life. If he had been more at ease in his circumstances, &amp; a little higher in rank, he would have been, not more estimable, but more happy.</p>
+			<pb n="105" />
+			<p>It will always give me a pleasure to hear from you, tho' I write but few, &amp; short Letters myself.</p>
+			<p>With all affection, Dear Sir Your faithful humble servant</p>
+			<p>R. Worcester</p>
+			<hi rend="type">Hartlebury <hi rend="sup" range="4,5" orig="Sept=r=">Septr</hi>. <hi rend="sup" range="2,4" orig="13=th=">13th</hi>. 1794</hi>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_056">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1795 TC WMASON"></title>
+					<author key="WILLIAM MASON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="110" />
+			<p><head> <note resp="editor" value="XLIII MASON TO HURD" /> </head> <note resp="compiler" value="TO RICHARD HURD" /> <hi rend="type">Aston March 26 1795</hi></p>
+			<p>My dear Lord,</p>
+			<p>It was but four days ago, that I <hi rend="sup" range="3,4" orig="rec=d=">recd</hi>. your preliminary Discourse; for wishing to receive it safer than by common conveyance, I desird a Gentleman in this neighbourhood to bring it down from <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Stonhewer, who had before procured it for me from Robson the bookseller, &amp; this Gentleman instead of staying in London a week did not return of three: otherwise I should have written to your Lordship sooner, as I had promised.</p>
+			<p>I have redde it, according to Bp Horsley's, but not your Orthography, with much care, &amp; yet to me, whatever it may have to your Lordship,</p>
+			<p>It has no faults, or I no faults can spy. I mean with respect to style, manner, and all that relates to the Bps own character; with respect to the Character of others incidentally drawn I also agree with you more than the present race of Readers will: <pb n="111" /> &amp; I admire evry part of the work, in <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. you have shewn the least degree of Prudence, &amp; consequently the highest degree of downright declaration of your own Sentiments. This became the Biographer of Warburton, &amp; in this you have answered my Expectation to the full.</p>
+			<p>Your Lordship knows I always differd with you with respect to a favorite Hypothesis of yours, that Genius has a precise time for coming to its <foreign>acme</foreign> , or at least decreases sooner than the corporeal faculties, &amp; this, I know, you imputed long ago to our excellent friend &amp; have now publicly avowed it. For my own part, I think his unfinished ninth book is an instance to the contrary; for there is more of original, I will not say uncontrovertible, thinking in that Book than in almost any thing he has written, &amp; expressed with as much force. The most paradoxical part of it, respecting the fall, is surely ingenious in the highest degree. But that it is more than ingenious I say not. However such original thought could not have enterd into any Man's brain, whose imagination &amp; Fancy had been by Time impaired. I know your Lordship &amp; I shall never agree on this point, yet as I have been so long in the habit of speaking my mind to you as well (to my own detriment perhaps) as to all the world, I trust you will forgive me. I have done so lately to a very learned Chaplain of my Lord of Durham's, a <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Burgess, <pb n="112" /> who sent me a private printed copy of the Epistola ad Pisones, every sentence of <hi rend="sup" range="2,3" orig="wc=h=">wch</hi> was most licentiously transposed, because, Forsooth!, he &amp; his brother Chaplain had agreed that "in its first form it was more immethodical than the Epistolary style permitted". But I gave him a Rowland for his Oliver, as our good Bishop would have said &amp; done, &amp; hope on this acct to be set down as a true Pupil of the Warburtonian School by the Prelate himself. But to return to a better subject. I am heartily rejoiced that your Lordship has given this finish to an Edition, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. would have been imperfect without it, &amp; that you have finished it in a way, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>., when Prejudice has had its day, will be as honorable to your own memory as that of our illustrious friend.</p>
+			<p>Believe me to be with compliments to your Nephew and with the sincerest Respects to yourself</p>
+			<p>My dear Lord, Your very affectionate <hi rend="sup" range="4,5" orig="Serv=t=">Servt</hi>.</p>
+			<p>W Mason</p>
+			<p>I have a great mind to fill up the remainder of this Paper with a Septuagenarian-Petrarchian Sonnett, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I wrote last month on my Birthday, tho' I know you will condemn it, because it was written full thirty years after a Poet should have left off writing.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_057">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1795 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="113" />
+			<p><head> <note resp="editor" value="XLIV HURD TO MASON" /> </head> <note resp="compiler" value="TO WILLIAM MASON" /> My dear Sir</p>
+			<p>Your Letter of the <hi rend="sup" range="2,4" orig="26=th=">26th</hi>. past, crossed one of mine to you - I cannot but be much pleased with your approbation of the <hi rend="type">Life</hi> , because I know you always tell me your real sentiments. I have reason to believe that the characters of Secker &amp; Lowth are not relished by your friend the Bp. of London, and by the family, or schools rather, of W. of Wickham. Nor could anything else be expected from either quarter.</p>
+			<p>Your account of the Durham critics is pleasant enough. Who is this <hi rend="type">Sturges</hi> ? He must be a poor creature to have recourse to such licentious transpositions for the vindication of his author. His patron, I believe, means well; but so much vanity is never attended by true judgment.</p>
+			<p>I rejoice to hear that you have no complaints to make of old age. To me, it's depredations are very <pb n="114" /> sensible. As to the general question, I perceive, we are not likely to agree. But in the particular case of the <hi rend="sup" range="2,4" orig="ix=th=">ixth</hi>. book, we differ less than you imagine. The matter of that book is, as you observe, as original &amp; ingenious, as anything he ever wrote. But then you are to reflect, that the <hi rend="type">matter</hi> had been laid in and digested, in his better days. The <hi rend="type">composition</hi> , tho' of wonderful merit, as I observe, all circumstances considered, is yet inferiour to that of the other books; such notes &amp; passages only excepted as he had written long before. On the whole, there are exceptions to the general Rule, but it holds good for the most part. At least, I think so.</p>
+			<p>But now for the Septuagenarian Sonnet. I like it extremely well, both sentiment &amp; expression. The only criticisms I have to make upon it, are 1. that <hi rend="type">reign</hi> in v. 8 does not rhyme well with <hi rend="type">men</hi> . 2 <hi rend="type">That</hi> silent lay, That musing gratitude v. 11 &amp; 12. The second <hi rend="type">that</hi> , should be <hi rend="type">which</hi> . 3. I have fancied that in the last line <hi rend="type">And praise with more than tongue</hi> - might be expressed more happily.</p>
+			<p>Take notice, I do not forbid your writing a sonnet, now &amp; then, or any short poem. But a long work of invention, another Georgic, for instance, or dramatic poem, I shall not allow you to undertake at 70.</p>
+			<p>This deanery yet hangs. I know not why unless these stirs in Ireland have occasioned any delay. <hi rend="sup" range="1,2" orig="D=r=">Dr</hi>. <pb n="115" /> Evans' dependance, if he thinks of it at all, can only be on the Duke of Portland.</p>
+			<p>With my nephew's best respects, &amp; my fervent wishes that you may live to write many more birth-day Sonnets, I am ever, Dear Sir,</p>
+			<p>Your affectionate humble servant</p>
+			<p>R. Worcester</p>
+			<hi rend="type">H.C. Ap. <hi rend="sup" range="1,3" orig="8=th=">8th</hi>. 1795</hi>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_058">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1795? TC WMASON"></title>
+					<author key="WILLIAM MASON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="115" />
+			<p><head> <note resp="editor" value="XLV MASON TO HURD" /> </head> <note resp="compiler" value="TO RICHARD HURD" /></p>
+			<note resp="editor" value="YORK, AUG. OR SEPT. 1795" />
+			<p>My dear Lord,</p>
+			<p>I have been most shamefully remiss in not writing to you of so many months, but the truth is I have for many months been much indisposed with indigestion, flatulency, &amp; nervous feelings <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. have depressed my spirits extreamly, so that I have written no Letters except on immediate business. I have however lately began with an infusion of Quassia, a strong bitter, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. from the good effect I have already experienced seems to promise, under providence, a cure of my complaint.</p>
+			<p>I beleive I promised your Lordship a present of my slight Musical Essays, &amp; that afterwards, when I had resolved on making no present on acct of my numerous acquaintance, I forgot to apologize for having withdrawn my Promise. So that probably you have never <pb n="116" /> seen them. If so there is little harm done, for by what I find they are mighty likely to pass thro' the world unnoticed.</p>
+			<p>I have been two months residing in this dullest of all dull places, &amp; have lost the comfort of the late uncommonly fine Autumn, with nothing to do (as the ceiling of our Cathedral is stuccoing) but to chaunt the second Service on a Sunday; The want of a proper substitute obliges me to this.</p>
+			<p>Your Lordship disliked the last line of my Sonnet. Pray substitute this in its place</p>
+			<p>- shall Faith convey</p>
+			<p>And Hope the Cherub of unwearied Wing. By <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I mean to express, in the Sonnet style, what Pope has in the Didactic</p>
+			<p>Hope travells thro nor quits us when we die. This Letter, short as it is, is the longest I have written of some time for in a morning my hand has been hardly able to direct a pen tho now much better. It is written merely to hope for a line from your good Nephew (for I feel as if I was unworthy to receive one from yourself) to know <foreign>si valeas</foreign> that I may say from my heart <foreign>Bene est</foreign> in hope that I may finish the Sentence in my next Letter, from My Dear Lord</p>
+			<p>Yours truely and affectionately</p>
+			<p>W. Mason</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_059">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1796 TC WMASON"></title>
+					<author key="WILLIAM MASON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="120" />
+			<p><head> <note resp="editor" value="XLVII MASON TO HURD" /> </head> <note resp="compiler" value="TO RICHARD HURD" /> <hi rend="type">Aston Jan. 25 1796</hi></p>
+			<p>My dear Lord,</p>
+			<p>I am conscious that I have deferred answering your Lordship's last very obliging Letter much longer than I ought to have done, but instead of making apologies, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. are always tedious both to the writer &amp; the reader, I shall only say, what I trust you will candidly admit, - better late than never.</p>
+			<p>Your defence of Musical Creeds is ingenious, but it rather comes ill from a Clerk of his Majesty's Closet, &amp; <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I should not admit even from a Dean of his Chappel. the Truth is, that the Apostle's Creed, I beleive, never was set to Music, tho the Nicene has, &amp; is so performed in many Cathedrals, but not in the Chappel of the supreme head of the Church of England. When I had the honour to be a Chaplain, I noted this &amp; approvd it, having always found that the Harmonical Music it was set to rendred it absolutely unintelligible; on this acct, when I was well with the Dean of York &amp; a kind of Prime Minister to him, <pb n="121" /> I persuaded him, quoting my regal Authority for it, to have it simply <hi rend="type">redde</hi> &amp; instead of two unmeaning Voluntarys a fine <foreign>Sanctus</foreign> of <hi rend="sup" range="1,2" orig="D=r=">Dr</hi>. Boyce's performed going &amp; coming from the communion Table, for <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. also I had the same Authority: and so in our Minster it continues still to be. But indeed, my good Lord, you seem to carry your cautious &amp; temperate Ideas of reform almost as far as your Old Brother Beveridge, who writ a tract, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I once saw, against Tate &amp; Brady's new version of the Psalms, because it was too refined &amp; Poetical, &amp; most manfully and Episcopally &amp; Orthodoxly defended Old Thomas Sternhold. I remember, when the Nicene Creed was sung at York, It was usual for the Dean or Officiating Residentiary to chaunt audibly "I believe in one God" - &amp; then the Organ &amp; Choir took up in their Counterpoint &amp; Canon the rest of it. On <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. some wag, who I suppose, suspected the Chaunter to be a Socinian, said "&amp; I fancy you believe no more" &amp; if the said Officiating Prebend, as I think he was, was a relation of Archbishop Herring's he perhaps made a good guess. So much then for the subject of Musical <hi rend="type">Credos</hi> , for that is the musical term.</p>
+			<p>A very excellent Woman with whom I had long been acquainted died last Month, after suffering more than fourteen years in a peculiar species of Atrophy attended with much pain &amp; an entire loss of strength in evry limb, but retain'd her Memory &amp; intellects, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. were great, even to the last. I had promised her many years <pb n="122" /> ago to write her Epitaph, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I have lately done, tho' from a much earlier Idea, &amp; your Lordship will oblige me much if you will give me your Critique upon it, as I wish to make it as perfect as I am able. As besides her moral &amp; truly Christian Character, she was eminent in copying Pictures with her needle, this Talent, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. was at the time almost new and singular, requird to be noticed. Therefore I thought it necessary to borrow aid from Scripture &amp; the design of the Monument, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. is of the kind they call Mural, is to be an antique female figure working on a frame, &amp; an Easel before her with an original <hi rend="type">Canvas</hi> on a painter's Easel under this <foreign>Alto Releivo</foreign> on the front of a Cinerary Vase the following inscription on a plain marble tablet.</p>
+			<note resp="compiler" value="EPITAPH OMITTED" />
+			<p>Every body that knew her will say nothing here is exaggerated, Particularly her uncommon soundness of Judgment, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. was of the masculine cast.</p>
+			<pb n="123" />
+			<p>I wish much to have your Lordship's early opinion of these lines, because I know not how soon I may be called upon for them.</p>
+			<p>My friend Dixon has left me for Buxton by the advice of a physician in this neighbourhood, in order to fix a flying Gout, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. has of late attacked his Bowels. I hope to see him again on his return, &amp; I hope with improvd Health. for myself, God be thanked, I never was better, I went through a course of Quassia for six weeks, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I was ordered to repeat after a month, The interval I filld up with a dayly pint of Tar Water, and am now in my second Course of Quassia, tho hardly necessary. I wish <hi rend="sup" range="1,2" orig="D=r=">Dr</hi>. Johnson, who I find has edited his ganglions afresh, may put your Lordship in the same regimen, &amp; this the rather because Quassia is incapable of Adulteration. Whereas I am told by the Faculty that Bark is now seldom to be met with genuine.</p>
+			<p>I inclose a line to my good friend your Nephew on a very different subject concerning <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I doubt not he will give me his best advice &amp; assistance. Hoping that this wonderfully mild, tho somewhat boisterous, Winter, if the two terms be not incongruous, has agreed with you.</p>
+			<p>I conclude with perfect respect</p>
+			<p>Your Lordships truely affectionate,</p>
+			<p>W. Mason</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_060">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1796 TC WMASON"></title>
+					<author key="WILLIAM MASON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="137" />
+			<p><head> <note resp="editor" value="LI MASON TO HURD" /> </head> <note resp="compiler" value="TO RICHARD HURD" /> <hi rend="type">Aston July <hi rend="sup" range="1,3" orig="9=th=">9th</hi>. 96</hi></p>
+			<p>My dear Lord,</p>
+			<p>I am sorry the proof of my R. C. came to your Lordship so inopportunely but am therefore the more obliged to you for examining it &amp; transmitting it to me again so speedily. After having <hi rend="sup" range="3,4" orig="rec=d=">recd</hi>. your <foreign>imprimatur</foreign> , I employd a morning in rectifying most of the Passages you had so justly objected to, some lines seem'd to me not to have appeard clear to you from false punctuation only, others from perhaps your not knowing to what I precisely alluded therefore these latter I sufferd to remain. I then sent my Alterations to York and orderd my Printer (who I can safely confide in) to take off a dozen copies, very few of <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I shall at present communicate to any person besides your Lordship to whom I now send one under a separate cover.</p>
+			<p>The notes many of <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. are now written are not merely textual, nor are they intended to load the page. But (should ever the Poem be made <foreign>publici juris</foreign> ) are illustrative &amp; to be placed at the End. Notes of this kind I think will be useful if not even absolutely necessary to such Readers as I have said I write for, and as I shall treat certain Socinian arguments in them as <hi rend="type">detected Falshoods</hi> I shall venture to make them a <hi rend="type">butt for Wit</hi> ; some of Lindsey's particularly, who has <pb n="138" /> much offended me by his dull pertness respecting your Lordship in a preface <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. he lately writ to usher in some trash of Priestley's imported from America, &amp; <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I take for granted you never saw.</p>
+			<p>I will not be hasty in expecting a further Critique from you, tho I shall wish to know that the Pacquet is rec'd safe. For as I mean to make you a visit this summer (when Summer is actually set in, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. with us is not yet the case) I shall wait for your further strictures <foreign>viva` voce</foreign> .</p>
+			<p>Believe me My Dear Lord,</p>
+			<p>Yours most respectfully &amp; cordially</p>
+			<p>W. Mason</p>
+			<p>My kind <hi rend="sup" range="5,6" orig="Compt=s=">Compts</hi>. to your Nephew. I hear poor Mainwaring is, or has been dangerously ill at Stratton.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_061">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797? TC WMASON"></title>
+					<author key="WILLIAM MASON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="144" />
+			<p><head> <note resp="editor" value="LIV MASON TO HURD" /> </head> <note resp="compiler" value="TO RICHARD HURD" /></p>
+			<note resp="editor" value="JANUARY 1797" />
+			<p>My dear Lord</p>
+			<p>You will find by the next page that I go scribbling on to the end of the Chapter. But you must forgive me, it is my principal Amusement. The <hi rend="sup" range="2,4" orig="28=th=">28th</hi>. Chapter of Job appears to me to be quite a <foreign>purpureus pannus</foreign> totally unconnected with all of Job's final defence, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. either went before or follows it. Yet, when considered in this detatchd Light, it also appears to be a Complete Ode, &amp; of the very first &amp; most perfect Lyrical form when somewhat clear'd from its oriental redundancies, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. in my Version is here done. Our Bible Version of this Chapter is peculiarly obscure &amp;, I suspect, Faulty. Yet if, according to a conjecture of Albert Schultens, we insert in the beginning of the third verse <hi rend="type">Man for he</hi> , much of the obscurity will be removed. Schultens however had no idea that it was a Lyrical composition, for he only calls it <foreign>Peroratio magnifica pro Coronide imposita universis disputationibus</foreign> , <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. it is so far from being, that Job continues his speech in the very next Chapter, taking up a quite different subject, a narrative of his former state of prosperity. But all this is of that species of <foreign>Lauda Bene</foreign> Criticism, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. men, conversant with words more than sentiments, must necessarily make, &amp; if they are able to express themselves in what is called Classical Latinity they will obtain that degree of celebrity, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. the Lecturer of Job got, who, I dare say, never knew the merit of this peculiar <pb n="145" /> Chapter <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>., had he known it, &amp; in consequence versified it in Alcaics or otherwise, He would have done more than he has done by his Versions of what all the world before knew were either pathetic or sublime.</p>
+			<p>What I wish from your Lordship is merely this, that you would note what you think requires emendation in this Copy, provided you think it deserves such pains, &amp; if you do, I mean to print it in a private way, with a short address to you, explanatory, like this Letter of the Idea I have conceivd of the Original. I shall put down a few references at the Bottom of this page to Lessen your trouble.</p>
+			<p>My third Volume I find is publish'd, &amp; the Booksellers to whom the 500 Copies were sold, have put a Lying Advertisement to it, <foreign>viz.</foreign> that the Book consists <hi rend="type">wholly</hi> of things not before published. But the Best of Booksellers (&amp; I believe they who have it are the best) are what our good Bp W. would have called <hi rend="type">Scounderels</hi> . I have not yet heard a syllable about it from any of my Correspondents.</p>
+			<p>I wish your Lordship &amp; Nephew all good and seasonable wishes, hoping that your health has not been affected by the hitherto severe winter. Believe me to be with all sincerity</p>
+			<p>Your Lordship's truely respectful <hi rend="sup" range="4,5" orig="Serv=t=">Servt</hi>.</p>
+			<p>W. Mason <pb n="146" /></p>
+			<note resp="compiler" value="NOTES ON INTENDED PUBLICATION OMITTED" />
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_062">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797 TC RHURD"></title>
+					<author key="RICHARD HURD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="147" />
+			<p><head> <note resp="editor" value="LV HURD TO MASON" /> </head> <note resp="compiler" value="TO WILLIAM MASON" /> <hi rend="type">H.C. Jan. 24, 1797</hi></p>
+			<p>Dear Sir</p>
+			<p>I have your Letter without date, &amp; your <hi rend="type">Ode on Wisdom</hi> . You have picked some gold out of Schultens dunghill. But these dull interpreters are not much worth your notice. You may venture without scruple on <hi rend="type">man</hi> for <hi rend="type">he</hi> . Houbigant translates v. 3 thus - <foreign>Nihil jam tenebris opertum; nihil rarum et pretiosum. Reperit <hi rend="type">homo</hi> gemmas abditissimas</foreign> - and in a note, <foreign> <hi rend="type">ille</hi> est homo, de quo in fine capitis superioris</foreign> . v. 19. You may make use of Schultens' <hi rend="type">vase</hi> , tho' Houbigant translates, as our bible does, - <foreign>auro non compensabitur defaecato</foreign> - v. 21 <hi rend="type">celestial intelligences</hi> seems nobler than <hi rend="type">the fowls of the air</hi> . But I doubt it's truth. The former may be supposed to know that <hi rend="type">obedience</hi> is true wisdom; not so, blind mortals, or even the eagle-eyed inhabitants of air. Houbigant's version is, <foreign>Ea <note resp="editor" value="SAPIENTIA" /> mortalium omnium latet aspectibus; ea coeli volucribus abscondita</foreign> . But the authority of Schultens will justify you, if you prefer his comment. And now to your questions. I not only approve your Ode but think it excellent. Nor do I find a single verse, or word to alter.</p>
+			<p>As soon as I saw your new volume advertized, I ordered our Worcester bookseller to send for it. But <pb n="148" /> it is not yet arrived. - Our booksellers are grown rich &amp; great, &amp; therefore inattentive. I don't wonder they blundered in the advertisement; if it be a blunder, for it makes for them, tho' not for the author.</p>
+			<p>Your report of Roscoe's book made me send for it. He seems well versed in the Tuscan history &amp; literature. He, also, writes an easier style (tho' not without affectation) &amp; is more decent than Gibbon. But he is of that school in religion, &amp; in politics, a Jacobin. So fine a thing it seems to our modern historians &amp; Virtuosi to have, &amp; to profess to have, no religion.</p>
+			<p>I scribble this in haste on that day, on <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I enter by God's great mercy on my <hi rend="sup" range="2,4" orig="78=th=">78th</hi>. year. Yet here I am, reading and criticizing your poetry. But it is divine poetry, &amp; not unworthy it's subject. May you live long to amuse yourself in this way, &amp; to oblige &amp; entertain your old friend &amp; affectionate servant</p>
+			<p>R. Worcester</p>
+			<p>P.S. My nephew is much your's. If anything more occurs to me on the subject of your Ode, you shall hear again from me.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_063">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797 TC WMASON"></title>
+					<author key="WILLIAM MASON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="149" />
+			<p><head> <note resp="editor" value="LVI MASON TO HURD" /> </head> <note resp="compiler" value="TO RICHARD HURD" /> <hi rend="type">Aston Jan: <hi rend="sup" range="2,4" orig="31=st=">31st</hi>. 1797</hi></p>
+			<p>My dear Lord,</p>
+			<p>I am highly gratified by the Approbation you have given to me of my Ode. I own I rather thought well of it myself, but I writ it with so much greater facility than I did that from Isaiah forty years ago, that I suspected I had only acquired by habit a quickness of execution, but might have lost a strength of colouring and expression.</p>
+			<p>I am afraid Scultens, of whom I have as mean an opinion as your Lordship, will not either authorize the Sculptured Vase or the Coelestial Intelligences. the Truth is, I took them from a French Version of Schultens translated by <hi rend="sup" range="4,6" orig="Mess=rs=">Messrs</hi>. Joncourt Sacretaire &amp; Allemand printed at Leiden 1748 The latter of whom Allemand came over with the Dutch Ambassador on the King's Accession &amp;, on seeing me at Lord Holdernesse's, sent it me when he returnd. This version is said in the preface to have been revised &amp; approved by Schultens himself. But on consulting his wretched Latin in <hi rend="sup" range="1,2" orig="D=r=">Dr</hi>. R Gray's edition (the only Hebrew Book in my Possession) I find no Authority for either of the Passages, one of which according to Schultens is</p>
+			<note resp="compiler" value="LATIN OMITTED" />
+			<p><pb n="150" /> The other</p>
+			<note resp="compiler" value="LATIN OMITTED" />
+			<p>But I will keep the thing by me a little while, &amp; then make the Lines in question more <hi rend="type">germane</hi> to the Hebrew Verity.</p>
+			<p>Houbigant, for the extracts from whom I am much obliged to Your Lordship, is, I fancy an Hebraist of a better form, but how strange it is that one Word can mean either <hi rend="type">flame</hi> or <hi rend="type">Bread</hi> ?</p>
+			<p>I cannot however see the Connection, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. your Lordship calls so close, in the Original. You must know, that ten or twelve years ago I versified the whole Poetical part of Job into dramatic Verse. But it appear'd Prolix, &amp; I threw it aside. This Winter I happen'd to find it amongst other <foreign>Ebauche`es</foreign> , and have since returnd it to the anvill, versified the Prose Introduction &amp; conclusion, so that it appears a sort of Epo-dramatic Composition similar as to manner with Paradise Regained. I give your Lordship this information merely to add that this Chapter puzzled me so much, that I could not possibly connect it with what preceeded it. I found it so perfectly Lyrical, &amp; breaking off so abruptly, therefore I versified it in unequal Couplets of two tens &amp; two eights like Milton's version of <foreign>Quis multa Gracilis</foreign> &amp;c, but as I knew you did not like Blank Verse (neither do I the unequal Blank Verse) I try'd my hand at it again in Strophe &amp;c <pb n="151" /> Rhymed, in the way in <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. I sent it for Your Lordship's amusement. As to Houbigant's Dictum that it refers to <hi rend="type">Men</hi> in the last verse of the preceding Chapter, My Bible prints the word in <hi rend="type">Italics</hi> , <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. indicates it not to be in the original, so this necessary word is omitted in each place.</p>
+			<p>For myself I am not displeasd with the Pains I have taken with the whole Book, as I think it has given me a clearer insight into what you call this Mysterious Composition, &amp; convinced me that Our friend's Conjecture, tho' certainly only a conjecture, is the best &amp; only clue to direct one thro' the Labyrinth.</p>
+			<p>Believe me to be, My Dear Lord Your obligd &amp; affectionate <hi rend="sup" range="4,5" orig="Serv=t=">Servt</hi>.</p>
+			<p>W. Mason</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HURD_064">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797 TC WMASON"></title>
+					<author key="WILLIAM MASON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="155" />
+			<p><head> <note resp="editor" value="LIX MASON TO HURD" /> </head> <note resp="compiler" value="TO RICHARD HURD" /> <hi rend="type">Aston Ap. 3 -97</hi></p>
+			<p>My dear Lord,</p>
+			<p>I inclose, as you desire, another Copy of the Ode. My Curate who is at once my Orthographer &amp; Punctuator, vindicates himself from your Lordship's criticisms by saying that the distinction between E're &amp; Eer is now little regarded, but I kiss the rod; there is certainly too many <hi rend="type">eers</hi> of one sort or other in the Ode, as it now stands, but at present it can't be helpt.</p>
+			<p>I am a little, tho' not much, curious to know whether His Grace of Grafton has made a present to Your Lordship &amp; consequently to Hartlebury Library of a New Edition of Professor Greisbatch first Vol: of his Greek Testament. I have had that inexpressible Honour. If you have not, you will perhaps smile to know that this <foreign>Celsissimus Dux bonarum Literarum patronus Egregius</foreign> has had a certain number of Copies <pb n="156" /> printed at Halle in Saxony on fine <hi rend="type">English</hi> paper, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. he makes presents of, &amp; for <hi rend="sup" range="1,3" orig="w=ch=">wch</hi>. the Learned Professor gives him due Encomiums in his <foreign>Prefatio</foreign> . With kind <hi rend="sup" range="4,6" orig="comp=ts=">compts</hi>. to your Nephew I remain My Dear Lord</p>
+			<p>Yours most truely</p>
+			<p>W. Mason</p>
+		</text>
+	</TEI>
+</teiCollection>

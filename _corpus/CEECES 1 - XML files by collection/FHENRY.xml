@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FHENRY">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>DIARIES AND LETTERS OF PHILIP HENRY, M.A., OF BROAD OAK, FLINTSHIRE, A.D. 1631-1696. ED. BY MATTHEW HENRY LEE. LONDON: KEGAN PAUL, TRANCH &amp; CO. 1882.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="HENRY_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1660 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="71" />
+			<note resp="compiler" value="TO KATHERINE HENRY" />
+			<p>London, October 9, 1660.</p>
+			<p>Dear Heart,</p>
+			<p>I bless God, I am safe and well at London. I came from Oxford yesterday morning alone, but the Lord was with mee; it was a long journey but I was stirring betimes. I was nine miles on my way before eight o'clock, and came an hour or two before sun-set to Thistleworth. Towards the end of my journey, for three or four miles, where was most danger it pleased God I had Company, which was a great mercy. I met many soldiers upon the way, going homewards upon their disbanding, towards their several countries, and I was sometimes afraid <pb n="72" /> of them. They were by two &amp; three in a company, but the Lord preserved mee. This morning I came to Chelsea, where I saw my sisters, in health, blessed bee God, and overjoyed to see me; from thence, this afternoon, to London. I have been with cousin Thomas Hotchkis, from whom I received a letter to <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Orlando Bridgman from Mr. Eddow; and, to-morrow, I purpose, God willing, to wait upon his Lordship, expecting a charge from him, in the first place, about conformity, wherein yet I shall do as I see cause, in case I should be continued at Worthenbury. The ministers here are generally unanimous, and resolved. Dr. Sheldon was installed Bishop of London to-day. The King is gone into the country for a fortnight during the trial of his father's Judges to prevent petitions. I sleep to- night at Mrs. Kingstons who desires to be remembered to you, and to Mr. Puleston, and his wife. I wrote to you, by the last post, from Oxford. Commend me to sister Mary, and all that ask of me. Dear heart, make much of thyself, and love me; and the Lord everlasting be thy Sun and Shield! So prayeth,</p>
+			<p>Thine, in all affection,</p>
+			<p>Philip Henry.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1680 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="334" />
+			<p><head> <note resp="editor" value="1. MR. HENRY TO HIS SON, AT MR. DOOLITOL'S, ISLINGTON - AETAT. 18." /> </head> <note resp="compiler" value="PHILIP HENRY TO MATTHEW HENRY" /> My dear Child,</p>
+			<p>Your letter to me I <hi rend="sup" range="3,4" orig="rec=d=">recd</hi> &amp; <hi rend="sup" range="1,2" orig="y=r=">yr</hi> mother also her's, in the former an account of your being busy, at which we were glad, in the later of your being not well, &amp; that troubles us, but wee are in hope, that this night's post will bring us better tidings, that it proves not an Ague, as you fear, but a sudden ake the effect of your being wett in the show'r &amp; not shifting more then your shooes when you came to Isl. however wee desire to acquiesce in the will of God in whose hand our times are, and at whose dispose are all our wayes, who doth always that which is just &amp; righteous, &amp; always that which is best to those that love him. I am at the writing of this at <note resp="editor" range="7,9" orig="Boreatt[\on\]">Boreatton</note> where I expected your mother this morning, as wee appointed, but instead of coming herself, shee sends Roger with your two letters, &amp; her dezire to mee to answer them from hence by the way of Shrewsb. they are all well, blessed bee God, both there &amp; here, my Lord Paget intended to have gone from hence tomorrow, which hastned mee hither a week sooner than I expected &amp; caus'd a fayleur at home yesterday, on Chapel-day, but his stay now is till next week; I am comforted that you acknowledge God in your distemper, and are prepar'd to receive with patience what he appoints; The two last subjects wee were upon when you left Br. O., Faith &amp; Repentance, I hope were made profitable to you; hee that truly Repents of sin and truly <pb n="335" /> believes in the Lord J. <hi rend="sup" range="1,2" orig="X=t=">Xt</hi> nothing can come amiss to him, things present are his, things to come are his, Life, Death, this world and t'other world; Though you are at distance from us, you are near to him who according to his promise is a present help to those that fear him in every time of need; our poor prayers for you, you may bee sure are not, shal not bee wanting, that if the Lord please you may have health to ply the work you came about, that you may serve the will of God in your generation, if otherwise, that you may be satisfied, in what hee doth, and so wee by his grace shal endeavour to bee also. Commend us to Mr. Doolitol &amp; his wife, whose tender love to you &amp; care concerning you, wee shal alwayes acknowledge with all thankfulnes; also to Cozin Rob~t, who I know wil help to bear your Burthen; The Lord Almighty bless you, my dear child, and cause his face to shine upon you, and send us good newes in your next concerning you. Amen. This from</p>
+			<p>Yr. Loving Father</p>
+			<p>P. H.</p>
+			<p>Aug. 16. 1680.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682 T PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="335" />
+			<p><head> <note resp="editor">2.</note> </head> <note resp="compiler" value="PHILIP HENRY TO BISHOP WILLIAM LLOYD" /> My Lord,</p>
+			<p>The experience which I have had of your very great Candor, together with the particular leave you were pleas'd to give mee of Applying myself to you, as there might bee occasion of this nature, are my <hi rend="sup" range="10,11" orig="encouragem=t=">encouragemt</hi> to trouble your Lordship with these few lines. I understand, there are several Protestant Dissenters of your Diocess, that being excommunicate, are in danger of being cast into Prison by writs remayning in the Sheriffs hands for that purpose; concerning whom, when I was with you at Chester, you were pleas'd to say, it was not for their meer non-conformity but for witholding their Church dues; having made Inquiry about it, I doo find that there are but few of them chargeable with that neglect, &amp; of those few, there is one William David of Myvod on whose behalf the <hi rend="sup" range="3,4" orig="Min=r=">Minr</hi> of the Place hath written the inclosed, whereby it wil appear, that his default therein was not wilful &amp; usual but meerly accidental, which when your Lordship sees, I hope, it wil prevayl to obtayn from you his discharge. And for the rest, who suffer for not conforming, I have personal acquaintance with divers of them, both about <pb n="336" /> Wrexham in Montgom-shire, particularly with Mr. Walter Griffiths &amp; Richard Gardiner, &amp; Evan Roberts, and have reason to believe concerning them, that they are Religious, sober, peaceable men, though under Dissatisfactions in the things imposed, and being such, I would intreat your lordship on their behalf that your lenity may be extended towards them, and the rather considering, that the casting of them into the Jayl is like to be the Ruine both of themselves and of their Familyes as to this world, which I am confident can be no way pleasing to you in the Reflection. Besides, the <hi rend="sup" range="4,7" orig="Proc=dgs=">Procdgs</hi> ag~t them, if I bee not misinform'd, are upon <hi rend="sup" range="8,10" orig="Presentm=ts=">Presentmts</hi> made in your Predecessor's dayes long since, and if in other cases, the Action dyes with the Person it were but reasonable it should in this also. Would your Lordship please, to forbear but for a while highest Act of Severity towarde them, it may be upon further conference w. them and knowledge of them you wil find them other Persons then they are Represented to you to bee. I humbly beg your lordship's pardon for my Boldness with you herein and subscribe myself,</p>
+			<p>My Lord,</p>
+			<p>Your servant much obliged,</p>
+			<p>Philip Henry.</p>
+			<p>Mar. 25. 1682.</p>
+			<p><note resp="compiler" value="ADDRESS" /> For the Right Reverend <hi rend="sup" range="1,2" orig="W=m=">Wm</hi> lord Bishop of <hi rend="sup" range="1,2" orig="S=t=">St</hi> Asaph.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="336" />
+			<p><head> <note resp="editor" value="4. MR. HENRY'S FIRST LETTER TO HIS SON ON GOING TO GRAY'S INN." /> </head> <note resp="compiler" value="TO MATTHEW HENRY" /></p>
+			<p><note resp="compiler" value="ADDRESS" /> For Mr. Matthew Henry to bee left with Mr. Darrack at the Golden Trumpet within Aldersgate. London. Son Matthew,</p>
+			<p>I received both your letters, the one on Friday, the other yesterday, rejoycing to understand thereby the great <pb n="337" /> goodness of God to you in your journey, &amp; particularly that your Company prov'd no worse, than it seemes it did, which wee were much afrayd of. I hope you wil now in the first place <note resp="compiler" value="GREEK OMITTED" /> make a business of fixing somewhere, so as may best conduct to your great end in going, wherein wee beg direction for you from Heaven, which appoints the bounds of our Habitation; forget not the rules given you, consult health &amp; wholesomness, conveniency &amp; honesty, your next I trust wil tel us you are so fitted. The Omens you mention doe little affect mee, supposing them all true, which I much question, but perhaps they doe others; I would be now glad of a fuller account of the Substantials, as far as they are yet or may bee known. Wee remayn as yet, thankes bee to God, in the same circumstances of Mercy in which you left us, wishing you some of our sweet aire, which is now more then at other times of the year perfum'd, instead of your offensive town-smels, against which you have need to arm your self, especially at first til you are us'd to them.</p>
+			<p>Your loving Father,</p>
+			<p>P. H.</p>
+			<p>May 4. .85. 6. cl.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="337" />
+			<p><head> <note resp="editor">7.</note> </head> <note resp="compiler" value="PHILIP HENRY TO MATTHEW HENRY" /> Son Math.</p>
+			<p>My jealousy over you was the effect of my dear love to you and the account you give mee of your company comforts mee, for I apprehended &amp; doe so stil, that your Danger in London wil lye much that way, theref. stil keep up your watch &amp; bee strong in the grace of J. <hi rend="sup" range="1,2" orig="X=t=">Xt</hi>. for when you trust to sf. you are gone. I like it wel that you spent last Tuesday as you did, only supposing Dr. T.'s lecture to bee in the Aftern. I understand not where you <hi rend="sup" range="3,4" orig="din=d=">dind</hi>; if with Dr. Humph. it was not wel, for fasting &amp; esp. going so into Assemblyes may bee very prejudicial to your health ere you are aware, theref. by no means use it not. I shal long to hear from your Aunt Ann, how you p~formed in that journey, &amp; what shee thinkes as to her coming hither; might you not cast to come down together, either in Coach or on Horse-back, either from London (you coming back from Oxf. thither to have her company) or from Oxf. I sending a double Horse &amp; <pb n="338" /> shee coming by Coach thither, or how else <hi rend="sup" range="1,2" orig="y=u=">yu</hi> can contrive it between <hi rend="sup" range="1,2" orig="y=u=">yu</hi>, for the truth is, I much desire to see her.</p>
+			<p>Our good God, that orders all, orders it for good to them accord to his wil. last night was bury'd in Whitch. Mr. Ralph Tushingham, who broke his neck by a fal from his Horse, no body with him, betw. Wrenb. mil &amp; Bromhal Green, coming from an Ale house at Wrenb. where Mr. Star. Mr. Widden &amp; hee had drunk hard; there is talk that many are like to lose much by him; Mr. <hi rend="sup" range="4,5" orig="Corb=t=">Corbt</hi> sends to mee to write to you to hearken them out a <hi rend="sup" range="3,4" orig="min=r=">minr</hi>. for Cockshute either at London or Oxf. you know their circumstances &amp; what a one wil please them. Wee did not goe to Rhuabon on Wednesd. in regard of the discomposures that were in the Neighborhood, which are now allay'd, upon occas. of the D. of. <hi rend="sup" range="1,2" orig="M=s=">Ms</hi> invasion &amp; the proclayming of him <hi rend="sup" range="5,6" orig="Trayt=r=">Traytr</hi> which the Post before brought tidings of; I keep home, hear little, &amp; say less; 'Tis our unhappiness, to bee suspected p.sons without cause &amp; to be expos'd accordingly, though quiet in the land, but God is righteous &amp; wise &amp; good, &amp; knowes how to bring glory to hims. &amp; good to the remnant out of all events whatsoever, even out of the eater meat, &amp; out <hi rend="sup" range="1,2" orig="y=e=">ye</hi> strong sweetness, &amp; out of the lyon's carkass, honey. This night wee expect to see Cos. Th. Bowker &amp; his new Bride. Have you not taken a turn at Whitehal yet, to see the nest in the Ortyard, whence your poor Father came? your uncles either of them or your Aunts, would accompany you. Commend us all to them; I write not, because by you they hear of us. Wee hear that Chester Fayr is forbidden which is a <hi rend="sup" range="11,12" orig="disappointm=t=">disappointmt</hi> to many landoners &amp; others. Your Mother gives you her Blessing, your Sisters their kind love. I suppose by this time, you are in the Hal again in commons, where you must bee careful to behave yours. with all soberness, for many eyes are upon you; you want your Supper-companion, your individuus comes there, to whom we desire to bee remembered, beseeching the lord to direct your way in everything &amp; to keep you humble, &amp; serious, &amp; in his fear alwayes, which is the daily prayer of</p>
+			<p>Yr. Affec. lov. <hi rend="sup" range="2,3" orig="Fa=r=">Far</hi></p>
+			<p>P. H.</p>
+			<p>Jun. 20. .85.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 FN MHENRY"></title>
+					<author key="MATTHEW HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="339" />
+			<p><head> <note resp="editor" value="8. TO PHILIP HENRY IN CHESTER CASTLE FROM M. H." /> </head> <note resp="compiler" value="FROM MATTHEW HENRY" /></p>
+			<p><hi rend="sup" range="3,4" orig="Hon=d=">Hond</hi> Sir,</p>
+			<p>We receiv'd <hi rend="sup" range="1,3" orig="y=rs=">yrs</hi> last night by Ann Huxley, and though it troubles us to think <hi rend="sup" range="1,2" orig="y=t=">yt</hi> <hi rend="sup" range="1,3" orig="y=rs=">yrs</hi> are there (and 'tis the more grievous because you have us'd to bee so little abroad) yet the account you give of your circumstances, doth somewhat comfort us, wee can see the cup mix't, and cannot but acknowledg the goodness of <hi rend="sup" range="1,2" orig="y=t=">yt</hi> God <hi rend="sup" range="1,2" orig="y=t=">yt</hi> mixes it, and especially that puts hony upon <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Rod, hoping that as afflictions abound, consolations will abound. no Bars nor bolts nor guards can exclude him. I am very sorry I cannot come to see you, indeed many of my friends are against it and therefore I submit, hoping and praying &amp; waiting for a comfortable meeting in God's due time, and yet am apt to think I could come without danger. My Mother is just now gone to Hanmer to <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Burial of old Aunt Maddocks, who dy'd on Sat. night. Cosin Benyon call'd of her, and left her service to you. We are all well (blessed bee God) Sis. El'<hi rend="sup">s</hi> ague returns not. My Mother thinks to send Sister Sarah to see you, upon Thursday, if room will be had in the Chester Coach, if not, it must be defer'd till there is, but shee is overjoy'd to think of seeing you. Wee think to send this week for my Sisters, and I think to go <hi rend="sup" range="1,2" orig="y=e=">ye</hi> day before, and so bring <hi rend="sup" range="1,2" orig="y=m=">ym</hi> home with mee, if Mr. H. &amp; my Lady would let <hi rend="sup" range="1,2" orig="y=r=">yr</hi> <hi rend="sup" range="6,8" orig="daught=rs=">daughtrs</hi> or <hi rend="sup" range="2,4" orig="(w=ch=">(wch</hi> p~haps would bee better at <hi rend="sup" range="1,2" orig="y=s=">ys</hi> time) some one of <hi rend="sup" range="1,2" orig="y=m=">ym</hi> come hither, wee could send (for one) with my sisters, if wee have orders <hi rend="sup" range="2,3" orig="fr=m=">frm</hi> <hi rend="sup" range="1,2" orig="y=u=">yu</hi> by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Bearer Owen Brown &amp; should bee glad of it. Wee expect <hi rend="sup" range="1,2" orig="y=e=">ye</hi> chimney-men here to-day, for <hi rend="sup" range="1,3" orig="y=ey=">yey</hi> are come into our Town, <hi rend="sup" range="1,3" orig="y=ey=">yey</hi> gave an account of <hi rend="sup" range="1,4" orig="y=eir=">yeir</hi> <supplied range="2,4" orig="bu[{is{]ness">buisness</supplied> to <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Justices yesterday, who for ought I understand could not or would not gainsay them, &amp; so there's no remedy but patience. Edw. Pears has paid for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Bak-house chimney at Bron: They are now carrying <hi rend="sup" range="1,2" orig="y=e=">ye</hi> last load out of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> little meadow. 5 Load in all. No more but affectionate love, duty, service from us all as due <pb n="340" /> wishing the eternal God may bee <hi rend="sup" range="1,2" orig="y=r=">yr</hi> Refuge &amp; underneath may bee <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Everlasting Arms I rest</p>
+			<p><hi rend="sup" range="1,2" orig="Y=r=">Yr</hi> ever dutiful son,</p>
+			<p>M. H.</p>
+			<p>July 7. .85.</p>
+			<p>I forgot to tel <hi rend="sup" range="1,2" orig="y=u=">yu</hi> <hi rend="sup" range="1,2" orig="y=t=">yt</hi> I was yesterd. at Will. Cross, my Lady talks of going to see her friends in Bonds but when I know not, shee offers to take my Mo. along <hi rend="sup" range="1,3" orig="w=th=">wth</hi> her in her Coach at any time.</p>
+			<p>You are enquir'd for by <hi rend="sup" range="2,5" orig="fr=nds=">frnds</hi> &amp; <hi rend="sup" range="6,8" orig="neighb=rs=">neighbrs</hi> <hi rend="sup" range="1,3" orig="w=th=">wth</hi> no small concernedness. The Chimney men are just now gone: and are pay'd <hi rend="sup" range="1,3" orig="4=sh=">4sh</hi> for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Kill-chimney, and much adoe I had to save Tho. Matthews' Bake house.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="340" />
+			<p><head> <note resp="editor" value="9. FROM PHILIP HENRY IN CHESTER CASTLE TO MRS. HENRY AT BROAD OKE." /> </head> <note resp="compiler" value="TO KATHERINE HENRY" /></p>
+			<p>July. 8. 1685.</p>
+			<p>Dear Heart,</p>
+			<p>I continue very well, at present, thankes bee to God! and feel nothing yet of the Inconveniences of a prison; we are better accommodated, as I acquainted you in my last, then wee could have expected, though wee must pay for it. Just now six <hi rend="sup" range="3,5" orig="Min=rs=">Minrs</hi> N. C. are brought in hither from lancashire, more than before, so far are wee from <hi rend="sup" range="7,8" orig="enlargm=t=">enlargmt</hi>, but our times are in God's hand, who hath sent us hither, I am confident, for good, though how or which way or wherein I know not, but hee is faithful that hath promis'd. My Chamber fellows &amp; I differ someth. in our apprehensions of things past, which wil not bee helpt, but for the unseen th. that are to come that are Eternal, wee are all one. Our Afternoones, til late, are fild with visitants, who love us &amp; wish us wel &amp; are kind to us, but wee cannot doe with them what wee would. Cos. Crue hath been an hour with mee this morning shee brought mee a quart of Aqu. Mirab. which I would have had her take back again, til more need, but shee would not. I have not yet opened <hi rend="sup" range="1,2" orig="y=t=">yt</hi> little bottle I brought with mee, since I came, not wanting it, &amp; being more afrayd of what might heat <pb n="341" /> mee, in regard wee have no drink but strong (unless very seldom) neither morning, noon, nor night, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> may turn to Feavorish distempers, wanting exercise - I have not trodden on the ground since Sat. which using mys. to in mornings I thought <hi rend="sup" range="1,2" orig="y=e=">ye</hi> want of it might bee prejudicial, but hitherto it is not; I have not tasted Butter yet with bread since I came from home. This dinner wee had Beanes and Bacon, Sammon &amp;c. but I am careful <hi rend="sup" range="1,2" orig="w=t=">wt</hi> I eat, not Fishes &amp; Fleshes. Mrs. Wenlock was to see mee yesterday &amp; brought mee a bottle of wine. I bestow all of that kind in Common, my Companions strangers here. This Aftern. <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Citizens meet on Rood-dee with Halberts, they think to take the Oath. Mrs. Clive is here, Mr. Woodh. I hope recovers, &amp; <hi rend="sup" range="1,2" orig="w=n=">wn</hi> wel comes in again. I have seen Mr. H. but 'tis at distance. Let mee hear from you, how you doe &amp; the children &amp;c. as oft as you can. Shew not my letters. When you think fit to send for them from Salop, Send love to Matth. Our Gards change every howr, which makes it so very hard to come to us, else wee might oblige them. I would gladly see him, but when or how I know not, I think there's little danger of any harm to him here, if there bee none at home, at his return. Love to Sarah &amp; El'nor, &amp; to Ann D. &amp; to all <hi rend="sup" range="1,2" orig="y=e=">ye</hi> rest of you, doe <hi rend="sup" range="1,2" orig="w=t=">wt</hi> you can to get to heaven your selves &amp; to help one another thither. Prepare for further Sufferings, to which it may bee these th. are but the Preamble but all is well that ends everlastingly well. Thankes for all <hi rend="sup" range="1,2" orig="y=r=">yr</hi> love &amp; faithfulnes to mee, &amp; Patience with mee; the lord wil reward it. One of my Fellow Prisoners last night receiv'd a letter from his wife subscrib'd - so I rest dear Husband in all Duty &amp; Obedience your Obedient wife - Such is lancashire kindness, but deeds exceed words - I am in short most intirely &amp; most affectionately thine.</p>
+			<p>P. H.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="341" />
+			<p><head> <note resp="editor" value="10. TO MATTHEW HENRY AT GRAY'S INN." /> </head> <note resp="compiler" value="FROM PHILIP HENRY" /></p>
+			<p>Son Matthew,</p>
+			<p>Wee are glad to hear of Gods goodness to you in your journey, going out &amp; coming in, &amp; of the pleasing circumstances which hee hath brought you to in the place where you are, concerning which you doe wel not to call it settlement, for our <pb n="342" /> present state here below is &amp; must be a Tabernacle-state, wee are but strangers &amp; pilgrims, as all our Fathers were, the world is our Inn, &amp; the place wherein you are, bearing that name, it should mind you daily, what your condition is in it; you are to count upon being there but a while &amp; to manage your self, your time, your Affections, your conversation accordingly; whilst you reckon, you have no continuing City here, you are the more concern'd to make one sure that is to come. It pleases God to lengthen out his displeasure towards us in this neighbourhood in the continuance of the Smal Pox which hath taken away many, our's are yet preserv'd, to his name bee the praise, in whose hand our times are &amp; at whose dispose are all our wayes.</p>
+			<p>Tho. Hensh. was here to-day, paying his Rent, honestly; the rest I hope, will bee had ere long, but the general complaint is, that nothing takes money, The price of Cattle &amp; Corn is low, &amp; pity 'tis that Plenty should bee a grievance; 'tis but a little while, I am sure, since the complaint was high &amp; <supplied range="2,3" orig="lo[{w{]d">lowd</supplied>, the other way. God in mercy secure the Gospel to us, though he feed us with the Bread of Adversity &amp; give us Teares to drink in other matters! The <hi rend="sup" range="1,2" orig="D=r=">Dr</hi> gave them a good Sermon. Nov. 5. from 2 Cor. 1. 10. There was generally in all the Country hereabouts, especially on the Welsh side, greater expressions of joy then ordinary, &amp; many Pulpits ful of sharp Reflections upon the People concern'd, only one I hear of whose Text was, Goe teach all nations Baptizing them - what he infer'd from thence sutable to the occasion I know not. My love to your chamber-fellow unknown, help one another what you can especially for heaven, remembering wherein two are better then one. When you have leasure and can conveniently, goe see your Aunts, but not by water, lest you catch cold, however write to them, if there bee such a way thither, by the Peny-post. What if you should call sometime at new Serj. Inn on Serj. <hi rend="sup" range="3,5" orig="Rig=by=">Rigby</hi> or accost him, if you see him in <hi rend="sup" range="5,6" orig="Westm=r=">Westmr</hi> hal, only to tel him who you are &amp; what circumstances you are in, &amp; to present my service to him &amp; to inquire of the health &amp; welfare of our fellow-Prisoners, as far as known to him. This is not to cutt you out impertinent work, nor to engage you in inconveniences, but to intimate to you what you may doe, as there is occasion &amp; if it fall in your way. <pb n="343" /> your Mother gives you her love and Blessing, your Father also his, The lord bee gracious to thee, my Son! Should you not pay respect some time to our land-lord?</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Roger Pu. went hence on Munday, his sister marry'd to Mr. Thelw. Bryn &amp; Bron. are commended to you. Bee careful of your health, remember the rule <foreign>venienti occurrere</foreign> - but esp. neglegt not the mayn matter, the Soul is the man, if that doe well, all's wel.</p>
+			<p>Your letter escaped opening, write, but bee cautious what &amp; how. - <hi rend="type">Nov.</hi> 13. 85.</p>
+			<p>P. H.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="343" />
+			<p><head> <note resp="editor">11.</note> </head> <note resp="compiler" value="PHILIP HENRY TO MATTHEW HENRY" /> <hi rend="sup" range="3,4" orig="Dec=r=">Decr</hi> 11. ..85.</p>
+			<p>Son Matthew,</p>
+			<p>I imagine, your present circumstances make it more difficult to your Friends to find you, else you would have more Visitants. 'Twas a good Item written over a studious Person's study door <foreign>Amice, quisquis</foreign> - Commend mee to Mr. <hi rend="sup" range="3,4" orig="law=r=">lawr</hi>. what you appoint, as to your Debt to him, shal bee observ'd, but as to the other Affayr, which <hi rend="sup" range="4,5" orig="hims=f=">himsf</hi> writes about, I can give no encouraging Answer, for several reasons, some of which, his own Consideration though not Affection, may suggest. Wee have hearty Sympathy with our Afflicted Friends in their Afflictions, weeping with those that weep, as being our selves also in the Body, Natural, Mystical. T'was a good Prayer of luther's when Melanct. &amp; hee were entering the Place of Meeting at Spire, <foreign>Domine Jesu, Tu ipse prospice Rebus tuis!</foreign> In reading Beza's Epist. I find, about 120. y. since, things were much at the same pass in the same climate, hee that hath deliver'd, doth deliver, &amp; I trust, wil. Amen! wee are thoughtful where &amp; how you wil spend this cold, dark, long vacation, without prejudice to ... your studyes, your health; Our Prayer to God for you is that of Jabez for <hi rend="sup" range="4,5" orig="hims=f=">himsf</hi> daily, that the lord would bee with you &amp; bless you indeed &amp; enlarge your coast &amp; keep you from the evil, from all evil, that it may not hurt you, even that the lord would preserve &amp; keep your Soul! Amen &amp; Amen! <hi rend="type">Dec.</hi> 11. .85.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="344" />
+			<p><head> <note resp="editor" value="13. IN REPLY TO HIS SON'S OF DECEMBER 15TH." /> </head> <note resp="compiler" value="PHILIP HENRY TO MATTHEW HENRY" /></p>
+			<p><hi rend="sup" range="3,4" orig="Dec=r=">Decr</hi>. 18/19/85.</p>
+			<p>Son Matthew,</p>
+			<p>Your's came safe to hand &amp; in due time this forenoon, finds us all in health, praysed be God, &amp; is as welcom to us, as our's can possibly be to you; They flock about it, as bees about a honey-comb, &amp; are as much refreshed by it. I like not to have mine double-charg'd to you &amp; to bee as dear as your dinner; had they been all in one sheet without slitting, I suppose, it had been otherwise. I am glad you have satisfy'd your curiosity in the sight of the Jewes' worship, but more that you make such <hi rend="sup" range="8,9" orig="improvem=t=">improvemt</hi> of it for the ends of true Piety; They are, certainly, to bee pity'd by us, being under the sad influences of a dismal curse &amp; judicial hardning, which yet there is hope wil in due time, &amp; therefore room for prayer, that it may, bee taken off when Popish Idolatry &amp; Protestant Profaness, the great bars that hinder, shal come to an end, which God hasten for his mercy sake, &amp; for their sake! Wil you write a letter by the Post to Mr. Charles Williams <pb n="345" /> of <hi rend="sup" range="4,5" orig="Newp=t=">Newpt</hi> in Monmouthshire to know of him, how 'tis with him &amp; whether his Son bee bound 'Prentice, if hee bee, to whom &amp; for what, &amp; where a legacy may bee payd in london for his use, giving a legal release; desire a line or two from him directed to you at Gr. Inn. Mr. W. <hi rend="sup" range="1,2" orig="H=r=">Hr</hi> sent his Servant to mee this week, for an old Acquittance I had of a Releif or herriot <hi rend="sup" range="1,2" orig="p=d=">pd</hi> to <hi rend="sup" range="1,2" orig="y=e=">ye</hi> E. of Derby 64. yeares since, which I sent him, whereby hee sayes I have much oblig'd him &amp; I am very glad to doe it. Mr. Al. intends to stand suit with him, but I think, your counsel were better, to make peace; His Sister Mary is ill at present of the Smal Pox, so are many more both in Town &amp; Country, &amp; our's yet spar'd, blessed bee the lord for it! his mercy to us therein is singular. Old Mrs. Bruerton, of Bella hil, Mr. Tho. Dod's Mother, dy'd on Sabb. day last, her son is expected from London at her <hi rend="sup" range="6,7" orig="Interm=t=">Intermt</hi> defer'd til Tuesday next, as wee hear. Our usual yearly distribution is wel perform'd &amp; an account taken; that which puts the true value on it, is divine Acceptance, which is not wanting where there is uprightness; tis a good work, as Mr. Herbert sayd, when hee had built a church, if it bee sprinkled with the Bloud of J. <hi rend="sup" range="1,2" orig="X=t=">Xt</hi> without which all is nothing; See your need of him more &amp; more &amp; live upon him; no life like it, so sweet, so safe; <foreign>christus meus mihi in omnia</foreign> ; Wee cannot be discharged from the Guilt of any evil wee doe, without his Merit to satisfy; wee cannot move in the performance of any Good requir'd, without his S.p~it &amp; grace to assist &amp; enable for it, &amp; when wee have done all, that all is nothing, without his Mediation &amp; Intercession to make it Acceptable, so that every day in every th. hee is All in All.</p>
+			<p>Now the lord God everlasting bee your Sun &amp; Shield in all your wayes; see time hasting away apace towards eternity, &amp; the Judge soon at the door, &amp; work accordingly; wherever you are, alone or in company, bee alwayes either doing or getting good, sowing or reaping. As for mee, I make no other reckoning but that the time of my departure is at hand &amp; what Trouble I may meet with before, I know not, the wil of the lord bee done; One of my cheif cares is, that no Iniquity of mine may bee layd up for you, which God grant for his mercy Sake in Christ Jesus. Amen!</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="348" />
+			<p><head> <note resp="editor">15.</note> </head> <note resp="compiler" value="PHILIP HENRY TO MATTHEW HENRY" /> May. 21/22 1686.</p>
+			<p>Son Matthew,</p>
+			<p>The contents of your last doe a little trouble us, not so much that you were let Bloud, though I think it might have been better had it been done sooner, as that you did mis-manage yourself after, both in going in the morning to lawrence Jury &amp; in writing so much both to us &amp; to <note resp="editor" range="2,9" orig="Bo[\reatton\]">Boreatton</note> in the Evening, it being convenient after Blood-letting to bee sedate &amp; compos'd for some time til Nature bee come to itself again; Therefore in your next I shal expect to hear, that you were worse after it, &amp; that the Feebleness &amp; Dulness you mention were the immediate Symptoms of it, which God in mercy prevent! Wee are all wel here, thankes bee to God! The Divine Providence watching about our tabernacle, and compassing us about with Favor as with a Sheild. our great Inquiry is, what shal we render! Alas, our rendrings are nothing to our receivings; wee are like the Barren field, on which much cost is bestow'd, but the Crop is not accordingly; Our heavenly Father is Loding us with his Benefits &amp; wee are Loding him with our sins, greiving him that comforts us, &amp; how long, how long shal it be so! o`: that it might bee otherwise! that our Mercyes might bee as Oyl to the wheeles, to make us so much the more active &amp; lively in our Master's work, especi. considering how it is with our fellow-servants; They empty &amp; wee ful, they Marah, &amp; wee Naomi. Our dear Friends Mr. Ja. Ow. at <note resp="editor" range="3,8" orig="Osw[\estry\]">Oswestry</note> &amp; Mr. Jo. Wils. at <note resp="editor" range="5,8" orig="Nantw[\ich\]">Nantwich</note> upon beds of sickness, &amp; in the valley of the shadow of death, &amp; wee well; They had hopes, when wee heard last, of the recovery of both of them though remayning dangerously ill. I am glad to hear your Aunts are in health, but sorry they are in any thing uneasy, <pb n="349" /> this is not the world, wherein wee must have everything that wee would have, but there is such a state before us, the happiness whereof eye hath not seen nor ear heard neither hath it enter'd into the heart of man to conceive; I would have you, as you have opportunity to bee a Comforter &amp; a Counseller to them, &amp; as you can to help their Burthens. Tel Cos. Hobs. wee shal supply her son with such clothes as hee hath need of, &amp; are fit for him, though shee hath not mention'd it; you know your mother's way, shee suffers nothing to spoyl for want of mending in time. I saw Mrs. Tils. the other day, shee heare's her son's Intentions for Holland are diverted for present, and <hi rend="sup" range="1,2" orig="y=t=">yt</hi> hee wil not bee at London till August; It seemes, hee is unfixt, what should bee the reason? Her Sister Ben. seemes to bee in a declining condition &amp; I fear wil not bee long in this world, but hath good hopes through grace of a better. Mr. Corbet had thoughts of sending his Horses back again, if so, it might doe some Friend a kindness that looks toward the Countrey, if you know of any such, &amp; them no unkindness, to embrace the Opportunity, tho hee was not resolv'd. Hearty renewed respects to the worthy Trios of approv'd Friends mention'd in my last, whom I pray God to continue in their Integrity &amp; Usefulness. There may a day come when it may cost dear to be <supplied range="3,4" orig="hon[{n{]est">honnest</supplied>, but after all, to fear god &amp; keep his <hi rend="sup" range="8,10" orig="Commandm=ts=">Commandmts</hi> is the whole duty of man. I therefore commend it to you, &amp; you to God, who is a shield &amp; Buckler to them that fear him. <note resp="compiler" value="GREEK OMITTED" /></p>
+			<p>Though wee have not yet receiv'd Cos. Hobsen's token, yet pray give her Thankes for it; Her son is wel in health &amp; learns his Catech. hee can say about half the first part &amp; creepes on by degrees; wee should bee glad, if hee might get some good here, that might stick by him, Hee rode your Mare on Wednesd. (with your Sister Sarah on the little mare) to Ash &amp; perform'd very wel &amp; last night hee rode to Whitch: &amp; fetch'd your letter, which pleases him; Hee is glad to hear of his Mother &amp; grandmother &amp; hopes by this time they wil have received his by Mr. Lawrence, who went hence, wee think on Munday. Mr. Corbet goes not till Tuesday next; Mr. Tong promises to cal on you; Tis now Vacation time, &amp; though <foreign>nulla dies sine Linea</foreign> , yet <foreign>Arcum non <pb n="350" /> semper tendit Apollo suum</foreign> . 'Tis not for mee to sit here &amp; prescribe neither when, nor how much, nor how long, but remember the counsel of my last, to bee always either doing, or getting good; you'l find his Company savory, else I should not commend it to you, for I know you doe not want Company &amp; I hope not good ones. Mr. Bentley was here yester-morning, told mee hee saw you &amp; sate a while with you; Tis Mercy wee may doe so in peace, <foreign>si non data ultra`</foreign> ; Mr. Birch came not to Wil. last night, as expected, but at Preston hee say'd hee must bee, God willing, on Sabbath day.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="350" />
+			<p><head> <note resp="editor">16.</note> </head> <note resp="compiler" value="PHILIP HENRY TO MATTHEW HENRY" /> May 7. 1686.</p>
+			<p>S. M. -</p>
+			<p>wee read this morning in course, when wee had just newly experienc'd the Truth of it, by the receit of your letter (for wee sent early to Whit. for it) Prov. 25. 25. As cold waters to a thirsty soul, so are good newes from a far country. Since Friday last wee have been in <foreign>aequilibrio</foreign> , between hope &amp; fear, not knowing what to think, that wee heard not from you; sometimes wee thought all was not wel &amp; then wee fear'd, expecting stil by each Post some evil tidings, but when both Sat. &amp; Mund. night brought noth. wee then began to conclude &amp; hope it was, as it proves, but a miscarriage; But one, did I say? I am loth to determine where to fix it, neither can I, but as the Club-footed Philosopher whose <supplied range="3,4" orig="sho[{o{]es">shooes</supplied> were stollen from him, only wisht they might fit him that had them, so, not as hee intended but as the wish innocently seem'd to mean at first hearing, I really innocently wish him that intercepted it this kindness, that the good sermons in it may doe his soul good, &amp; that nothing else in it may doe you or us any hurt. It's being the first made it somewhat the worse. I am glad of the account you give of <hi rend="sup" range="7,8" orig="Westmin=r=">Westminr</hi> Election, being pleas'd with the story of it cold, tho' not as you were, who had it hot; Only one thing I miss, &amp; that is the mention of my old Master, who us'd to bee the Principal verb, whether hee bee yet <foreign>in vivis</foreign> ; I don't remember that the second day was wont to bee like the first &amp; theref. your loss thereof was the less, esp. <pb n="351" /> having so good a sermon in exchange for it. 'Twere not amiss if Ph. Bickl. would present hims. <foreign>in propria persona</foreign> to <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> <hi rend="sup" range="3,4" orig="Rog=r=">Rogr</hi> Puleston at the Rolls for his Satisfaction for 'tis certainly believ'd here that hee is dead, &amp; two <hi rend="sup" range="5,7" orig="Tenem=ts=">Tenemts</hi> in which his life alone is, are, the one actually seiz'd on &amp; the profits detayn'd for these two yeares past, the other which is John Griffiths of Addavellyn is threaten'd in like manner. John Griff. is so much concern'd, that a Friend of his told mee, hee would give Phil. a good peice of money could hee but see his Face. 'Tis reported here, that <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Job is for Chester again, is it so? Wee missed <hi rend="sup" range="1,2" orig="y=e=">ye</hi> changes in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Hal, besides all the rest. As to your Journey to Sussex, I know not what to say, bec. I know not how you are dispos'd; Is there a flying Coach thither? if so it may bee that were better than to hire a Horse; What company can you promise your <hi rend="sup" range="1,2" orig="s=f=">sf</hi>? alone I would not have you, by no meanes, to venture in a strange country; The weather also is to bee consider'd, if it should continue dropping, the wayes would bee bad there, either for Coach or Horse; so that after all, I must refer it to your <hi rend="sup" range="1,2" orig="s=f=">sf</hi>; only Acknowledge God in all your wayes &amp; hee shal direct your steps; His Father talkes sometimes of a Journey into Suffolk to lady <hi rend="sup" range="1,2" orig="H=r=">Hr</hi> &amp; so to Sussex all under one, but I see little likelihood of it. By this time, I suppose, Mr. <hi rend="sup" range="1,2" orig="T=n=">Tn</hi> is with you from Oxon~. remember to bee like fire-stickes together, provoking one another to love &amp; to good workes, &amp; to study at studying times, that your profiting may appear to all men. I am heartily sorry for the Death of the worthy Doctor, <hi rend="type">i.e.</hi> for the churche's loss in him, as for hims. hee is now no longer a stranger in a strange land; but at rest at home in his Father's house. Bee sure improve your Munday-evenings wel &amp; wisely, by sucking hard &amp; pumping hard; you have not such Breasts every day &amp; are to have those but a while, for our fashion passes away; If a wish would doe, I would be with you the very next, but it will not; Give my most Affectionate respects there however &amp; to Mr. St. &amp; Mr. l. &amp; their yoke-fellowes. Your Father &amp; Mother send you their Blessing, your sisters wil some of them tel you thems. what they send you on the other side. Lord <note resp="editor" range="3,8" orig="Del[\amere\]">Delamere</note> was at another Race last week at Farn, as I hear, <pb n="352" /> where hee won considerably of Squire Egerton; His <hi rend="sup" range="2,4" orig="Fr=ds=">Frds</hi> doe much wonder at the humor of it, &amp; I think I told you formerly what the old woman sayd. What Fruit wee are like to have this summer upon the Trees, I cannot tel, they are yet but in Blossom, &amp; Blossoms you know are not Fruit, but a sad Face of Barreness is upon our Congregations, many waxing worse &amp; worse, few better better, And is the Axe layd to the Root? lord, let it alone this year also! Seeing your letters are so expos'd, I need not renew the former caution to bee careful what you write; yet glad wee are to hear how it fares with the poor people of God in this gloomy day, who are our <note resp="compiler" value="GREEK OMITTED" /> , that wee may rejoyce with them when they rejoyce &amp; weep with them when they weep. As for any thing else, tho' wee are suspected to bee Men of Design, the Troublers. &amp;c. our rejoycing is this, the Testimony - and let God alone in his way &amp; time to clear the truth.</p>
+			<p>P. H.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_013">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="352" />
+			<p><head> <note resp="editor" value="17. TO M. HENRY AT GRAY'S INN." /> </head> <note resp="compiler" value="FROM PHILIP HENRY" /> May. 11/15. ..86.</p>
+			<p>Son Math.</p>
+			<p>The weather hath been wett here of late, as it seemes it hath been with you, but these two dayes last past have been fayr &amp; Summer-like &amp; they that can are busy, tho' it bee late, sowing barley; were there the same care taken of the soul, in doing what wee can, when wee cannot doe what wee would, &amp; to observe the Rule, better late than never, how wel were it. Mr. Church went hence on Munday last, whom I suppose by this time you may have seen, hee took a letter for you &amp; a Ginney, supposing you might have occasion. The chees-market is quite dead at present; something ayles the londoners with Cheshire, thus to punish them. The Collection for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <note resp="editor" range="2,6" orig="Fr[\ench\]">French</note> <note resp="editor" range="4,11" orig="Prot[\estants\]">Protestants</note> hath not reacht us yet, but I suppose is coming; I saw the Narrative &amp; could not chuse but think, that things were made the worst of, for though I know what manner of spirit the people are of, yet <pb n="353" /> there were some passages, that would hardly consist with meer Humanity. I saw also the answer to the three Papers, &amp; suppose by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> style its Author to bee <hi rend="sup" range="1,2" orig="D=r=">Dr</hi> Sh. It confirmes that which you have somet. heard a Friend of your's say, that there are some men, on whom if it should please Authority to Frown but half so much and half so long, as it hath done on some of their Neighbors, they would hardly hold their hand, so as they have done, however not their Tongues &amp; Pens. Our God in all these events is bringing to pass his own wil &amp; counsel, which is for certain the <hi rend="sup" range="8,9" orig="advancem=t=">advancemt</hi> of his own Kingdom &amp; Glory, All which is prayd for in the three first Petitions of the lord's Prayer, to which all that love him wil most heartily say, Amen! Though you have nothing of mine in <hi rend="sup" range="1,2" orig="y=r=">yr</hi> hand now wherwithal to doe it, yet you must not forget to bring with you, if not to send before you on my account some smal charity-Bookes (the <hi rend="type">quid</hi> esp.) for I am now quite out of stock, I gave <hi rend="sup" range="1,2" orig="6=d=">6d</hi> for one at Salop, whereas of Brome hims. I bought 6. for 7 groats. Also some smal Bibles - I can buy them here for <hi rend="sup" range="1,2" orig="2=s=">2s</hi> <hi rend="sup" range="2,3" orig="10=d=">10d</hi> which is e'en cheap enough, but they are ill bound. I have not been in England this long time but purpose a salley shortly, God willing! Wee had a report of some disturbance in Coventry last Sabb. upon occasion of mass there, what truth is in it or what the circumstances were, wee hear not: Tis like Mr. Ch. may inform you, who was there a day or two after. You say no more of <hi rend="sup" range="2,4" orig="Pr=ce=">Prce</hi>, was the report of his <note resp="editor" range="4,10" orig="Conf[\ormity\]">Conformity</note> true or false? Wee both send you our Blessing, your sisters &amp; all <hi rend="sup" range="1,2" orig="y=e=">ye</hi> rest their love &amp; service. You have yet a Home here, &amp; dear Relations together &amp; not scatter'd nor broken up, how long it may bee so, God only knowes, our times are in his hand, wee shal begin shortly to doe as the lads at <hi rend="sup" range="5,6" orig="Westm=r=">Westmr</hi> were won't to doe, &amp; it may bee do stil, by the word <foreign>Electio</foreign> . <foreign>Macte virtute, mi Fili, et vale! Dominus tecum!</foreign></p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_014">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="353" />
+			<p><head> <note resp="editor">19.</note> </head> <note resp="compiler" value="PHILIP HENRY TO MATTHEW HENRY" /> Son Mat.</p>
+			<p>we receiv'd <hi rend="sup" range="1,2" orig="y=e=">ye</hi> tidings this morning of God's Goodness to you in <hi rend="sup" range="1,2" orig="y=r=">yr</hi> Journey, for which wee desire to bee thankful; also a <pb n="354" /> further account of the late Fire &amp; your loss therein &amp; doe bless God it was no worse. If your Gown had been burnt, it might have been lookt upon as a tacit <foreign>super Sedaeas</foreign> to your further Progress in those studyes, but 'tis wel it was not, however every Providence hath a voice &amp; sayes something. Your kind <hi rend="sup" range="10,11" orig="entertainm=t=">entertainmt</hi> with Mr. A. at your first coming up must not divert you from your former methods, but get as soon as you can into the geares, <foreign>volat irrevocabilis hora</foreign> . As to the <hi rend="sup" range="2,3" orig="Ch=r=">Chr</hi> business, I can say no more then I sayed both to them &amp; to you together, when you were here, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> was, that for the present you are under an <hi rend="sup" range="7,8" orig="engagem=t=">engagemt</hi> another way; what may bee hereafter, God only knowes; Tis not at all likely, that I should doe as you mention in the mean time, but if there bee a door of Opportunity I know none so fit to make use of it, as hee who is already with them upon the place, who knowes them &amp; is known of them. Ann walkt a-foot to Malpas to the buryal of Widow Brinley &amp; back again; when shee was dying, shee askt, was the money &amp; <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Candle ready, the one whereof was put in the one hand &amp; the other lighted in the other, at the time of her departure; they also sprinkl'd her &amp; <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Bed &amp; room with their holy water &amp; fel a sweeping <hi rend="sup" range="1,2" orig="y=e=">ye</hi> room with besoms, as hard as they could, to sweep all her sins away; o` that ever there should bee such darkness in the midst so much light! wee hear, the new lord Deputy was in some danger in his passage to Beaumaris, but escap'd. The Whitchurch Curate took occasion on Munday last in his sermon to reflect upon the worth Mr. Baxter by name. One of our greatest Clergy-men lately being reprov'd for Associating hims. so much with Papists. answer'd, To inquire what Religion a man is of is as rude as to ask him, what money hee hath in his Pocket. <hi rend="sup" range="6,7" orig="rememb=r=">remembr</hi> us to Mr. Thomas Hunt, also tel him hee must bee busy, for now is his gathering time. Wee Both send you our dear love &amp; Blessing, making mention of you in daily Prayer that you may bee serious &amp; sincere, humble &amp; fruitful! Amen! Feby. 4. 86/7.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_015">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="355" />
+			<p><head> <note resp="editor">20.</note> </head> <note resp="compiler" value="PHILIP HENRY TO MATTHEW HENRY" /> Son Math.</p>
+			<p>Wee have at present a Calm here, all the noyse is concer. many who are com'n lately out of Ireland; Two, who have brought their stock with them have bin bidding this week for <note resp="editor" range="3,10" orig="Wil[\lington\]">Willington</note> Cross, whether a Bargain or no I know not. One Moor is expected to bee made Provost of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> College at Dublin, upon the lord Tyrconel's arrival. I thought Mr. <note resp="editor" range="4,7" orig="Tyls[\ton\]">Tylston</note> would have defer'd his Journey North-ward til nearer April, in regard the winter is not yet over; These two or three last dayes have been very cold here. I do not apprehend a <hi rend="sup" range="1,2" orig="D=r=-ship">Dr-ship</hi> likely to bee of any great advantage to him as yet, til hee hath yeares for it &amp; more experience, but tis hard to get to bee mortify'd to a thing cald worldly honor, though it bee indeed but a shadow. Wee all remember service to Mr. Thomas Hunt; tell him what Elizabeth Parsons sayd to Geor. Illidge about the Picture, turn away mine eyes from beholding vanity. The more dead hee is to the gay nothings of the Town, the more alive hee wil bee to God &amp; to his Duty. Mind him of what the Angel sayd to Elijah, what dost thou here Elijah? Wee are much beholden to Mr. <hi rend="sup" range="2,3" orig="As=t=">Ast</hi> for his great kindness in so befriending you, but tis neither Portion nor relation, I would have you so much to look at in that matter, as the Person, that, as much as may bee, shee be sutable &amp; try'd, wherein wee pray to God to direct you. There are more wil have to say to you, as an Inns-of-Court Gentleman, then either as an N. C. M. or the son of one. Give my affectionate remembrance to the worthy Mr. Tal. &amp; bee as oft with him, as you have opportunity, while you stay in Town; hee that walkes with wise men shal bee wise. No tidings of late in any of your letters, as formerly, from <hi rend="sup" range="5,6" orig="Westm=r=">Westmr</hi> Hal, I suppose, the reason to bee your not being in commons &amp; theref. not in a Gown; who succeeds cheif J. Bedingf.? Tis reported here that <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Tho. Jones doth, his Predecessor &amp; his successor. Wee send you our Blessing, commending you to him, who Blesses indeed, in whose Favor life is. Amen!</p>
+			<p>Feby. 18. .86/7.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_016">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="357" />
+			<note resp="compiler" value="PHILIP HENRY TO MATTHEW HENRY" />
+			<p>May 14 1687.</p>
+			<p>Son Math.</p>
+			<p>I took all the two last to my Sf but now I shal have help for ye filling vp of a half sheet. I rejoyce in what you heard &amp; felt &amp; saw of God on Munday last, &amp; hope it hath left upon you a truly indelible character &amp; such impressions as no time nor any thing else shall be able to wear out. Remember, Assisted by thy strength, o` God I wil - As to the manner &amp; circumstances of your return, wee cannot order them here but must leave it to yoursf. to doe, as you shal see cause, beseeching the Lord in every th. to make your way playn before you, but as to the th. itsf. wee rejoyce in hopes, it wil not bee long now, ere wee shal see you here (tho <foreign>multa cadunt inter</foreign> -) and I must not say, bee filled with your company, for this is not the world that wee must bee together in; your Dear Mother hath no great joy in the thoughts of your closing with them at Chester upon the termes propos'd, her reasons are weighty, &amp; in other th. have many times sway'd with mee against my own, &amp; it hath done wel, what they are in this matter you shal hear immediately from hersf. As to your <hi rend="sup" range="5,6" orig="North=h=">Northh</hi> affayr wee are no little concern'd about it, making mention of it, in every prayer, to our heavenly Father, who wee have learn'd, besides a common Providence hath a special hand in such disposals - <hi rend="type">Prov.</hi> 19. 14. And wee say, if you of all the other should miss 'twould - <hi rend="type">Gen.</hi> 26. 35 - Mr. Bentley had not his 20. til Thursday last, hee is now among the mountaynes but wee <pb n="358" /> expect him here to morrow; I attended Mr. <hi rend="sup" range="2,3" orig="Sh=n=">Shn</hi> on Wed. last to his grave &amp; heard Mr. Ma. there declare concer. him to this purpose, <hi rend="sup" range="1,2" orig="y=t=">yt</hi> though hee had a favor for those of the separation yet the humor was wearing off &amp; not long before his Death, hee express'd a Kindness for the Church of <hi rend="sup" range="3,4" orig="Eng=d=">Engd</hi> as hee was inform'd, by whom &amp; wherein, &amp; how far, &amp; why, I know not. - Should you not leave some smal token of grateful remembr. a Book or a Spoon or some th. in the hands of your worthy <hi rend="sup" range="2,4" orig="Fr=ds=">Frds</hi> that - The Clergy in <note resp="editor" range="2,8" orig="Ch[\eshire\]">Cheshire</note> &amp; <note resp="editor" range="3,10" orig="Shr[\opshire\]">Shropshire</note> are hammering an Address of Thankes but divers of them wil not strike - They begin to feel now for their oaths' sake, &amp; by our law he ought - Our love &amp; Blessing is all here's room for and <note resp="compiler" value="GREEK OMITTED" /> twice, within - without.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_017">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="358" />
+			<note resp="compiler" value="PHILIP HENRY TO MATTHEW HENRY" />
+			<p><note resp="compiler" value="ADDRESS" /> For Mr. Matthew Henry at Moldsworth about to bee ordained by the Presbytery, and - the following week to be married to Kath. d. of Samuel Hardware of Bromborough. Esquire. Jul. 1687.</p>
+			<p>Son Math.</p>
+			<p>I am very much concern'd, that Two such great Affayres are at this time mett together upon your hand, that of the next Sabb. &amp; that of the week after; you know which of the two should fil you most, &amp; I hope it wil accordingly, &amp; if it doe, you may the more comfortably expect a Blessing upon the other for ever. Since I knew anything in those matters, I have found it true that when I have been most careful in doing God's work, God hath been most faithful in doing mine. - I have not seal'd but subscrib'd a Draught of Articles with Mr. Hardware, drawn after a fashion, but so, as may direct a better Pen, yet not without your help, &amp; 'tis wel you are so near to give it, for it seemes to mee so intricate as to some things, that a stranger who knows us not nor our circumstances may very easily mistake; Therefore see to it, as near as you can, that there bee none; Mr. <hi rend="sup" range="1,2" orig="H=r=">Hr</hi> declares his meaning to bee that the 6 months bee mention'd, yet the Portion shal bee reckon'd, as due from the day of Marriage, on which account, consideration is to bee had as to the Rent of the land. Wee were together yesterday at each place and upon view found every <pb n="359" /> thing, not worse, but rather better then represented. I have mov'd but cannot prevayl, that seeing tis so much insisted on that competency should bee for the heir, that Probart's &amp; Paynter's, should bee so allotted, besides <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> if <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="2,4" orig="10=lb=">10lb</hi> <foreign>p. ann.</foreign> from Broad-Oke become payable there wil bee a ful hundred, as wee reckon it, for ye joynture. Peirs &amp; Hughs &amp; Henshaw - 50. Huxley &amp; Robinson 40. &amp; <hi rend="sup" range="1,2" orig="y=e=">ye</hi> new feild &amp; chapfeilds <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> Huxley may use - 10 &amp; <hi rend="sup" range="1,2" orig="y=e=">ye</hi> 400: &amp; <hi rend="sup" range="1,2" orig="w=t=">wt</hi> more you think fit of the 600 for yonger children; But by all meanes let that bee plainly &amp; clearly express'd, that it shal bee dispos'd of at such times &amp; in such proportions to <hi rend="sup" range="1,2" orig="y=e=">ye</hi> children, as you shal think fit, with our Advice; for Paternal Authority must bee preserv'd. As to time &amp; Place of sealing, I would meet half way on Munday, but Wednesd. being the first day appointed at Hanmer, I must needs attend that. If you would not think it too long to defer til the week after, i.e. to <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="2,4" orig="19=th=">19th</hi> instant, I should hope by that time (your next Sabb. work &amp; your Warrington journey &amp; our <hi rend="sup" range="7,9" orig="engagem=ts=">engagemts</hi> here being all over) there would bee much more of clearness &amp; freeness without hurry as to each circumstance, but I must not move it, however not insist on it, lest the heart bee made sick; therefore doe as you see cause, only in everything take God along with you &amp; doe all in the name of the lord Jesus. Give my kind respect to your good Friend, whom I hope to cal by another name shortly. The lord Bless you Both, &amp; first fit you for &amp; then give you to each other in much Mercy! Amen!</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_018">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="360" />
+			<head> <note resp="editor" value="34. FOR MR. MATTHEW HENRY IN CHESTER." /> </head>
+			<p>Nov. 28. 1687.</p>
+			<p>My dear Son,</p>
+			<p>Wee were glad to hear by both your last, concerning your's &amp; my Daughter's health in your new habitation, beseeching God to continue it to you, to your mutual comfort; wee also &amp; our's here, are at present wel, God bee praysed! What you wrote concerning the Ordinaco~n at Warrington was welcom newes, &amp; wee rejoyce in it, both that yong ones are laying their hands at this time of day to the Gosp. plough &amp; that the Gosp. way of their Admission to it is so publiquely own'd; I hear of two elsewhere that are in like circumstances &amp; heartily pray the lord of the Harvest to thrust forth more &amp; more, tho' there bee that thrust hard ag~t them. Shortly I expect Mr. Ashurst's son here, may wee not hope, you wil give him &amp; us a visit, when hee comes, being the younger &amp; better hors'd then I am at present. I goe, God willing, in the morning to Wem, to a Fast there, &amp; whether thence to Boreatton, or to Hampton, where <hi rend="sup" range="1,2" orig="D=r=">Dr</hi> Long is to bee on <pb n="361" /> Wednesday, I am not yet resolv'd - The wayes are yet so exceeding bad for Women's travel that wee send not your sister Ann as you expect &amp; shee desires. I am troubld you have not more of the Bookes, my horse's weakness, &amp; <hi rend="sup" range="1,2" orig="y=e=">ye</hi> wayes' fowlness agree not, &amp; that's <hi rend="sup" range="1,2" orig="y=e=">ye</hi> reason - you must digest those you have the better; esp. the Book of Bookes; Study that most &amp; your own heart &amp; the People's circumstances, &amp; that wil doe much.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_019">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1688 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="361" />
+			<head> <note resp="editor" value="51. TO MR. MATTHEW HENRY AT CHESTER." /> </head>
+			<p>June 7. 1688.</p>
+			<p>My dear Son,</p>
+			<p>The Tidings of your growing illness, which mett mee at my return, abated much of the Comfort, which was wont, after a Journey, to make Home welcom, but blessed bee God, though Trouble &amp; Fear lasted for the night, yet Joy came in the morning by my Son Hulton, who first told us of your being better; God in mercy perfect what hee hath begun, and sure you should bee careful of yourself, for Prayers ought to be seconded with endeavors; I doe not mean, you should spare yours. in the sense in which the Satan spake to Peter, for I see our Opportunityes passing away, &amp; I cannot say whatever others think, that you doe too much &amp; should abate; but one thing, which I gave you a hint of, when with you, I again mind you of, &amp; that is, in the loose you take, in your earnestness, keep the reines upon it &amp; let it neither run too far, nor last too long, for I have mys. by experience found some prejudice by it, especially in my sight; And another thing, as to your Health, is, that being subject to Feavors as you are, I think you should not when you are warm'd with preaching, either drink smal Beer, which is an error on one hand, or Sack which is commonly offer'd, on the other, but both together, not a ful draught but a little at a time, by degrees, &amp; a little warm'd not hott, which I find doth best, &amp; I believe so wil you; As to your daily dyet, your Brother T. I perceive, hath advis'd you, but remember your sister S. &amp; take heed of the extream, which I believe shee is stil the worse for; Shee is your sister. Thence to Newp. on Munday, where the Nett cast (&amp; again at Weston on Tuesday) over many Fish, in hope; to God bee glory.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_020">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1689 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="362" />
+			<p><head> <note resp="editor">62.</note> </head> <note resp="compiler" value="PHILIP HENRY TO MATTHEW HENRY" /> June. 1. 89.</p>
+			<p>My dear Son,</p>
+			<p>I doe willingly neglect no opportunity of writing to you, nor doe not you to mee, though Paper bee growing dearer. Son Radf. (for whose safe return wee bless God) showes mee the new Act of Indulgence, directed to you, concer. which I say, as wee us'd to say at School, when a whole play-day was expected &amp; wee could have but an afternoon, <foreign>est aliquid prodire tenus, si non datur ultra</foreign> . There are several th. in it very acceptable, partic. freedom from Juryes &amp; Offices. &amp;c. but 'tis a great way from hence' to Flint &amp; how long wee may bee made to attend there, I know not; The quarrel is, wil you let my people goe, that they may serve mee; wee wil, but let them not goe very far away, the men but not the women &amp; children; the women &amp; children but not the cattle, but let not Pharoh deal deceitfully any more; When God judges, hee wil overcome. When you write to any of our law-makers, acknowl. their kindness &amp; paines in procuring it with all thankfulness, but til the Sacramental Test bee taken off, our Business is not done. Tis off by sea, I hear, why not by land also? I publisht last Sabb. the Paper from <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Pa. Ward. &amp;c. concer. the Irish Collection, adding I could say no more to inforce it then is sayd there, for tis wel pen'd, but our Parish-Officers either have not the Breif or are slow in reading it: for I doe not hear that any thing is done as yet, in pursuance of it. I should <pb n="363" /> adde more but the Bearer's hast forbids - Our love &amp; Blessing to you all, God fitt us for parting Providences, by one for another! Amen!</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_021">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1689 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="363" />
+			<p><head> <note resp="editor">64.</note> </head> <note resp="compiler" value="PHILIP HENRY TO MATTHEW HENRY" /> My dear Son,</p>
+			<p>I bless God, I have no evil tidings to send you concerning your Mother but rather good; Shee is, wee hope, creeping up the hil again &amp; gathering by degrees a little strength &amp; wee must not despise the day of the smallest things, it being greater &amp; better then wee deserve. I did not think in the least to have widen'd our Family, but I know not how, it proves, wee doe. Sa. Wats. is come to us, besides Cos. <hi rend="sup" range="3,4" orig="Ben=s=">Bens</hi> I askt her Father, whether if Mr. P. came, hee might have freedom with her, hee sayd, hee could not yet reconcile his mind to it, in regard of her Age; I sayd little to p~swade him now, having sayd enough formerly; that comes best that comes freely; nothing against the grayn; the world is wide. Wee heard of your sally to the Wood. &amp;c. this <pb n="364" /> week &amp; shal bee glad to hear a journal of it, especially that you are wel after it, this soultry, sickly season. The <hi rend="sup" range="3,5" orig="Com=rs=">Comrs</hi> have thought fit I should commence "Gent." though the Sessors return'd mee otherwise; The old spirit of enmity remaynes &amp; workes stil, as far as there is Opportunity, &amp; whilst they that hate us bear Rule over us, tis easy to tel what wee must look for, but blessed bee God the tedder is anything shortned! I hear, the Bil of Compreh. is on foot again, &amp; much prosecuted by some, both Friends &amp; Foes, the rather bec. it breakes the neck of the Sacramental Test. God, I hope, will turn all for good yet. Your <hi rend="sup" range="4,5" orig="Sist=r=">Sistr</hi> <note resp="editor" range="1,7" orig="T[\ilston\]">Tilston</note> is here yet, whether to stay til shee is lighter, they are not yet resolv'd. Her <hi rend="sup" range="4,5" orig="Husb=d=">Husbd</hi> is gone this even. to Boreatton. Farewel!</p>
+			<p>P. H.</p>
+			<p>Jun. 27. .89.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_022">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1689 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="364" />
+			<p><head> <note resp="editor">66.</note> </head> <note resp="compiler" value="PHILIP HENRY TO MATTHEW HENRY" /> July 12. 89.</p>
+			<p>My dear Son,</p>
+			<p>Wee had not heard, when I wrote last by James, of the Death of your good Friend Mr. <hi rend="sup" range="3,4" orig="Edw=d=">Edwd</hi> Greg; I hope you are learning by it to cease from man, whose Breath is in his Nostrils, &amp; to rest &amp; stay your self on God only, who is the rock of Ages, &amp; who alone lives for ever. Hee is both Jachin &amp; Boaz too, our Creature-props are neither. Your Mother hath been afflicted this night <hi rend="sup" range="1,3" orig="w=th=">wth</hi> a Bee-sting yester-evening in her cheek, which not only made her face swel, but affected her all over, as you were once, not without but within also, for shee was perfectly sick with it; I have not seen the like; how great a matter a little Fire kindles, <hi rend="sup" range="1,2" orig="w=n=">wn</hi> arm'd with a Commission - I hear from Salop, not that the <hi rend="sup" range="3,5" orig="Min=rs=">Minrs</hi> there, but many others, are dissatisfy'd with <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Articles; wee must never all bee of a mind, till wee come to Heaven; The 3. 8. &amp; 16 have someth. in <hi rend="sup" range="1,2" orig="y=m=">ym</hi> which without a candid construction would somewhat scruple mee, so would the Bible its. strictly taken &amp; in the letter, in those places which seem contradictory, were it not for such an Interpretation; yet I could wish it had not been requir'd, bec. it divides us.</p>
+			<p>Can you not send mee word by Mr. Booth or Mr. Parry's <pb n="365" /> information, when our Sessions are? I hear your's is past &amp; all done. I goe tomorrow, God willing, to Oswestry.</p>
+			<p>P. H.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="HENRY_023">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1693 FN PHENRY"></title>
+					<author key="PHILIP HENRY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="365" />
+			<head> <note resp="editor" value="FOR MRS. KATHERIN HENRY AT CHESTER." /> </head>
+			<p><note resp="compiler" value="PHILIP HENRY TO HIS WIFE, KATHERINE HENRY" /> Apr. 20. 1693. 1. clock.</p>
+			<p>My dear Heart,</p>
+			<p>Every day a letter would bee a Book in time. I wrote yesterday by Son Tylst. which I hope you receiv'd; I forgot to tel you the malt is ready for my Son, but no Barley bought yet for ours. the reason is the dearness; 8 groats <hi rend="sup" range="1,2" orig="y=e=">ye</hi> least in Whitch. did not I hear Mr. Bolland say, hee had in Chester for 2. <hi rend="sup" range="1,2" orig="3=d=">3d</hi>? if so might not the same Horses bring us 20 of Barley from thence, that brings <hi rend="sup" range="1,2" orig="y=e=">ye</hi> 20 of Malt from hence, if so &amp; you please, get it bought on Sat. Two swine John bought at Whitch. &amp; Hempseed, to day hee begins to sow Barley; I am more &amp; more for son Tylst. pulling the old house down, rather <hi rend="sup" range="1,2" orig="y=n=">yn</hi> repayring it, a new one wil bee cheaper then hee thinkes &amp; I am sure much more inviting to a Tenant, esp. for warmth upon that wet &amp; cold bank, 'twil need no repayring, a little wil fit what wil bee needful while 'tis as 'tis; the rest by degrees at leasure. 50. thous. of brick <hi rend="sup" range="2,4" orig="10=lb=">10lb</hi>, 4 cart-load of lime, the workman tels mee to day wil lay <hi rend="sup" range="1,2" orig="y=m=">ym</hi> which is <hi rend="sup" range="2,3" orig="20=s=">20s</hi>, besides <hi rend="sup" range="1,2" orig="y=e=">ye</hi> carriage, &amp; <hi rend="sup" range="2,4" orig="10=lb=">10lb</hi> the workmanship, which wil bee the wals. The old Timber wil most of it serve (the rest may bee sold) joysts, doores, Boards, <hi rend="sup" range="1,2" orig="y=e=">ye</hi> carpenters' work about it cannot bee, for present <hi rend="sup" range="2,4" orig="15=lb=">15lb</hi> &amp; the Covering not 15. more, which is all, besides glazing what is to bee us'd, the rest brick't up. A trusty man, such as Randle Catheral, to oversee both pulling down and rearing would bee had for a little, summering there or thereabouts. The building 10. yards square, &amp; 8. <hi rend="sup" range="1,3" orig="y=ds=">yds</hi> high, for 3 storyes besides <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Cellar, would bee a mean; You know, who sayd, I only propose. yester-morning in the same hour 5. clock, <hi rend="sup" range="1,2" orig="w=n=">wn</hi> Mr. Bradley departed, a grand-son was born to his Daughter Mathewes. I am told they are to have one of the hundreds. The church-warden at Whitch. sent for leave to bury him to morrow in the burying place of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Family, <hi rend="sup" range="1,3" orig="w=ch=">wch</hi> I, supposing my son will not deny, granted. John K ... went yesterday to <pb n="366" /> Oxford with a Troup of Whitch. Minims, but would have my leave first. My bones are not yet eas'd of yesterd. riding, else God bee praysed, wel. love &amp; blessing to all &amp; each, again &amp; again &amp; again.</p>
+			<p>P. H.</p>
+			<p>Sarah Green's little one is ill. Sisters' love to you &amp; to all <hi rend="sup" range="1,2" orig="y=e=">ye</hi> rest. I hope, John may bee with you by 9. or 10. clock, which wil bee as soon as you wil bee ready. Mr. Wright comes in stead of Sam. Wayt; Farewel, The God of love &amp; peace bee with you. Amen!</p>
+		</text>
+	</TEI>
+</teiCollection>

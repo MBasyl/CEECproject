@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FDARWIN">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>THE LETTERS OF ERASMUS DARWIN. ED. BY DESMOND KING-HELE. CAMBRIDGE: CAMBRIDGE UNIVERSITY PRESS. 1981.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="DARWIN_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1763 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="16" />
+			<p><head> <note resp="editor" value="63A. TO MATTHEW BOULTON, 1 JULY 1763" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Lichfield</p>
+			<p>Jul. 1. 1763</p>
+			<p>Dear Boulton</p>
+			<p>As your are now become a sober plodding Man of Business, I scarcely dare trouble you to do me a Favour in the nicknachatory, alias philosophical way: I have got a most exquisitly fine Balance, and a very neat Glass Box, and have all this day been employ'd in twisting the Necks of Florence-Flasks - in vain!</p>
+			<p>Now if you like Florence Wine, I begg leave to make you a present of one Bottle, or two, if the first does not answer, to drink success to Philosophy and Trade, upon condition that you will procure me one of their Necks to be twisted into a little Hook according to the copper Plate on the reverse of this Paper: It must be truly hermetrically seal'd, air-tight, otherwise it will not answer my End at all.</p>
+			<p>Harrison's Clock at last has not a progressive Ballance, but an interrupted one, like the common Time-pieces, except in Weight and Workmanship.</p>
+			<pb n="17" />
+			<p>I am extreemly impatient for this new Play-Thing! as I intend to fortell every Shower by it, and make great medical discovery as far as relates to the specific Gravity of Air: and from the Quantity of Vapor. - Thus the Specific Gravity of the Air, should be as the Absolute Gravity (shew'd by the Barometer) and as the Heat (shew'd by Boulton's Themometer). Now if it is not always found as these two (that is as one and inversely as the other) then the deviations at different Times must be as the Quantity of dissolved Vapour in the Air.</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>The common Hygrometers only shew when the Air is in a Disposition to recieve or part with moisture, not at all the Quantity it contains. - I begg my Compl. to Mrs Boulton and Mr and Mrs Fothergale, and am, dear Boulton, your affectionate Friend</p>
+			<p>Erasmus Darwin</p>
+			<p><note resp="editor" value="ADDRESSED" /> For Mr Boulton, on Snow-Hill, Birmingham.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1764? TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="27" />
+			<p><head> <note resp="editor" value="64E. TO MATTHEW BOULTON, (1764?)" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Dear Boulton,</p>
+			<p>As I was riding Home yesterday, I concider'd the Scheme of the fiery Chariot, and the longer I contemplated this favourite Idea, the <note resp="editor">more</note> practicable it appear'd to me. I shall lay my Thoughts before you, crude and indigested as they occur'd to me; telling you as well what I thought <pb n="28" /> would not do, as what would do; as by those Hints you may be led into various Trains of thinking upon this Subject, and by that means (if any Hints can assist your Genius, which without Hints is above all others I am acquainted with) be more likely to improve, or disapprove. And as I am quite mad of this Scheme, I begg you will not mention it, or shew this Paper, to Wyot or any Body.</p>
+			<p>These things are required. First a Rotatory Motion. 2 easyly altering its Direction to any other Direction. 3 To be accelerated, retarded, destroy'd, revived instantly and easyly. 4 the Bulk, Weight, and Expence of the machine as small as possible in proportion to its Use.</p>
+			<hi rend="type">Previous Observations</hi>
+			<p>I am in doubt whether three or four wheels, will be better? whether the Power should act on one wheel only? On which wheel? Let there be three Wheels, and the Power move one of the hinder ones, as A, and the rest be loose. Then I say the wheel A (if there were but 2 wheels A and B) would describe some curve as AC: now tho' there is also a wheel at x yet if A only be moved it will endeavour to carry the Machine som little in that direction, unless the the wheel x be so turn'd by the Helm as to oppose, viz. by having its direction as the line ab, when the direction of the other wheels are cd. Now I believe this to <note resp="editor">be</note> false Reasoning, since the Lever from A to x, being so much longer than that from B to A, I believe it may press a little upon that wheel but not at all so as to alter its direction. Hence if one wheel only is to move, perhaps it may be nearly the same thing which wheel it is whether A or x.</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>Second, suppose four wheel, could not one Hind one, and the opposite fore one be made to move, and so only two be loose? - No! the two wheels that move, a and c, must be of equal diameters, and they will move in equal Times (or the Velocities different, so as to conteract the inequallity of diameter) then let the Carriage move in a Circle, and it lies under just the same inconvenience as if both the hinder wheels were fix'd on one axis.</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<pb n="29" />
+			<p>Hence I conclude that a three wheel'd Carriage is the best, that to move any one of those wheels, will answer as well as moving the first wheel or nearly so. And that two wheels can not be moved in any Carriage without great Friction in turning about.</p>
+			<p>Thus Then</p>
+			<p>Let there be two Cylinders, antagonists, at each End of the Beam, or Lever as it is call'd, which may be made of a Bar of Iron, the diameters of the Cylinders equall. And each equal ... Inches. One Steam Cystern serves both, and is placed between them. NB. the agitation of the Water by the roughness of the roads will encrease the Quantity of Steam. <hi rend="type">Remark.</hi> Suppose one Piston up, and the Vacuum made under it by the Jet <foreign>d'eau froid</foreign> . That Piston can not yet descend because the Cock is not yet open'd, which admitts the Steam into its antagonist Cylinder. Hence the two Pistons are in equilibrio, being either of them press'd by the atmosphere. Then I say, if the Cock which admitts the Steam into the antagonist Cylinder be open'd <hi rend="type">gradually</hi> and not with a Jerk, that the first mention'd Cylinder will descend gradually and yet not less forceably.</p>
+			<p>Hence by the management of the steam Cocks the Motion may be accelerated, retarded, destroy'd, revived, instantly and easyly. And if this answers in Practise as it does in theory, the Machine can not fail of Success! Eureka!</p>
+			<p>The Cocks of cold water may be moved by the great <note resp="editor" value="?" /> work, but the Steem-Cocks must be managed by the Hand of the Charioteer, who also directs the Rudder-wheel.</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>A Plate follows by which this regular and managible force is made rotatory without any loss of Power or Cumber or weight of Machinery.</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>e f g h, is a Roller, and a rachet-wheel like those on which the Cord of a Jack is wound upon. AB are the axis of the two hinder wheels of the fiery Chariot, <pb n="30" /> upon which axis also the Rollers move, when these Rollers move forwards, the Teeth of the Rachets ef and mn, reciprocally carry their neighbouring wheel. Let the arm ab be now elevated, and moves the wheel A forwards, and at the same Time by turning the ingenious wheel with contrart Teeth gh, winds up the Chain upon the roller h.l.m.n. The wheel B all this Time not being acted upon. Then when cd is again elevated the Chain is wound round efgh as at present.</p>
+			<p>NB. the curves ab and cd are not parts of Circles, they are design'd to vary from circles in order to wrap, and unwrap the Chains on the Rollers, nor will this little deviation from a regular force, by varying the arm of the lever, be at all felt, or may be counteracted by the form of the Roller, on which the Chain wraps. - The contrat wheel gh ought to have been under the Rollers, so that it may be out of the way of the Boyler. The upper surface of the Carriage is in this Form.</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>The Size of the Wheel gh is of no consequence, and here lying under the Axle Tree it does <note resp="editor" range="2,3" orig="no[\t\]">not</note> incommode the machine. If the Force required to draw 50 Ton on common wheels is known (to find out which without an Experiment or two I don't know) the Area of each Cylinder may be got to exactness.</p>
+			<p>I have heard if 5 Horses can just stir a Carriage, six are sufficient to draw it up to London, if this be true one sixth of Power more than what will move a carriage answers our End.</p>
+			<p>If you could learn the Expence of Coals <supplied>of</supplied> a common Fire-engine, and the Weight of Water it draws, some certain Estimate may be made if such a Scheme as this would answer. Pray don't shew Wyot this Scheme, for if you think it feasible, and will send me a Critique upon it, I will certainly if I can get somebody to bear half the Expense <supplied>with</supplied> me, endeavour to build a Fiery Chariot <supplied>and</supplied> if it answers get a Patent. If you chuse to be Partner with me in the Profit, and <supplied range="2,7" orig="Ex[{pense{]">Expense</supplied> and Trouble, let me know: as I am <supplied range="5,10" orig="deter[{mined{]">determined</supplied> to execute it, if you approve of it.</p>
+			<p>Please to minute the Pulses of the common Fire-engine, and say in what manner the Piston is so made as to keep out the Air in its Motion.</p>
+			<p>By what Way is the Jet <foreign>d'eau froid</foreign> let out of the Cylinder? - How full of water is the Boyler? how is it supply'd, and what is the Quantity of its Wast of water? - I sent one Smith to see your Electricity of which He knows <pb n="31" /> nothing, nor is like to know, but it seems He is a retail dealer in your way of Business.</p>
+			<p>From Sir Your humble Serv.</p>
+			<p>Erasmus Darwin</p>
+			<p>I think four wheels will be better - adieu</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1764 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="31" />
+			<p><head> <note resp="editor" value="64F. TO MATTHEW BOULTON, 3 NOVEMBER 1764" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Lichfd. Nov. 3. 1764</p>
+			<p>Dear Boulton,</p>
+			<p>I sent to you a few Hours after you was gone to have paid you the Money for the Hay. <hi rend="type">Please by a Line to tell me who I must pay it to.</hi></p>
+			<p>I hope whenever it is agreable to you we shall have the Pleasure of your and Mrs Boulton's Company at <supplied>our</supplied> House: - I must say I am sorry you and Mr Barker could not make up your disagreement, as I believe the affair was misunderstood on both Sides: and am afraid Friend Bleckham was but an unskilful Mediator, and rather widen'd than knit up the Breach between you. - For Instance. "Mrs Boulton did not know that Mr Boulton had such Connections with Mr Barker." - Answ. "He should have inform'd her better." - This is very different from Mr Bleckam's account: etc. etc. etc. - But I am also told, but observe <hi rend="type">I don't believe it</hi> , that Mr Barker ask'd Mr Boulton how He did at the Play, and recived no Answer. - Well! I wish I could reconcile you! - Do come to Lichfield.</p>
+			<pb n="32" />
+			<p>Meddleing with other People's Affairs I had nearly forgot my own, viz to remind Mr Boulton of a promise He made me to send me a Piece or two of his Female-Chape-Pieces to make me a Fender with - but this not if it is any Trouble or Inconvenience at all.</p>
+			<p>Mrs Darwin joins with me in our best Compliments and Wishes to Mrs Boulton and yourself,</p>
+			<p>from your affect. Friend and Serv.</p>
+			<p>E Darwin</p>
+			<p><note resp="editor" value="ADDRESSED" /> For Matth. Boulton Esq. Merch in Birmingham.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1765 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="34" />
+			<p><head> <note resp="editor" value="65B. TO MATTHEW BOULTON, 12 DECEMBER 1765" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Lichfd. Dec 12 -65</p>
+			<p>Dear Boulton</p>
+			<p>I am undone to know what Observations Dr Franklin supply'd you with about your Steam-Engine, besides giving you his Approbation, and particularly to hear your final Opinion, and Dr Small's on the important Question, whether Evaporation is as <note resp="editor">at</note> the Surface of boiling Water, or not? - or if it be as <note resp="editor">at</note> the Surface of the Vessel, exposed to the Fire, which I rather suspect - <hi rend="type">For</hi> if you boil Water in a Florence-Flask, you see bubbles rising from the Bottom, these are Steam, as they mount they are condensed again by the cold supernatant Fluid, and their Sides clapping together make that Noise call'd <hi rend="type">Simmerring. <hi rend="sup" range="1,4" orig="2=dly=">2dly</hi></hi> When Water boils in the AEolipile or closed Tea-Kettle, what a Quantity of Steam? - is this only as</p>
+			<note resp="editor">at</note> the upper Surface? I humbly concieve not - but as <note resp="editor">at</note>
+			<p>that Surface in contact with the Fire. Now as a Revd. Canon proves the immortality of the Soul from the Steam-Engine, and as the Strength and Activity of Man, or his Momentum, depends on the Quantity of vital Steam rising into the Brain from his boiling Blood; so the Quantity of Steam secreted in the boiler of the Steam-Engine is a Question of the utmost Importance in the Creation of this Animal. And I wish yourself and our ingenious Friend Dr Small will communicate to me your joint Opinion on this Head. And withal your <pb n="35" /> Thoughts on the best way of constructing the Boiler for the above Purposes.</p>
+			<p>I find the People of Cheshire are opposing the Navigation being brought to Birmingham and this Country. I hope you will give this Scheme your assistance. Mr Brindley is in a few Days to wait on Mr Garbet for this purpose to survey a Road for it by Lichfield nearer than by Tamworth. I desire you and Dr Small will take this Infection, as you have given me the Infection of Steam-Enginry: for it is well worthy your attention, who are Friends of Mankind, and of the ingenious Arts.</p>
+			<p>Mrs Darwin with her Compl. desires me to mention to you something about <supplied>the</supplied> gown She troubled Mrs Boulton with, <supplied>as</supplied> the Lady it belongs to is shortly going to transmigrate to London, and wishes to have the Bill sent along with it.</p>
+			<p>Mr Mitchel has been a Day or two with me, and I want to explain Harrison's watch to you - which is very ingenious indeed! - He says Water falling through a Hole in a Vessel has a Velocity, compared to that of Water falling from the Height of its Surface as nearly 7 to 10, is this the Opinion of you Birmingham Philosophers? Hence Bucket Wheels are universally superiour to other kind of Laddles. Pray write me as long a Letter.</p>
+			<p>adieu</p>
+			<p>E Darwin</p>
+			<p><note resp="editor" value="ADDRESSED" /> For Math. Boulton Esqr. at Mr John Motteux's, Merch in Wallbrook, London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1766 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="38" />
+			<p><head> <note resp="editor" value="66B. TO MATTHEW BOULTON, 11 MARCH 1766" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Lichfield Mar. 11. 1766</p>
+			<p>Dear Boulton</p>
+			<p>I have no design to quarrel with you for not having answer'd my Letters; in respect to my last indeed, desiring you to sign your Consent to the Navigation, your fulfilling my Request was the politest answer you could give me.</p>
+			<p>Your Model of a Steam Engine I am told gain'd so much approbation in London, that I can not but congratulate you on the mechanical Fame you have acquired by it; which, assure yourself, is as great a Pleasure to me, as it could possibly be to yourself; so much do I interest myself in what belongs to your Reputation. This Model I am so impatient to see, and to hear any Observations you have made or heard on this Subject, that I am determined to spend a Day with you, the first vacant Day that occurs to me: and shall trust to the Stars for meeting with you at Home. - But if the Stars should not shine upon me, pray contrive, that, in your Absence, Mrs Boulton may have it in her Power to shew me this celebrated Model, which I will trust to her good Temper for her complying with.</p>
+			<pb n="39" />
+			<p>I should some Months ago have sent you the Impression of Le Brun's Battles of Alexander, but as I was told it is the best Edition, I have determined to endeavour to clean or bleach them, to render them more worthy your Acceptance: but from native Indolence, common to me with the rest of Mankind, I have defer'd doing that long, which it was not necessary to do immediately.</p>
+			<p>Yesterday I was informed another Physician was arrived in Birmingham, but hope this gives no Uneasyness to our ingenious Friend Dr Small, from whom and from you, when I was last at Birmingham, I recieved Ideas, that for many Days occured to me at the Intervals of the common Business of Life, with inexpressible Pleasure.</p>
+			<p>Capt. Valentine Gardiner, a Philosopher militant, tells me He heard 3 or 4 Lectures about a Month ago from the Abbe` Nollet at Paris, who I find continues to assail Dr Franklin's electrical Theory, but with weak and impotent attacks - and amused his spectators with a floating Electrometer, the Degrees of which were magnified by their Shadows being observed instead of the Scale, and by this means you was not necessitated to approach within the magic Circle of electric <supplied range="3,5" orig="Att[{ra{]ction">Attraction</supplied> - but I think this is not new, and no wonderful Discovery.</p>
+			<p>Don't tease yourself, my dear Friend, about answering this long Letter; indeed I don't expect to hear from you, why then will you let it prey upon your Mind? - But I assure you I intend very shortly, if G-d permit, to pay you a Visit - "Ay, for God's sake, come and welcom," (say you) "any Thing but these damn'd long Letters."</p>
+			<p>Adieu</p>
+			<p>E Darwin</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1767 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="46" />
+			<p><head> <note resp="editor" value="67D. TO JAMES WATT, 18 AUGUST 1767" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Lichfield Augt. 18 -67</p>
+			<p>Dear Watt,</p>
+			<p>I have been so continually engaged in travelling about the Country from sick People to sick People, that it was not till this Afternoon in my Power to measure the Iron-work of my Chaise. There is an iron Crank in this Shape, and the Arm of the Axle is on the same Crank, and stands out at (W).</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>Perhaps it would be better at the angle (a)? But in this place it admits of the Wheels being larger in the act of Turning. ab is 13 In./aW 1 1/2 Inch/ac 12 In/ab is square 1 1/2 Inch/ac is round. The Pearch is a Cross.</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>Mr Edgeworth has put the arm of the Axle at the angle a in one He shew'd to the Society of Arts, and the Duke of York has a Phaeton made after it. The two fore-Wheels are 4 ft high.</p>
+			<p>My Cart is to draw a Ton, by Two Horses, a-breast. The wheels are seven feet Hight. The Body swings under the Axis. Now I think the Body should be fix'd to the Axis, and the Arms of the Axis should be cylindrical, and not the frustrum of a Cone. And 3rd the Axis should, as near as may be, pass through the Center of the Load. 4th the Horses should be link'd to the Body of the Cart, to avoid the additional Weight of the Frame in which my Cart-Body swings. By these means a very slight Pole alone is necessary which may rest on the Back of either of the Horses; and they may back as mine do, by pressing against the Swingle-tree Bar, and have a broad leather behind in the Harness, that their naked Shins may not come against the Woodwork. NB I have not well digested this!</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>This is my Cart as elegant as I can draw it, the Pole is suspended by a Strick across the Backs of the two Horses.</p>
+			<p>Enough of Carts and Chaises! Now my dear new Friend, I first hope you are well, and less hypochondriacal; and that Mrs Watt and your Child are <pb n="47" /> well. The Plan of your Steam-Improvements I have religiously kept secret, but begin myself <supplied>to</supplied> see some difficulties in the Execution that did not strike me when you was here. I have got another and another new Hobby-Horse since I saw you. I wish the Lord would send you to pass a week with me, and Mrs Watt along with you, - a Week! - a Month, a Year.</p>
+			<p>You promised to send me an Instrument to draw landscapes with. - If you ever move your Place of Residence for any long time from Glasgow, pray acquaint me. - I hope you have heard from Antony Tissington. - Adieu</p>
+			<p>your Friend E Darwin</p>
+			<p><note resp="editor" value="ADDRESSED" /> For Mr James Watt, Merch in Glasgow, Scotland.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1769 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="57" />
+			<p><head> <note resp="editor" value="69D. TO MATTHEW BOULTON, 9 JUNE 1769" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Wolsely Bridge, Jun. 9 -69</p>
+			<p>Dear Boulton</p>
+			<p><hi rend="type">Woman</hi> , says Aristotle, is a two-leg'd animal <hi rend="type">without Feathers</hi> - He certainly meant very young Women! After having given a definition of the Subject of my Letter, the next Thing necessary is a Drawing, here it is, a b c is the said animal, a the Head, b the Body, cc the Legs.</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>When the animal stands erect, and careless, the Line xy should be horizontal - if it be inclined a few Degrees from the perpendicular, by whatever means this is occasion'd, the whole Figure will <supplied range="2,9" orig="gr[{adually{]">gradually</supplied> undergo the changes express'd in the 2d. <supplied range="1,3" orig="f[{ig{]">fig</supplied> .</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>1. The misform'd people, that I have happen'd to inspect, were either distorted Spines, and in these the Disease appear'd to be the Consequence of the unequal growth of some Viscus, as the Lungs, or Heart, or of the Aorta, and then the Malformation of the Spine was a necessary Evil, and <pb n="58" /> prevented Consumption or Dropsy, or Death in some Shape. These were not lame.</p>
+			<p>2. Where the <foreign>gastrocnemii Musculi</foreign> , which being render'd into the vulgar Tongue, is the Calf of the Leg, were either too strong, of which I have seen two Children, or too Short, the upper part of these muscles having become a hard immoveable Callosity. In this Disease the Patient walks on his Toes, which <hi rend="type">turn also inwards a little</hi> , and the <hi rend="type">internal Side of the Foot</hi> rises, and the Weight of the Body <note resp="editor" range="4,5" orig="rest[\s\]">rests</note> on the Balls of <hi rend="type">the little Toes</hi> , and on the <hi rend="type">external Side or Edge of the Foot</hi> . This Figure is not <foreign>outre`s</foreign> , where the Disease is confirm'd.</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>Mr Meynell has this Disease, and the upper part of the Calf of the Leg is quite hard, and feels like an Exostosis.</p>
+			<p>If this is the Disease there is no other Method but that I described to you, which you will mention to Dr Small.</p>
+			<p>3. The Thigh Bone is said sometimes by Falls or other Accidents to bend in the Neck, and thus become shorter, a is the natural <supplied>bone and</supplied> b the diseased one. This Disease I have never examined myself.</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p><hi rend="type">Lastly.</hi> If you see the Child play sprawling <hi rend="type">on the Bed</hi> , quite naked, and on its feet <hi rend="type">for some Time, repeatedly</hi> , you will see the Defect. If Dr Small and your Honour are not satisfy'd of the Seat of the Disease, pray all of you come over to Lichfield, that we may have a general Consultation, Ladies and Gentlemen. For if it be remediable, it must be <hi rend="type">now</hi> . And for this Purpose the Defect must be absolutely ascertain'd - Delay is damnable.</p>
+			<p>I reciev'd some Time ago of Mr Dawkins for your Use, 3-12-0. - The Candlesticks if they are not sold, Mrs Darwin would rather have back again. - That I beg you will send me a Bill, for I am ashamed of being so long, and so much in your debt.</p>
+			<p>If you see Mr Baumgartner I shall be glad of a Chest of white florence Wine, if He imports any this Year.</p>
+			<p>Adieu</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1775 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="71" />
+			<p><head> <note resp="editor" value="75D. TO JAMES WATT, 29 MARCH 1775" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Lichfield Mar. 29 -75</p>
+			<p>Dear Watt,</p>
+			<p>I have had no Time for Poetry or Prose, since I was favour'd with your elegant Plan for an Elegy, nor indeed Inclination, as I well know how far short any thing of this kind must fall, when it is written from the Heart, compared with those written from the Head.</p>
+			<p>I was much grieved to hear from Dr Withering that Mr Boulton has been much indisposed since He was in London, with a Return of the Giddyness of his Head, but hope He is perfectly recover'd.</p>
+			<p>Your Bill in the House I hope meets with no further Obstruction, pray favour me with a Line to know when yourself and Mr Boulton intend, or expect, to come down to Soho.</p>
+			<p>Lord, how frighten'd I was, when I heard a Russian Bear had laid hold of <pb n="72" /> you with his great Paw, and was dragging you to Russia. - Pray don't go, if you can help it: Russia is like the Den of Cacus, you see the Footsteps of many Beasts going thither but of few returning. I hope your Fire-Machines will keep you here.</p>
+			<p>If a Vote or two could be for Service to you, I could write to Mr Coke, Mr Gisburn, and Sir Charles Sedley, and could wait on one or two more if I came up to Town, as Lord George Cavendish, Mr Curzons two of them, Mr Anson, Sir John Wrottesley. If I can serve you by letters with the first three, you must send me their Places of Residence in Town, and if you think the others material to you, I will come up to London for a few Days.</p>
+			<p>Now how must I direct to you? - Your Letter is only dated London, like other great Men, no Street or House is mention'd. So I shall direct to Mr Boulton.</p>
+			<p>I want the following Books which I shall be obliged to you to procure for me if you can.</p>
+			<p>1. I have 27 volums of Bufon's Histoire naturelle in 12mo and wish to have what may have been published since, if they can be had in <foreign>duodecimo</foreign> like the 27 Volums which I have.</p>
+			<p>2. <hi rend="type">I have all</hi> the Commentarii de rebus in <supplied range="0,2" orig="[{Sc{]ientia">Scientia</supplied> et Medicina Lipsiae, from the Beginning <supplied>to</supplied> to 17th Volum inclusive, and also the Supplementum primum decadis secunda, and also the primae decadis Index triplex. <hi rend="type">Excepting</hi> the sixth and seventh volums of the said Leipsic Commentaries. Hence please to observe, that I want the <hi rend="type">sixth and Seventh Volums</hi> of the Leipsic Commentaries, and all that have been publish'd since the 17th Volum printed in 1771 and 1772. And since the Secundae Decadis Supplementum primum printed in 1772.</p>
+			<p>3. I have the first Tom of <hi rend="type">Linnei Systema Naturae</hi> and want the remainder of that Work.</p>
+			<p>Pray remember me to Mr and Mrs Boulton. - Charles Darwin is now at <hi rend="type">Christ-Church Oxford</hi> , and would be glad to see you, if you return that Way.</p>
+			<p>Adieu E Darwin</p>
+			<p><note resp="editor" value="ADDRESSED" /> For Mr J. Watt. To the care of M. Boulton Esqr. at Mr Matthews, Bush Lane, Canon-Street, London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1778 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="82" />
+			<p><head> <note resp="editor" value="78A. TO MATTHEW BOULTON, 11 JANUARY 1778" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Dear Boulton</p>
+			<p>I have polish'd, japan'd, and handed up, the verses of Miss Rogers, which you sent me. This I think the greatest compliment I could pay to the lady: since if I had not thought the contour fine, and several of the figures graceful and vivid, I would not have taken the labour to have touch'd them over again, have preserved the keeping, and put on the varnish.</p>
+			<p>Miss Seward sais they are the most beautiful lines she ever saw, and longs to be acquainted with the lady-author; and I beg leave to say, that if the fair Poetess should not be displeased with the liberty I have taken with her poem, and at any time wishes my criticism on any of her future productions, I shall be happy with her correspondence.</p>
+			<p>A Critique on some parts of her poem seems necessary to add to this letter least yourself or Miss Rogers may think some <note resp="editor">of</note> the alterations were not necessary.</p>
+			<p>1. As <hi rend="type">Fancy</hi> is the principle personage it was necessary to keep the Queen of Melancoly rather in the shade, to give light to the figure of Fancy, and thus preserve what the painters call Keeping. Hence "come pensive maid" tho' more lively than "and as with silent hand" was omitted.</p>
+			<p>It was necessary to make <hi rend="type">Melancholy</hi> a <hi rend="type">goddess</hi> tho' unseen, in the first stanza, as she was to be so in the second, hence <hi rend="type">Luxury</hi> of Melancholy was changed.</p>
+			<p>The 4th and 5th stanzas were thought burthensome to the conduct of the poem and the 5th not appropriated to the subject tho' very good lines.</p>
+			<p>"Sighs resistless" is a better line taken separately than "ceasless sorrow" but <hi rend="type">sorrow</hi> is contrasted to <hi rend="type">love</hi> : whereas <hi rend="type">sighs</hi> should have been contrasted <pb n="83" /> to <hi rend="type">laughter</hi> as the two former are <hi rend="type">passions</hi> , the two latter <hi rend="type">bodily actions</hi> . This is felt by all readers of the stanza, tho' not easily explain'd.</p>
+			<p>I am tired of writing.</p>
+			<p>The Lord keep you, adieu!</p>
+			<p>E Darwin</p>
+			<p>Lichfield Jan 11 -78</p>
+			<p>The inclosed letter is from my Sister, you will please to direct the sundries but don't lose the letter as I have no coppy.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1778 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="84" />
+			<p><head> <note resp="editor" value="78C. TO MATTHEW BOULTON, 5 APRIL 1778" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Dear Boulton</p>
+			<p>I am sorry the infernal Divinities, who visit mankind with diseases, and are therefore at perpetual war with Doctors, should have prevented my seeing all you great Men at Soho to day - Lord! what inventions, what wit, what rhetoric, metaphysical, mechanical and pyrotecnical, will be on the wing, bandy'd like a shuttlecock from one to another of your troop of philosophers! while poor I, I by myself I, imprizon'd in a post chaise, am joggled, and jostled, and bump'd, and bruised along the King's high road, to make war upon a pox or a fever!</p>
+			<p>Now had I pack'd up a print of Prince Pretty-man, for you, and a book on opake colours for the society, in vain!</p>
+			<p>Now I wish you would do me the honour to let me open a correspondence with one of your clarks, to know if I am ever to have the prints framed of Mrs Kaufman - and direct the said Clark to write to me that he has pack'd them up, and sent them to Lichfield - far <note resp="editor">be</note> it from me to think of corresponding on these subjects with the great man himself.</p>
+			<p>When my Brother's Plate is sent, you will also please to order the bill to be sent to me.</p>
+			<p>There is a small account also between you and me, viz. that last year when you sent me a receipt for 200&pound; I sent you 205&pound; not having other bills. This also when I pay for the plate may be settled.</p>
+			<p>Adieu, the Lord bless you and keep you.</p>
+			<p><hi rend="type">remember my prints</hi> ,</p>
+			<p>ED</p>
+			<p>Apr. 5 -78</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1778 T EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="94" />
+			<p><head> <note resp="editor" value="78J. TO CHARLES F. GREVILLE, 12 DECEMBER 1778" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Lichfield Dec 12 -78</p>
+			<p>Dear Sir,</p>
+			<p>I can assure you at my few vacant hours I have incessantly labour'd at the completion of the Polygrapher in its triple capacity, and hope as my time is so much otherwise employ'd, that you will indulge me with a few weeks longer. And I flatter myself I shall be able to send you one that will perform all its parts to considerable perfection.</p>
+			<p>In the letter I am now writing to you I have quite the free use of one pen, so as to write quite as easily to myself, and as well as I can write without the machine.</p>
+			<p>My new manner of fixing the paper delights me of all things, as I invented it with great difficulty, and it is so simple and easily removed, and steady.</p>
+			<p>The new idea of making one pen quite loose in the hand instead of the stiff one you saw is also a great improvement, as any one writes as facile with it the first time of using it as those who have practised it before.</p>
+			<p>I have also reduced the height of it from 30 inches to 20, and am in doubt about reduding it to 18.</p>
+			<p>I hope my sending you this specimen which I assure is the first essay of all these improvements, will induce you to grant me a few more weeks of grace. And I will promise not to loose sight of till I have compleated in <note resp="editor">it</note> in respect to its execution of its business, as far as I am able; the beauty of it I do not mean to consider at all.</p>
+			<p>I am sorry to see by the papers that we are <note resp="editor" range="3,4" orig="lik[\e\]ly">likely</note> to have a violent french war - I hate war! - yet if we loose our colonies we loose our power at sea, for as Sea-men can not be <hi rend="type">made</hi> , but must be <hi rend="type">educated</hi> (their business requiring them to hang by their hands and other bodily exertions, which adult men can not well acquire) I suppose the strength of any nation is exactly as the number of seamen they can employ in time of peace.</p>
+			<p>What an empire would this have been if Lord Chatham's idea had been followed? England to have supply'd America with all manufactured commodities, and America have supplied England with the raw products of the soil. The number of Seamen thus employ'd in times of Peace might at the time of war have been put into Ships of war, and have conquer'd the world!</p>
+			<p>But the Lord and King George thought otherwise! perhaps it is for better <pb n="95" /> - Britain would have enslaved mankind, as antient Room <note resp="editor">Rome</note> , and have been at length enslaved themselves, adieu,</p>
+			<p>I never talk'd so much politicks in my life before, I beg to be remember'd to Lord and Lady Warwick, and am, dear Sir</p>
+			<p>Your much obliged <hi rend="sup" range="1,2" orig="f=d=">fd</hi></p>
+			<p>E Darwin</p>
+			<p><note resp="editor" value="ADDRESSED" /> <supplied range="0,15" orig="[{The Honorable Cha{]rles">The Honorable Charles</supplied> Greville M.P., Portman Square, London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1779 T EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="96" />
+			<p><head> <note resp="editor" value="79A. TO CHARLES F. GREVILLE, 16 MAY 1779" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Lichfield May 16 -79</p>
+			<p>Dear Sir,</p>
+			<p>My so long neglecting to send you the machine, I promised, can only be excused by my desire of making it better worth your attention - it remained many months at Birmingham before my mechanical friends return'd from fire-engine building in Cornwall. It is now as much finish'd as I intend to finish it; and I will send you it, when and where you require; but as something may possibly bring you into this climate sometime this summer, it would be more agreable to me, to shew it to you here, before I pack it up to send you. It performs all its purposes pretty well, but is still capable of greater accuracy. I shall not risk the expense of a patent for it, but would sell it, if I could, to any London artist, who might make advantage of it; - which I know I could not, if I had the patent myself.</p>
+			<p>Pray favour me with a line, and don't scold me much - and tell me if I have any chance of the pleasure of seeing you this summer: and if so pray let me know a day or two before, that I may be at home.</p>
+			<p>I think I could entertain you, by shewing you all the new experiments upon <hi rend="type">airs</hi> , or gas's, and would accompany you either to Birmingham, or to Caulk. But perhaps the affairs of politics in this critical time may so much engage your attention, as to withdraw you from the more pleasurable pursuits of philosophy.</p>
+			<p>This machine I would much wish to shew you here, as it can not well be pack'd up without being taken in pieces; and till you have <supplied range="3,8" orig="act[{ually{]">actually</supplied> seen it, you would find some trouble in putting it together for all its uses. Pray bear me no malice for so long disappointing you, but come and see me; I have a well-air'd and quiet bed for you; and I want much to hear some fossile philosophy, and a hundred other matters, and am, dear Sir,</p>
+			<p>with true esteem your much obliged and affect. friend</p>
+			<p>E Darwin</p>
+			<p><note resp="editor" value="ADDRESSED" /> The Hon. Charles Greville Esq, M.P., London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_013">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1780 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="100" />
+			<p><head> <note resp="editor" value="80B. TO ANNA SEWARD, 6 NOVEMBER 1780" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Lichfield.</p>
+			<p>Dear Miss Pussy,</p>
+			<p>As I sat the other day carelessly basking myself in the sun in my parlour window, and saw you in the opposit window washing your beautiful round face, and elegant brinded ears with your velvet paw; and whisking about with graceful sinuosity your meandring tail; the treacherous Porcupine, Cupid, concealing himself behind your tabby beauties, shot one of his too well-aim'd quills, and pierced, Oh cruel fate! my fluttering heart.</p>
+			<p>Ever since that cruel hour have I watched you all night from my balcony, hoping that the stillness of the star-light evening might induce you to take the air on the cupola of your house - but have watch'd in vain!</p>
+			<p>Many a serenade have I sung under your window, and with the sound of <pb n="101" /> my shrill voice made the whole neighbourhood reecho, through all its winding lanes and dirty alleys - all heard me, but my cruel fair one! - she, wrapt in soft furr, sat purring with contented insensibility, or slept with untroubled dreams!</p>
+			<p>Tho' I can not boast the shining tortoise-shell that cloaths my fair brinded charmer; - tho' I can not boast those delicate varieties of melody, with which you sometimes ravish the ear of night and stay the listening stars! - tho' you sleep hourly lulled on the lap of your fair mistress and dip with her permission your white whiskers in delicious cream! -</p>
+			<p>Nor am I, sweet charmer, utterly destitute of the advantages of birth and beauty - derived from persian kings my white fur still retains the splendor and softness of their ermine. This morning as I sat upon my master's tea-table, and saw my reflected features in the slop-bason, my long white whiskers, ivory teeth, and topaz-eyes - and sure the slop bason can not flatter me, which shews the azure flowers upon its border less beautiful than they are painted! -</p>
+			<p>You know not, dear Miss Pussy, the value of the heart you slight; - new milk have I in flowing streams to regale you, and mice pent up in a hundred garrets for your food, or your amusement; oh, permit me this very afternoon to lay at your divine feet the head of an enormous rat, who has even now stain'd my paws with his gore. And if you will honour me so much, as to sing the following song in the evening, I will bring a band of catgut, and catcall, to accompany your mellifluous voice in the chorus</p>
+			<note resp="compiler" value="VERSE OMITTED" />
+			<p><pb n="102" /> Quow, mow, how, now, quall, wall, pall, gnash, smash, pash! etc.</p>
+			<p>Deign, most adorable beauty to pur your assent to this request, and believe me with most profound respect your true admirer</p>
+			<p>Snow Grimalkin</p>
+			<p>Nov 6 1780</p>
+			<p><note resp="editor" value="ADDRESSED" /> For Miss Pussy from Grimalkin.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_014">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1782 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="120" />
+			<p><head> <note resp="editor" value="82A. TO MATTHEW BOULTON, 27 JANUARY 1782" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Radburn Jan. 27 -82</p>
+			<p>Dear Boulton,</p>
+			<p>Whether you are dead, and breathing inflammable air below; or dephogisticated air above; or whether you continue to crawl upon this miry globe, measuring it's surface with your legs instead of compasses, and boring long galleries, as you pass along, through it's dense heterogeneous atmosphere; - as I am alive, now, I can not recollect how I ment to finish this long period, so here we'l leave it; and pray tell me how you do, and your wife and children and fire-engines, and if <note resp="editor" range="3,4" orig="you[\r\]">your</note> philosophical society have discover'd the longitude and philosopher's stone. And above all if you keep yourself and friends in good spirits, and happyness.</p>
+			<p>Now a second purport of this letter is to tell you, that I have bought a <pb n="12l" /> large house at Derby, and if it be not inconvenient to you, should be glad if you could repay me the 200&pound; pounds you have of mine. As I shall want money to compleat this purchase. If you could fix a time for this purpose, I will either send Erasmus, or come over to Birmingham myself; and see what all you philosophers are about.</p>
+			<p>Mr Erasmus has got the recievership of the Pole-Estate, and is to settle immediately in Derby, in a part of the house I have purchased. I told him and Mr Robt. I was writing to you, who both beg to be remember'd to you. If you and Mrs Boulton should come into Derbyshire I hope you will not pass us. Mrs Darwin begs her Compliments to yourself and Mrs Boulton.</p>
+			<p>from your affect. friend</p>
+			<p>E Darwin</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_015">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1782 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="127" />
+			<p><head> <note resp="editor" value="82G. TO MATTHEW BOULTON, 26 DECEMBER 1782" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Dec. 26 -82</p>
+			<p>Dear Boulton,</p>
+			<p>I have purchased a house here and furnished it, which has rather distress'd me for money; that if you could repay me the 200&pound;, it would be a great convenience to me, and I hope not a great inconvenience to you. For this purpose I will at any time send over a proper receipt to you at Soho, or should be happy to see you here, as may be most agreable to you - or will meet you at Lichfield any day you may fix.</p>
+			<p>I am here cut <note resp="editor" range="2,3" orig="of[\f\]">off</note> from the milk of science, which flows in such redundant streams from your learned lunations; which, I can assure you, is a very great regret to me. I hope Master Matthew rises in growth and abilities, and will rival the activity of his father. I assure you I wish much to make a visit to Soho, which if the Lord permit I intend to perform next summer. Pray if you think of it, make my devoirs to the learned Insane of your society, and believe me,</p>
+			<p>yours sincerely</p>
+			<p>E Darwin</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_016">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1783 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="128" />
+			<p><head> <note resp="editor" value="83A. TO MATTHEW BOULTON, 4 MARCH 1783" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Mar. 4 -83</p>
+			<p>Dear Sir</p>
+			<p>I am favour'd with your letter, and the note for 30&pound;. In respect to the principle I should not have written to you for it, but that I supposed the income from your Engins would have render'd it not inconvenient to you to return it. When you can do it therefore conveniently, do so.</p>
+			<p>We intend to pass this Summer at Radburn, where Mrs D. and myself shall be very happy to see you, and yours; in the Autumn we design to return to Derby to reside <hi rend="type">for good</hi> (I hope) as they say.</p>
+			<p>We have establish'd an infant philosophical Society at Derby, but do not presume to compare it to you well-grown gigantic philosophers at Birmingham. Perhaps like the free-Mason societies, we may sometime make your society a visit, our number at present amounts to seven, and we meet hebdomidally.</p>
+			<p>I have repeatedly spoke of your Engins to Arkwright's friends, and hope you may still be employ'd, but know very little at present of the matter. I suppose you use your reciprocating engine for working corn-mills, and not your circular one?</p>
+			<p>Pray bring your Son to see us at Radburn sometime this Summer, that we may renew our early acquaintance. I wish you would bring a party of your society and hold one Moon at our house. NB. our Society intend to eclipse the Moon on the l8 of this month, pray don't you counteract our conjurations. I beg to be remember'd to all the Insane at your next meeting, and am, dear Boulton,</p>
+			<p>your affect. friend and obed. serv. E Darwin</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_017">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1783 T EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="130" />
+			<head> <note resp="editor" value="83D. TO THE DUKE OF DEVONSHIRE, 20 NOVEMBER 1783" /> </head>
+			<note resp="compiler" value="FROM ERASMUS DARWIN" />
+			<p>Derby Nov. 20 -83</p>
+			<p>My Lord Duke,</p>
+			<p>Inflammations of the internal, and more vital parts, are often by a wonderful process of the animal machine removed from thence upon some external part less necessary to life. The laws and the manner, by which this is brought about, are yet not discover'd. In this country the liver is subject to more frequent inflammation than any other viscus, since those liquors which are the product of fermentation, viz. spirits, wine, and beer, are drank by all ranks of people, and seem to exert a specific influence on the liver. In some constitutions this inflammation of the liver, occasion'd originally by drinking much spirituous or fermented liquor, is removed upon the joints, and causes the gout; which is so far salutary as the inflammation of the liver, a part more essential to life, is relieved by it. In other constitutions it is removed upon the face, and either a number of pustles are produced, call'd <foreign>gutta rosacea</foreign> , or a permanent redness, as was the case with your Grace.</p>
+			<p>Now if by the use of solutions of Lead, or other drugs, apply'd externally so as to harden these parts, or render them less sensible, the inflammation of the liver ceases to have crisis this way, the efforts of nature either act in vain to remove it from the liver, which therefore becomes permanently diseased; or the inflammation is removed to some other part - when this happens the common medical language would say, that the humour is repell'd from one part and is fallen upon another. And as I have twice seen a <pb n="13l" /> more extensive paralysis induced by using repellants (as they are term'd) to faces, which were cover'd with the <foreign>gutta rosacea</foreign> ; I am of opinion the use of the solution of sugar of lead was the remote cause of the disability of the muscles of your face.</p>
+			<p>What then is to be done? As nature is disapointed in Her usual habit of producing an erysipelas of the face, if a new crisis could be taught her, by inflaming the joints of the feet, this might prevent any other injury of the constitution. That is, if your Grace could acquire the Gout, it would be so far salutary, as to prevent any further attack upon your face. On this account it would be adviseable to try the use of the Bath-water, and also to take some gently stimulant medecine, as the volatile tincture of Guaiacum, two teaspoonfuls twice a day, in a little gruel.</p>
+			<p>Another method would be perhaps equally useful, viz. to reinstate, if it could be done, the sensibility of the skin of that part of the face, which used to be inflamed most frequently, or most permanently, before the unfortunate use of the solution of Lead. This might be attempted by moistening it once in 3 or 4 days with a very small quantity of tincture of Cantharides.</p>
+			<p><hi rend="type">The third method</hi> , which is the safest and most certain to establish and prolong your Grace's health, is to diminish the original cause of this kind of diseases; that is to prevent the frequent returns of slight inflammations of the liver; and thence to have no occasion for the repeated crisis, or removal of those inflammations to the joints or to the face.</p>
+			<p>This is to be done by taking 4 or 5 grains of calomel once a fortnight for 2 months or 3: and by taking care to have a stool every day, by acquiring a bodily habit of going to the garden at a certain hour, or by taking occasionally the size of a nutmeg of laxitive electurary.</p>
+			<p>And by obstinately persevering in drinking daily but a certain quantity of spirituous or fermented liquor, and this quantity should be about half that, which you have been generally accustomed to. I express myself strongly upon this head, as I know in this kind of disease Health is not to be bought at any other price.</p>
+			<p>It is generally said that the leaving off the habitual quantity of vinous liquors is not always prudent. It is true, where people have lived to great excess in this respect, more caution is necessary to be used in the discontinuance of them - but I have discover'd <hi rend="type">a certain rule</hi> to know how far the quantity of spirituous potation may be discontinued safely in all people: and that is by first advising them to omit one half, or one third, of their usual quantity; and then to observe in 4 or 5 days, if their appetite was as good or better than before: if this was the case, they may be certain of recieving no injury, but the greatest good from this omission; and may if they please after some weeks, gradually decrease it further. About 7 or 8 years ago, I had three fits of the Gout in three successive years; and <hi rend="type">gradually</hi> left off drinking ale and wine; and at length small beer also; and have since had not the least attack of Gout.</p>
+			<pb n="132" />
+			<p>When spirituous potation is diminished as above, I have generally advised people to take spice after their meals, for a month or two; that they might the less feel the want of the spirit. As ten black-pepper corns cut into 3 or 4 pieces each. And to eat as much flesh-meat, as their palates seem'd to chuse, both to dinner and to supper.</p>
+			<p>There is a popular outcry against what are call'd <hi rend="type">high dishes</hi> , but as these consist of spice and gravy chiefly, with anchovey, and burnt fat, I don't see much harm in them, unless acids or wine are boil'd in them, which are always render'd unwholesome by having dissolved a part of the lead or copper of the vessels, in which they have been boil'd. Broth, which has long stood in tin'd or copper vessels, is also liable to become impregnated with lead or copper: as the tin-lining of vessels is composed of more than half lead.</p>
+			<p>There is another popular error, that people are more injured in their health by gluttonous eating, than by inebriate drinking. But besides the deleterious effects of inebriation, which all of our profession daily witness and lament, the temporary effects of great intoxication are such as to induce one to believe the daily ingurgitation of a small quantity of so potent a drug must be hazzardous to the constitution. Give a man unused to vinous fluids a bottle of port wine, or 3 pints of ale - what is the consequence? He looses his understanding, and becomes for a time an Ideot: and falling down on the floor without the use of his limbs, has a temporary paralysis! From both which he recovers by slow degrees, is left stupid in mind and much <supplied range="7,9" orig="debilit[{at{]ed">debilitated</supplied> in body for several days. Now stall'd oxen, or indolent men may be cram'd up the throat with <hi rend="type">natural</hi> food, without imparing their health, or other great inconveniency, except the inactivity of corpulency.</p>
+			<p>Wine and Spirits are the product of art, of a nice chemical process - and therefore should not be class'd amongst our natural food, but properly belong to medecine; and should only be found, as formerly, in the shops of the apothecaries. In all mealy roots and seeds, whether esculent ones or poisonous ones, the starch, which is found in them, is the same (as in potatoes or white bryony root). This starch during the growth of the plant is converted into sugar (as in the process of making malt, in the sugar-cane, and in ripe fruits) by a natural process: hence the starch and the sugar are both wholesome nourishment; but when this sugar is converted into spirit by fermentation, which is a process of chemical art, our food is converted into poison; and becomes the greatest curse of the christian world, destroying more than the sword, and wisely interdicted by the disciples of Mahomet and Confucius.</p>
+			<p>I know not whether your Grace will think it worth while to read so long an account of the method of treating your complaint. If you should read it, how much so ever it may differ from the opinions or language of others of <pb n="133" /> the faculty, I hope your Grace will see in it an earness desire to be of service to you. From, my Lord Duke,</p>
+			<p>Your much obliged and obed. Serv.</p>
+			<p>E Darwin</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_018">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1785 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="141" />
+			<p><head> <note resp="editor" value="85B. TO MATTHEW BOULTON, 26 JANUARY 1785" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Jan 26 -85</p>
+			<p>Dear Sir,</p>
+			<p>I was desired lately to look at the specification of Mr Arkwright's patent, about which He had a trial last year; and it was in my opinion unjustly given against him. He has made many improvements in the machine since, all which I am master of, and could make more improvements myself in respect to diminishing the friction etc - but the essential parts of the machine are described in the specification in my opinion.</p>
+			<p>Now if patents are to be so easily overthrown - does your patent or act of parlament stand on firm foundation? - Suppose one should say, you have not mention'd your working your piston <hi rend="type">in oil</hi> ; and if any one should copy your machine, and working their piston with oil, should say, your specification was not similar to your machine; and therefore would infringe it? Would this be just?</p>
+			<p>I believe some shyness has existed between you and Mr Arkwright, but is it not your interest to assist him with your evidence on his trial? which also may make good humour between you, and you make fire-engines for cotton-works in future; which I understand from spinning wool also, will increase tenfold.</p>
+			<p>If yourself or Mr Watt think as I do on this affair, and that your own interest is much concern'd in establishing the operation of patents, pray give me a line that I may advise Mr Arkwright to apply to you, and send you a drawing and specification and model.</p>
+			<p>If Mr Watt be in this part of the country, pray tell him, how glad I shall be to hear that he is amongst the living - more so if any thing should bring him or yourself to Derby.</p>
+			<pb n="142" />
+			<p>Adieu, the Lord keep you both in fine preservation,</p>
+			<p>from your affect. friend</p>
+			<p>E Darwin</p>
+			<p>I think it hard, that an inventor of machines has not his property in the invention secured to him for 14 years without paying 100&pound; for a patent; as a writer of books has; much more so, that his right to his invention should be so easily infringed for want of an intelligent or mechanic jury.</p>
+			<p>Tho' your inventions, by draining Cornwal, have supply'd work to ten thousands - Mr Arkwright has employ'd his thousands - I think you should defend each other from the ingratitude of mankind. His cease comes on the 14th of February, <note resp="editor">so</note> that the time is urgent. Pray let me soon hear from yourself or Mr Watt on this affair.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_019">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1788 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="181" />
+			<p><head> <note resp="editor" value="88D. TO JAMES WATT, 18 NOVEMBER 1788" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Dear Sir,</p>
+			<p>Mr Wedgewood sent me the inclosed, and desired me to sign it, and to forward it to you - who he hopes will get it signed by the Birmingham F.R.S.s and that you will then send it to Dr Darwin of Shrewsbury, and desire him to remit to Mr Wedgewoods in London Greek Street Soho.</p>
+			<p>I have some design, if not prevented, of <supplied range="0,3" orig="[{com{]ing">coming</supplied> to see the next Lunar Meeting - pray acquaint me, whether yourself and Mr Boulton and Dr Priestly are likely to attend it and likewise, what day it will be celebrated upon.</p>
+			<p>Pray take care of your health, and use the warm bath, and try Balsam of Canada for your stomach complaints, about 20 grains or drops mix'd with honey, and then with water <hi rend="type">according to art</hi> , twice a day.</p>
+			<p>And remember the philosophical experiment <hi rend="sup" range="4,5" orig="Mons=r=">Monsr</hi>. Rabelais determined to try upon himself for the good of the Public - which was "to try how long an ingenious and agreable man might last, if taken good care of".</p>
+			<p>Where did you say manganese was got, and whither sent to, and at what price?</p>
+			<p>Pray read the 40 first pages of the Introduction to Fourcroy's Elements, and tell me, if the facts are in general true - if they be, the theory holds them nicely together.</p>
+			<p>When steam is passed through red hot iron scrapings, if the water be not decomposed, whence comes the vital air, which unites to the iron? - does the water vanish, or is it annihilated? pray explain this experiment.</p>
+			<p>In Dr Priestly's <hi rend="type">Liquor of conviction</hi> <note resp="editor" value="?" /> there is much nitrous acid, some marine acid, and tenfold the quantity of water. What follows? - did the water exist dissolved in the two airs? or did the nitrous acid exist in either of the airs? or the marine acid in either of them? or are they all produced in the process? If the inflammable air was not pure, if it contain'd mephitic (phlogistic air) air the water and nitrous acid might both be form'd.</p>
+			<p>I shall wait with Patience to see this great dispute decided, which involves so great a part of the theory of chemistry - and thank the Lord, that chemical Faith is not propagated by fire and sword, - at present I am inclined to the heterodox side of <supplied>the</supplied> question. The Lord take you into his holy keeping, adieu</p>
+			<p>from your affect. friend</p>
+			<p>E Darwin</p>
+			<p>Mrs D. begs to be remembered to Mrs W.</p>
+			<p>Mr Bennet is going on with his new discoveries of <hi rend="type">adhesive</hi> electricity.</p>
+			<p><note resp="editor" value="ADDRESSED" /> James Watt Esq, Birmingham.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_020">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1789 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="185" />
+			<p><head> <note resp="editor" value="89A. TO MATTHEW BOULTON, 18 JANUARY 1789" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Jan. 18 -89</p>
+			<p>Dear Boulton</p>
+			<p>When I had the pleasure of seeing you, you mention'd to me that Dr Withering had congratulated Mr Francis of the Moat at Birmingham on the perfect recovery of his father on the day before He died. Dr Robt. at Shrewsbury acquaints me, that He is about to answer Dr W's printed paper, and wishes to know <supplied>the</supplied> fact about Mr Francis, whether Dr W congratulated him on the recovery of his father the day before his death, or the day but one before his death. And I wish to know whether Mr Francis himself told you so - you may depend on your name not being mention'd, least it should bring a war upon you. I hear the faculty in Birmingham are on Dr Robt's side of the question; and will I trust be more so, the more it is canvass'd.</p>
+			<p>I often lament being at so great a distance from you - your fire-engine for coining money gave me great pleasure for a week after I saw it - and the centrifugal way of regulating the fire. If you ever come near Derby pray give me a day of your company. I hope your gravelly complaint does not now molest you - pray write me an account how you are in that respect.</p>
+			<p>Adieu from, dear Boulton, Your old affectionate friend</p>
+			<p>E Darwin</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_021">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1789 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="187" />
+			<p><head> <note resp="editor" value="89C. TO MATTHEW BOULTON, 12 MARCH 1789" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Dear Boulton</p>
+			<p>I was much obliged to you for your kind letter from London, which breath'd the true spirit of our long and antient friendship; which I dare say will not cease on either side, till the earthy tenement of our minds becomes decomposed. I fail'd in getting an evidence from Dr Johnson, to whom I wrote; and least your name should have been mentioned, you see by Dr Robts paper the fact was not made use of. My letter to Dr Johnson was simply a letter of inquiry; and Dr W. by shewing it only published his own disgrace. I think Dr Robt Darwin has given him a dressing, He will not soon forget. Whether He designs to write again I have not heard - I should suppose He must already feel his inferiority in this controversy.</p>
+			<pb n="188" />
+			<p>How He came to suspect your having told me the affair of Mr Francis of the Moat I can't concieve - but He knew I had called on you that morning.</p>
+			<p>I hope you have got your contract for coining; or will get it, as soon as the King can do business. Your machinery gave me great pleasure and reminded me much of antient days.</p>
+			<p>I beg my compliments to your son, and to Miss Boulton both whom I should be glad to see, if any occasion should bring you into this part of the country.</p>
+			<p>Adieu from dear Boulton</p>
+			<p>your affect. friend E Darwin</p>
+			<p>Mar 12 -89.</p>
+			<p>I hope you are free from your gravelly complaint. The way to keep free is to drink much aqueous potation - to occasionally lie down in the day on a Sopha - to use the warm bath once or twice a week, and to drink as little wine or malt-liquor or spirit, as you can.</p>
+			<p>adieu</p>
+			<p>If you have no gravelly symptoms I see no use in your continuing to take aerated water, whether with alcaline salt in it or not.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_022">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1789 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="193" />
+			<p><head> <note resp="editor" value="89I. TO MATTHEW BOULTON, 22 OCTOBER 1789" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Oct. 22 -89</p>
+			<p>Dear Boulton</p>
+			<p>I write this to introduce to your acquaintance my friend Mr Archdale, a gentleman <note resp="editor">of</note> classical abilities, and will therefore not steal any of your inventions, and who is going to make speeches in the Irish parlament - and wishes to see all things visible on earth.</p>
+			<p>I had design'd to have written to you on another subject, if this opportunity had not offer'd; and that is, that as an idle book of mine, call'd the Loves of the Plants, sells so well, as to <hi rend="type">pay</hi> me; I think of publishing another part of the same work in the spring, and shall have occasion to speak of <pb n="194" /> fire-engines. Now what I wish is that you would tell me as much about the <hi rend="type">superiority</hi> of your fire-engines, as may fill half a page or more by way of note.</p>
+			<p>Likewise I want much to know, if you have the Coinage, and something about your coining fire-engine for a note also. Viz, a short account of what number of halfpence <hi rend="type">He</hi> makes in a minute, and at how many operations, etc. The Lord be with you, adieu, I hope your Son and Daughter are well</p>
+			<p>your affect. friend E Darwin,</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_023">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1790 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="200" />
+			<p><head> <note resp="editor" value="90A. TO JAMES WATT, 19 JANUARY 1790" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Jan. 19 -90</p>
+			<p>Dear Watt,</p>
+			<p>I am much obliged to you for your letter, and am impatient for the further paper you promise me. And if you will give me leave to put your name to the paper you send me (by saying that it is part of a letter you wrote me at my request) it would be more agreable to me - <hi rend="type">but this shall be as you please</hi> .</p>
+			<p>For my part I court not fame, I write for money; I am offer'd 600&pound; for this work, but have not sold it. I have some medico-philosophical works in MS. which I think to print sometime, but fear they may engage me in controversy (which I should not much mind) and that they will not pay so well (which I mind much more).</p>
+			<p>Why will not you live at Derby? I want <hi rend="type">learning</hi> from you of various kinds, and would give you in exchange <hi rend="type">chearfulness</hi> , which by some parts of your letter, you seem to want - and of which I have generally a pretty steady supply.</p>
+			<p>Why the d-l do you talk of your mental faculties decaying, have not you more mechanical invention, accuracy, and execution than any other person alive? - besides an inexhaustible fund of wit, when you please to call for it? So Misers talk of their poverty that their companions may contradict them.</p>
+			<p>Your headachs and asthma would recieve permanent relief from warm bathing I dare say - but perhaps you are too indolent to try its use? - or have some theory against it?</p>
+			<p>What I said about your steam engine, I believed; I said it was the most ingenious of human inventions, can you tell me of one more ingenious? I can think of none unless you will except the Jew's harp, which is a combination of wind and wire instruments - or the partridge-call, which is a combination of the drum and fiddle.</p>
+			<p>Seriously, I do think the inventor of a wheel for a carriage had wonderful luck, or wonderful genius. The bow <supplied>and</supplied> arrow is also a curious invention, which the people of New South Wales, a continent of 2000 miles square, had not discover'd.</p>
+			<p>Do you not congratulate your grand-children on the dawn of universal liberty? I feel myself becoming all french both in chemistry and politics. Adieu, the Lord keep you from Megrim and asthma and believe me, your affect. friend</p>
+			<p>E Darwin</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_024">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1791 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="211" />
+			<p><head> <note resp="editor" value="91D. TO MATTHEW BOULTON, 9 MAY 1791" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>May 9 -91</p>
+			<p>Dear Sir,</p>
+			<p>I saw Mr Gregory of Spondon and Mr Haden, an ingenious Surgeon of Derby, who had attended Mr Laws I believe by his own desire, or that of Mr Gregory, instead of Mr Fowler, who saw him at first - they both assured me yesterday that he went on well.</p>
+			<p>This morning, Monday, I wrote a line to Mr Haden, and desired he would go over to Spondon this morning. He has sent me word, that he has been, and that all goes on quite well. So I see no occasion for my going over, should otherwise immediately have done so.</p>
+			<p>You are so concern'd for Mr Laws, that you have said nothing about yourself - it would have been very agreable to me to have heard that you are well in your own health; and that your young scions are in vigour like olive branches round your table.</p>
+			<p>The conflagration of the Albion mills grieved me sincerely, both as it was a grand and successful effort of human art; and also because I fear you was a considerable sufferer by it. I well remember poor old Mr Seward comparing the immortality of the Soul (in a devout sermon) to a fire-engine. He might now have made it a type of the mortality of this world, and the conflagration of all things.</p>
+			<p>If any thing ever brings you into this part of matter, I hope you will pass a day or two amongst the animated beings of this country. I dare say neither yourself nor myself have changed many of our opinions, since we formerly used to compare them.</p>
+			<p>Adieu from dear Boulton your affect. friend</p>
+			<p>E Darwin</p>
+			<p>I will again inquire about your <note resp="editor" range="4,8" orig="serv[\ant?\]">servant?</note> in 2 or 3 days, and if I should hear any thing amiss, will see him, and acquaint you.</p>
+			<p><note resp="editor" value="ADDRESSED" /> Mat. Boulton Esqr., Soho, near Birmingham.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_025">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1791 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="217" />
+			<p><head> <note resp="editor" value="91H. TO ANNA SEWARD, 2 OCTOBER 1791" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Oct 2 -91</p>
+			<p>Dear Miss Seward</p>
+			<p>I send for your criticism an epitaph, which I have written for Mr French to put over the tomb of Mrs French. You know how difficult it is to write an epitaph, as everything has been written on the deceased, that can be written, from Petrach's lamentations to Miss Seward's "on a coffin lid".</p>
+			<p>I never attempted an epitaph before, except on Dr Small, which Mr Keir has printed in the life of Mr Day. Pray send me your criticisms or emendations, as they will come <note resp="editor">soon?</note> enough for the marble, tho' I fear not soon enough for the proofs, as I have directed it to be printed at the end of the Economy of Vegetation. I believe the ingenious Mrs Damer is to give Mr French a design for the tomb.</p>
+			<p>Adieu, go on to write good verses, and believe me with true esteem your obed. serv.</p>
+			<p>E Darwin</p>
+			<note resp="compiler" value="16 LINES OF VERSE OMITTED BY THE EDITOR" />
+			<p><note resp="editor" value="ADDRESSED" /> Miss Seward, at the Palace, Lichfield.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_026">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1793 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="233" />
+			<p><head> <note resp="editor" value="93F. TO THOMAS WEDGWOOD, 15 NOVEMBER 1793" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Nov. 15 -93</p>
+			<p>Dear Sir,</p>
+			<p>People with black eyes are liable to <foreign>gutta serena</foreign> , which consists of a paralysis of the retina, or immediate organ of vision, and not to cataracts. Those, who have light eyes, are subject to cataracts, and not to <foreign>gutta serena</foreign> ; but cataracts seldom come <supplied>so</supplied> early in life, except from some external violence; and frequently so imperceptibly, that the patients lose the sight of one eye even without being conscious of it.</p>
+			<p>On those considerations I do not suppose that the complaint of your eyes is either a beginning <foreign>gutta serena</foreign> , or a beginning cataract; - but that the wearyness and uneasy feels of your eyes are symtomatic, that is, owing to the sympathy of these parts with the diseased action of some other part of the system.</p>
+			<p>One very common sympathy is between the stimulus of worms in the intestines and the nostrils, which occasions itching - often with grating the teeth - and I believe sometimes with the production of polypus in the nose in children. Now as you have formerly been troubled with ascarides, and probably may still have them, I should advise a course of Harrowgate water for 3 or 4 weeks; and this should be urged more energetically, if any ascarides appear - which should be attended to.</p>
+			<p>For this purpose half a pint of Harrowgate water should be drank 3 or 4 times in the morning part of the day, so as to induce daily 5 or 7 stools. If to each of these glasses of water be added a common teaspoonful of a solution of liver of sulphur, and about ten grains of bay salt, and five grains of bitter purging salt <foreign>(Magnesia vitriolata)</foreign> , both in fine powder, the effect would be increased.</p>
+			<p>The solution of <foreign>Hepar sulphuris</foreign> is made by roasting three ounces of salt of tartar, with one ounce of flowers of sulphur in an iron ladle, till they become liver-colour, and then putting them into half a pint of water and when settled, pour it from the subside.</p>
+			<pb n="234" />
+			<p>An issue in either arm may be tried, but I should previously use the Harrowgate water.</p>
+			<p>The headachs are probably owing to the same cause with the complaint of your eyes; both of which I esteem to be more troublesome than dangerous; and that time will gradually either remove the cause of them, or render the constitution insensible to the effects of the unremoved cause.</p>
+			<p>Pray let me hear, when you have tried the water about a week, whether any worms can be detected.</p>
+			<p>Thank <note resp="editor">you</note> for your additional proof of the <foreign>tremella nostoc</foreign> being digested frogs, as I mention'd in a note at the end of Canto I of Part II of Botanic Garden.</p>
+			<p>Mr Darwin is now in London, but returns in 4 or 3 days. I will then acquaint him.</p>
+			<p>All parts of the body become strengthen'd by moderate or natural use - hence you should use your eyes but not to great fatigue. The way of curing squinting is by covering the good eye, which weakens it; and using the worse eye, which strengthens it. But when smarting or fatigue ensues, the exercise of it should be intermitted. Mrs Darwin thanks your brother for the snow-shoes, and hopes some time to see him and repay him.</p>
+			<p>All our best compliments to all at Etruria.</p>
+			<p>Adieu E Darwin</p>
+			<p><note resp="editor" value="ADDRESSED" /> Thos. Wedgwood Esqr., Etruria, Newcastle, Stafforshire.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_027">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1793 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="236" />
+			<p><head> <note resp="editor" value="93H. TO THOMAS WEDGWOOD, 30 NOVEMBER 1793" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Dear Sir,</p>
+			<p>A factitious Harrowgate water may do as well as the natural, if it be conducted in a similar manner. The ingredients are similar to those of sea water with a greater proportion of Magnesian vitriol <foreign>(sal catharticus amarus)</foreign> and some calcareous <foreign>Hepar Sulphuris</foreign> . The saline purge, I have frequently had recourse to, has been much stronger than Harrowgate water, as follows. Mix half a pint of warm water with two ounces of bitter purging salt, and two drams of sea-salt. Take one third or half this for a dose mix'd with a teaspoonful of a solution of <foreign>Hepar sulphuris</foreign> , and repeat it every two hours, or every hour, so as to induce 4 or 6 stools a day. Begin at eight in the morning, and take your breakfast at nine - and walk in the cool air.</p>
+			<p>The solution of <foreign>Hepar sulphuris</foreign> is made by roasting one ounce of flowers of sulphur with two or three ounces of salt of tartar, till it becomes of a  liver-colour, and then dissolving it in half a pint of water and after it has settled, pour <note resp="editor" range="2,3" orig="of[\f\]">off</note> the clear for use.</p>
+			<p>If you are easily purged, you will please to dilute the quantity above prescribed with double the quantity of water.</p>
+			<p>A young girl in this town, who had long had inflamed eyes, got well of them by taking a purge of this kind for 2 or 3 weeks; I believe she had ascarides, but am not quite certain, as the evidence did not appear to me quite clear.</p>
+			<p>If I was certain, that you had ascarides, I should advise you to take two drams of an amalgama of tin and mercury, twice a day, for a fortnight along with the factitious Harrowgate water.</p>
+			<p>All of us send best wishes and compliments to all of you. Adieu</p>
+			<p>E Darwin.</p>
+			<p>Derby,</p>
+			<p>Nov. 30 -93</p>
+			<p><note resp="editor" value="ADDRESSED" /> <supplied range="0,6" orig="[{Thos. W{]edgwood">Thos. Wedgwood</supplied> Esqr., <supplied>at Josiah</supplied> Wedgwoods Esqr., Etruria, Newcastle, Staffordshire.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_028">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1793 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="238" />
+			<p><head> <note resp="editor" value="93J. TO JAMES WATT, 13 DECEMBER 1793" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Dec 13 -93</p>
+			<p>Dear Sir,</p>
+			<p>I am truly happy to hear that Miss Jessey continues to get stronger, and keeps free from those alarming affections of her lungs, or side, to which she has so long been in a greater or less degree subject. As the chalybeate in such small quantity, and the laudanum in such small quantity, seems to have been of service to her, I think I should advise the continuance of them even for 3 months longer; I mean, till the normal warmth approaches - unless any unforeseen accidental inflammatory cough or pain should make it dubious, whether the chalybeate should be continued.</p>
+			<p>I have seen people so essentially weaken'd by being cover'd with flannel next to their skin, which by the stimulus of its points keeps the cutaneous vessels in too great action, and thus wastes the general quantity of animal power, similar to what happens in the scarlet fevers; that I generally recommend the flannel to be put on the outside of the shirt or shift - and to be disused in the warmer months.</p>
+			<p>The cold air in winter should be used as a cold bath. Miss Jessy should go into it 3 or 4 times a day, but should remain in it but a few minutes at a time.</p>
+			<p>In other respects employment, which produces change of posture frequently, in the house in the cold season; and exercise frequent but gentle; such as dancing, swinging, shuttle-cock, and particularly going about the house to fetch what she wants to be brought to her, are good winter amusements - to which should be added, that humble and too much neglected yet delightful contest at Taw vulgarly call'd playing at marbles - so much more wholesome for rendering the joints supple, and varying the attitudes of the body, than its proud son and successor, Billiards.</p>
+			<p>Ye days, which are past! - when I could have pursued the rolling Taw with spirits light as air; and limbs supple as the bending grass-blade; when I could have crept through an Alderman's thumb-ring! - where are ye! - Corpulency of body, hebitude of mind, or in one word old-age I feel your irresistable approach - but care little about it.</p>
+			<p>Law is a bottomless pit! - I wish you well out of it! Now I come to conclude, I beg you will present my kindest compliments to Mrs and Miss Watt, in which Mrs Darwin begs to join, and to say that she does not despair of giving them a call next summer.</p>
+			<p>from your affect. friend</p>
+			<p>E Darwin</p>
+			<p>Lead-weights brandish'd in the hand, call'd dumb bells, I think a bad exercise; as their weight compresses the intervertebral cartilages, and impedes the growth of young people, like the carrying of other burdens. But <pb n="239" /> ringing a church-bell on the contrary I should esteem a wholesome mode of exercise for young people, as it imitates swinging by the hands and I see no reason why young ladies should not occasionally ring a peal; - a bob major, or a tripple grandsire.</p>
+			<p><note resp="editor" value="ADDRESSED" /> James Watt Esqr., near Soho, Birmingham.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_029">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1794 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="240" />
+			<p><head> <note resp="editor" value="94A. TO JAMES WATT, 1 JANUARY 1794" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Dear Sir,</p>
+			<p>I think it is always useful to cool those parts of the body, which are too hot; and to warm those parts at the same time, which are too cold. Hence in eruptive fevers I have often with apparent advantage exposed the bosom and face to cold air, and wrap'd the cold feet in flannel. This may be done by sponging those parts with cold water, which are too hot, or by exposing them to the air, or under a sheet only, taking care to stop before any chilness is induced.</p>
+			<p><supplied>1.</supplied> Ulcers spread from the saline acrimony of the fluids secreted into them, as is seen in herpes, and some flabby scrophulous ulcers. 2. the saline acrimony is owing to deficient absorption in the ulcer, for in all secretions even of mucus, and urine, the saline aqueous acrimonious part is naturally <hi rend="type">immediately</hi> resorbed. 3. absorption in ulcers is most of all produced by salt of lead, as white lead, secondly by dry application of powder'd bark. Absorption from the lungs is increased <hi rend="type">miraculously</hi> by foxglove, next by other emetics, and <hi rend="type">particularly</hi> by swinging circularly, so as to be in part intoxicated and sickish, as in a ship.</p>
+			<p>Common air and fix'd air mix'd may be of service both on the theory of Dr Beddoes, and on the antiseptic theory.</p>
+			<p>I should recommend zi of tincture of foxglove twice a day to be increased gradually to two drams.</p>
+			<p>And to swing horizontally for 1/2 an hour or longer 4 or 6 times a day till she becomes vertiginous and sickish.</p>
+			<p>Internally opium much contributes to thicken matter, that is to produce the absorption of its saline aqueous part, and should be given from 5 to 10 drops at certain regular hours twice a day, and occasionally besides if the hysteric symptoms recur. Tincture or decoction of bark may also be serviceable.</p>
+			<p>Yeast is believed to be antiseptic, and is said to have been used in putrid fevers with advantage.</p>
+			<p>Pray make our best wishes to Mrs and Miss Watt, and pray tell Dr Beddoes I have directed a book to be sent to him at Bristol as soon as possible. Adieu from dear Sir</p>
+			<p>Your affect. friend E Darwin</p>
+			<p>Pray let me hear how you go on, and with what advantage.</p>
+			<p>Derby Jan 1 -94</p>
+			<p><note resp="editor" value="ADDRESSED" /> James Watt Esqr., Heathfield, near Birmingham.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_030">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1794 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="241" />
+			<p><head> <note resp="editor" value="94B. TO THOMAS WEDGWOOD, 6 JANUARY 1794" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Jan. 6 -94</p>
+			<p>Dear Sir,</p>
+			<p>As you have found no benifit from the issue, I think you do right in discontinuing the use of it; and the same of the rhubarb and antimony, except you find, that you have not a daily regular stool without them. You will certainly do right by being much in the open air, and the better if you have some motive of action - in regard to your manner of living I recommend flesh-meat twice a day, with garden stuff or fruit, and small beer at your meals, with one glass of wine, or occasionally two. More fermented or spirituous liquor would in time do you injury. I should certainly advise you to eat some supper, and of flesh-meat in part.</p>
+			<p>That lassitude or want of spirits, you complain of, may in some measure be owing to want of employment, you should find out something to teaze you a little - a wife - or a law-suit - or some such thing. I think Virgil sais that Jupiter found it necessary to send Care amongst mankind, to prevent them from feeling less evils</p>
+			<p>- <foreign>curis acuens mortalia corda</foreign> ,</p>
+			<p>Georgics</p>
+			<p>You will see, that I do not esteem your complaints dangerous, but that they are, what you well express, owing to nervous debility, and that time and occupation will cure you.</p>
+			<p>If you have any ascarides, I should wish you to go to Harrowgate this summer.</p>
+			<p>I am, dear Sir, with true esteem your obed. serv.</p>
+			<p>E Darwin</p>
+			<pb n="242" />
+			<p>I expect Mr and Mrs Jos. Wedgwood next Monday and Miss Brigstoke, I wish you were of the party.</p>
+			<p>Mr <note resp="compiler" value="BLANK" /> of Ashenhurst near Leek I hear designs to sell his house and estate of about 1000 a year - and am told the situation is an agreable one, but never saw it. <note resp="editor" value="ADDRESSED" /> Thos. Wedgwood Esqr., No. 22 Devonshire Place, London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_031">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1794 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="247" />
+			<p><head> <note resp="editor" value="94F. TO JAMES WATT, 25 MAY 1794" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Sunday May 25 -94</p>
+			<p>Dear Sir,</p>
+			<p>If Miss Jessy does not soon find some relief in respect to the inflammatory symptoms, I mean "the sharpness and the quickness join'd" of her pulse, by the use of the antimonial, I should wish to try two or three emetics of <foreign>ipecacuhan</foreign> , suppose ten grains of the powder in a tea-cup <supplied>of</supplied> warm water, taken in a morning for three successive mornings - or longer if they seem of advantage.</p>
+			<p>The use of emetics is to promote absorption from the lungs, which is so evident in the exhibition of foxglove. Now no ulcers can heal, except the absorption is at least equal to the deposition in the ulcer.</p>
+			<p>I once saw Foxglove heal ulcers in the lungs as evidently as one case (or indeed two) could show; and Mr Hunt, a surgeon of Loughboro', assures me, he has cured as he believes 3 or 4 by the same remedy. But I don't believe it succeeds so well unless it produces sickness. The way I now use it is to put 4 ounces of leaves of foxglove nicely dried and coarsely powder'd into 8 ounces of proof spirit, that is into 4 ounces of rectify'd spirit mix'd with 4 ounces of water and set by the fire to make a tincture, which must be pour'd off from the powder in a day or two. Two drams of this is a dose mix'd with an ounce of pepper-mint water - twice a day.</p>
+			<p>As the foxglove is liable to operate too harshly, I should advise to try the <foreign>ipecacuhan</foreign> for 3 or 4 or 5 mornings <hi rend="type">immediately</hi> if she has not recieved benefit by the James' powder <hi rend="type">already</hi> .</p>
+			<p>If swinging could be perform'd by being placed on a chair, and whirl'd circularly and horizontally, so as to induce sea-sickness once or twice a day, even without vomitting by it, it might like real sea-sickness promote absorption - which is the means of curing self-spreading ulcers.</p>
+			<p>If you try these two things, the emetic of <foreign>ipecacuhan</foreign> , and the circular swinging for three days, you may possibly note some advantage.</p>
+			<p>If you think afterwards of the foxglove, it should be taken for 2 or 3 days in doses of one dram twice a day, and then in zi/ <supplied>ii</supplied> if no effect is percieved - and then in zii.</p>
+			<p>Mrs Darwin communicated your letter to Dr Beddoes - I was from home. He goes to Mr Keir's to day, or tomorrow.</p>
+			<p>The Bark-dust may be tried, or the <foreign>flores zinci</foreign> along with the emetics above recommended, as they act externally by stimulating the surface of the ulcer into absorption.</p>
+			<p>Pray let me hear from you in a few days.</p>
+			<p>Dr Beddoes has been inform'd of acid applications inducing scrophulous ulcers to heal. How? - by the stimulus of the acid. Hence I suspect that carbonic acid gas and atmospheric air of each equal parts would tend to heal pulmonic ulcers - and that oxegene gas 1/4 to atmospheric air would stimulate pulmonic ulcers into healing more certainly than azote or <pb n="248" /> hydrogen, according to some foreign experiments. Pray converse with Dr Beddoes on this circumstance, which is contrary to his own theory. The inflammatory state, and ulcerous state may require different treatment.</p>
+			<p>Present my most respectful compliments and best wishes to the ladies, and believe me.</p>
+			<p>Your much obliged and affect. friend</p>
+			<p>E Darwin</p>
+			<p><note resp="editor" value="ADDRESSED" /> J. Watt Esqr., Heathfield, Birmingham.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_032">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1794 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="250" />
+			<p><head> <note resp="editor" value="94I. TO JAMES WATT, 11 JUNE 1794" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>My dear friend,</p>
+			<p>I have not felt so poignant a grief of some years, as I feel now for the very affecting loss, which Mrs Watt and yourself have experienced! - a young companion of such uncommon beauty, of such amiable character, and of such ingenious and active mind as are rarely equal'd, never perhaps exceeded! - Mrs Darwin has wept two or three times for the sufferings of Mrs Watt and yourself, tho' she only knew your daughter by my description.</p>
+			<p>There is nothing I can say to console you, which your own strength of mind has not already suggested, and by which you have endeavour'd to alleviate your own grief and that of Mrs Watt.</p>
+			<p>"When I sail'd along the coasts, and contemplated the desert situations, where Troy, Thebes, Palmira and other great cities had flourish'd, and were now extinct <note resp="editor">"</note> , said Sulpicius to Cicero <note resp="editor">,"</note> I sigh'd indeed, but shed fewer tears, than you do for one delicate and frail woman". - I see nothing in this remark, but that we are all mortal; and as we are necessitated to bear our evils, we should endeavour to bear them with fortitude.</p>
+			<p>Another argument with which Sulpicius endeavours to console Cicero is from the badness of the times, which is well applicable to the present appearance of things - Had she lived he sais in these ominous times, might not unhappyness have been her share? Where could you have found a man worthy of her, and with whom you could safely have intrusted her happyness?</p>
+			<p>Now I beg you will present mine and Mrs Darwin's best compliments to Mrs Watt, and tell her that if it can any way alleviate or divert her mind, and your own, from the sorrow, which you labour under, that we shall be glad to see you to make what stay may be agreable to you with us at Derby, and will do all we can to make our house agreable to you.</p>
+			<p>I am, dear Sir, Your affect. friend</p>
+			<p>E Darwin</p>
+			<p>Derby Jun. 11 -94</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_033">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1794 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="251" />
+			<p><head> <note resp="editor" value="94J. TO JAMES WATT, 3 JULY 1794" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Jul. 3 -94</p>
+			<p>My dear friend,</p>
+			<p>It gave me great satisfaction both on your account and on that of the public, that you are employing your mind on the subject of medicinal airs, of which indeed Dr Beddoes had before inform'd me. You will do me a great favor by sending me an apparatus, or a description of one, and an account how easily to obtain the gasses; I have now an asthmatic patient would readily try oxygen gas mix'd with atmospheric air.</p>
+			<p>In your letter to me, you speak of obtaining inflammable air from Zinc. Do you hold the theory, that the inflammable air (Hydrogen) is extracted from the Zinc, as your expression seems <note resp="editor">to</note> countenance, or do you suppose, that it is from the decomposition of water according to the idea of poor Lavoisier?</p>
+			<p>By the coach tomorrow I intend to send you a copy of my new book, hoping to amuse you, not to instruct you; I think to direct it to Mr Boulton's Warehouse in Birmingham - if this direction be wrong, pray inquire after it. If any new matter on reading any part of my book should occur to you, or any great errors, I should be glad of your criticism towards another edition, tho' I have sold the copy-right, I would correct it if I could.</p>
+			<p>Mrs Darwin and myself beg our kindest remembrance to Mrs Watt, whom we hope the lenient hand of time, and that strength of mind, which she possesses, and your attentions to her, will gradually procure consolation, tho' not forgetfulness. Adieu from dear Sir</p>
+			<p>Your affect. friend</p>
+			<p>E Darwin</p>
+			<p><note resp="editor" value="ADDRESSED" /> James Watt Esqr., Heathfield, near Birmingham.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_034">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1794 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="255" />
+			<p><head> <note resp="editor" value="94N. TO THOMAS WEDGWOOD, 10 AUGUST 1794" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Augt. 10 -94</p>
+			<p>Dear Sir,</p>
+			<p>I am glad to hear that the climate of Devon, and the chearfulness of your companions, have so much contributed to the melioration of your health; but am, at the same time, sorry to loose you from these frigid parts of the country. I shall answer the particulars of your letter in the order of it. The feverish complaint you mention in the evenings, and which sometimes keeps you watchful at night, may be occasion'd by some trivial mismanagement in your hours of meals, or the quantity of your potation; or your hour of going to bed. All these should be as regular as the instability of human affairs will admit of. For then the habit coincides with the other circumstances of fatigue, or of pleasurable ideas, for the purpose of procuring sleep, see Zoonomia Sect. XXXVI.2.1 and .2.</p>
+			<p>The swellings of the tonsils, or the little ulcerations, which occasionally affect them, are I believe frequently occasion'd by the putrid matter from decaying teeth, like the swelling in the axilla from the absorption of the poison of the smallpox. The headach, when it affects one side of the head only, is also, I believe, generally if not always, induced by sympathy with some decaying tooth; which you may see further spoken of <hi rend="type">(if you please)</hi> in Zoonomia Sect. XXXV.2.1, with a curious case of hemicrania from a decay'd tooth. On both these accounts, if the tooth, you mention, is much decay'd, you had better extract it. Otherwise you must take 60 grains of powder or (what is better) of good extract of Bark, twice a day for a fortnight, or 3 weeks, either as a bolus, or powder, or diffused in two ounces of water made a little warmish; to, suppose, about 82 degrees.</p>
+			<p>The change of your skin indicates a degree of plumpness, which shews you have lived better, viz. upon food and liquor of greater stimulus, and have thence been able to take it in greater quantity - which you should therefore continue to do.</p>
+			<p>The constant employment you mention is also a good thing, as it prevents one from feeling little evils, which otherwise torment us, as further <pb n="256" /> explain'd in Zoonomia V.1, p. 422. Now that you may not want employment, I should recommend to you a lawsuite in Chancery, or to follow the example of your brothers and take a wife - or to read my book of Zoonomia!</p>
+			<p>In respect to medecine I have no great opinion of the cicuta, as I have heard of patients taking a quarter of an ounce of the extract, beginning with small quantities, twice a day for weeks without any effect good or bad, and therefore I am induced to think it can be of no consequence when given by a few grains at a dose. About five grains of rhubarb, and 3/4 of a grain, or a grain of opium taken every night for many months, perhaps during the whole winter, I think a medecine of much greater value in your situation. The Bark mention'd above should be taken at the same time for a fortnight, and repeated occasionally, when you find yourself not so well.</p>
+			<p>I beg leave here to thank you for your generosity in sending me the inclosed note of 5 guineas.</p>
+			<p>Now for philosophy. No one is more impatient under the smell of bad feathers than myself, yet I doubt if any material can be obtain'd so good for pillows, and feather-beds, as well dryed, and well oxygenated feathers. If you stuff a feather-bed cover with air instead of feathers, it must be included in a bag of oil'd silk, which is not easily to be procured without smell as bad, or worse, than that of feathers, in respect to salubrity, <supplied>and</supplied> if a crack or pin-hole should occur, you would gradually <supplied>sink</supplied> down, like a boy swimming on bladders prick'd by a thorn <supplied>and</supplied> find yourself in the morning on hard cold boards or <supplied range="4,7" orig="cord[{age{]">cordage</supplied> .</p>
+			<p>For a pillow, <hi rend="type">Take</hi> hog's bladders, roll them out thin, slit them, stretch them while soften'd in warm water, glew them together, make a boulster or pillow according to art. By means of a pipe, you might blow it up every night, and perform "God save the King" at the same time; thus in travelling it would take no room in your portmanteau and you would gain the character of a great loyalist at the same time.</p>
+			<p>A feather-bed case fill'd with quicksilver would be very soft and pleasant; in winter it might be warm'd by one of Argand's lamps kept burning under it; and the exsudation would at the same time prevent or cure some diseases, that young bachellors are said to be liable to - you see, I love to produce two effects from one cause.</p>
+			<p>If you fill your bed with air, and it should sink, you might have a pipe adapted, so that you might at any hour in the night <hi rend="type">blow yourself up</hi> again - perhaps Dr Beddoes might thus exhibit some of his medicinal airs in this way.</p>
+			<p>The valve to the touch-hole of a gun I think a great invention, especially to canon. It must save powder, as much, compared with the present charge, as the diameter of the touch-hole is to the diameter of the gun, I suppose.</p>
+			<pb n="257" />
+			<p>It has been said, that if a valve opening externally was put on the muzzle of a gun, that it would prevent the greatest part of the sound. I doubt this, as I rather think the sound is made by the clapping together of the sides of the vacuum made by the sudden evanescence of the heat, and condensation of the water, than by its returning into the barrel of the gun.</p>
+			<p>You will please to present my best compliments to all with you and believe me, your much obliged friend and obed. serv.</p>
+			<p>E Darwin</p>
+			<p>Mrs Darwin begs her compliments to all with you. <note resp="editor" value="ADDRESSED" /> Thos. Wedgwood Esqr., Tallaton, Ottery St Mary, Devonshire.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_035">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1794 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="260" />
+			<p><head> <note resp="editor" value="94Q. TO JAMES WATT, 1 SEPTEMBER 1794" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Sept. 1 -94</p>
+			<p>My Dear friend</p>
+			<p>I have been so perpetually from home, that I could not sooner answer the favor of your two last kind letters, nor have I now any thing to say, but to tell you how much I am obliged to you for them. The Hymen of iron I have not yet procured to be perforated but intend it with the first days leizure. Your carbonated hydrogen seems to bid fair to be a valuable medicine, and I hope with you, that it may act by <hi rend="type">purpling</hi> the too scarlet blood, and not as Digitalis does; which produces pulmonary absorption by inducing sickness, as the author of Zoonomia would persuade us.</p>
+			<p>About giving airs I suspect there may be fallacy, unless the patient be nicely watch'd. I think I remember, when I was a smoaker of tobacco, that I only drew the smoke into my mouth, as I never could puff it out at my nose, and therefore it did not pass into the lungs.</p>
+			<p>Mr Strutt, who bleaches here with manganese, thinks what you say of the difference between Exeter and Mendip manganese is likely to have been mistaken; as he thinks so great a difference must have been percieved in their mode of using them.</p>
+			<p>I have not got an oil-silk bag to recieve these airs - Mr Thos. Wedgwood wrote to me about a scheme of stuffing feather-bed-covers with <hi rend="type">air</hi> instead of <hi rend="type">hair</hi> - he thinks feathers always stink, and wishes to rest on <hi rend="type">clouds</hi> like the Gods and Goddesses, which you see sprawling on cielings. Now could not (seriously) a pillow be made of leather imbued with a solution of Elastic gum? - so as not to smell like oil, and to hold air, either atmospheric or <pb n="261" /> carbonate? Thus one might carry one's bed about, and blow it up at night - or blow yourself up as you lye on it, like the philosoph bellows.</p>
+			<p>Mrs Darwin joins with me in our most respectful compliments to Mrs Watt,</p>
+			<p>Your affect. friend</p>
+			<p>E Darwin</p>
+			<p>I shall wait for Dr Beddoes' next book, I think, before I carbonate or hydrogenate, or azotate, or oxygenate any one.</p>
+			<p>When matter is form'd, as suppose between the muscles of any limb, no hectic fever is produced, tho' the abscess may contain a pint. Now if this absess be open'd by a knife so as to admit the air to the surface of the wound, the hectic fever comes on in a few hours! - this I suppose to be owing to the pus attracting oxygene, as the blood does; and that this oxygene (if the matter be ever absorbed, which is not certain) may produce fever by its stimulus, hence carbonate hydrogen might be of <supplied range="3,5" orig="gre[{at{]">great</supplied> service (perhaps) applied to some wounds, and Hydrogen to tendencies to gangreen, which might be done by tying a bladder round the ulcer or over it, and blowing the air under. <note resp="editor" value="ADDRESSED" /> James Watt Esqr., Heathfield, near Birmingham.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_036">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1794 T EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="263" />
+			<p><head> <note resp="editor" value="94T. TO THE DUKE OF DEVONSHIRE, 10 OCTOBER 1794" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Oct. 10 -94.</p>
+			<p>My Lord Duke,</p>
+			<p>After fully considering your Grace's situation, I can have no doubt, but that the small oozing of blood is from the lungs, either from the pulmonary or bronchial vessels. This blood, if it lies for half an hour unexposed to the air in the cells of the bronchia, becomes dark colour'd; like the blood on the underside of the cake of blood drawn into a bason. Otherwise it is generally florid, when spit from the lungs.</p>
+			<pb n="264" />
+			<p>The reason, why these oozings of blood most frequently occur in sleep, is, because the irritability of the lungs is not always then sufficient to carry on the circulation without the assistance of volition, which power is suspended during sleep, as is explain'd in the volume of Zoonomia, which I have already published, in page 294, about the middle.</p>
+			<p>These oozings of blood are dangerous in young men, between 17 and 27, but frequently occur in gouty habits, or in those who have slight bilious or hepatic complaints, as is the case of your Grace, without danger.</p>
+			<p>The immediate cause is too profound sleep - but the remote cause is to be saught for in the hepatic complaint, as those patients are liable to other haemorrhages, as from the nose, or from piles.</p>
+			<p>A cathartic with a few grains of calomel should be taken at night once a fortnight; which is the most efficacious means of removing those hepatic obstructions, which are the remote cause of haemorrhage; and by its being repeated at regular times a new habit will be acquired, which will probably break the bad habit, which your constitution has already acquired.</p>
+			<p>Besides this cathartic, a draught of the bark with acid of vitriol may be taken twice a day for a fortnight, and repeated occasionally.</p>
+			<p>To prevent too sound sleep, your Grace should avoid all violent exercise; and should be cautious in the use of much supper, or much wine at night. And as great uniformity, as may be, both in your hours of meals; and especially in the quantity of beer or wine, which you daily drink, should be observed. As nothing is more injurious, than to live high one day and low another <note resp="editor">;</note> that is, to use great stimulus of wine or beer one day, and little another. Another circumstance to prevent too profound sleep consists in lying on a bed rather harder than usual, as on a mattress over the feather-bed.</p>
+			<p>I do not advise your Grace to live too low, or to abstain from a proper quantity of vinous potation, which must be regulated by every ones previously acquired habits. I only strenuously advise you to take the same quantity of wine or beer every day. Which will contribute long to preserve your health.</p>
+			<p>The part your Grace saw of my new volume is inclosed, and a prescription, and if any further observations are required, I hope you will honor me with a letter.</p>
+			<p>I am, with the greatest respect, my Lord Duke, Your much obliged and obed. serv.</p>
+			<p>E Darwin</p>
+			<p>The noise in the ears and starting on going to sleep may depend on the wax or mucus in the internal ear being too viscid, and perhaps obstructing the Eustachian tube on one ear - this is more probable as your Grace complains of noise in swallowing your saliva, and the Eustachian tubes open from the ear into the upper part of the fauces.</p>
+			<pb n="265" />
+			<p>A teaspoonful of warm water or a few drops of Ether into each ear on going to bed might prevent this symptom.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_037">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1795 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="275" />
+			<p><head> <note resp="editor" value="95B. TO THOMAS WEDGWOOD, 24 FEBRUARY 1795" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Feb. 24 -95</p>
+			<p>Dear Sir,</p>
+			<p>My absence from home prevented me from sooner answering your favor. Where there is an opake cornea, and some reason from the shape of the eye not being alter'd, or from the person's being sensible to light, as of a candle, I think it might probably give confined vision by making a small aperture through the cornea by taking a bit out about the size of the smallest crow-quill - and then if so small a scar should be transparent, the patient would see. The operation is nice, and would require a young hand, and a young eye, to perform it. First a steel wire with a sharp point, and a screw must be made thus</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>with a handle of wax'd thread. This must be suddenly put into the center of the cornea, which will steady the eye; it must then be turn'd round so that the screw may hold the cornea fast; then a fine circular saw, or edge, made of hollow wire, thus</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>with handles as in the figure must be slided over the other (which other should not have a wax-handle as above described but only a flatten'd one).</p>
+			<p>Or both these instruments may be made in one piece, like the instrument for trepanning.</p>
+			<p>When a small circular piece of the cornea is thus taken out the eye must be closed, and in a few days a new scar will be form'd which over so small an aperture I should hope would be transparent.</p>
+			<p>Your instance of the effect of rhubarb and opium is explain'd in Zoonomia Sect. XII.3.3.</p>
+			<pb n="276" />
+			<p>Perhaps the liquid fat you mention amongst your feces was only mucus of the bowels - unless you try'd if it would flame?</p>
+			<p>A slow pulse is no sign of a short existence, but rather the contrary. On the contrary an habitual quick pulse is a symptom of debility.</p>
+			<p>Warm bathing is the most agreable stimulus you can use - next to that constant moderate exercise of body and mind - a mixture of animal and vegetable food in such quantity, as your stomach likes - with small beer and <hi rend="type">one</hi> glass of wine as recommended by Saint Paul.</p>
+			<p>If your digestion is not good half a grain of opium may be taken, or a second glass of wine.</p>
+			<p>Mrs Darwin begs to be remember'd to you, and all at Etruria with dear Sir</p>
+			<p>your faithful friend and serv.</p>
+			<p>E Darwin</p>
+			<p><note resp="editor" value="ADDRESSED" /> <supplied range="0,9" orig="[{Thos. Wedg{]wood">Thos. Wedgwood</supplied> Esqr., <supplied range="0,4" orig="[{Etru{]ria">Etruria</supplied>, <supplied range="0,2" orig="[{Ne{]wcastle">Newcastle</supplied>, <supplied range="0,5" orig="[{Staff{]ordshire">Staffordshire</supplied>.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_038">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1795 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="276" />
+			<p><head> <note resp="editor" value="95C. TO THOMAS WEDGWOOD, 9 MARCH 1795" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Mar. 9 -95</p>
+			<p>Dear Sir,</p>
+			<p>I beg your pardon for not sooner answering your last, but I was considering whether a common cutler, or white smith, or clock-maker could not make the instrument, and would advise you to do as below.</p>
+			<p>1. Procure some calve's or sheep's eyes, and by cutting them with knives, and sissars, you will come to understand the hardness and toughness of the cornea.</p>
+			<p>2. The hole can not be made too small. <pb n="277" /> 3. Would not a fine cylindrical file, terminating in a screw - or a fine capillary gimblet - or a cylinder with one cutting tooth -</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>a the cutting tooth, bc the handles of the cylinder, which may be as well made of wax'd thread.</p>
+			<p>4. Perhaps the cornea may be of such a texture that if a hole is made by distension, as by a sprig-awl in wood, that it would not come together again, and fill up the Hole? This might be learn't by making holes through the cornea of dead calve's eyes.</p>
+			<p>The piece taken out, or the hole, should be very small, as a small crow-quill, or as a thick bristle or Horse-hair.</p>
+			<p>Lastly, could a hole be made by a caustic? Suppose a capillary glass tube could be press'd for half a minute on the center of the cornea, with the least possible part of a drop of oil of vitriol in it - the part should <note resp="editor">be</note> wiped and wash'd with warm water as soon as the tube is withdrawn. Could not this be tried on the dead eye, as it is in part a chemical process? -</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>Or by a capillary syringe to hold up the cornea against the bottom of the glass tube by the pressure of the atmosphere. ab oil of vitriol</p>
+			<note resp="compiler" value="DARWIN'S DRAWING OMITTED" />
+			<p>You see it will require a nice operation. Another idea is with a sharp knife, to shave or pair <note resp="editor">pare</note> <note resp="editor" range="2,3" orig="of[\f\]">off</note> the external part of the opake cornea, till it becomes transparent, like scraping ivory or horn quite thin; and try if it would become opake again.</p>
+			<p>Could not a bit of glass ground into a shape like a shirt-sleave Stud <note resp="compiler" value="DARWIN'S DRAWING OMITTED" /> be put into the hole made in the center of the cornea, and left there, which would stay, and become a glass eye?</p>
+			<p>I know you are yourself a very ingenious mechanician, and if you can make these people see by such glass eyes, you will <note resp="editor" range="2,5" orig="ga[\in?\]">gain?</note> immortal honour, <pb n="278" /> and serve the human animal. I think this last idea bids fair, as the future scar would not signify, whether it be opake or not, and would heal like the holes bored in Ladies' ears. Adieu.</p>
+			<p>Success attend you, let me hear what you do,</p>
+			<p>E Darwin</p>
+			<p><note resp="editor" value="ADDRESSED" /> Thos. Wedgwood Esqr., Etruria, Newcastle, Staffordshire.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_039">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1795 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="288" />
+			<p><head> <note resp="editor" value="95K. TO JAMES WATT, 21 NOVEMBER 1795" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Nov 21 -95</p>
+			<p>My dear friend,</p>
+			<p>I was much obliged to you for the kind attention, you shew'd me, in sending some pounds of manganese, and for the remainder since; and shall be obliged to you to direct your people to send my account all together, as I can not readily find it piecemeal; and to call on me, if any of them comes this way for the money, if I do not soon find an opportunity to send it.</p>
+			<p>My daughter Emma is better, but has not taken the oxygene so regularly, as she ought to have done, owing in part to my absence from home; but I intend to manage it better; and if it serves her, I will send you a further history - she takes also 2 grains of opium a day to prevent or lessen a nervous cough, which she has returns of daily about the same hour but which is now much lessen'd by the use of the opiate; one grain of which is given on going to bed and another about five in the morning; as her cough had for many weeks return'd about seven in the morning. She also takes bone-ashes, soda phosphoreta, and powder of bark of each ten grains twice a day, so that the oxygen gas is but a part of the process.</p>
+			<p>The disease I believe to be "softness of bones" and her quick respiration owing to the ribs of one side not being sufficiently rigid. But why do I tell you all this stuff? - I do it, because you have been so good as to interest yourself about her health.</p>
+			<p>Dr Menish of Chelmsford writes me word, that a hard brick weighs a <pb n="289" /> great deal more after it is burnt, than when in its dry state, before it is burnt. Does glass acquire oxygene? - I should suppose so from the red lead, and manganese, which so readily induce clays and flint to vitrify. Might not a measure of high degrees of heat be thus made, by weighing certain vitrescent mixtures, or clays, after and before they experience the fire?</p>
+			<p>The new theory of fever in my next volume will take up 80 pages, I dare say; and will I hope amuse you. It shews, why the capillary vessels of the skin act too violently, producing <note resp="editor" range="1,6" orig="h[\eavy?\]">heavy?</note> perspiration, and great absorption, for 3 or <supplied>4</supplied> weeks together in continued fevers with weak <supplied range="1,5" orig="p[{ulse{]">pulse</supplied> and why at the same time the heart and arteries act all the while feebler a great deal than natural, tho' their pulsations are quicker.</p>
+			<p>Now I grow old and not so well amused in common society, I think writing books an amusement - I wish you would write books, instead of having those confounded headachs, which you complain of! Adieu. Mrs Darwin begs to join with me in best wishes and most respectful compliments to yourself and Mrs Watt,</p>
+			<p>from your sincere and affect. friend</p>
+			<p>E Darwin</p>
+			<p>I hope our friend Boulton has not much return of his gravelly complaint, somebody lately told me he was worse, which grieved me much.</p>
+			<p>I have often thought of a mouth-piece for breathing with two valves, but never could please myself. Mudge made one with a pea for a valve, I have forgot how, but I remember it was too far from the mouth, and therefore left some air to be respired over again.</p>
+			<p><note resp="editor" value="ADDRESSED" /> Mr James Watt Engineer, Heathfield, near Birmingham.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_040">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1796 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="292" />
+			<p><head> <note resp="editor" value="96B. TO THOMAS WEDGWOOD, 23 JANUARY 1796" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby Jan. 23 -96</p>
+			<p>Dear Sir,</p>
+			<p>I am much obliged to you for the attention you have given my book, and am flatter'd in finding you have detected so few errors. You return'd my last letter, for what purpose I do not know, as I can not be at the trouble of reading it again.</p>
+			<p>As the sensorial powers of pleasure and pain, and of desire and aversion can be excited without their causing fibrous motions, so the sensorial powers of irritation, and of association should from analogy exist in this inactive state, tho' they have then acquired no names - (as in the constant small sounds and light in which we are immersed, and which are not follow'd by any observable activity) - hence the existence of these circumstances is not totally gratuitous, as it is at least supported by the stricktest analogy.</p>
+			<pb n="293" />
+			<p>The circumstance of the light partitions of a window are explain'd in Sect. XL.3.2.</p>
+			<p>A blind man has tangible ideas (as I believe every one may have, when he thinks of <hi rend="type">all</hi> the sides of a cube or die at the same time); hence the images in dreams I suspect are easier to understand. Hence an affirmitive answer to his recollecting the figure of Thorp Cloud, would not be conclusive, as that might be a tangible idea.</p>
+			<p>The mouth of a lymphatic, when it is alive, absorbes; and therefore prevents the return of fluids; but when dead, has no valve, that I know of, to prevent their return.</p>
+			<p>Surprize, as defined in my book, I believe, does not exist without external stimulus. Admiration may be in common language called surprize, but that is an abuse of words - my book is to be tried by my own definitions.</p>
+			<p>The tangible vertigo is frequently mention'd in the work, both from intoxication, and from rotation, I believe in a note at the end both of the first and second volume. It is not the chemical changes of the aliment of the stomach, which induces sickness in any kind of vertigo; for it is only <hi rend="type">unusual</hi> motions, which cause vertigo either of the sense of vision or of touch. In the second volume there are many more pages on vertigo.</p>
+			<p>Birds building nests, and bees building cells, and laying up honey, seem to be acquired arts, deliver'd from parent to offspring, like the arts of mankind.</p>
+			<p>The appearances of prismatic colours by external pressure in the eye are mention'd by Sir I. Newton, and are said to be like a peacock's tail; and this shows, that light itself is not necessary to this appearance of colours. And are mention'd, Sect. III.4.1 and Sect. XL.1.3.</p>
+			<p>The experiment at III.3.1 was made by a convex mirror, not a lens.</p>
+			<p>Your ingenious idea of deep thinking consisting of alternate sleeping and waking is nearly the case, except that in sleep the external senses are closed, or render'd unfit to recieve their objects.</p>
+			<p>Many of your other remarks had better be defer'd, till we happen to meet, and I hope you will sometime give me your company at Derby.</p>
+			<p>Adieu from dear Sir your affect. friend and serv.</p>
+			<p>E Darwin</p>
+			<p>My new theory of fever I fear you will find very difficult, but I believe the foundation of it to be true, and the knowlege important, as it points out with more certainty the methods of cure.</p>
+			<p>I hope this second vol. will appear in March or April, and that you will send me any remarks, which may occur to you. <note resp="editor" value="ADDRESSED" /> Thos. Wedgwood Esqr., No. 22 Devonshire Place, London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="DARWIN_041">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797 TC EDARWIN"></title>
+					<author key="ERASMUS DARWIN"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="304" />
+			<p><head> <note resp="editor" value="97C. TO THOMAS WEDGWOOD, 27 MARCH 1797" /> </head> <note resp="compiler" value="FROM ERASMUS DARWIN" /></p>
+			<p>Derby March 27 -97</p>
+			<p>Dear Sir,</p>
+			<p>Ascarides are so nearly transparent and so hair-like, that I never believe their existence, unless the Evidence sees them move. Now as your enemas would probably kill them, I am not surprized at their not being seen in those evacuations.</p>
+			<p>For the same reason, where one is seen evidently to move, I always believe there are many, which being dead were not seen.</p>
+			<p>Pains, which are not attended by fever or inflammation, are owing to torpid action (debility) of the part, as of the membranes of the temple or which surround the tooth - hence whatever exhausts your animal power, as much study, or other fatigue, or abstinence, or cold, will contribute to weaken you, and induce a torpor of these weak parts.</p>
+			<p>The torpor of the membranes of a tooth, which affects the temple, <hi rend="type">I believe</hi> to be of the upper jaw of the same side - but this is not quite certain.</p>
+			<p>I have given an amalgama in the tape-worm with success, but have not yet tried it in ascarides.</p>
+			<p>As you are going to Harrowgate, I wish you only to try the water both by the mouth, and by clyster - and the last may be used cold, if not disagreable to your sensations.</p>
+			<p>I beg to be remember'd to all at Etruria, and am, dear Sir, your sincere friend and obed. serv.</p>
+			<p>ED</p>
+			<p><note resp="editor" value="ADDRESSED" /> Thos. Wedgwood Esqr., Etruria, near Newcastle, Staffordshire.</p>
+		</text>
+	</TEI>
+</teiCollection>

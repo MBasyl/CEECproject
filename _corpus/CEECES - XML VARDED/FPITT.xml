@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FPITT">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>LETTERS WRITTEN BY THE LATE EARL OF CHATHAM TO HIS NEPHEW THOMAS PITT, ESQ. (AFTERWARDS LORD CAMELFORD) THEN AT CAMBRIDGE. LONDON AND GOTTINGEN. REPRINTED FOR H. DIETERICH. 1805.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="PITT_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1750S? FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="1" />
+			<p><head> <note resp="editor" value="LETTER I." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /></p>
+			<p>My dear child,</p>
+			<p>I am extremely pleased with your translation now it is writ over fair. It is very close to the sense of the original, and done, in many places, with much spirit, as well as the numbers not lame, or rough. However an attention to Mr. Pope's numbers will make you avoid some ill sounds, and hobbling of the verse, by only transposing a word or two, in many <pb n="2" /> instances. I have, upon reading the Eclogue over again, altered the third, fourth, and fifth lines, in order to bring them nearer to the Latin, as well as to render some beauty which is contained in the repetition of words in tender passages; for example, Nos Patriae fines, et dulcia linquimus arva, Nos Patriam fugimus: Tu Tityre lentus in umbra` Formosam resonare doces Amaryllida Sylvas . We leave our native land, these fields so sweet, Our country leave: At ease, in cool retreat, You Thyrsis bid the woods fair Daphne's name repeat. I will desire you to write over another copy with this alteration, and also to write <normalised orig="smoaks" auto="true">smokes</normalised> in the plural number, <pb n="3" /> in the last line but one. You give me great pleasure, my dear child, in the progress you have made. I will recommend to Mr. Leech to carry you quite through Virgil's Aeneid from beginning to ending. Pray <normalised orig="shew" auto="true">show</normalised> him this letter, with my service to him, and thanks for his care of you. For English poetry, I recommend Pope's translation of Homer and Dryden's Fables in particular. I am not sure, if they are not called Tales instead of Fables. Your cousin whom I am sure you can overtake if you will, has read Virgil's Aeneid quite through, and much of Horace's Epistles. Terence's plays I would also desire Mr. Leech to make you <pb n="4" /> perfect master of. Your cousin has read them all. Go on, my dear, and you will at least equal him. You are so good that I have nothing to wish but that you may be directed to proper books; and I trust to your spirit, and desire to be praised for things that deserve praise, for the figure you will hereafter make. God bless you, my dear child.</p>
+			<p>Your most affectionate uncle.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1751 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="5" />
+			<p><head> <note resp="editor" value="LETTER II." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Bath, Oct. 12, 1751.</p>
+			<p>My dear nephew,</p>
+			<p>As I have been moving about from place to place, your letter reached me here, at Bath, but very lately, after making a considerable circuit to find me. I should have otherwise, my dear child, returned you thanks for the very great pleasure you have given me, long before now. The very good account you give me of your studies, and that delivered <pb n="6" /> in very good Latin, for your time, has filled me with the highest expectation of your future improvements: I see the foundations so well laid, that I do not make the least doubt but you will become a perfect good scholar; and have the pleasure and applause that will attend the several advantages hereafter, in the future course of your life, that you can only acquire now by your emulation and noble labours in the pursuit of learning, and of every acquirement that is to make you superior to other gentlemen. I rejoice to hear that you have begun Homer's Iliad; and have made so great a progress in Virgil. I hope you taste and love <pb n="7" /> those authors particularly. You cannot read them too much: they are not only the two greatest poets, but they contain the finest lessons for your age to imbibe: lessons of <normalised orig="honor" auto="true">honour</normalised>, courage, disinterestedness, love of truth, command of temper, gentleness of behaviour, humanity, and in one word, virtue in its true signification. Go on, my dear nephew, and drink as deep as you can of these divine springs: the pleasure of the draught is equal at least to the prodigious advantages of it to the heart and morals. I hope you will drink them as somebody does in Virgil, of another sort of cup: Ille Impiger hausit spumantem Pateram .</p>
+			<pb n="8" />
+			<p>I shall be highly pleased to hear from you, and to know what authors give you most pleasure. I desire my service to Mr. Leech: pray tell him I will write to him soon about your studies.</p>
+			<p>I am, with the greatest affection,</p>
+			<p>My dear Child,</p>
+			<p>Your loving uncle.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1754 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="9" />
+			<p><head> <note resp="editor" value="LETTER III." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Bath, Jan. 12, 1754.</p>
+			<p>My dear nephew,</p>
+			<p>Your letter from Cambridge affords me many very sensible pleasures: first, that you are at last in a proper place for study and improvement, instead of losing any more of that most precious thing, time, in London. In the next place that you seem pleased with the particular society you are placed in, and with the <pb n="10" /> gentleman to whose care and instructions you are committed: and above all I applaud the sound, right sense, and love of virtue, which appears through your whole letter. You are already possessed of the true clue to guide you through this dangerous and perplexing part of your life's journey, the years of education; and upon which, the complexion of all the rest of your days will infallibly depend: I say you have the true clue to guide you, in the maxim you lay down in your letter to me, namely that the use of learning is, to render a man more wise and virtuous; not merely to make him more learned.  Macte tua` Virtute ; Go on, my dear <pb n="11" /> boy, by this golden rule, and you cannot fail to become every thing your generous heart prompts you to wish to be, and that mine most affectionately wishes for you. There is but one danger in your way; and that is, perhaps, natural enough to your age, the love of pleasure, or the fear of close application and laborious diligence. With the last there is nothing you may not conquer: and the first is sure to conquer and <normalised orig="inslave" auto="true">enslave</normalised> whoever does not strenuously and generously resist the first allurements of it, lest by small <normalised orig="indulgencies" auto="true">indulgences</normalised>, he fall under the yoke of irresistible habit. Vitanda est Improba Siren, Desidia , I desire may be <normalised orig="affixt" auto="true">affixed</normalised> to the <pb n="12" /> curtains of your bed, and to the walls of your chambers. If you do not rise early, you never can make any progress worth talking of; and another rule is, if you do not set apart your hours of reading, and never suffer yourself or any one else to break in upon them, your days will slip through your hands, unprofitably and frivolously; unpraised by all you wish to please, and really unenjoyable to yourself. Be assured, whatever you take from pleasure, amusements, or indolence, for these first few years of your life, will repay you a hundred fold, in the pleasures, honours and advantages of all the remainder of your days. My heart is so full of the <pb n="13" /> most earnest desire that you should do well, that I find my letter has run into some length, which you will, I know, be so good to excuse. There remains now nothing to trouble you with but a little plan for the beginning of your studies, which I desire, in a particular manner, may be exactly followed in every tittle. You are to qualify yourself for the part in society, to which your birth and estate call you. You are to be a gentleman of such learning and qualifications as may distinguish you in the service of your country hereafter; not a pedant, who reads only to be called learned, instead of considering learning as an instrument only <pb n="14" /> for action. Give me leave therefore, my dear nephew, who have gone before you, to point out to you the dangers in your road; to guard you against such things, as I experience, my own defects to arise from; and at the same time, if I have had any little successes, in the world, to guide you to what I have drawn many helps from. I have not the pleasure of knowing the gentleman who is your tutor, but I dare say he is every way equal to such a charge, which I think no small one. You will communicate this letter to him, and I hope he will be so good to concur with me as to the course of study I desire you may begin with; and that <pb n="15" /> such books, and such only, as I have pointed out, may be read. They are as follows: Euclid; a Course of Logic; a Course of experimental Philosophy; Locke's Conduct of the Understanding; his Treatise also on the Understanding; his treatise on Government, and Letters on Toleration. I desire, for the present, no books of poetry, but Horace and Virgil: of Horace the Odes, but above all, the Epistles and Ars Poetica. These parts, <normalised orig="Nocturna" auto="true">Nocturne</normalised>` versate <normalised orig="manu" auto="true">menu</normalised>, versate diurna` . Tully de Officiis, de Amicitia`, de Senectute . His Catilinarian Orations and Philippics. Sallust. At leisure hours an abridgment of the History of England to <pb n="16" /> be run through, in order to settle in the mind a general chronological order and series of principal events, and succession of kings: proper books of English history, on the true principles of our happy constitution, shall be pointed out afterwards. Burnet's History of the Reformation, abridged by himself, to be read with great care. Father Paul on beneficiary Matters, in English. A French master, and only Moliere's Plays to be read with him, or by yourself, till you have gone through them all. Spectators, especially Mr. Addison's papers, to be read very frequently at broken times in your room. I make it my request that you will forbear <pb n="17" /> drawing, totally, while you are at Cambridge: and not meddle with Greek, otherwise than to know a little the etymology of words in Latin, or English, or French: nor to meddle with Italian. I hope this little course will soon be run through: I intend it as a general foundation for many things, of infinite utitility, to come as soon as this is finished.</p>
+			<p>Believe me,</p>
+			<p>With the truest affection,</p>
+			<p>My dear Nephew,</p>
+			<p>Ever yours.</p>
+			<p>Keep this letter and read it again.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1754 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="18" />
+			<p><head> <note resp="editor" value="LETTER IV." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Bath, Jan. 14, 1754.</p>
+			<p>My dear nephew,</p>
+			<p>You will hardly have read over one very long letter from me before you are troubled with a second. I intended to have writ soon, but I do it the sooner on account of your letter to your aunt, which she transmitted to me here. If any thing, my dear boy, could have happened, to raise you higher in my esteem, and to endear you more to me, it is the amiable abhorrence you feel for the scene of vice and folly, (and of <pb n="19" /> real misery and perdition, under the false notion of pleasure and spirit,) which has opened to you at your college, and at the same time, the manly, brave, generous, and wise resolution and true spirit, with which you resisted and repulsed the first attempts upon a mind and heart, I thank God, infinitely too firm and noble, as well as too elegant and enlightened, to be in any danger of yielding to such contemptible and wretched corruptions. You charm me with the description of Mr. <normalised orig="Wheler" auto="true">Whaler</normalised>, and while <pb n="20" /> you say you could adore him, I could adore you for the natural, genuine love of virtue, which speaks in all you feel, say, or do. As to your companions let this be your rule. Cultivate the acquaintance with Mr. <normalised orig="Wheler" auto="true">Whaler</normalised> which you have so fortunately begun: and in general, be sure to associate with men much older than yourself: scholars whenever you can: but always with men of decent and honourable lives. As their age and learning, superior both to your own, must necessarily, in good sense, and in the view of acquiring knowledge from them, entitle them to all deference, <pb n="21" /> and submission of your own lights to theirs, you will particularly practise that first and greatest rule for pleasing in conversation, as well as for drawing instruction and improvement from the company of one's superiors in age and knowledge namely, to be a patient, attentive, and well-bred hearer, and to answer with modesty: to deliver your own opinions sparingly and with proper diffidence; and if you are forced to desire farther information or explanation upon a point, to do it with proper apologies for the trouble you give: or if obliged to differ, to do it with all possible candour, and an unprejudiced desire to find and ascertain <pb n="22" /> truth, with an entire indifference to the side on which that truth is to be found. There is likewise a particular attention required to contradict with good manners; such as, begging pardon, begging leave to doubt, and such like phrases. Pythagoras enjoined his scholars an absolute silence for a long <normalised orig="noviciate" auto="true">novitiate</normalised>. I am far from approving such a taciturnity: but I highly recommend the end and intent of Pythagoras's injunction; which is to dedicate the first parts of life more to hear and learn, in order to collect materials, out of which to form opinions founded on proper lights, and well-examined sound principles, than to be presuming, prompt, and flippant <pb n="23" /> in hazarding one's own slight crude notions of things; and thereby exposing the nakedness and emptiness of the mind, like a house opened to company before it is fitted either with necessaries, or any ornaments for their reception and entertainment. And not only will this disgrace follow from such temerity and presumption, but a more serious danger is sure to ensue, that is, the embracing errors for truths, prejudices for principles; and when that is once done, (no matter how vainly and weakly,) the adhering perhaps to false and dangerous notions, only because one has declared for them, and submitting, for life, the understanding and conscience to <pb n="24" /> a yoke of base and servile prejudices, vainly taken up and obstinately retained. This will never be your danger; but I thought it not amiss to offer these reflections to your thoughts. As to your manner of behaving towards these unhappy young gentlemen you describe, let it be manly and easy; decline their parties with civility; retort their raillery with raillery, always tempered with good breeding: if they banter your regularity, order, decency, and love of study, banter in return their neglect of them; and venture to own frankly, that you came to Cambridge to learn what you can, not to follow what they are pleased to call pleasure. <pb n="25" /> In short, let your external behaviour to them be as full of politeness and ease as your inward estimation of them is full of pity, mixed with contempt. I come now to the part of the advice I have to offer to you, which most nearly concerns your welfare, and upon which every good and honourable purpose of your life will assuredly turn; I mean the keeping up in your heart the true sentiments of religion. If you are not right towards God, you can never be so towards man: the noblest sentiment of the human breast is here brought to the test. Is gratitude in the number of a man's virtues? if it be, the highest benefactor demands <pb n="26" /> the warmest returns of gratitude, love, and praise: Ingratum <normalised orig="qui" auto="true">queen</normalised> dixerit, omnia dixit . If a man wants this virtue where there are infinite obligations to excite and quicken it, he will be likely to want all others towards his fellow-creatures, whose utmost gifts are poor compared to those he daily receives at the hands of his never-failing Almighty Friend. Remember thy Creator in the days of thy youth, is big with the deepest wisdom: The fear of the Lord is the beginning of wisdom; and, an upright heart, that is understanding. This is eternally true, whether the wits and rakes of Cambridge allow it or not: nay, I must add of this religious wisdom, <pb n="27" /> Her ways are ways of pleasantness, and all her paths are peace, whatever your young gentlemen of pleasure think of a whore and a bottle, a tainted health and battered constitution. Hold fast therefore by this sheet-anchor of happiness, Religion; you will often want it in the times of most danger; the storms and tempests of life. Cherish true religion as preciously as you will fly with abhorrence and contempt superstition and enthusiasm. The first is the perfection and glory of the human nature; the two last the <normalised orig="depravation" auto="true">deprivation</normalised> and disgrace of it. Remember the essence of religion is, a heart void of offence towards God and man; not <pb n="28" /> subtle speculative opinions, but an active vital principle of faith. The words of a heathen were so fine that I must give them to you: Compositum Jus, Fasque <normalised orig="Animi" auto="true">Enemy</normalised>, Sanctosque Recessus <normalised orig="Mentis" auto="true">Mantis</normalised>, et incoctum generoso Pectus Honesto .</p>
+			<p>Go on, my dear child, in the admirable dispositions you have towards all that is right and good, and make yourself the love and admiration of the world! I have neither paper nor words to tell you how tenderly</p>
+			<p>I am yours.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1754 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="29" />
+			<p><head> <note resp="editor" value="LETTER V." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Bath, Jan. 24, 1754.</p>
+			<p>I will lose not a moment before I return my most tender and warm thanks to the most amiable, valuable, and noble minded of youths, for the infinite pleasure his letter gives me. My dear nephew, what a beautiful thing is genuine goodness, and how lovely does the human mind appear, in its native purity, (in a nature as happy as yours,) before the taints of a corrupted world have touched it! To guard you from the <pb n="30" /> fatal effects of all the dangers that surround and beset youth, (and many they are, <normalised orig="nam" auto="true">name</normalised> <normalised orig="variae" auto="true">vary</normalised> illudunt Pestes ,) I thank God, is become my pleasing and very important charge; your own choice, and our nearness in blood, and still more, a dearer and nearer relation of hearts, which I feel between us, all concur to make it so. I shall seek then every occasion, my dear young friend, of being useful to you, by offering you those lights, which one must have lived some years in the world to see the full force and extent of, and which the best mind and clearest understanding will suggest imperfectly, in any case, and in the most difficult, <pb n="31" /> delicate, and essential points perhaps not at all, till experience, that dear-bought instructor, comes to our assistance. What I shall therefore make my task, (a happy delightful task, if I prove a safeguard to so much opening virtue,) is to be for some years, what you cannot be to yourself, your experience; experience anticipated, and ready digested for your use. Thus we will endeavour, my dear child, to join the two best seasons of life, to establish your virtue and your happiness upon solid foundations: Miscens <normalised orig="Autumni" auto="true">Autumn</normalised> et Veris <normalised orig="Honores" auto="true">Honours</normalised> . So much in general. I will now, my dear nephew, say a few things to you upon a matter where you have surprisingly <pb n="32" /> little to learn, considering you have seen nothing but Boconnock; I mean behaviour. Behaviour is of infinite advantage or prejudice to a man, as he happens to have formed it to a graceful, noble, engaging, and proper manner, or to a vulgar, coarse, ill-bred, or awkward and ungenteel one. Behaviour, though an external thing which seems rather to belong to the body than to the mind, is certainly founded in considerable virtues: though I have known instances of good men, with something very revolting and offensive in their manner of behaviour, especially when they have the misfortune to be naturally very awkward <pb n="33" /> and ungenteel; and which their mistaken friends have helped to confirm them in, by telling them, they were above such trifles, as being genteel, dancing, fencing, riding, and doing all manly exercises, with grace and vigour. As if the body, because inferior, were not a part of the composition of man: and the proper, easy, ready, and graceful use of himself, both in mind and limb, did not go to make up the character of an accomplished man. You are in no danger of falling into this preposterous error: and I had a great pleasure in finding you, when I first saw you in London, so well disposed by nature, and so properly attentive to make yourself <pb n="34" /> genteel in person, and well-bred in behaviour. I am very glad you have taken a fencing-master: that exercise will give you some manly, firm, and graceful attitudes: open your chest, place your head upright, and plant you well upon your legs. As to the use of the sword, it is well to know it: but remember, my dearest nephew, it is a science of defence: and that a sword can never be employed by the hand of a man of virtue, in any other cause. As to the carriage of your person, be particularly careful, as you are tall and thin, not to get a habit of stooping; nothing has so poor a look: above all things avoid contracting any peculiar gesticulations <pb n="35" /> of the body, or movements of the muscles of the face. It is rare to see in any one a graceful laughter; it is generally better to smile than laugh out, especially to contract a habit of laughing at small or no jokes. Sometimes it would be affectation, or worse, mere moroseness, not to laugh heartily, when the truly ridiculous circumstances of an incident, or the true pleasantry and wit of a thing, call for and justify it; but the trick of laughing frivolously is by all means to be avoided: Risu inepto, Res ineptior nulla est . Now as to politeness; many have attempted definitions of it: I believe it is best to be known by description; <pb n="36" /> definition not being able to comprise it. I would however venture to call it, benevolence in trifles, or the preference of others to ourselves in little daily, hourly, occurrence in the commerce of life. A better place, a more commodious seat, priority in being helped at table, &amp;c. what is it, but sacrificing ourselves in such trifles to the convenience and pleasure of others? And this constitutes true politeness. It is a perpetual attention, (by habit it grows easy and natural to us), to the little wants of those we are with, by which we either prevent, or remove them. Bowing, ceremonious, formal compliments, stiff civilities, will never be politeness: <pb n="37" /> that must be easy, natural, unstudied, manly, noble. And what will give this, but a mind benevolent, and perpetually attentive to exert that amiable disposition in trifles towards all you converse and live with? Benevolence in greater matters takes a higher name, and is the queen of virtues. Nothing is so incompatible with politeness as any trick of absence of mind. I would trouble you with a word or two more upon some branches of behaviour, which have a more serious moral obligation in them, than those of mere politeness; which are equally important in the eye of the world. I mean a proper behaviour, adapted to the respective relations <pb n="38" /> we stand in, towards the different ranks of superiors, equals, and inferiors. Let your behaviour towards superiors, in dignity, age, learning, or any distinguished excellence, be full of respect, deference, and modesty. Towards equals, nothing becomes a man so well as well-bread ease, polite freedom, generous frankness, manly spirit, always tempered with gentleness and sweetness of manner, noble sincerity, candour, and openness of heart, qualified and restrained within the bounds of discretion and prudenence, and ever limited by a sacred regard to secrecy, in all things entrusted to it, and an inviolable attachment to your word. <pb n="39" /> To inferiors, gentleness, condescension, and affability, is the only dignity. Towards servants, never accustom yourself to rough and passionate language. When they are good we should consider them as humiles Amici , as fellow Christians, ut <normalised orig="Conservi" auto="true">Conserve</normalised> ; and when they are bad, pity, admonish, and part with them if incorrigible. On all occasions beware, my dear child, of Anger, that daemon, that destroyer of our peace. Ira furor <normalised orig="brevis" auto="true">braves</normalised> est, animum rege <normalised orig="qui" auto="true">queen</normalised> nisi <normalised orig="paret" auto="true">parrot</normalised> Imperat, hunc fraenis hunc tu <normalised orig="compesce" auto="true">compass</normalised> catenis.</p>
+			<p>Write soon, and tell me of your studies.</p>
+			<p>Your ever affectionate.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1754 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="40" />
+			<p><head> <note resp="editor" value="LETTER VI." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Bath, Feb 3, 1754.</p>
+			<p>Nothing can, or ought to give me a higher satisfaction, than the obliging manner in which my dear nephew receives my most sincere and affectionate endeavours to be of use to him. You much overrate the obligation, whatever it be, which youth has to those who have trod the paths of the world before them, for their friendly advice how to avoid the inconveniences, dangers, and evils, which they themselves may have run upon, for want of such <pb n="41" /> timely warnings, and to seize, cultivate, and carry forward towards perfection, those advantages, graces, virtues, and felicities, which they may have totally missed, or stopped short in the generous pursuit. To lend this helping hand to those who are beginning to tread the slippery way, seems, at best, but an office of common humanity to all; but to withhold it, from one we <normalised orig="truely" auto="true">truly</normalised> love, and whose heart and mind bear every genuine mark of the very soil proper for all the amiable, manly, and generous virtues to take root, and bear their heavenly fruit; inward, conscious peace, fame amongst men, public love, temporal, and eternal <pb n="42" /> happiness; to withhold it, I say, in such an instance, would deserve the worst of names. I am greatly pleased, my dear young friend, that you do me the justice to believe I do not mean to impose any yoke of authority upon your understanding and conviction. I wish to warn, admonish, instruct, enlighten, and convince your reason; and so determine your judgment to right things, when you shall be made to see that they are right; not to overbear, and impel you to adopt any thing before you perceive it to be right or wrong, by the force of authority. I hear with great pleasure, that Locke lay before you, when you writ last to me; and I like the <pb n="43" /> observation that you make from him, that we must use our own reason, not that of another, if we would deal fairly by ourselves, and hope to enjoy a peaceful and contented conscience. This precept is truly worthy of the dignity of rational natures. But here, my dear child, let me offer one distinction to you, and it is of much moment: it is this: Mr. Locke's precept is applicable only to such opinions as regard moral or religious obligations, which as such, our own consciences alone can judge and determine for ourselves: matters of mere expediency, that affect neither honour, morality, or religion, were not in that great and wise man's <pb n="44" /> view: such are the usages, forms, manners, modes, proprieties, decorums, and all those numberless ornamental little acquirements, and genteel well-bred attentions, which constitute a proper graceful, amiable, and noble behaviour. In matters of this kind, I am sure, your own reason, to which I shall always refer you, will at once tell you, that you must, at first, make use of the experience of others; in effect, see with their eyes, or not be able to see at all; for the ways of the world, as to its usages and exterior manners, as well to all things of expediency and prudential considerations, a moment's reflection will convince a mind as <pb n="45" /> right as yours, must necessarily be to inexperienced youth, with ever so fine natural parts, a terra <normalised orig="incognita" auto="true">incognito</normalised> . As you would not therefore attempt to form notions of China or Persia but from those who have travelled those countries, and the fidelity and sagacity of whose relations you can trust; so will you, as little, I trust, prematurely form notions of your own, concerning that usage of the world (as it is called) into which you have not yet travelled, and which must be long studied and practised, before it can be tolerably well known. I can repeat nothing to you of so infinite consequence to your future welfare, as to conjure you not to <pb n="46" /> be hasty in taking up notions and opinions: guard your honest and ingenuous mind against this main danger of youth: with regard to all things, that appear not to your reason, after due examination, evident duties of honour, morality, or religion, (and in all such as do, let your conscience and reason determine your notions and conduct) in all other matters, I say, be slow to form opinions, keep your mind in a candid state of <normalised orig="suspence" auto="true">suspense</normalised>, and open to full conviction when you shall procure it, using in the mean time the experience of a friend you can trust, the sincerity of whose advice you will try and prove by your own experience hereafter, <pb n="47" /> when more years shall have given it to you. I have been longer upon this head, than I hope there was any occasion for: but the great importance of the matter, and my warm wishes for your welfare, figure, and happiness, have drawn it from me. I wish to know if you have a good French master: I must recommend the study of the French language, to speak and write it correctly, as to grammar and orthography, as a matter of the utmost and indispensable use to you, if you would make any figure in the great world. I need say no more to enforce this recommendation: when I get to London, I will send you the best French dictionary. <pb n="48" /> Have you been taught geography and the use of the globes by Mr. Leech? if not, pray take a geography master and learn the use of the globes: it is soon known. I recommend to you to acquire a clear and thorough notion of what is called the solar system; together with the doctrine of comets. I wanted as much or more, to hear of your private reading at home, as of public lectures, which I hope, however, you will frequent for example's sake. Pardon this long letter, and keep it by you if you do not hate it. Believe me,</p>
+			<p>My dear Nephew,</p>
+			<p>Ever affectionately,</p>
+			<p>Yours.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1754 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="49" />
+			<p><head> <note resp="editor" value="LETTER VII." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Bath, March 30, 1754.</p>
+			<p>My dear nephew,</p>
+			<p>I am much obliged to you for your kind remembrance and wishes for my health. It is much recovered by the regular fit of gout, of which I am still lame in both feet, and I may hope for better health hereafter in consequence. I have thought it long since we conversed: I waited to be able to give you a <pb n="50" /> better account of my health, and in part, to leave you time to make advances in your plan of study, of which I am very desirous to hear an account. I desire you will be so good to let me know particularly, if you have gone through the abridgement of Burnet's History of the Reformation, and the Treatise of Father Paul on Benefices; also how much of Locke you have read. I beg of you not to mix any other English reading with what I recommended to you. I propose to save you much time <normalised orig="und" auto="true">not</normalised> trouble, by pointing out to you such books, in succession, as will carry you the shortest way to the things you must know to fit yourself for <pb n="51" /> the business of the world, and give you the clearer knowledge of them, by keeping them unmixed with superfluous, vain, empty trash. Let me hear, my dear child, of your French also; as well as of those studies which are more properly university studies. I cannot tell you better how truly and tenderly I love you, than by telling you I am most solicitously bent on your doing every thing that is right, and laying the foundations of your future happiness and figure in the world, in such a course of improvement, as will not fail to make you a better man, while it makes you a more knowing one. Do you rise early? I hope you have already <pb n="52" /> made to yourself the habit of doing it: if not, let me conjure you to acquire it. Remember your friend Horace. Et <normalised orig="ni" auto="true">no</normalised> Posces ante Diem librum cum lumine, si non <normalised orig="Intendes" auto="true">Intends</normalised> animum <normalised orig="studiis" auto="true">studies</normalised>, et rebus honestis, Invidia` vel Amore miser torquebere.</p>
+			<p>Adieu.</p>
+			<p>Your ever affectionate uncle.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1754 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="53" />
+			<p><head> <note resp="editor" value="LETTER VIII." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Bath, May 4, 1754.</p>
+			<p>Dear nephew,</p>
+			<p>I use a pen with some difficulty, being still lame in my hand with the gout: I can not however delay writing this line to you on the course of English history I propose for you. If you have finished the Abridgment of English History and of Burnet's History of the Reformation, I recommend to you next (before any other reading of history) Oldcastle's <pb n="54" /> Remarks on the History of England, by Lord Bolingbroke. Let me <normalised orig="apprize" auto="true">apprise</normalised> you of one thing before you read them, and that is, that the author has bent some passages to make them invidious parallels to the times he wrote in; therefore be aware of that, and depend, in general, on finding the truest constitutional doctrines: and that the facts of history (though warped) are no where falsified. I also recommend Nathaniel Bacon's Historical and Political Observations; it is, without exception, <pb n="55" /> the best and most instructive book we have on matters of that kind. <pb n="56" /> They are both to be read with much attention and twice over; Oldcastle's Remarks to be studied and almost got by heart, for the inimitable beauty of the style, as well as the matter. Bacon for the matter chiefly; the style being uncouth, but the expression forcible and striking. I can write no more, and you will hardly read what is writ.</p>
+			<p>Adieu, my dear child.</p>
+			<p>Your ever affectionate uncle.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1754 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="57" />
+			<p><head> <note resp="editor" value="LETTER IX." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Astrop Wells, Sept. 5, 1754.</p>
+			<p>My dear nephew,</p>
+			<p>I have been a long time without conversing with you, and thanking you for the pleasure of your last letter. You may possibly be about to return to the seat of learning on the banks of the. Cam; but I will not defer discoursing to you on <normalised orig="litterary" auto="true">literary</normalised> matters till you leave Cornwall, not doubting but you are mindful of the muses amidst the very savage rocks and moors, and yet <pb n="58" /> more savage natives, of the ancient and respectable <normalised orig="dutchy" auto="true">duchy</normalised>. First, with regard to the opinion you desire concerning a common-place book; in general, I much disapprove the use of it: it is chiefly intended for persons who mean to be authors, and tends to impair the memory, and to deprive you of a ready, extempore, use of your reading, by accustoming the mind to discharge itself of its reading on paper, instead of relying on its natural power of retention, aided and fortified by frequent revisions of its ideas and materials. Some things must be common-placed in order to be of any use; dates, chronological order, and the like; <pb n="59" /> for instance, Nathaniel Bacon ought to be extracted in the best method you can: but in general my advice to you is, not to common-place upon paper, but, as an equivalent to it, to endeavour to range and methodize in your head what you read, and by so doing frequently and habitually to fix matter in the memory. I desired you some time since to read Lord Clarendon's History of the civil wars. I have lately read a much honester and more instructive book, of the same period of history; it is the History of the Parliament, by Thomas May, Esq. etc. I will <pb n="60" /> send it to you as soon as you return to Cambridge. If you have not read Burnet's History of his own Times, I beg you will. I hope your father is well. My love to the girls.</p>
+			<p>Your ever affectionate.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1755 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="61" />
+			<p><head> <note resp="editor" value="LETTER X." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Pay Office, April 9, 1755.</p>
+			<p>My dear nephew,</p>
+			<p>I rejoice extremely to hear that your father and the girls are not unentertained in their travels: in the mean time your travels through the paths of literature, arts, and sciences, (a road, sometimes set with flowers, and sometimes difficult, laborious, and arduous,) are not only infinitely more profitable in future, <pb n="62" /> but at present, upon the whole, infinitely more delightful. My own travels at present are none of the pleasantest: I am going through a fit of the gout; with much proper pain and what proper patience I may. Avis au lecteur , my sweet boy: remember thy Creator in the days of thy youth. Let no excesses lay the foundations of gout and the rest of Pandora's box; nor any immoralities, or vicious courses sow the seeds of a too late and painful repentance. Here ends my sermon, which, I trust, you are not fine gentleman enough, or in plain English, silly fellow enough, to laugh at. Lady <normalised orig="Hester" auto="true">Hector</normalised> is much <pb n="63" /> yours. Let me hear some account of your intercourse with the muses,</p>
+			<p>And believe me ever,</p>
+			<p>Your truly most affectionate.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1755 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="64" />
+			<p><head> <note resp="editor" value="LETTER XI." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Pay Office. April 15, 1755.</p>
+			<p>A thousand thanks to my dear boy for a very pretty letter. I like extremely the account you give of your literary life; the reflexions you make upon some West-Saxon actors in the times you are reading, are natural, manly, and sensible, and flow from a heart that will make you far superior to any of <pb n="65" /> them. I am content you should be interrupted (provided the interruption be not long) in the course of your reading by declaiming in defence of the Thesis you have so wisely chosen to maintain. It is true indeed that the affirmative maxim, Omne solum forti Patria est , has supported some great and good men under the persecutions of faction and party injustice, and taught them to prefer an hospitable retreat in a foreign land to an unnatural mother-country. Some few such may be found in ancient times: in our own country also some; such was Algernoon Sidney, Ludlow, and others. But how dangerous is it to trust frail, <pb n="66" /> corrupt man, with such an aphorism! What fatal casuistry is it big with! How many a villain might, and has, masked himself in the sayings of ancient illustrious exiles, while he was, in fact, dissolving all the nearest and dearest ties that hold societies together, and spurning at all laws divine and human! How easy the transition from this political to some impious ecclesiastical aphorisms! If all soils are alike to the brave and virtuous, so may all churches and modes of worship; that is, all will be equally neglected and violated. Instead of every soil being his country, he will have no one for his country; he will be the forlorn outcast of mankind. <pb n="67" /> Such was the late Bolingbroke of impious memory. Let <note resp="compiler" value="Le IN EDITION" /> me know when your declamation is over. Pardon an observation on style: "I received yours" is vulgar and mercantile; "your letter" is the way of writing. <normalised orig="Inclose" auto="true">Enclose</normalised> your letters in a cover, it is more polite.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1755 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="68" />
+			<p><head> <note resp="editor" value="LETTER XII." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Pay Office, May 20, 1755.</p>
+			<p>My dear nephew,</p>
+			<p>I am extremely concerned to hear that you have been ill, especially as your account of an illness, you speak of as past, implies such remains of disorder as I beg you will give all proper attention to. By the medicine your physician has ordered, I conceive he considers your case in <pb n="69" /> some degree nervous. If that be so, advise with him whether a little change of air and of the scene, together with some weeks course of steel waters, might not be highly proper for you. I am to go the day after to-morrow to Sunning Hill, in Windsor Forest, where I propose to drink those waters for about a month. Lady <normalised orig="Hester" auto="true">Hector</normalised> and I shall be happy in your company, if your doctor shall be of opinion that such waters may be of service to you; which, I hope, will be his opinion. Besides health recovered, the muses shall not be quite forgot: we will ride, read, walk, and <normalised orig="philosophize" auto="true">philosophise</normalised>, extremely at our ease, and you may return to Cambridge <pb n="70" /> with new ardour, or at least with strength repaired, when we leave Sunning Hill. If you come, the sooner the better, on all accounts. We propose to go into Buckinghamshire in about a month. I rejoice that your declamation is over, and that you have begun, my dearest nephew, to open your mouth in public, ingenti Patriae perculsus Amore . I wish I had heard you perform: the only way I ever shall hear your praises from your own mouth. My gout prevented my so much intended and wished for journey to Cambridge: and now my plan of drinking waters renders it impossible. Come then, my dear boy, to us; and <pb n="71" /> so Mahomet and the mountain meet, no matter which moves to the other. Adieu.</p>
+			<p>Your ever affectionate.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_013">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1755 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="72" />
+			<p><head> <note resp="editor" value="LETTER XIII." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> July 13, 1755.</p>
+			<p>My dear nephew,</p>
+			<p>I have delayed writing to you in expectation of hearing farther from you upon the subject of your stay at college. No news is the best news, and I will hope now that all your difficulties upon that head are at an end. I represent you to myself deep in study and drinking large draughts of intellectual nectar; a <pb n="73" /> very delicious state to a mind happy enough, and elevated enough, to thirst after knowledge and true honest fame, even as the hart <normalised orig="panteth" auto="true">panted</normalised> after the water brooks. When I name knowledge, I ever intend learning as the weapon and instrument only of manly, honourable, and virtuous action, upon the stage of the world, both in private and public life; as a gentleman, and as a member of the commonwealth, who is to answer for all he does to the laws of his country, to his own breast and conscience, and at the tribunal of honour and good fame. You, my dear boy, will not only be acquitted, but applauded and dignified at all these respectable and <pb n="74" /> awful bars. So, macte tua` virtute ! go on and prosper in your glorious and happy career: not forgetting to walk an hour briskly every morning and evening, to fortify the nerves. I wish to hear, in some little time, of the progress you shall have made in the course of reading chalked out. Adieu.</p>
+			<p>Your ever affectionate uncle.</p>
+			<p>Lady <normalised orig="Hester" auto="true">Hector</normalised> desires her best compliments to you.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_014">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1755 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="75" />
+			<p><head> <note resp="editor" value="LETTER XIV." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Stowe, July 24, 1755.</p>
+			<p>My dear nephew,</p>
+			<p>I am just leaving this place to go to Wotton; but I will not lose the post, though I have time but for one line. I am extremely happy that you can stay at your college, and pursue the prudent and glorious resolution of employing your present moments with a view to the future. May your noble and generous love <pb n="76" /> of virtue pay you with the sweet rewards of a self-approving heart and an applauding country! and may I enjoy the true satisfaction of seeing your fame and happiness, and of thinking that I may have been fortunate enough to have contributed, in any small degree, to do common justice to kind nature by a suitable education! I am no very good judge of the question concerning the books; I believe they are your own in the same sense that your wearing apparel is. I would retain them, and leave the candid and equitable Mr. - to plan with the honest Mr. -, schemes of perpetual vexation. As to the persons just mentioned, I trust <pb n="77" /> that you bear about you a mind and heart much superior to such malice: and that you are as little capable of resenting it, with any sensations but those of cool decent contempt, as you are of fearing the consequences of such low efforts. As to the caution money I think you have done well. The case of the chambers, I conceive, you likewise apprehend rightly. Let me know in your next what these two articles require you to pay down, and how far your present cash is exhausted, and I will direct Mr. Campbell to give you credit accordingly. Believe me, my dear Nephew, truly happy to be of use to you.</p>
+			<p>Your ever affectionate.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_015">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1755 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="78" />
+			<p><head> <note resp="editor" value="LETTER XV." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Wotton, Aug. 7, 1755.</p>
+			<p>My dear nephew,</p>
+			<p>I have only time at present to let you know I am setting out for London; when I return to Sunning Hill, which I propose to do in a few days, I shall have considered the question about a letter to -, and will send you my thoughts upon it. As to literature, I know you are not idle, under so many and so strong <pb n="79" /> motives to animate you to the ardent pursuit of improvement. For English history, read the revolutions of York and Lancaster in Pere d'Orleans, and no more of the father; the life of Edward the Fourth, and so downwards all the life writers of our kings, except such as you have already read. For Queen <normalised orig="Ann's" auto="true">Inn's</normalised> reign the continuator of <normalised orig="Rapin" auto="true">Rapine</normalised>.</p>
+			<p>Farewell, my dearest nephew, for to day.</p>
+			<p>Your most affectionate uncle.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_016">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1755 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="80" />
+			<p><head> <note resp="editor" value="LETTER XVI." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Bath, Sept. 25, 1755.</p>
+			<p>I have not conversed with my dear nephew a long time: I have been much in a post-chaise, living a wandering Scythian life, and he has been more usefully employed than in reading or writing letters; travelling through the various, instructing, and entertaining road of history. I have a particular pleasure in hearing now <pb n="81" /> and then a word from you in your journey, just while you are changing horses, if I may so call it, and getting from one author to another. I suppose you going through the biographers, from Edward the Fourth downwards, nor intending to stop, till you reach to the continuator of honest <normalised orig="Rapin" auto="true">Rapine</normalised>. There is a little book I never mentioned, Welwood's Memoirs; I recommend it. Davis's Ireland must not on any account be omitted: it is a great performance, a masterly work, and contains much depth and extensive knowledge in state matters, and settling of countries, in a very short compass. I have met with a scheme of chronology <pb n="82" /> by Blair, <normalised orig="shewing" auto="true">showing</normalised> all <normalised orig="cotemporary" auto="true">contemporary</normalised>, historical characters, through all ages: it is of great use to consult frequently, in order to fix periods, and throw collateral light upon any particular branch you are reading. Let me know, when I have the pleasure of a letter from you, how far you are advanced in English history. You may probably not have heard authentically of Governor Lyttelton's captivity and release. He is safe and well in England, after being taken and detained in France some days. Sir Richard and he met, unexpectedly enough, at Brussels, and came together to England. I propose returning to London in about a week, <pb n="83" /> where I hope to find Lady <normalised orig="Hester" auto="true">Hector</normalised> as well as I left her. We are both much indebted for your kind and affectionate wishes. In <normalised orig="publica" auto="true">public</normalised> <normalised orig="commoda" auto="true">commode</normalised> peccem Si longo <normalised orig="sermone" auto="true">sermon</normalised> morer one bent on so honourable and virtuous a journey, as you are.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_017">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1755 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="84" />
+			<p><head> <note resp="editor" value="LETTER XVII." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Pay Office, Dec. 6, 1755.</p>
+			<p>Of all the various satisfactions of mind I have felt upon some late events, none has affected me with more sensibility and delight than the reading my dear nephew's letter. The matter of it is worthy of a better age than that we live in; worthy of your own noble, untainted mind; and the manner and expression of it is such, as, I trust, will <pb n="85" /> one day make you a powerful instrument towards mending the present degeneracy. Examples are unnecessary to happy natures; and it is well for your future glory and happiness that this is the case; for to copy any now existing might cramp genius and check the native spirit of the piece, rather than contribute to the perfection of it. I learn from Sir Richard Lyttelton that we may have the pleasure of meeting soon, as he has already, or intends to offer you a bed at his house. It is on this, as on all occasions, little necessary to preach prudence, or to intimate a wish that your studies at Cambridge might not be broken by a long interruption <pb n="86" /> of them. I know the rightness or your own mind, and leave you to all the generous and animating motives you find there, for pursuing improvements in literature and useful knowledge, as much better counsellors than</p>
+			<p>Your ever most affectionate uncle.</p>
+			<p>Lady <normalised orig="Hester" auto="true">Hector</normalised> desires her best compliments. The little cousin is well.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_018">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1756 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="87" />
+			<p><head> <note resp="editor" value="LETTER XVIII." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Horse Guards, Jan. 31, 1756.</p>
+			<p>My dear nephew,</p>
+			<p>Let me thank you a thousand times for your remembering me, and giving me the pleasure of hearing that you was well, and had laid by the ideas of London and its dissipations, to resume the sober train of thoughts that gowns, square caps, quadrangles, and matin-bells, <pb n="88" /> naturally draw after them. I hope the air of Cambridge has brought no disorder upon you, and that you will compound with the muses so as to dedicate some hours, not less than two, of the day to exercise. The earlier you rise, the better your nerves will bear study. When you next do me the pleasure to write to me, I beg a copy of your Elegy on your Mother's Picture; it is such admirable poetry, that I beg you to plunge deep into prose and severer studies, and not indulge your genius with verse, for the present. Finitimus <normalised orig="Oratori" auto="true">Oratory</normalised> <normalised orig="Poeta" auto="true">Poet</normalised>. Substitute Tully and Demosthenes in the place of Homer and Virgil; and arm yourself <pb n="89" /> with all the variety of manner, copiousness and beauty of diction, nobleness and magnificence of ideas of the Roman consul; and render the powers of eloquence complete by the irresistible torrent of vehement argumentation, the close and forcible reasoning, and the depth and fortitude of mind of the Grecian statesman. This I mean at leisure intervals, and to relieve the course of those studies, which you intend to make your principal object. The book relating to the empire of Germany, which I could not recollect, is Vitriarius's Jus Publicum , an admirable book in its kind, and esteemed of the best authority in matters <pb n="90" /> much controverted. We are all well: Sir Richard is upon his legs and abroad again.</p>
+			<p>Your ever affectionate uncle.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_019">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1756 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="91" />
+			<p><head> <note resp="editor" value="LETTER XIX." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Hayes, near Bromley, May 11, 1756.</p>
+			<p>My dear nephew's obliging letter was every way most pleasing; as I had more than begun to think it long since I had the satisfaction of hearing he was well. As the season of humidity and relaxation is now almost over, I trust that the muses are in no danger of nervous complaints, and that whatever pains <pb n="92" /> they have to tell are out of the reach of Esculapius, and not dangerous, though epidemical to youth at this soft month,</p>
+			<p>When lavish nature, in her best attire,</p>
+			<p>Clothes the gay spring, the season of desire.</p>
+			<p>To be serious, I hope my dearest nephew is perfectly free from all returns of his former complaint, and enabled by an unailing body, and an ardent elevated mind, to follow, Quo Te Coelestis Sapientia duceret . My <normalised orig="holydays" auto="true">holidays</normalised> are now approaching, and I long to hear something of your <pb n="93" /> labours, which, I doubt not, will prove in their consequence more profitable to your country a few years hence than your uncle's. Be so good to let me know what progress you have made in our historical and constitutional journey, that I may suggest to you some farther reading. Lady <normalised orig="Hester" auto="true">Hector</normalised> is well, and desires her best compliments to you. I am well, but threatened with gout in my feet, from a parliamentary debauch till six in the morning, on the Militia. Poor Sir Richard is laid up with the gout.</p>
+			<p><normalised orig="Your's" auto="true">Yours</normalised> most affectionately.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_020">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1756 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="94" />
+			<p><head> <note resp="editor" value="LETTER XX." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Hayes, Oct. 7, 1756.</p>
+			<p>I think it very long since I heard any thing of my dear nephew's health and learned occupations at the mother of arts and sciences. Pray give me the pleasure of a letter soon, and be so good to let me know what progress is made in our plan of reading. I am now to make a request to you in behalf of a young gentleman <pb n="95" /> coming to Cambridge, Mr. -'s son. The father desires much that you and his son may make an acquaintance: as what father would not? Mr. - is one of the best friends I have in the world, and nothing can oblige me more than that you would do all in your power to be of assistance and advantage to the young man. He has good parts, good nature, and amiable qualities. He is young, and consequently much depends on the first habits he forms, whether of application or dissipation. You see, my dear nephew, what it is already to have made yourself Princeps Juventutis . It has its glories and its cares. You are invested with <pb n="96" /> a kind of public charge, and the eyes of the world are upon you, not only for your own acquittal, but for the example and pattern to the British youth. Lady <normalised orig="Hester" auto="true">Hector</normalised> is still about, but in daily expectation of the good minute. She desires her compliments to you. My sister is gone to Howberry. Believe me ever,</p>
+			<p>My dear Nephew,</p>
+			<p>Most affectionately yours.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_021">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1756 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="97" />
+			<p><head> <note resp="editor" value="LETTER XXI." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> Hayes, Oct. 10, 1756.</p>
+			<p>Dear nephew,</p>
+			<p>I have the pleasure to acquaint you with the glad tidings of Hayes. Lady <normalised orig="Hester" auto="true">Hector</normalised> was safely delivered this morning of a son. She and the child are as well as possible, and the father in the joy of his heart. It is no small addition to my happiness to know you will kindly share it with me. A father must form wishes <pb n="98" /> for his child as soon as it comes into the world, and I will make mine, that he may live to make as good use of life, as one that shall be nameless, is now doing at Cambridge. Quid voveat majus Matricula dulcis Alumno?</p>
+			<p>Your ever affectionate.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_022">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1757 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="99" />
+			<p><head> <note resp="editor" value="LETTER XXII." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> St. James's Square, Aug. 28, 1757.</p>
+			<p>My dear nephew,</p>
+			<p>Nothing can give me greater pleasure than the approaching conclusion of a happy reconciliation in the family. Your letter to - is the properest that can be imagined, and, I doubt not, will make the deepest impression on his heart. I have been in much pain <pb n="100" /> for you during all this unseasonable weather, and am still apprehensive, till I have the satisfaction of hearing from you, that your course of seabathing has been interrupted by such gusts of wind as must have rendered the sea too rough an element for a convalescent to disport in. I trust, my dearest nephew, that opening scenes of domestic comfort and family-affection will confirm and augment every hour the benefits you are receiving at Brighthelmston, from external and internal medical assistances. Lady <normalised orig="Hester" auto="true">Hector</normalised> and Aunt Mary join with me in all good wishes for your health and happiness. The duplicate - mentions having addressed <pb n="101" /> to me, has never come to hand. I am,</p>
+			<p>With truest affection,</p>
+			<p>My dearest nephew,</p>
+			<p>Ever yours.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PITT_023">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1757 FO WPITT"></title>
+					<author key="WILLIAM PITT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="102" />
+			<p><head> <note resp="editor" value="LETTER XXIII." /> </head> <note resp="compiler" value="WILLIAM PITT TO THOMAS PITT" /> St. James's Square, Oct. 27, 1757.</p>
+			<p>My dear nephew,</p>
+			<p><normalised orig="Inclosed" auto="true">Enclosed</normalised> is a letter from -, which came in one to me. I heartily wish the contents may be agreeable to you.</p>
+			<p>I am far from being satisfied, my dearest nephew, with the account your last letter to my sister gives of <pb n="103" /> your health. I had formed the hope of your ceasing to be an invalid before this time; but since you must submit to be one for this winter, I am comforted to find your strength is not impaired, as it used to be, by the returns of illness you sometimes feel; and I trust the good government you are under, and the fortitude and manly resignation you are possessed of, will carry you well through this trial of a young man's patience, and bring you out in spring, like gold, the better for the proof. I rejoice to hear you have a friend of great merit to be with you. My warmest wishes for your health and happiness never fail to follow you. <pb n="104" /> Lady <normalised orig="Hester" auto="true">Hector</normalised> desires her best compliments. Believe me,</p>
+			<p>With the truest affection,</p>
+			<p>Ever yours.</p>
+		</text>
+	</TEI>
+</teiCollection>

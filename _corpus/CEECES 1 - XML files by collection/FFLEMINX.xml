@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FFLEMINX">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>THE FLEMINGS IN OXFORD BEING DOCUMENTS SELECTED FROM THE RYDAL PAPERS IN ILLUSTRATION OF THE LIVES AND WAYS OF OXFORD MEN 1650- 1700. ED. BY JOHN RICHARD MAGRATH. VOL. II 1680-1690. OXFORD HISTORICAL SOCIETY 62. 1913. VOL. III 1691-1700. OXFORD HISTORICAL SOCIETY 79. 1924.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="FLEMINX_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1684 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,119" />
+			<head> <note resp="editor" value="CCLXXXIV. SIR DANIEL FLEMING TO HENRY FLEMING." /> </head>
+			<p><note resp="editor" value="ENDORSED:" /> The copy of my letter to my son Henry of June 20. 84.</p>
+			<p>Rydal, June 20. 84.</p>
+			<p>Son Henry,</p>
+			<p>I writ unto you not long since, which I enclosed in a Letter unto your Cosin George Fletcher; &amp; I then acquainted you with my haveing received yours of Mar. 19 &amp; of Apr. 18. last past. I have also received yours of May <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="1,3" orig="5=th=">5th</hi>, with ye Logical-Verses therein; which had been a long time in comeing hither. I was the other day much surprised when your brother acquainted me with what you had writ unto him; little expecting to have had from you such a returne, for my great care &amp; charge in duely supplying you: Although I perceive you take no great pleasure in being advised by me; yet (being your Father) I must againe &amp; againe acquaint you, that it will be both your Duty &amp; Interest to be very studious &amp; provident, &amp; I think it will be also for your credit amongst all sober &amp; prudent persons. The more you shall spend, ye less I am sure youl study &amp; Time &amp; Treasure are more precious, than many young men do esteem them, &amp; so long as you shall behave yourselfe as becomes you, I will endeavour (with Gods assistance) to supply you with what is necessary; and that is as much <pb n="II,120" /> as, I think, you can reasonably expect from me: For you know how many other children I have, and that I must take care of all them as well as of you. What you propose, will I beleive turn to <hi rend="sup" range="1,2" orig="y=e=">ye</hi> advange of neither you nor me: therefore let us think no more of it, but endeavour chearfully to discharge our several Dutyes both to God &amp; man. I have here by this Bearer sent you <hi rend="sup" range="1,4" orig="5=l~i=">5l~i</hi> for your selfe with <hi rend="sup" range="1,2" orig="5=s=">5s</hi> to be spent by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Fellowes, &amp; <hi rend="sup" range="1,2" orig="2=s=">2s</hi> - <hi rend="sup" range="1,2" orig="6=d=">6d</hi> by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Tabiters. My Aunt Anderton is lately dead; but all your other Relations are (I thank God) very well. Remember me to all my Friends with you. The Lord bless you, &amp; direct you in all your wayes. I am</p>
+			<p>Your very loveing Father</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1688 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,211" />
+			<head> <note resp="editor" value="CCCLXI. SIR DANIEL FLEMING TO DR. TIMOTHY HALTON." /> </head>
+			<p>Rydal, Jun. 30. 88.</p>
+			<p>Dear <hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>The great kindness which you &amp; the Fellowes of Queen's College have shewn unto my son Henry hath encouraged me to send another son unto you, hopeing that you will be pleased to place him with such a Tutor as will be careful of him, &amp; be diligent in Reading unto him. I would willingly have him get as much University-Learning as he can in a short time, not knowing how long he may be permitted to continue with you. I must now acknowledge <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <pb n="II,212" /> many &amp; ancient favours which I have received from you which will ever engage me to remain</p>
+			<p>Dear <hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>Your most obliged &amp; obedient Servant,</p>
+			<p>D. F.</p>
+			<p>For Dr Halton</p>
+			<p>These</p>
+			<p>This was not delivered;</p>
+			<p>He being out of Town.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1688 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,212" />
+			<head> <note resp="editor" value="CCCLXII. SIR DANIEL FLEMING TO DR. JOHN MILL." /> </head>
+			<p>Rydal. June 30. 88.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>The great Honour I have for your Person, &amp; <hi rend="sup" range="1,2" orig="y=e=">ye</hi> no less good Report I have heard of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Discipline of <hi rend="sup" range="1,2" orig="y=r=">yr</hi> Hall; have invited me to send a Son unto you, hopeing that you'l be pleased to place him with a Tutor who will be careful of him &amp; will read diligently unto him. I would have him to get as much University-Learning as he can in a short time; not knowing how long he may be permitted to continue with you. Many thanks for your great kindness unto my son Henry, &amp; unto my selfe when I was last at Oxford, which will engage me ever to remain</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Your most obliged &amp; humble Servant</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1688 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,228" />
+			<head> <note resp="editor" value="CCCLXXIV. SIR DANIEL FLEMING TO DR. JOHN MILL." /> </head>
+			<note resp="editor" value="DRAFT" />
+			<p>Rydal Oct. 4. 88</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>I give you many thankes for your obliging letter &amp; for your great kindness unto my two sons, so long as Geo. shall be under your government, I shall be very hopefull of his doeing well. I would have him to make as good use of his time as he can possibly; not knowing how long I shall be able to continue him with you. My son is very happy, as I hear, in an excellent Tutor, to whom pray give my best <pb n="II,229" /> service. This bearer will give you an Account of our country affaires, to which I shall add that I am with much truth</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Your most affectionate &amp; most faithful Servant</p>
+			<p>D. F.</p>
+			<p>For ye Reverend &amp; his much honor'd Friend Doctor Jo. Mill Principal of St Edmund's Hall these</p>
+			<p>Oxon.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1688? T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,229" />
+			<head> <note resp="editor" value="CCCLXXV. SIR DANIEL FLEMING TO REV. RICHARD CODRINGTON." /> </head>
+			<note resp="editor" value="DRAFT" />
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Since my son Geo. hath <hi rend="sup" range="1,2" orig="y=e=">ye</hi> happiness to be your pupil give me leave to express my great satisfaction therein &amp; to give you my hearty thankes for <hi rend="sup" range="1,2" orig="y=r=">yr</hi> kindness already shewed unto him. Although I am unknown unto you, yet you are no stranger unto me, for I have received so fair a character of you, as I doubt not you'l be careful of him &amp; read diligently unto him. Give me leave to present you with a small <hi rend="type">Token</hi> &amp; to remain</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Your obliged Servant</p>
+			<p>D. F.</p>
+			<p>For his honor'd Friend Mr Codrington Vice-Principal of St Edmund's Hall these in</p>
+			<p>Oxon.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1688 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="II,230" />
+			<head> <note resp="editor" value="CCCLXXVII. SIR DANIEL FLEMING TO RICHARD FLEMING." /> </head>
+			<p>Rydal. Octob. 10. 88.</p>
+			<p>Son Richard,</p>
+			<p>I have received your letter; &amp; I am sorry to find you so much discouraged. Let me advise you to pluck up a good Heart, &amp; to use your best endeavours to please your master, he ordering you to do nothing but what will prove for your welfare. Be sure you obey your masters commands patiently, and when as you shall come home at Christmas, I will hear you &amp; advise you for the best. Remember me to your Land-Lady. You did very well in visiting of <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> John Otway when he was sick. The Lord bless you, Roger &amp; James</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+			<p>Be not weary of well doing.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1691 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,30" />
+			<head> <note resp="editor" value="CCCCLII. SIR DANIEL FLEMING TO GEORGE FLEMING." /> </head>
+			<note resp="editor" value="DRAFT" />
+			<p>Son George,</p>
+			<p>Yours I have this day received from Tho. Burnyate; &amp; I am hugely troubled to discover by it, that my last Letter hath miscarryed. Haveing kept a copy of it for my own remembrance, I hereunder written send you what I then writ; but since what is past is not to be recalled, you &amp; I must now look forward. I find your charges do swell much beyond my expectation, much of which I take for granted hath no way advanced your studies, especially such charges as relate to any of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Female sex. I have spoak to Tho. Burnyate to furnish you with 5 or <hi rend="sup" range="1,4" orig="6=l~i=">6l~i</hi>, &amp; he hath promised me to write unto Oxford about it, and when as I shall hear <hi rend="sup" range="1,2" orig="y=t=">yt</hi> you have received it, I will repay it unto him here in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> country. This I hope will put you on until his Return, and if this way fail, you may take up so much as shall be necessary for you of any other, &amp; I shall send <hi rend="sup" range="1,2" orig="y=e=">ye</hi> same up to him. I hope you'l make good your promis, of Extenuating your Expences &amp; of Augmenting your Studies, according to your Letter; and I shall be glad to see you here so soon as you can come down conveniently. Had my Letter reached you, you might have ridd hither upon one of Tho. Burnyates Horses; which I fear cannot now be done until his next Return, &amp; then wee will do what wee can that you may come down with him. I hope this will preserve you from all Extremities and Agonies; and <hi rend="sup" range="1,2" orig="y=t=">yt</hi> youl take For ye Future care not to do anything imprudent or which may incline me to doubt your Veracity. Be sure to make good use of your time now at Oxford; for God knows how long I shall live to keep you there. My best service unto your most worthy Doctor, &amp; remember me to all my other good Friends in Queens. The Lord bless you, &amp; keep you out of all ill company. I am</p>
+			<p>Your loving Father</p>
+			<p>D. F.</p>
+			<p>Rydal, July 22, 91.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1691 FO DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,39" />
+			<head> <note resp="editor" value="CCCCLXIII. SIR DANIEL FLEMING TO SIR GEORGE FLETCHER." /> </head>
+			<note resp="editor" value="DRAFT OF A PART OF A LETTER" />
+			<p>Rydal, Dec. 17. 91</p>
+			<p>- Haveing some of my younger sons come lately home from School, and not knowing what to do with them; I must againe earnestly desire <pb n="III,40" /> your Advise &amp; Assistance in the Disposal of them; &amp; I am hopeful, that my other good Friends in Town (if you shall be pleased to consult them) will joyn with you therein. God onely knows how long I shall live to maintaine them; and I have some Reasons to fear that some will not be over kind to them after my Decease. If my Lord Thanet were at a want of Servant, I should be glad to have one of them in such a Noble Family; or if I could procure a place for one of them in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Excise, Customs, &amp;c. Perhaps then one of <hi rend="sup" range="1,2" orig="y=m=">ym</hi> would help to prefer another. Forgive this my Freedome with you; since they are your Relations, &amp; I am</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Yours to serve you</p>
+			<p>D. F.</p>
+			<p>For <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> G. F. <hi rend="sup" range="3,4" orig="Bar=t=">Bart</hi>. at London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1692 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,42" />
+			<head> <note resp="editor" value="CCCCLXVI. SIR DANIEL FLEMING TO SIR JOHN LOWTHER OF SOCKBRIDGE." /> </head>
+			<p>Rydal. Jan. 8. 91/92.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>I have lately received a letter from Sir Geo. F. wherein he acquaints me with your great kindness, in behalf of my sons. My son Michael hath had a good while a great desire to serve their Majesties at sea, if he could meet with any encouragement. He is near 24 years of age; He is strong, active, and I hope will prove couragious. If you would be pleased to provide for him as one of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Kings Gentlemen Volunteers on board <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Admiral or with such other good Commder as <pb n="III,43" /> you shall judge fittest for him, where he may have his Dyet with <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Captain &amp; such pay as is allowed unto other Volunteers, I will herein comply with my Sons inclination, and will ever esteem my selfe much obliged unto you for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> obligation. I am altogether a stranger to all ye sea-officers, therefore I must desire your recom~endation of my Son unto some of them &amp; I hope you'l acquaint me when &amp; where you would have him appear and how accoutred. He understands Arithmetick well; &amp; tho he hath a little stammering in his speech, yet I hope it will be no prejudice unto him. The reason why I could wish him to be on board <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Admiral, rather than on any other ship, is because I think him to be there more in the Eye of preferment. I intend to let him go shortly unto Whithaven, &amp; from thence unto Dublin, and back again; that he may be somewhat acquainted with <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Sea, &amp; Navigation. My humble service to <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Jo. L. &amp; his Family, to yourselfe &amp; yours. I shall ever remain</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Your most obliged &amp; obedient Servant</p>
+			<p>D. F.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> For <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi>. <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Jo. L. Baronet, one of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Lords Commissioners of the Admiralty, these at London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1692 FO DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,43" />
+			<head> <note resp="editor" value="CCCCLXVII. SIR DANIEL FLEMING TO SIR GEORGE FLETCHER." /> </head>
+			<p>Rydal, Jan. 8. 91/92.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>I have received both your letters &amp; I am much obliged unto you for them &amp; for your great kindness unto my sons. In January last <pb n="III,44" /> you acquainted me, that you had discoursed <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Jo. L. about my Sons &amp; that if I sent one or two of them he could provide for them as Volunteers; the King for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> encouragement of Gentlemens sons allowing them <hi rend="sup" range="2,5" orig="24=l~i=">24l~i</hi> <foreign>p~. an~</foreign> &amp; provide Dyet for themselves, or <hi rend="sup" range="2,5" orig="12=l~i=">12l~i</hi> <foreign>p. an~</foreign> and to eat with <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Captain or Master of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Ship. Upon hopes that <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Jo. may still do what he might have done <hi rend="sup" range="1,2" orig="y=e=">ye</hi> last year, I have writ the enclosed Letter unto him desireing you to peruse it, to seal it up, &amp; to deliver it unto him, not doubting but <hi rend="sup" range="1,2" orig="y=t=">yt</hi> you two will order this affair for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> best to me &amp; my son. I presume his Majesty will ere long put an end to this Session, so that we shall be in hope to see you shortly at Hutton. I hope you have received the Pots. I heartily wish you, &amp; all other my good Friends in Town, many happy New Years. I am</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Yours to serve you</p>
+			<p>D. F.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> For <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi>. <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Geo. F. Baronet, a member of <hi rend="sup" range="7,8" orig="Parliam=t=">Parliamt</hi>, at <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Door of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> House of Com~ons these</p>
+			<p>London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1692 FO DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,44" />
+			<head> <note resp="editor" value="CCCCLXVIII. SIR DANIEL FLEMING TO SIR GEORGE FLETCHER." /> </head>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>So soon as yours came unto my hand, I acquainted my Son Will. therewith, who told me that he had sent you 4 Potts, &amp; had writt unto you about them. I am much obliged unto you &amp; <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Jo. L. for your great kindness concerning my Sons, and here I shall give you an Account of three of them. Michael (aged about 23 yeares) is strong &amp; willing to take any pains, only he stammereth somewhat in his speech, &amp; is no very good schollar. Richard (aged about 22 yeares) is a good <pb n="III,45" /> schollar &amp; very diligent in writing, taking pleasure therein; And Roger (aged about 21 yeares) is strong, a good schollar, &amp; hath a good mother witt. I here inclosed you a specimen of their Handwriting. They all three are very sober &amp; well disposed, &amp; they do well understand Numeration, Addition, Subtraction, Multiplication &amp; Division; and other parts of Arithmetick they'l soon learn, in case it shall be necessary for them. Some would have them to be souldiers; but I had rather they were placed in some other honest way of living; &amp; if that will not do, they may then turn souldiers at sea; which will probably be ever in vogue for this kingdome. I think my son Michael would be fit for a place in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Excise, &amp; the other two would be qualifyed to be Clerks &amp;c. Beggars must be no chusers; therefore we must be content with such honest &amp; reputefull places as will maintain them, if our good Friends can procure any for us in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Treasury, Navy, Customs, Excise &amp;c. I heartily wish you an Happy New Year. I shall be willing to be at any reasonable charge to help them into a way of liveing, not knowing how long I shall live to maintaine them. My humblest service to your selfe and <hi rend="sup" range="1,2" orig="y=e=">ye</hi> two <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Johns. shall ever remain their &amp;</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Your most obliged Servant</p>
+			<p>D. F.</p>
+			<p>I writ another Letter, not this</p>
+			<p>Dat. Jan. 8. 91.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1692 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,47" />
+			<head> <note resp="editor" value="CCCCLXX. SIR DANIEL FLEMING TO SIR JOHN LOWTHER OF SOCKBRIDGE." /> </head>
+			<p>Rydal, Jan. 29. 91/92.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>I returne you many thankes for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Favour of your last Letter; and since my Son Michaels age renders him uncapable of receiveing any encouragement at Sea, he hopes that he may be judged fit to serve their Majesties at Land, &amp; that you or some other of his Good Friends, will helpe him to some Office in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Excise. He is not very ambitious; for a Gagers or Supervisors Place will content him in this Country. I thank you for your good advice concerning my son Henry <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Minister, who hath been at London, &amp; is acquainted with my Lord Com~issioner Rawlinson, our Countryman; who was very kind unto him, &amp; who hath since expressed himselfe unto <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Jo. L. &amp; <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Geo. Fletcher very affectionately on my Sons behalfe. I gave him a small liveing here, &amp; in case his &amp; my interest cannot helpe him to a better, I hope he may make a shift to live on it, although I think he deserves much better. I have another Son called George of Batchelor of Arts standing, whose ingenuity sobriety &amp; schollarship, deserve, I think <pb n="III,48" /> a good Liveing; but how I shall procure one for him, I yet know not. I will try my Friends on his behalfe, and if they fail me, I must take it patiently, not knowing how to helpe myselfe. This Country affords no newes, save that it is covered with a Deep Snow, &amp; we have had a very cold Season. My service to my Cosin your son. I am</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>Your most obedient Servant</p>
+			<p>D. F.</p>
+			<p>To</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Jo. L. these.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_013">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1692 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,50" />
+			<head> <note resp="editor" value="CCCCLXXII. SIR DANIEL FLEMING TO DR. JOHN MILL." /> </head>
+			<note resp="editor" value="DRAFT" />
+			<p>Rydal, Febr. 12. 91/92</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>I received by my Son George the Favour of your kinde Letter, who hath acquainted me, more than once, how much he hath been obliged unto you. He hath been so studious here in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> country, as I hope his stay will not much retard his progress. Rather than he shall be prejudiced by a long absence from Oxford, I have now returned him unto you in a great storm, wishing that <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Frost &amp; Snow may do him no harm. After that he hath taken his Degree I shall begg <hi rend="sup" range="1,2" orig="y=e=">ye</hi> continuance of your kindness unto him in favouring him with your directions in his Future Studies, especially in Divinity. And the sooner <hi rend="sup" range="1,2" orig="y=t=">yt</hi> he shall enter into Orders I think it will be <hi rend="sup" range="1,2" orig="y=e=">ye</hi> better: For then he will apply himselfe more closely to <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Study of Divinity &amp; he will then be more capable of Preferment. I must again &amp; again give you my most hearty thanks for your great &amp; many Favours unto him, &amp; I shall ever remain</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Your most affectionate &amp; obliged Servant</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_014">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1692 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,53" />
+			<head> <note resp="editor" value="CCCCLXXV. SIR DANIEL FLEMING TO GEORGE FLEMING." /> </head>
+			<p>Rydal, Apr. 4. 92.</p>
+			<p>Son George,</p>
+			<p>I was glad to know, by yours of Mar. 6. last, that you were safely arrived at Oxford, after a tedious &amp; dangerous journey; <hi rend="sup" range="1,2" orig="y=e=">ye</hi> weather <pb n="III,54" /> &amp; ye wayes haveing been so very bad. I have also received yours of Mar. 11; but I missed of Tho. Burnyates, he goeing by Over-Hall when I was there, at the christening of my Grandson Dan. Tatham. The money which you had from me I thought would have served you much longer, than (as you write) it will; and I understand not how you can yet write of two quarters Battles, considering <hi rend="sup" range="1,2" orig="y=e=">ye</hi> two last accounts I had from you. Money, you know, is very scarce in in this country; therefore you must be sure to be very wary &amp; provident. I have tryed several wayes to get some money returned unto you, &amp; I could not meet with any before last Saturday, when Mr Jo. Garnet did undertake to return unto you ten pounds, of which give me notice by a Letter Post, so soon as you shall have received it. You do well to let me know what your Friends gave you, that I may thank them. I have received your Almanack, and I thank you for it. Your sister Alice is not yet returned from Overhall; your Brothers are all well, although Dan. Mich. &amp; Richard have been troubled with an Ague. Give my humble service unto your most obligeing and worthy Principal. -</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_015">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1692 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,60" />
+			<head> <note resp="editor" value="CCCCLXXXII. SIR DANIEL FLEMING TO GEORGE FLEMING." /> </head>
+			<note resp="editor" value="DRAFT" />
+			<p>Rydal, June 6. 92.</p>
+			<p>Son George,</p>
+			<p>I have received your Letter, &amp; shall readily give my consent to <pb n="III,61" /> any thing that shall be for your honour, &amp; interest. I have sent you a copy of our Pedigree, under my hand; which I hope will give full satisfaction. I have lately received a very kind Letter from your, &amp; my good Friend, your most worthy Principal; to whom I writ by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> last Post, &amp; with whom I would have you advise; who I doubt not will aid &amp; assist you in your designe, if he shall judge it Feasible, &amp; for your advantage. In case you shall think, that the Provost of Queens can be any way helpful unto you in this business, I am confident, upon addressing your selfe unto him, &amp; acquainting him with my desires therein, he will be pleased to advise &amp; assist you. My service to all good Friends; &amp; the Lord bless you in all your undertakings. I am</p>
+			<p>Your loveing Father</p>
+			<p>Dan: Fleming.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_016">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1692 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,70" />
+			<head> <note resp="editor" value="CCCCLXXXVI. SIR DANIEL FLEMING TO SIR JOHN LOWTHER OF SOCKBRIDGE." /> </head>
+			<note resp="editor" value="DRAFT" />
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>I return you my hearty thanks for ye Favour of your last kind Letter, and I am very glad to hear that you are well recovered of your late Indisposition. We are in great hopes, that every Post will <pb n="III,71" /> bring us good Newes from Namur, &amp; Saint Maloes; &amp; if our Fleet shall be able to give <hi rend="sup" range="1,2" orig="y=e=">ye</hi> French another Root at sea, it will be of great advantage unto us. Mr. Ogle (schoolmaster of Blencow) came lately hither to desire my vote for one of his Sons, a Batchelor of Arts in Scotland, to be schoolmaster of Barton, upon <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Resignation of Mr. William Airay the present Schoolmaster there; who came also hither whilst Mr. Ogle &amp; I were discoursing that business, &amp; who then told me, he had acquainted you, that upon a right Stating of Accompts, &amp; payment of what was due unto him by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Feoffees, then upon six moneths notice he would Resigne <hi rend="sup" range="1,2" orig="y=e=">ye</hi> school of Barton to <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Feoffees thereof: But they declining to perform <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <pb n="III,72" /> same, he hath not now (for anything that I can discover) any thoughts of Resigning it, &amp; he hopes that you'l not force him to it. He is generally reported to be very sober, Industrious, &amp; a good Schollar; and for a particular Pique, its pitty that <hi rend="sup" range="1,2" orig="y=t=">yt</hi> school should be deprived of so good a Master. I have since received a Letter from Mr. Wharton School-master of Sedbergh, recommending one Sisson, a schollar of his, to be master of Barton School; and what you shall think will be <hi rend="sup" range="1,2" orig="y=e=">ye</hi> best to be done in this case, I shall readily concur with your choosing. We have a Report, that Mr James Graham will be shortly at Levens; but I presume he'l not come thither, until he hath inured himselfe, &amp; given <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Government satisfaction as to his good deportment. I beleive our Barony Gentlemen will appoint July 12. at our next Quarter Sessions at Kendal, according to their Recognizances; and I shall be glad to receive your Orders as to our proceedings against them. I do not yet hear that <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Geo. Fletcher is come home. I am</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Your most obliged humble Servant</p>
+			<p>D. F.</p>
+			<p>Rydal, Jun. 24. 92.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_017">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1692 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,73" />
+			<head> <note resp="editor" value="CCCCLXXXVII. SIR DANIEL FLEMING TO SIR JOHN LOWTHER OF SOCKBRIDGE." /> </head>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>My son Henry Fleming hearing this day, that Mr Tickel dyed upon Munday last, that <hi rend="sup" range="1,2" orig="y=e=">ye</hi> church of Distington is now void, &amp; that it doth belong unto you: He doth desire me to present his most humble service unto you, and to move you that you would be pleased to make choice of him for your clerk. He was of Queens College when your sons were there, He is a Master of Arts of above 7 yeares standing, he doth Preach very well; and if you'l grant him your Presentation to that church, I hope he'l so deport himselfe towards you &amp; <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Parishioners, as that you both will be well pleased with him. Not knowing how long I may live, I hope my Good Friends will forgive me in being very desireous to have as many of my children well settled as I can in my life time, &amp; that they'l be assisting unto me therein; which will ever oblige</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Your most obliged humble Servant</p>
+			<p>Dan. Fleming.</p>
+			<p>Rydal, Jun. 29. 92.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> For the <hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi> <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Jo. L. Baronet, a member of <hi rend="sup" range="7,8" orig="Parliam=t=">Parliamt</hi> at his House in Southampton-square these</p>
+			<p>London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_018">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1692 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,79" />
+			<head> <note resp="editor" value="CCCCXCII. SIR DANIEL FLEMING TO SIR JOHN LOWTHER OF SOCKBRIDGE." /> </head>
+			<p>Rydal. July 29. 92</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Could I have imagined that you would be prevailed with to spoil a very good school-master by making him a Parson; or to impropriate the Revenue of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Rectory of Distington, for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Reading of a Mathematical Lecture in another Parish, I should not have given you the trouble of my last Letter. For divers are of opinion that Tithes &amp;c have been given &amp; consecrated <foreign>Deo &amp; Sanctae Ecclesiae</foreign> ; &amp; so being dedicated to God &amp; his service, the takeing them away from <hi rend="sup" range="1,2" orig="y=e=">ye</hi> proper use &amp; end, cannot be less sacrilegious, than if they were without dispute <foreign>jure Divino</foreign> . I am yet in great hopes, that you will not long hesitate of the granting my desire &amp; Request, &amp; that there is no truth in a late Report at Oxford, of your giving <hi rend="sup" range="1,2" orig="y=e=">ye</hi> nomination of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Clerk for Distington unto Mr Rook, and that He (with some others) are useing their interest to get one Tompson of Queens to be presented by you; one who I think my son may compare with even for Mathematicks, &amp; or <pb n="III,80" /> any other kind of Learning. I know with some to be a Gentleman &amp; a Relation are great prejudices; but I am farr from haveing any such thoughts of you. A liveing here in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> North is much more to be desired than one in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> South, for a Northern man; and if I had <hi rend="sup" range="1,2" orig="y=e=">ye</hi> least doubted of my own Interest with you, I should have desired <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Jo. Lowther, <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Geo. Fletcher &amp; some other of my good Friends, to have ioyned in recommending my son unto you. I have another son, called George, at Oxford, A Batchelour of Arts, a good schollar, very sober &amp; studious, &amp; a great lover of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Mathematicks; &amp; if he had <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="10,11" orig="encouragem=t=">encouragemt</hi> of such a Liveing as this of yours, would, I doubt not, in a short time make an Excellent Mathematician. If you have a mind to enquire after him, Doctor Mill can give you an Account of him, who will, I presume do it ingenuously &amp; impartially, notwithstanding he is, as I hear, ingaged for Tompson not my son. I give you many thankes for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> favour of your last Letter, &amp; for all your other kindnesses; And haveing many children, I hope my good Friends &amp; Relations will not think much at me, if I press hard for their assistance, especially in such things as they cannot fairly make any profit of, &amp; as are in their own power to oblige me with; And whatsoever kindness you shall be pleased to do herein with either of my sons, will be ever most thankfully acknowledged by him, &amp;</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Your most affectionate kinsman &amp; faithful servant</p>
+			<p>D. F.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> For <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Right <hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi>. <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Jo. L. Bar. one of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Lords of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Admiralty, at his House in Southampton Square</p>
+			<p>London</p>
+			<p>these</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_019">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1692 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,83" />
+			<head> <note resp="editor" value="CCCCXCV. SIR DANIEL FLEMING TO GEORGE FLEMING." /> </head>
+			<p>Rydal, Aug. 22. 92.</p>
+			<p>Son George,</p>
+			<p>I have yours of July 16, July 19, &amp; of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="1,3" orig="8=th=">8th</hi> instant; &amp; I am glad to hear that you are well. I writ unto <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Jo. Lowther, both concerning your brother Henry, &amp; you; but I have not yet received so good an Answer from him as I hoped to have done, concerning either of you. When wee meet with disappointments, you &amp; I must take it patiently, &amp; say little, least it turn to our future prejudice. In time, I hope, all will do well; &amp; you may be assured, that I will do what I can for your Preferment, if you'l continue to study closely, &amp; fit your selfe for it. You do very well to follow <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Advice of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Bishop of Sarum, in his Discourse of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Pastoral Care; which is, I think, an excellent Book, &amp; which I hope will do much good. The sooner you are in Deacons Orders I think it will be <hi rend="sup" range="1,2" orig="y=e=">ye</hi> better; for then if any Preferment happen you may soon be ordained Priest, &amp; so be capable of haveing a Liveing. Fear God, &amp; doubt not, but that all things will prove well in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> conclusion. I have paid Tho. Burnyate all his Disbursements, <pb n="III,84" /> and I hope you'l get <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="1,2" orig="2=d=">2d</hi> Volume of Woods Athenae Oxon. to be bound like <hi rend="sup" range="1,2" orig="y=e=">ye</hi> former, &amp; send it down by him at his next comeing from Oxford; not doubting but that you'l give it a Reading over in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> interim. Give my Service unto Mr Provost; your worthy Principal, Mr Todd, my Godson, &amp; unto all <hi rend="sup" range="1,2" orig="y=e=">ye</hi> rest of my good Friends with you, who I doubt not will be ready to advise &amp; assist you, when you shall desire it of any of them. We have here but bad Hay-weather, &amp; the Husbandman meets with Disappointments, as well as others: therefore let us all thank God for what wee enjoy, be patient, &amp; things will prove better. Although you write in one Letter, that your Legg is very well; &amp; in another since that it is almost well, &amp; not troublesome unto you; yet I wish you to take care of it, &amp; to tell me truely how it is. The Lord bless you, &amp; direct you in all your undertakeings. I am</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_020">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1692 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,89" />
+			<head> <note resp="editor" value="CCCCXCIX. SIR DANIEL FLEMING TO GEORGE FLEMING." /> </head>
+			<p>Rydal, Octob. 7. 92.</p>
+			<p>Son George,</p>
+			<p>Yours of Sept. 21. 92 I have received, and I hope you'l have many opportunities of shewing your selfe an Obedient Son, &amp; therein never to Repent it. I am sorry to hear of your haveing a naturall Aversion (as you call it) to that which I hope will prove so advantagious both to your Soul &amp; Body, and if I were not in great hopes thereof, I should have saved some money which you have cost me at Oxford. I am much obliged to your most worthy Principal for giveing you a Title, &amp; for his other Favours unto you. I hope ere long to congratulate his being a Bishop. The Plaisters mentioned in your Account, make me fear that your Legg is not perfectly well. Your Limborch's Theologia Christiana I presume is a very good Book, it being of a great price. Let me know why you now buy six chaires; &amp; what ye meaning is of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Thirds for your Chamber; &amp; what Maresius treats of. That your Determining will run so high as you mention, is much; and tho' I send you Thirty pounds by this Bearer Tho. Burnyate, yet I hope you'l be as provident thereof, &amp; put it as farr, as you can possibly: For you'l not easily believe, how scarce money is with me, &amp; how much I am put to it to maintain you at Oxford. Let this Bearer bring me <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Second Volume of Wood's Athenae Oxonienses; &amp; I am glad to hear that it will be Answerid, <pb n="III,90" /> which will probably discover more Truth unto us, if it be done by a good hand. I would have you study closely, not knowing how long you shall stay in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> University. Your brother William left us <hi rend="sup" range="1,2" orig="y=e=">ye</hi> third day of September last, intending for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> City of Bathe (where he did see Mr Rook &amp; Mr Todd) &amp; to take London in his way home; presuming he is now at London, &amp; will be here before Christmas next. I am sorry to hear of your wearing a Perriwig; since it will be inconvenient both unto you &amp; me; &amp; I think there was no great need thereof. My humble service to Mr Principal, my Godson, &amp; all other good Friends in Oxford. I have been some times indisposed of Late; but now, I thank God, I am very well. The Lord bless you, &amp; direct you, in all your wayes. All here remember you very kindly. I am</p>
+			<p>Your loving Father</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_021">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1692 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,94" />
+			<head> <note resp="editor" value="DII. SIR DANIEL FLEMING TO DR. JOHN MILL." /> </head>
+			<p>Rydal, Nov. 29. 92.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>My son George hath lately writt unto me, That (although you were pleased to favour him with a Title), he hath missed of being ordained Deacon; which hath put him into such a Ruffle, as to acquaint me, that he never heard of any, who after one Repulse ever made a second Effort as to Holy Orders, that he would now serve Their Majesties in Their Fleet or Army, or in some place at Court. This was a great surprise unto me, having had great hopes of his well <pb n="III,95" /> doing. I have writ unto him, adviseing him to consult you (his very good Friend) &amp; others, in this great Affaire; which may turn to his makeing or marring. I hope you'l continue your kindness unto him &amp; me, to discourse him freely in this business, to look upon <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Copy of his last Letter unto me if he have one, &amp; upon my Answer thereunto sent him by this Post, &amp; to advise him for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> best. If I knew <hi rend="sup" range="1,2" orig="y=e=">ye</hi> whole of this Affair, I could then better judge thereof. Give me leave to return you my most hearty thankes for your many Favours unto him; and however things shall happen, I will ever remain</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>, your most affectionate &amp; obliged Servant</p>
+			<p>D. F.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> For Doctor Jo. Mill</p>
+			<p>These.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_022">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1693 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,100" />
+			<head> <note resp="editor" value="DVI. SIR DANIEL FLEMING TO GEORGE FLEMING." /> </head>
+			<p>Rydal, Jan. 27. 92/93.</p>
+			<p>Son George,</p>
+			<p>Haveing received yours by Tho. Burnyates, I writ unto you Nov 29 last past, hopeing to have heard from you, or seen you, soon after. I had an intimation of your being at London, from whence I thought you would have written unto me, &amp; acquainted me with some of your designes in &amp; Remarkes of that place. Considering your Carriage when last here in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Country, &amp; your Letters since, <pb n="III,101" /> I was fully perswaded that (out of choice) you would have made Divinity your main study; and although I might recommend but never used anything (if you do me right) that looked like compulsion or importunity towards you; yet I own it, it was, &amp; yet is, my opinion, that <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Study of Divinity is <hi rend="sup" range="1,2" orig="y=e=">ye</hi> most honourable, &amp; that it would in all probability prove the best for your Soul, Body, &amp; Estate. Since what I have said, &amp; writ to you, prevails so little, nay, since what your most Real Friend &amp; most obligeing &amp; worthy Principal hath advised you to, takes no great place; I shall forbear moveing you to any Study that you shall be averse to, nor shall I continue you any longer in Oxford, a Place which you write too rashly &amp; unkindly of, but I shall order you to come hither with Tho. Burnyates, at his next Returne from Oxford, &amp; then you &amp; I shall consult to do what may be <hi rend="sup" range="1,2" orig="y=e=">ye</hi> best for us both. Although I told you in my last, <hi rend="sup" range="1,2" orig="y=t=">yt</hi> it would be difficult to procure you a good place at Court, &amp; that every one there could not reasonably expect to prove a <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Joseph Williamson; yet upon your comeing hither I will try what my Friends will, or can, do for you in your own way. I am sorry that I have blaimed <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Bishops Secretary as to your not being Ordained, when it was (as it now plainly appears unto me) your own fault; But of this enough. I designe to send up your Brother Roger, by Tho. Burnyates, &amp; that upon his Horse you shall come hither. I intend him to be entered in Queens College as a Battelar, and if my Godson &amp; Cosin Henry Browham will take him for his Pupil, to recomend him to his care. Pray consult him herein, &amp; let me hear from him &amp; you as soon as you can. You shall leave all your Bookes, Bedding, &amp;c with your Brother Roger, (unless Leyborns Cursus Mathematicus, &amp; such little Bookes as you would bring hither, which I have not) until you shall settle at London, or elsewhere. I hope you'l comply with what I would have done, &amp; then I shall continue to endeavour <pb n="III,102" /> your welfair. My Service to all my good Friends. The Lord bless you. I am</p>
+			<p>Your loveing Father</p>
+			<p>Dan: Fleming.</p>
+			<p>I have here sent you a copy of Dr Mills letter, which pray consider very well. If you'l come hither sooner than by Tho. Burnyates, &amp; can reasonably hire a good Horse hither, order it so, as your Brother Roger may ride back on your Horse to Oxford, who will begin his journey <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="1,2" orig="3=d=">3d</hi> or <hi rend="sup" range="1,3" orig="4=th=">4th</hi> day of March next.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_023">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1693 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,102" />
+			<head> <note resp="editor" value="DVII. SIR DANIEL FLEMING TO DR. JOHN MILL." /> </head>
+			<p>Rydal, Jan. 27. 92/93.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>I am infinitely obliged unto you for your kind Letter, &amp; for the good advice you were pleased to give my Son George. It is a great trouble unto me, that he will not be advised by his best Friends, &amp; that he should be so unsetled in his Studies. I am clearly of your opinion, expressed in your last Letter; &amp; when as he shall grow older &amp; wiser, I hope he will be so too; but all <hi rend="sup" range="1,2" orig="y=e=">ye</hi> danger is it may then prove full late. I have writ unto him, that I would have him come hither with Tho. Burnyates at his next comeing from Oxford, &amp; then he &amp; I shall consult to do what may be <hi rend="sup" range="1,2" orig="y=e=">ye</hi> best for us both. I hope you, &amp; all other my good Friends, will continue your kindness to him &amp; gratifie him (so farr as it shall be reasonable, &amp; may be conveniently obtained) in his own way. I have usually advised &amp; perswaded my children, as much as I thought was fitting, being not willing to make use of any compulsion or importunity unto any of them, when of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> age of Discretion; and I hope he will say (if he'l do me right) that I have used <hi rend="sup" range="1,2" orig="y=e=">ye</hi> like towards him. Fathers who have many children must sometimes meet with disappointments: for they <pb n="III,103" /> are certain cares, &amp; uncertain comforts. If a son will not thrive one way, his Father must endeavour another. I am sorry that he hath given you so much trouble, &amp; that he hath not been governed by you, when it was so much for his own honour, &amp; advantage. I hope in time he will be wiser &amp; more settled, &amp; ever acknowledge his many great obligations unto you, which shall be ever most gratefully remembered by</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Your most affectionate and obliged humble Servant</p>
+			<p>Dan: Fleming.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> For Dr Mill.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_024">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1693 FO DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,111" />
+			<head> <note resp="editor" value="DXVI. SIR DANIEL FLEMING TO REV. HENRY BROUGHAM." /> </head>
+			<p>Rydal, Mar. 10. 92.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>Letters directed to me at Rydal in Westmerland, are usually sent by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Yorkshire-Post unto Appleby &amp; Penrith, where they often lye long before I receive them: But Letters directed to me at Kendal, or at Rydal near Kendal, are usually sent from London by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Lancashire-Post, &amp; such come to my hand much safer, and sooner. Yours of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> 16th of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> last moneth, being directed to me at Rydal in Westmerland came but lately unto my hand, haveing stayed a long while at Appleby, or Penrith. Since you are therein pleased to acquaint me, that you <pb n="III,112" /> will either undertake ye care &amp; Tuition of my Son Roger yourselfe, o place him where you will take effectual care he shall not be neglected I shall leave ye Election thereof to Mr Provost &amp; yourselfe, hopeing that if you be not his Tutor, such an one may be pitched upon, as will read dayly unto him, &amp; will give me a particular Account of his Disbursments, that I may <hi rend="sup" range="1,2" orig="y=e=">ye</hi> better know how to send supplies unto my Son. The Bishop of Carlile did so for me, &amp; Dr Dixon did so for my son Henry; But I am affraid all others have not done so. I thank you for your kind Letter &amp; I doubt not but that Mr Provost &amp; you will do for my Son Roger for ye best. Upon you two I do rely, taking it for granted that my son George will contribute what lies in his power. I wish that my son Roger may get well to Oxford, <hi rend="sup" range="1,2" orig="y=e=">ye</hi> ill wayes &amp; weather considered. My best service to my ancient Friend Mr Provost, &amp; be assured that I am</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>Your very affectionate God-Father</p>
+			<p>D. F.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> For Mr Hen. Browham</p>
+			<p>These</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_025">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1693 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,137" />
+			<head> <note resp="editor" value="DXLI. SIR DANIEL FLEMING TO DR. HUGH TODD." /> </head>
+			<p>Rydal, Sept. 15. 93.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>.</p>
+			<p>I have received both your kind Letters, &amp; I am much obliged unto you for them. I wish you had given me a more full answer unto mine, that my Son might have known what to have done. I presume He will not deny you any Lawful and Reasonable Conditions; and I cannot think <hi rend="sup" range="1,2" orig="y=t=">yt</hi> you will desire more from any man. I am very glad to hear, that you are concerned in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Britannia; &amp; if I may be any way serviceable unto you therein, I shall very franckly do it. You have much obliged me in being so kind unto my Son at Queens, &amp; I doubt not of Mr Provosts respects unto him, so long as he shall continue civil and studious. I am glad to hear, that the Britannia advances a pace, &amp; I hope <hi rend="sup" range="1,2" orig="y=t=">yt</hi> it will be well done. My humble service to Mr Provost, Dr Mill, &amp; all my good Friends in Queens. I am</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Your affectionate &amp; obliged Servant</p>
+			<p>D. F.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> To <hi rend="sup" range="1,2" orig="D=r=">Dr</hi> Todd these.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_026">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1693 FO DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,140" />
+			<head> <note resp="editor" value="DXLV. SIR DANIEL FLEMING TO REV. HENRY BROUGHAM." /> </head>
+			<p>Rydal. Oct. 3. 93.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Yours of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="2,4" orig="18=th=">18th</hi> of July last came soon after unto my hand, and I gave you many thanks for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Favour thereof, &amp; for your great kindness unto my son Roger, who hath given me an Account of it. I have looked over your disbursements for him &amp; I shall very willingly allow you for Tuition <hi rend="sup" range="2,3" orig="20=s=">20s</hi> <hi rend="sup" range="1,2" orig="y=e=">ye</hi> quarter, although he is but a Battler, since I would have my Son well read to. I have sent unto you (by this Bearer Tho. Burnyate) Ten Pounds for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> use of my Son, which, with what he hath in his hand, will I hope serve until this Bearers next Journey. So long as Roger shall continue a good husband of his time &amp; money, you may acquaint him that I will be kind unto him. I hear nothing but that all your Friends in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Country are well. My service to Mr Provost, &amp; to all other my good Friends in Oxon. I am,</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>Your obliged &amp; affectionate God-Father</p>
+			<p>D. F.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> For Mr Hen. Brougham</p>
+			<p>These.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_027">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1694 FO DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,151" />
+			<head> <note resp="editor" value="DLVIII. SIR DANIEL FLEMING TO REV. HENRY BROUGHAM." /> </head>
+			<p>Rydal, Febr. 16. 93.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>Many thankes for yours of Nov. 14 last past, &amp; for your Account of the <hi rend="sup" range="1,3" orig="6=th=">6th</hi> instant. You are so very kind unto, &amp; careful of my son Roger, as his brother James hath a great desire to be also under your <pb n="III,152" /> Tuition. I hope you'l be pleased to oblige both him and me therein; and as I would have my two sons to be entered, &amp; to live alike, so will I allow you the like apeice for them. I have sent you for them by this Bearer Tho. Burnyates <hi rend="sup" range="2,5" orig="20=l~i=">20l~i</hi>, &amp; I have sent by him to my son Roger <hi rend="sup" range="2,5" orig="10=l~i=">10l~i</hi>, desireing that in case of any want, one of you may supply <hi rend="sup" range="1,2" orig="y=e=">ye</hi> other. I have writ unto Mr Provost, who I hope will encourage my sons, so long as they shall act as they ought to do. Your uncle Jo. doth often joyn with me in remembering you, &amp; we hope to wait upon Mr High Sherif at Carlisle-Assises, where we fancy you'l give us a Sermon. My service to your selfe, &amp; to all other my good Friends in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> College. I hope you'l not permit any of my Sons Fellow-Travellers to be Entered before him. I am</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Your affectionate &amp; obliged Kinsman</p>
+			<p>D. F.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> For Mr. Henry Brougham</p>
+			<p>These</p>
+			<p>Haveing seen <hi rend="sup" range="1,2" orig="y=e=">ye</hi> late Bishop of Lincoln's Remains, pray let me know how Genuine they be, &amp; whether any more of them will be shortly published, &amp; by whom.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_028">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1694 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,173" />
+			<head> <note resp="editor" value="DLXXIX. SIR DANIEL FLEMING TO DR. JOHN MILL." /> </head>
+			<p>Rydal, Octob. 5. 94.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>My son George haveing a great desire to visit Oxford again, in order to take his Degree of Master of Arts, &amp; to fit himselfe for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Ministry; I am very willing to comply with him therein, hopeing that as you have been very oblige unto him, so you'l be pleased to continue your kindness in directing him in his studies, &amp; in assisting him to his Degree. Since his being Ordained Deacon &amp; Priest he hath <pb n="III,174" /> mett with such disappointments from some of his near Relations, as would have discouraged many a young man; but I am in great hopes, that he'l not permit what is bypast (&amp; out of his power to amend) to trouble him; and that, in hopes of better success hereafter, he'l rigorously follow his studies for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> time to come. He hath not been idle whilst he was here, keeping himselfe alwayes well imployed, &amp; haveing been very studious. Some of my good Friends, I hope, will be kind unto him in helping him unto some preferment; &amp; I doubt not but that you'l advise him the best way to fit himselfe for it. He hath a great Honor for you, &amp; will I am confident be directed by you. I will only add, that I am</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>Your most obliged &amp; faithful <hi rend="sup" range="4,5" orig="Serv=t=">Servt</hi></p>
+			<p>D. F.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> For Dr Mill at Oxon.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_029">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1694 FO DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,181" />
+			<head> <note resp="editor" value="DLXXXVI. SIR DANIEL FLEMING TO REV. HENRY BROUGHAM." /> </head>
+			<p>Rydal, Nov. 10. 94.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>I was in great hopes to have seen you &amp; my cosin John, here in your Return, until I received your Letter; which came too late unto my hand for my meeting you at Kendal. I should have had some serious discourse with you concerning my 2 sons, which I forbore at Carlile, in hopes of doing it here. Your Uncle Jack is disappointed as well as I am, he haveing prepared both Venison &amp; strong Ale for your entertainement. Since you think, that <hi rend="sup" range="2,5" orig="10=l~i=">10l~i</hi> or <hi rend="sup" range="2,5" orig="15=l~i=">15l~i</hi> will serve my Sons Roger &amp; James until Tho. Burnyates next journey for Oxford, <pb n="III,182" /> I hope that my son Geo. will furnish you with so much; and upon your leting me know how Accounts stand with you, I will send money by Burnyates accordingly; onely I must desire you, &amp; my son George, to use your interestes with Roger and James, that as little be spent foolishly as may be. Had I seen you, I should have acquainted you, that at Appleby my Lord Chief Justice desired that you &amp; Mr Waugh would print your Assise-Sermons, &amp; Mr Waugh <hi rend="sup" range="1,2" orig="y=n=">yn</hi> told me that you two would consider of it. I have lately seen your Printed Reflections; &amp; to be free with you and your brother Chaplain, I think <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> P. P. will put you hard to it, unless you shall publish some of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> most useful MSS of your late Patrons; which you were not (as you confess) absolutely prohibited to publish, and which some think will be convenient, if not necessary, for you to perform for a general Good. My service to Mr Provost, Mr Waugh, &amp; all my good Friends in Queens. I am</p>
+			<p>Your very affectionate Kinsman &amp; faithful Servant</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_030">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1695 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,198" />
+			<p><head> <note resp="editor" value="DXCVI. SIR DANIEL FLEMING TO THE EARL OF THANET." /> </head> <note resp="compiler" value="TO THOMAS TUFTON" /></p>
+			<p>Rydal, Febr. 7. 94/95.</p>
+			<p>My Lord</p>
+			<p>Hearing that some of our Country Lawyers &amp; Attorneys are endeavouring to have in every Lent, an Assises at Kendal; <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Judges to take that Town in their way from York to Lancaster; and presumeing that this new Project may give Charge &amp; Trouble to your Lordship's officers, as well as to <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Justices &amp; Jurors of this County; I thought it convenient to give your Lordship an intimation thereof, that you may obstruct, or forward <hi rend="sup" range="1,2" orig="y=e=">ye</hi> same, as you shall think best. I know your Lordship is Patron of divers good Liveings in this Country, &amp; I haveing now three sons (George, Roger &amp; James) at <hi rend="sup" range="1,2" orig="y=e=">ye</hi> University of Oxford, the Eldest of whom is Master of Arts, Deacon, &amp; Priest; I hope you'l give me leave to wish, that you would be <pb n="III,199" /> pleased to present my son Geo. F. to one of them when as any of them shall become void. I assure your Lordship, that Hee is very sober, ingenious, &amp; studious; &amp; <hi rend="sup" range="1,2" orig="y=t=">yt</hi> he wants nothing but a noble Patron &amp; encouragement to make him considerable. I have received so many Favours from your Lordship, &amp; you takeing so much pleasure in doing good, encourage me to make this Address, hopeing that you'l pardon <hi rend="sup" range="1,2" orig="y=e=">ye</hi> trouble thereof. I shall ever remain</p>
+			<p>My Lord,</p>
+			<p>Your Lordships most obliged humble &amp; obedient Servant</p>
+			<p>D. F.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> For the Right <hi rend="sup" range="3,6" orig="Hon=ble=">Honble</hi>. the Earl of Thanet these, at his House in London.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_031">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1695 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,199" />
+			<head> <note resp="editor" value="DXCVII. SIR DANIEL FLEMING TO DR. JOHN MILL." /> </head>
+			<p>Rydal, Febr. 7. 94.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>I am infinitely obliged unto you for your kind Letter, &amp; for your many Favours unto my Son George, who is very sensible of your great kindness unto him, &amp; who will, I hope, be directed by you in his studies, &amp; all things else that shall be of moment unto him. Some of his Relations failing him, it will be his interest to set a greater value upon such good Friends as shall prove soe unto him; and I am very hopeful, that, with <hi rend="sup" range="1,2" orig="y=e=">ye</hi> assistance of your good Advice, his disappointments may prove to his advantage. We have had a great Storm of Frost and Snow; but it is now gone off very calmly without a Flood. I hope, <pb n="III,200" /> <hi rend="sup" range="1,2" orig="y=t=">yt</hi> my son George will shortly be Master of Arts, &amp; that he will closely follow <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Study of Divinity. I heartily wish you much Health &amp; Happiness, &amp; I shall always remaine</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Your very affectionate and Most obliged Servant</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_032">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1695 FO DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,200" />
+			<head> <note resp="editor" value="DXCVIII. SIR DANIEL FLEMING TO REV. HENRY BROUGHAM." /> </head>
+			<p>Rydal, Febr. 8. 94.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>Yours of Dec. 29. last came soon after unto my hand, &amp; I thank you for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Favour thereof, &amp; for your haveing so great a care of my two Sons, Roger &amp; James. I am troubled to find their Accounts run so high; takeing it for granted, that where there is so great spending there is but little studying. I hope they'l have <hi rend="sup" range="1,2" orig="y=e=">ye</hi> wit &amp; grace to follow your good Advice, &amp; I doubt not but that my Son George will joyn with you in adviseing them to be good Husbands, &amp; to follow their studies closely. I will allow them onely <hi rend="sup" range="2,3" orig="10=s=">10s</hi> apeice quarterly for unnecessary Expences, which I hope they'l comply with, otherwise I will make it worse for them: for if I cannot order them, yet I can order my Purse; which if I once shut, I shall not easily open again for them. In <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Foot of your Account you write that there Remains due to you <hi rend="sup" range="2,5" orig="22=l~i=">22l~i</hi> - <hi rend="sup" range="1,2" orig="4=s=">4s</hi> - <hi rend="sup" range="1,2" orig="3=d=">3d</hi>, which I think should rather be <hi rend="sup" range="1,4" orig="2=l~i=">2l~i</hi> - <hi rend="sup" range="1,2" orig="4=s=">4s</hi> - <hi rend="sup" range="1,2" orig="3=d=">3d</hi>: for you have omitted <hi rend="sup" range="2,5" orig="20=l~i=">20l~i</hi> in your Account, which Sum I sent you in June last, &amp; if you have my Letter of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="2,4" orig="16=th=">16th</hi> of that moneth, it will shew you I then sent <hi rend="sup" range="2,5" orig="20=l~i=">20l~i</hi> unto you, for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> use of Roger &amp; James, by Tho. Burneyate. I have now sent <hi rend="sup" range="2,5" orig="20=l~i=">20l~i</hi> more unto you, for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> use of my two sons, <hi rend="sup" range="1,2" orig="w=h=">wh</hi> I hope you'l make serve them both, until I shall send you more. Their Battles &amp; Expences (not to instance in some other particulars) are extravigantly high. <pb n="III,201" /> I hope it will be amended for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> future. My service to Mr Provost, &amp; to all other my good Friends with you. I shall ever remain</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>Your very affectionate Cosin &amp; obliged Servant</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_033">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1695 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,201" />
+			<head> <note resp="editor" value="DXCIX. SIR DANIEL FLEMING TO REV. GEORGE FLEMING." /> </head>
+			<p>Rydal, Febr. 8. 94.</p>
+			<p>Son Geo.</p>
+			<p>Yours of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="2,4" orig="29=th=">29th</hi> of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> last moneth, with your Account inclosed, is come unto my hand, and I am very glad to hear that you are well. I have sent you <hi rend="sup" range="2,5" orig="30=l~i=">30l~i</hi> by this Bearer Tho. Burnyate, hopeing that it will inable you to take your Degree of Master of Arts: I have also sent by him <hi rend="sup" range="2,5" orig="20=l~i=">20l~i</hi> unto my cosin Brougham for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> use of my Sons Roger &amp; James; and in case my Godson &amp; you shall judge it best for my Son Roger to come hither with this Bearer, I would have my Son Roger to do it, since he neglects his study so much, as I hear he doth: In his Absence I hope your Brother James will not ruin himselfe. Pray acquaint my Cosin Brougham with this, haveing altered my intentions since I writ to him. I am glad to hear, that Camden's Britannia will be soon extant, &amp; that Mr Gibson hath an hand in it. I presume your sister Alice hath answered your desires. I will onely trouble you in giveing me <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Titles &amp; characters of good new Bookes; since I can have them as cheap from London, as from Oxford. Your Brother Michael hath been here ever since a little before Xtmas last, who is very much improved; stammering little, swearing nor takeing any Tobacco at all, &amp; being very free from Drinking, which are very great <hi rend="sup" range="11,13" orig="Accomplishm=ts=">Accomplishmts</hi> in a Camp, as well as in a College. He hath raised about another Score of able Soldiers, <pb n="III,202" /> &amp; intends to march them shortly for Flanders. Such of my children as shall live soberly, frugally &amp; dutifully, shall not want what encouragements I can give them. I have writ to <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Earl of Thanet, on your behalfe; &amp; I should have done <hi rend="sup" range="1,2" orig="y=e=">ye</hi> like to <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Joseph W. if I had not heard of his being in Ireland. I have received a very obligeing Letter from your most deserving Principal, to whom I pray give my most hearty Service, &amp; to all my good Friends in Queens. Make what hast you can in your Degree &amp; Academical Studies; not knowing how soon you may be called from <hi rend="sup" range="1,2" orig="y=e=">ye</hi> University, by my Death, or by some <hi rend="sup" range="7,8" orig="Preferm=t=">Prefermt</hi>. The Lord bless you &amp; your two Brothers, &amp; grant <hi rend="sup" range="1,2" orig="y=t=">yt</hi> you all may do for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> best; which will be for your Reputations, as well as for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Satisfaction of</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_034">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1695 FO DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,213" />
+			<head> <note resp="editor" value="DCXIII. SIR DANIEL FLEMING TO REV. HENRY BROUGHAM." /> </head>
+			<p>Rydal, Jun. 21. 95.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>I thank you for yours of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="2,4" orig="25=th=">25th</hi> of May last, &amp; for your honest freedom used therein. I am not a Lover of Flattery, either on my own behalfe, or on <hi rend="sup" range="1,2" orig="y=e=">ye</hi> behalfe of any of my children; But a true Account of Matter of Fact is that which I like best. My Son George will I hope be with you before this, and upon <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Horse which he Rides unto Oxford, I would have my Son Roger to ride hither. A little Country Air will probably do him no harm, &amp; I have writ to him to come hither either with Tho. Burnyates, or sooner if he hath a desire to travel another Road. When he shall begin his journey hither, pray furnish him with forty shillings to bear his charges, &amp; pay of an Extravagant Reckoning of his of Three Pounds, which he hath desired of me. I have here sent you by Tho. Burnyates Twenty five Pounds, for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> use of my Sons Roger &amp; James; and what it shall fall short of clearing what is due from them, I shall, God willing, send you at Toms next Journey to Oxford. I hope my son James will follow <hi rend="sup" range="1,2" orig="y=e=">ye</hi> good example of his brother George, and not of any who is given to Debauchery, or Idleness. I doubt not you'l be often adviseing of him, &amp; I hope he'l have <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Wit &amp; Grace to do as he should do. My service to Mr Provost, yourselfe; &amp; to all my other good Friends. I shall ever remaine</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>Your very affectionate God-Father and obliged Servant,</p>
+			<p>D. F.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> To Mr Hen. Brougham at Oxon</p>
+			<p>These</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_035">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1695 FO DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,238" />
+			<head> <note resp="editor" value="DCXXVIII. SIR DANIEL FLEMING TO REV. HENRY BROUGHAM." /> </head>
+			<p>Rydal, Oct. 4. 95.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>I thank you for yours by Tho. Burnyates, &amp; for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Account <pb n="III,239" /> you then sent me, which was much higher than I expected. My son Roger hath so far added to his Extravagancies, as he is not yet arrived here, staying with my Cosin Swettenham in Chesshier. I hope that my Son James is more orderly &amp; studious since his Brother hath left him. Such as have given Credit to any of my Sons in their Extravagancies I concur with you, that it is very fit they should stay awhile for theire money, for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> preventing of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> like for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Future, I have now sent you Thirty Pounds by this Bearer, for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Discharge of your Accounts, &amp; for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> use of my Son James, not doubting but that you'l be often adviseing him to be very studious &amp; provident, &amp; that you'l furnish him with all necessaries so long as he shall do well. My humble Service to <hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Provost, your selfe, &amp; all other my good Friends in Oxford. I am</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>Your very affectionate kinsman and most obliged Servant</p>
+			<p>D. F.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> For Mr Henry Brougham at Oxon.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_036">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1695 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,239" />
+			<head> <note resp="editor" value="DCXXIX. SIR DANIEL FLEMING TO REV. GEORGE FLEMING." /> </head>
+			<p>Rydal, Oct. 4. 95.</p>
+			<p>Son Geo.</p>
+			<p>Yours of July <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="2,4" orig="16=th=">16th</hi> last I have, and <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Bookes you sent me are come unto my hand: I thank you for them. I cannot yet give you any Account how <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Bishop will dispose of his MSS. although I writ about them. I am sorry to hear your own money proved so bad, which will caution you in receiveing another time. Mr Lawson did not call here although he came near us. Your Brother Roger is not yet <pb n="III,240" /> come home, staying in Cheshire with my Cosin Swettenham. My son Dan. hath received yours of Aug. 16. 95, and he hath paid Mr Holmes for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Grates. Your brother Michael, in his second attack of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Castle of Namur, was shot in his left shoulder, with a Musquet Ball, &amp; he writ that he hoped to be well againe in a Fourthnights time. We have not heard from him since Aug. 18. 95. I have yours of Sept. 22. 95, &amp; one from your brother James of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> same date. I am glad to hear from you, that He is well &amp; orderly, &amp; he acquaints me that you are alwayes ready to instruct him. It is very well done to be often adviseing him, &amp; I hope he will have <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Wit &amp; Grace to avoid all ill company, &amp; to follow your good Advice &amp; Example. I will order my son Dan. to receive what is due unto you, &amp; to pay what is due from you, whereof he will give you an Account. I have, according to your desire, sent you by this Bearer thirty pounds, which your brother Dan may repay me as he shall receive money of yours. I was affraid that your Curate would have left you, but I now hope he will stay with you. I writ to young Geo. Wilson at London, who hath compounded for your First-Fruits, <pb n="III,241" /> &amp; hath paid <hi rend="sup" range="1,2" orig="y=e=">ye</hi> First payment thereof. Your uncle Roger hath been indisposed in his Health. Here is like to be great Disputes in most places about Parliament men. All your Relations are, I thank God, pretty well. I have writ to your most worthy Principal, my Godson, &amp; to my son James. Be sure more to fit your selfe well for Asp. &amp; triffle not away your time in other studies. My humble service to all good Friends in Oxford. The Lord bless you &amp; James. I am</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_037">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1695 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,248" />
+			<head> <note resp="editor" value="DCXXXVI. SIR DANIEL FLEMING TO REV. GEORGE FLEMING." /> </head>
+			<p>Son George</p>
+			<p>I am very glad, to discover by yours of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="2,4" orig="10=th=">10th</hi> instant, that you have found your mistake before it was too late; and I hope this will caution you for the Future not hastily to ingage in anything of moment without good advice of those who do really wish you well, &amp; are able to advise you. Upon your writeing a Letter unto my Lord Bishop, I hope he will be pleased to give you Leave to be absent from Aspatrick this winter; and <hi rend="sup" range="1,2" orig="y=t=">yt</hi> you'l provide a good Stock of Sermons now whilst you <pb n="III,249" /> are at <hi rend="sup" range="1,2" orig="y=e=">ye</hi> University, not squandering away your time in other Studies. I shall be glad to hear that you have received the <hi rend="sup" range="2,5" orig="30=l~i=">30l~i</hi> I sent you by Tho. Burnyate, &amp; my Cosin Henry Brougham <hi rend="sup" range="1,2" orig="y=e=">ye</hi> like sum for himselfe &amp; your brother James. My son Roger is not yet come home, &amp; I have not heard Lately from <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Captain. Here is a great Contest between <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Christo. M. <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Jo. L. &amp; <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Rich. S. about being Parliament men for this County. I writ to you unto London as you desired. The Lord bless you &amp; James. My service to all my good Friends. I am</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+			<p>Rydal, Octob. 25. 95.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_038">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1695 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,252" />
+			<head> <note resp="editor" value="DCXXXIX. SIR DANIEL FLEMING TO REV. GEORGE FLEMING." /> </head>
+			<p>Rydal. Nov. 15. 95.</p>
+			<p>Son George,</p>
+			<p>Tho. Burnyates hath brought me a Letter from you, &amp; another from your Brother James; and I am very glad to hear that you are both well, &amp; do follow your studies closely. Your Brother Michael came Post from London unto Leverpool in Lancashire, haveing received Orders from his Colonel. He arrived here <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="1,3" orig="4=th=">4th</hi> instant, &amp; did go last Munday unto Lancaster to wait there upon his Colonel at his Election, <hi rend="sup" range="1,2" orig="y=e=">ye</hi> next day, for a Parliament man for that County. No more Newes of your Brother Roger, who is not yet come hither. I am much obliged to <hi rend="sup" range="1,2" orig="D=r=">Dr</hi> Charlot for his kindness unto you, to whom <pb n="III,253" /> pray give my service &amp; thankes. I shall not encourage you to endeavour to be Chaplain unto <hi rend="sup" range="1,2" orig="y=e=">ye</hi> House of Commons; that being a place of dayly attendance (in reading every morning Prayers <hi rend="sup" range="1,2" orig="y=t=">yt</hi> <hi rend="sup" range="1,2" orig="y=e=">ye</hi> House of Com~ons sit &amp; saying Grace every Dinner at <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Speakers) without any Allowance that I know of. Besides whosoever shall be chosen Speaker usually imployes his own Chaplain, or some beneficed Clergyman in London, therein. Sometimes <hi rend="sup" range="1,2" orig="y=e=">ye</hi> House recom~ends their Chaplain unto <hi rend="sup" range="1,2" orig="y=e=">ye</hi> King for some preferment, &amp; sometimes he get it in case he be a very deserving Person. A man is sure to be at a great Charge in Liveing at London; and it will be very hazardous in getting any Preferment. If <hi rend="sup" range="1,2" orig="y=e=">ye</hi> last Speaker be chosen again, I have no acquaintance with him, and so am not able to helpe you therein, if it were worth your while to have it. I am sorry to hear that my Godson wants his Health. I have lately sent my son Daniel unto Aspatrick &amp; Rose-Castle concerning your business; and he will give you an Account of his Journey. My Lord Bishop is content with your staying this winter at Oxford; but you must provide sermons against <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Spring: for your Curate will I beleive serve but one year. My service to Mr Principal &amp; all other my good Friends. The Lord bless you &amp; James. I am</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_039">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1696 FO DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,262" />
+			<head> <note resp="editor" value="DCXLVI. SIR DANIEL FLEMING TO REV. HENRY BROUGHAM." /> </head>
+			<p>Rydal. Febr. 6. 95.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Haveing not heard from you this long time, &amp; not knowing how Accounts stand between you and my son James, I have sent unto my Son George six Guineas, which will be nine pounds, &amp; which he will deliver unto you. My fearing that you are either not well, or gone out of Oxford, made me send this money unto him; and I thought it <pb n="III,263" /> better to send you Gold than Silver, since most all here in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> country is very bad, &amp; little milled money of silver is yet to be gott. When I shall know how Accompts do stand, I can <hi rend="sup" range="1,2" orig="y=e=">ye</hi> better know how to make you a Returne <hi rend="sup" range="1,2" orig="y=e=">ye</hi> next time. I hope my Son James continues sober &amp; studious &amp; I doubt not you'l be often adviseing him, which I wish he may observe. My humble Service unto Mr Provost, your selfe, &amp; all my good Friends in your College. I am</p>
+			<p>Your very affectionate &amp; much obliged kinsman &amp; Servant</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_040">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1696 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,274" />
+			<head> <note resp="editor" value="DCLIV. SIR DANIEL FLEMING TO REV. GEORGE FLEMING." /> </head>
+			<p>Rydal, Mar. 13. 95.</p>
+			<p>Son George</p>
+			<p>Thomas Burnyate brought me yours this evening, and I am glad to hear that you &amp; James are well. Your other two Letters I have, &amp; you should have had an Answer to them ere this, had I not been commanded into Cumberland upon <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Discovery of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> late Plot. As concerning your staying longer in Oxford, I shall be governed by my Lord Bishop of Carlisle therein, to whom you had best write &amp; know his Lordships pleasure &amp; what your Curate will do. And as to what relates unto your Brother James, I have a Letter from his Tutor, which is not so clear as I could wish it. I would have you to consult your Brother, as to his real Fancy &amp; Fitness to be a Poor Child, this being <hi rend="sup" range="1,2" orig="y=e=">ye</hi> time of makeing or Ruining of him; and I would have you to advise with my ancient good Friend the Provost, &amp; with such of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Fellowes as you are well acquainted with, concerning this matter. If they shall encourage you, I would have him to try his Fortune in standing; and as concerning his Degree, there is time enough to resolve of that. If my Cosin Brougham be returned to ye College, he will, I doubt not, assist you therein. I fear, that I shall not meet with an opportunity, to send you &amp; my Godson some money, before <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Returne of your Carrier. Your Brothers, Will, &amp; Michael, are at London. The Lord bless you all; &amp; let James peruse this Letter. My service to all my good Friends. I am</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_041">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1696 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,277" />
+			<head> <note resp="editor" value="DCLVII. SIR DANIEL FLEMING TO REV. GEORGE FLEMING." /> </head>
+			<p>Rydal, Apr. 6. 96.</p>
+			<p>Son George,</p>
+			<p>Haveing received yours of Mar. 29, 96, I am very sorry to hear of my Godson's Death; both for your sake, &amp; my son James. I presume there will be no difference between his Executor, or Administrator, &amp; me: for I have his Account, under his own hand, of Febr. 1. 95; &amp; what is since, I hope will not be much. As concerning yourselfe, you mention not anything whether you have writ unto <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Bishop of Carlile, &amp; what you have done as to your <pb n="III,278" /> Curate, whose year will be out in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> beginning of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> next moneth <note resp="compiler">.</note> Let me know your mind, as soon as you can, that your brother Daniel may do therein what he can for you. As to your Brother James, I wish heartily, that he would resolve to follow his Study closely, &amp; that he would use his utmost endeavours to get to be chosen a Poor Child, hopeing that then in a short time he will be fit for other preferment: But in case he will not, nor cannot, then I must be forced to take him from <hi rend="sup" range="1,2" orig="y=e=">ye</hi> University, &amp; God knows what will become of him. As to <hi rend="sup" range="1,2" orig="y=e=">ye</hi> choice of a Tutor I must leave it to you &amp; him. Pray let James peruse this Letter, and take a copy of so much as concerns him: for I have not time now to write unto him. He is of such an Age, &amp; hath, I hope, so much Grace &amp; Discretion, as to advise freely with you for his wellfare, &amp; to acquaint you with his thoughts. If I can return, you any money, before Burnyates his next Journey, I will. My humble service to your most worthy Principal, &amp; to all my good Friends. Consider my Last Letter, &amp; ye Lord bless &amp; direct you &amp; your Brother James. I am</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_042">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1696 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,285" />
+			<head> <note resp="editor" value="DCLXII. SIR DANIEL FLEMING TO REV. GEORGE FLEMING." /> </head>
+			<p>Rydal, May 7. 96.</p>
+			<p>Son George,</p>
+			<p>I have sent your Brother Daniel unto Aspatrick, who hath served you there as well as he could possibly. He found your Curate very unreasonable in his demands; and I am affraid we shall not get him contented to continue another year. I hear, that my Lord Bishop is not well pleased that you come not down according to your promis unto his Lordship. Whosoever doats upon what they want, &amp; undervalues what they have, will never live contentedly. If you would be advised to come down shortly, &amp; to serve your own cure, at least until you can procure a curate upon reasonable terms; I think it would be much better for you, than any Lecturers place in London that I can be able to procure you. A man who designes to be great, must not neglect little things: for otherwise he often catches at a shadow, and thereby loseth <hi rend="sup" range="1,2" orig="y=e=">ye</hi> substance. I should think it would be a recreation for you to be here sometimes, &amp; to be sometimes at Aspatrick; &amp; when you are so near Rose, you may more probably better your preferment. Parents can but advise, &amp; if children will not be ruled by them, they may repent it when it will be too late. Let me soon hear from you in answer, both to this letter, and that I writ to you Apr. 26. 96. My humble service to Mr Principal, &amp; all other my Good Friends. The Lord bless you &amp; your brother James. I am</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_043">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1696 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,293" />
+			<head> <note resp="editor" value="DCLXV. SIR DANIEL FLEMING TO REV. JOHN WAUGH." /> </head>
+			<p>Rydal, May 30. 96.</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Hearing lately from my Son George, that you are pleased to accept of his Brother James to be one of your Pupils, I returne you many thankes for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> same, not doubting of your care of, and kindness unto him. Although he but a Batler, yet I allowed quarterly <hi rend="sup" range="2,3" orig="20=s=">20s</hi> unto my Cosin Brougham, for Reading <hi rend="sup" range="1,2" orig="y=e=">ye</hi> more constantly unto him; and I shall be very willing to grant you <hi rend="sup" range="1,2" orig="y=e=">ye</hi> like. I hope you'l be often adviseing him to be studious, &amp; provident; &amp; to have a special care in avoiding of all ill company. My service to Mr Provost &amp; to all other my good Friends with you. I am</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Your very affectionate Friend &amp; Servant</p>
+			<p>D. F.</p>
+			<p><note resp="compiler" value="ADDRESSED:" /> To Mr John Waugh</p>
+			<p>These.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_044">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1696 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,306" />
+			<head> <note resp="editor" value="DCLXXIX. SIR DANIEL FLEMING TO REV. GEORGE FLEMING." /> </head>
+			<p>Rydal, Aug. 13. 96.</p>
+			<p>Son George,</p>
+			<p>You forgot in yours of July 27. 96. to acquaint me how much you had received of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="2,5" orig="20=l~i=">20l~i</hi> I returned you by John Harrison of Kendal, for <pb n="III,307" /> <hi rend="sup" range="1,2" orig="y=e=">ye</hi> use of you &amp; my son James; &amp; you also forgot to take any notice of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Ten Guineas I sent you by Tho. Burnyates at his last being with you. I have writ <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <note resp="editor">enclosed</note> to Mr Waugh, which I hope will clear that Account. I have repaid unto Tho. Burnyates <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Two Guineas you had last from him. If you knew how difficult it is to receive good money, &amp; to get it returned unto you, you would spare us therein as much as may be. If things do not mend, you will both, I fear, be forced to come into ye Country. I am troubled, that any unkindness shall be between my Ancient Friend <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Provost, &amp; my son Henry, which may prove prejudicial unto your Brother James. The Paper of Reflections you mentioned, you have not yet explained unto me. My service to all my good Friends, &amp; ye Lord bless you &amp; James. I am</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_045">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1696 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,314" />
+			<head> <note resp="editor" value="DCLXXXV. SIR DANIEL FLEMING TO REV. GEORGE FLEMING." /> </head>
+			<p>Rydal, Oct. 2. 96.</p>
+			<p>Son George,</p>
+			<p>Haveing received yours of Sept. 20, &amp; my son James of Sept. 24. last past, I was much surprised at my Ancient Friend, the Provost, his little kindness towards my son James; and since his countrymen do not esteem him worthy to be of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Foundation, I must otherwise dispose of him. If James will assure you, to follow his study in good earnest, to be sober, civil, &amp; a good Husband, &amp; to be governed by you; &amp; If your most worthy Principal will be pleased to admit James into his Hall, you may remove him thither as soon as you can conveniently; onely I would have you consult Dr Mill &amp; Mr Waugh therein, that your Brother may fairly leave <hi rend="sup" range="1,2" orig="y=e=">ye</hi> College, howsoever he hath been treated by some therein. I would have you to be your Brothers Tutor, if Mr Principal shall approve thereof and I shall not doubt but to receive a good Account of James his well doing, unless it be much his own Fault. Let him be a Battler in your Hall, as he hath been in Queens; &amp; let me know truely, from time to time, how he imployes him selfe, &amp; improves in virtue &amp; knowledge. I hope this unkindness may prove to your Brothers advantage, if he have <pb n="III,315" /> <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Witt &amp; Grace to make a Right use of it. Give my humble service to my kind &amp; Real Friend Doctor Mill &amp; remember me to Mr Waugh &amp; ye rest of my Friends in Queens College. Let James see this Letter, &amp; I shall comply with you in yours. I have sent by this Bearer, Tho. Burnyates, Twenty Guineas for your selfe &amp; James. The Lord bless you both. I am,</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_046">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1697 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,334" />
+			<head> <note resp="editor" value="DCXCIX. SIR DANIEL FLEMING, TO REV. GEORGE FLEMING." /> </head>
+			<p>Rydal, Jan. 28. 96/97.</p>
+			<p>Son George</p>
+			<p>I have yours of Octob. 14 &amp; Nov. 10 last past, &amp; of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> 12 instant, &amp; I should have sooner writ to you concerning my cosin Henry Brougham's Accounts, had I heard who had been his Administrator. Mr Waugh acquaints me, that there is due unto himself upon my son James his Account, six pounds fifteen shillings &amp; eleven pence, besides his Tuition for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> last halfe quarter; And that there is due, upon my cosin Henry Brougham's Account, in all Twenty three pounds sixteen shillings &amp; three pence; in which should be allowed ye sum of Five pounds, for my sons, Roger &amp; James their Caution-money. Although it be now very difficult to get any Returns, by reason of the great confusion now in this country about paying of money, yet I have prevailed with John Harrison of Kendal to return you another Thirty pounds, which I hope he will perform more punctually than he did <hi rend="sup" range="1,2" orig="y=e=">ye</hi> last time. He is lately gone to London, &amp; hath promised me to write unto you about it, When as you shall receive <hi rend="sup" range="1,2" orig="y=e=">ye</hi> same, pay off Mr Waugh, &amp; <hi rend="sup" range="1,2" orig="y=e=">ye</hi> sum above said due upon my Cosin Hen. Broughams Account; But advise with Mr Waugh to whom it shall be paid, least I pay it twice over, either to some one of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> College, or Town. I have sent you here inclosed a copy of my cosin Henry Brougham's Account, which I hope will clear all disputes, upon Mr Waugh's &amp; your considering <hi rend="sup" range="1,2" orig="y=e=">ye</hi> same.</p>
+			<p>As concerning your Brother James, I finde so great charge &amp; so little Improvement, as I cannot yet resolve of sending him again unto Oxford. However I must ever acknowledge a very great obligation <pb n="III,335" /> unto your most worthy Principal concerning you &amp; him. And as concerning yourselfe, I would have you provide to come hither with Tho. Burnyates, at his next Return, by whom I shall send you more money. The Bishop, your Parishioners &amp; I will then expect you, &amp; Ive hope you'l not then fail us all. I doubt not but that it will prove for your Health, Wealth &amp; Reputation; and I shall consent to your keeping of a Curate, either <hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Overend or such other Person as you can best agree with. Your sister shall provide what you desire against your comeing down. My best service to Doctor Mill, <hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Waugh, &amp; all other my good Friends. I am</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_047">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1697 T DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,342" />
+			<head> <note resp="editor" value="DCCVI. SIR DANIEL FLEMING TO DR. JOHN MILL." /> </head>
+			<p>Rydal, Febr. 19. 96/97.</p>
+			<p>Dear <hi rend="sup" range="1,2" orig="S=r=">Sr</hi>,</p>
+			<p>Haveing received your very kind Letter, I forthwith resolved to grant your Request in case my Lord Bishop would concurr with me therein; whereupon I sent an Express to Rose-Castle with your Letter, and his Lordship acquaints me that he had your Letter read over to <pb n="III,343" /> him with very great satisfaction, being extreamly pleased with that very good character you therein was pleased to give of my Son George. My Lord also writes, that being alwayes willing my Son might have time to compleat his Studies at Oxford; &amp; upon <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Account which you give he shall much more readily agree to what you requested, hoping that by Michaelmas next wee may see him (as is promised) to all our satisfactions. I heartily wish you many happy New Yeares, &amp; I shall ever remain</p>
+			<p>Dear <hi rend="sup" range="1,2" orig="S=r=">Sr</hi></p>
+			<p>Your most obliged &amp; most faithful Servant</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_048">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1697 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,343" />
+			<head> <note resp="editor" value="DCCVII. SIR DANIEL FLEMING TO REV. GEORGE FLEMING." /> </head>
+			<p>Rydal. Febr. 19. 96.</p>
+			<p>Son George,</p>
+			<p>You are, as well as I am, very much obliged unto your most worthy Principal for his very kind Letter unto me on your behalfe. My Lord Bishop &amp; I do grant, at his Request, that you may continue with him until Michaelmas next, hopeing that then youl come hither (as is promised) to all our satisfactions. I have sent you by this Bearer Fifteen Guineas, which, with what will Remain of what I last Returned you, will be I hope more than sufficient to supply you until another journey by this Bearer. As to your Curate, there will be no Governing him within any reasonable Bounds: therefore your Brother Daniel will endeavour to provide you another. Be sure you make good <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Doctors Letter; &amp; <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Lord bless you. I have sent a charr-pot for your most Honor'd Principal, &amp; I shall pay for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Carryage of it. I am not yet resolved of sending James. My service to all my good Friends. I am</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_049">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1697 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,352" />
+			<head> <note resp="editor" value="DCCXIII. SIR DANIEL FLEMING TO REV. GEORGE FLEMING." /> </head>
+			<p>Rydal. Jul. 1. 97.</p>
+			<p>Son George,</p>
+			<p>Your Brother James is much obliged unto you for your great kindness unto him; but I must yet consider of sending him again unto Oxford. What is pretended to be due from your Brothers, I can say nothing thereunto until I shall have a particular account thereof; and until that be done, I shall presume all to be paid. John Harrison hath lately assured your Brother Daniel, that Fourteen Pounds will be paid you by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Fifth of this Moneth, to which I have added Ten Guineas sent you by this Bearer. I thank you for your Account of Mr Kennets Book of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Antiquities of Ambrosden the which being but in <hi rend="sup" range="1,2" orig="4=o=">4o</hi> is highly Rated. Perhaps <hi rend="sup" range="1,2" orig="y=e=">ye</hi> many Cutts therein occasion <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Dearness of it. If it shall onely relate unto Ambrosden &amp; thereabouts I will not buy it, but if there be much general Learning therein, then get it plainly bound, as in Calf's Leather, &amp; send it by this Bearer, &amp; I shall pay him for it. Advise herein with Mr Tanner, whether this Book be worth my buying. As to Mr Terrils Book, you have given me so exact an Account thereof as I will let it alone awhile. Let me know what new Books, of note, you expect shortly to be printed, and whether <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Henry Chaunceys <pb n="III,353" /> Antiquities of Hartfordshire be yet extant; and in case it be, then let me know its Volume, Price, &amp; how esteemed by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> learned. Give my humble service to your most worthy Principal, &amp; to Mr Waugh. The Lord bless you. I am</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_050">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1697 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,358" />
+			<head> <note resp="editor" value="DCCXVI. SIR DANIEL FLEMING TO REV. GEORGE FLEMING." /> </head>
+			<p>Rydal, Aug. 6. 97.</p>
+			<p>Son George,</p>
+			<p>Yours of July 21. 97. I received by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Post, &amp; soon after I sent your Brother Daniel unto Kendal to acquaint John Harrison with <hi rend="sup" range="1,2" orig="y=e=">ye</hi> effect of your Letter. He was not then in Town, so your Brother lost his journey. Upon Saturday last I caused Daniel to write earnestly unto him, who that day writ an Answer, acquainting your Brother; that Mr Greame was at Kendal <hi rend="sup" range="1,2" orig="y=e=">ye</hi> week before, who told <pb n="III,359" /> Harrison that he had paid the <hi rend="sup" range="2,5" orig="14=l~i=">14l~i</hi> to Mr Dyson a month ago, &amp; that Dyson promised him to pay it a week after unto you, so that Harrison doubts not, but that it will be speedily paid you. I will get Harrison to write again about <hi rend="sup" range="1,2" orig="y=e=">ye</hi> payment thereof. I am sorry that your Oxford carrier had not money enough to pay you for Mr Kennets Book which I must consider at his next Return. He came hither last Munday &amp; delivered me your letter &amp; said that I should receive <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Book within a Fourthnights time. I am sorry to hear of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> failing of Parson Wilsons son, which will be a great Trouble to his Father. I have received one of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Arch-Deacon's <hi rend="sup" range="1,2" orig="2=d=">2d</hi> Vol. which I am affraid will not please all persons. As concerning Du Pin, when you shall come hither, you &amp; I will consult about the buying of one of them; &amp; so as I may have <hi rend="sup" range="1,2" orig="y=e=">ye</hi> liberty of Reading it over, I shall probably present you with it; however let me know, in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> mean time, <hi rend="sup" range="1,2" orig="y=e=">ye</hi> price &amp; number of Pages of every Vol. thereof. Let me know when we may hope for something more of Mr Tanners. I am very much obliged unto your most worthy Principal, for his great kindness unto you, to whom give my best service. The Lord bless you. I am</p>
+			<p>Your loveing Father</p>
+			<p>D. F.</p>
+			<p>Your brother Michael is well in Flanders.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_051">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1697 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,373" />
+			<head> <note resp="editor" value="DCCXXIV. SIR DANIEL FLEMING TO REV. GEORGE FLEMING." /> </head>
+			<p>Rydal, Octob. 1.</p>
+			<p>Son George,</p>
+			<p>I hope you have Received mine of Sept. 17. 97, wherein I acquainted you how to send hither all your, &amp; your Brothers Bookes, &amp; other Things, by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> way of London; Such things as are not fit to be brought hither by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Carrier, you may sell as well as you can. I have Received yours of Sept. 16. 97, and according to your desire, I have sent you by the Bearer, Tho. B. Thirty Pounds (viz. 27 Guineas, &amp; <hi rend="sup" range="1,2" orig="6=s=">6s</hi> <pb n="III,374" /> in milled Silver) which I hope will pay for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Book of Mr Kennets you sent me hither, &amp; will bring you a clear man out of Oxford, so that hereafter I may not hear of any more Duns. This Bearer hath promised me to furnish you with a good Horse to ride on hither: therefore I need not send you one to Oxford. Give unto your most worthy &amp; obligeing Principal my most hearty thanks for all his kindnesses unto you, with my best Service. Remember me to all my good Friends in Oxford. The Lord Bless you. I am</p>
+			<p>Your loveing Father</p>
+			<p>Dan: Fleming.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="FLEMINX_052">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1698 FN DFLEMING"></title>
+					<author key="DANIEL FLEMING"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="III,382" />
+			<head> <note resp="editor" value="DCCXXXV. SIR DANIEL FLEMING TO WILLIAM FLEMING." /> </head>
+			<p>Rydal, Octob. 21. 98.</p>
+			<p>Son William,</p>
+			<p>I have yours of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="1,3" orig="1=st=">1st</hi>, of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="1,3" orig="4=th=">4th</hi> &amp; of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="2,4" orig="11=th=">11th</hi> instant, with <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Papers, &amp; a letter from Fletcher, inclosed; and you should have sooner heard from me had I not been from home at <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Funeral of <hi rend="sup" range="1,3" orig="M=rs=">Mrs</hi> Smith, who dyed <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="1,3" orig="6=th=">6th</hi>, &amp; was buried <hi rend="sup" range="1,2" orig="y=e=">ye</hi> 11th of this Moneth. Her Corps was privately conveyed upon <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Munday in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> evening from Rose-castle unto <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Deanery in Carlisle, &amp; <hi rend="sup" range="1,2" orig="y=e=">ye</hi> next day she was very hansomly interred in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Quire of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Cathedral, most of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Gentry &amp; Clergy of Cumberland being there, who had Sack, Burned Claret, Plumb-Cake &amp; cold meat; &amp; who had gloves, ribbands, &amp; mourning Hat-bands, and <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Pall over her Body, was carried by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Earl of Carlisle &amp; Sir Christ. Musgrave, by <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Geo. Fletcher &amp; <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Wilfr. Lawson, &amp; by <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Rich. Musgrave &amp; my self. Your Bro. Geo. F. did preach her funeral Sermon, upon Rev. 14. 13, and he came off with a general applause. At Lowther my Lord, and at Hutton <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Geo. F. told me you had writ to them, &amp; I think you did well therein. Your <pb n="III,383" /> Orders concerning Gaugers are Notable, &amp; I like your Certificate concerning your takeing <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Oaths. I am glad you have gotten an Order for 2 Rooms in <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Excise-office, &amp; I could wish <hi rend="sup" range="1,2" orig="y=t=">yt</hi> you had Fletcher always quartered with you: for then he would bear you company, &amp; you would preserve him from many inconveniences. Mr Swinburne is your kinsman by your Mother, &amp; he is nephew to my Son Bouch. I have signed his, &amp; Geo. Mason's Certificates; but act therein as you please. I am glad to hear of my Nephew Fletchers safe Return, &amp; I heartily wish a good Agreement between his Father &amp; him. Its a long time Since I had a Letter from him. I like my Son Fletchers Letter very well; &amp; he hath already changed his hand for <hi rend="sup" range="1,2" orig="y=e=">ye</hi> better. Every one cannot be a Schollar; for I am sure that I kept him long enough at School to have made him one: In other things he is <pb n="III,384" /> ingenious enough. Parson Michael continues still very ill, &amp; many think he'l not recover. I am glad to hear, that you have so quiet and orderly a quarter at <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Blew Bell: <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Christ. P. intends shortly to be with you. The Lord bless you &amp; Fletcher. As for new's, I will allow my Self Sixpence every week; which I hope will weekly buy Two Gazett's &amp; Three Flying Posts, desireing that you will send me every Tuesday (Franked by <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Post) one Gazette &amp; one Flying Post, &amp; every Saturday one Gazette and Two Flying Posts; and I will take care to send you money for them. If you approve of this, then acquaint Mr Sawtel of <hi rend="sup" range="1,2" orig="y=e=">ye</hi> Post Office, that he had best send no more Printed-Newes to Kendal, Mr Brownsword being dead. For other News, I hope you'l intimate them, as they shall happen, unto your loveing Father</p>
+			<p>Dan: Fleming.</p>
+			<p>My Letter to my Son Will. F. at London, Oct. 21. 98.</p>
+		</text>
+	</TEI>
+</teiCollection>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FROYAL4">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>LETTERS OF TWO QUEENS. ED. BY LT.-COL. THE HON. BENJAMIN BATHURST. LONDON: ROBERT HOLDEN &amp; CO. LTD. 1925.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="ROYAL4_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1681? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="133" />
+			<p><head> <note resp="editor" value="LETTER 51" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Houndslerdyck June ye 10th <note resp="editor">1681</note> .</p>
+			<p>tis so very long since I have heard from my dear Aurelia that I don't know what to think of it, but now I think ont tis my own faut for I have not yett ansered your to letters I had last the first of wch was a very long on &amp; full of news for wch I give you a thousand thanks ye to there was but short but you tell me on whom I must lay the faut therefore I say nothing to you. but you will find me very lazy &amp; much to blame not haveing ritt all this while &amp; I confese I am so but if you knew how little time I have had ever since I came from the hummeling you woud not wonder, I have bin heer a week to day last sunday I received yesterday I was at the Hage to see a Princese who <pb n="134" /> is there three days before she was to se me &amp; ondly just fryday &amp; Saterday there has bin company heer every day, but this time I was resolved not to louse anothere post therefore I ritt this in the morning for that reson. I hope I have said enough to perswade you tis not want of kindnes (for that you may allways be sure of) but time wch has hinderd me all this while asureing you that nothing is nor can ever be capable of changing me who am &amp; shall be ever the same kind constant clorine I allways was. <hi rend="type">For Mrs. Apsley.</hi></p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1681? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="135" />
+			<p><head> <note resp="editor" value="LETTER 52" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Dieren June ye 17 <note resp="editor" value="PROB. 1681" /> .</p>
+			<p>You have taken a way of clearing my douts dear husban wch woud make me your rivall if it wear to any but your prince Ziphares but for him you know I have allways had a love to great to increas and to naturell not to last allways &amp; upon to good an account to make you jelouse. but I cant tel wethere the complyments you make your Clorine at the end of your letter are not to great to have so much credid given them but I am good natured enough to belive I have still the greatest shere of your heart &amp; do consent so dear a creature to you &amp; who is so doble dear to me shoud have some part of it, since she has so much of mine. I hope by this time my dear Aurelia is quite well agin, &amp; that she does me so much justice to belive my concern was equell to my love wch you know is as it ever was &amp; tho you talk at a fine romantick way of your heart I assure you mine will ever be the same &amp; I will hold yours as fast as ever I can for I am resolved if I can keep it I never will part with it while I live &amp; if I dy I pretend so much power over it that I would leave it for a legacy to yours and my dear Ziphares.</p>
+			<p>Pray remember me very kindly to your Mother and Sisters. To Mrs. Apsley.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1681? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="137" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p>Edenburgh Sep ye 8.</p>
+			<p>My deare Sem;dra I do againe beg your pardon for being these too or three posts without writting to you but seriously I could not posible help it <pb n="138" /> but now I must say something in answer to both your letters which I have received since I writt to you in the first place I must tell you that I forgot to tell you that you should stand for me to Mrs. Doylys child pray remember me to her when you see her &amp; then I must tell you that tho you heard constantly from Pert who had a great many letters to writt &amp; went often abroad yet she did not go so constantly every day as I did for I rid every day &amp; then I was often with the Dutchess &amp; then I took a little time in my closett when I could catch it consider all these things well &amp; forgive your poor Ziphares as to what you desire to know in your other letter I do asure you I do love you dearely &amp; not with that kind of love that I love all others who proffer themselves to be my freinds pray therfore deare Sem;dra love me as well as ever be as free with me as ever writt me all the news you know send me ye Gazett &amp; other printed paypours that are good &amp; forgive &amp; beleeve your</p>
+			<p>Ziphares.</p>
+			<p>pray remember me very kindly to your Mo &amp; tell I will writ to her next post.</p>
+			<hi rend="type">For Mrs. Apsley.</hi>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1681? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="139" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p>Edenburgh Sep ye 16.</p>
+			<p>My deare Sem dra I have ten thousand millions of pardons to beg of you for mising these too or three last posts &amp; pray forgive me for it was don out of no unkindnes to you upon my word, but I asure you I will henceforward writt every post &amp; I do indeed pity you, for I am very sensible of your great loss my deare Semdra be a little comforted for it may displeas God Almighty to see you not submit to his will &amp; who knows but that he may lay some greater afliction on you death is a dept we must all pay when God is pleasd to take us out of this wicked world but I hope you will live a great while &amp; yt we shall be happy in seeing one a notther tho God &amp; the King onely knows when pray remember me kindly to your mother father &amp; brother farwell my deare I love you dearely upon my word &amp; will never change <hi rend="type">For Mrs. Apsley.</hi></p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="143" />
+			<p><head> <note resp="editor" value="LETTER 55" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Houndslerdyck June the 13th <note resp="editor">1682</note> .</p>
+			<p>I am ashamed dear Lady Apsley to have bin so long without ansereing your letter wch I received by Sir G. Silvius but the treuth is that since he came into this contre last I have never bin long <pb n="144" /> enough in a place to have time to ritt to any for whilst I was at Bruxells (I spake it to my shame) I never had time to rit neithere to the Duke, the Duchese, nor my sister, whom I hope ar now with you in England, you may be sure I shoud be very glad your wish coud be treu at this time &amp; that I coud come to pay my dutty to them &amp; at ye same time se the rest of my good friands, but if it cant be presently I hope I shall once find such a time wch you may belive will be a very wellcome one to me, in the mean time I hope you will belive that as I have bin so I shall endevor allways to show my self to my lives end both to you &amp; all yours for your sake, your very affectionate kind friand</p>
+			<p>Marie.</p>
+			<hi rend="type">For the Lady Apsley.</hi>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="146" />
+			<p><head> <note resp="editor" value="LETTER 56" /> </head> <note resp="compiler" value="ANNE TO FRANCES APSLEY" /></p>
+			<p>Windsor, June ye 12th <note resp="editor">1682</note> .</p>
+			<p>My deare Semdra. I received yesterday a letter from my Lady Bathurst I do forgive her for not telling me the secrett but I asure you I love you <pb n="147" /> as well as ever I did &amp; I am very sory you think the contrary I am sure I never intended to do anything that should look like unkindness to you or any of your famely &amp; I am extreamely sory if ever I have don anything that you take unkindly I asure you I never did it a purpose &amp; therefore pray forgive me &amp; do me the justice to beleeve what is a very great truth yt I do love you as well as ever.</p>
+			<hi rend="type">For the Lady Bathurst.</hi>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="149" />
+			<p><head> <note resp="editor" value="LETTER 59" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Dieren Jully the 25th <note resp="editor">1682</note> .</p>
+			<p>I have staid all this while in hopes of an ansere to my last leter. but not geting one I sit down now with full intentions to chid you dear Aurelia for I find the changeing of your condition has allso changed your mind a great deall or els you would have satisfyed me before now &amp; all the fine complements in your wch leter you rit me since you are married (but before you had mine) will not searve your turn, for you have known this great while or I may better say ever since you knew me that your letters wear allways very wellcome &amp; never troblesome, &amp; I have told you twenty times that tis impossible for me to rit so often to you as you can do to me for I can never send you news from heance and you can selldom want it where you are so that you have no excuse of your side &amp; I have reson of mine however you <pb n="150" /> se &amp; have bin I hope a great while very well persuaded that nothing can change me but that wether I wright or no I am &amp; shall be to my lives end ever the same. Now I am in a chiding way I must chid it out once for all but I had almost forgot to say that your not haveing heard from me was no excuse not to tell me your great afaire as you with reson call it for you knew me enough to trust me if you woud have used me like a friend.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="151" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p>St. Jameses Aug ye 14th.</p>
+			<p>my deare Semdra I have intended ever since I came hither to writt to you &amp; I hope you will forgive me for not doing it sooner I thank you for your letter &amp; pray ask me what ever questions you will for upon my word I love my deare Semandra as well as ever: since I came to town I am grown a very good Housewife for I am constantly drest by prayer time &amp; I have bin <pb n="152" /> very often ready between nine and ten: I wish &amp; yet I know not how to wish you heare becaus I am sure you had rather be where you are but yet I cant help haveing a little self interest: all ye news that I know is that Lady Anne Savell was marryed last thursday to Ld Vaughan: pray remember me very kindly to your Mother &amp; beleeve me you shall ever find me the same Ziphares I ever was.</p>
+			<p>since I have writt my letter I have got a little sister.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="156" />
+			<p><head> <note resp="editor" value="LETTER 63" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Hage December ye 29th <note resp="editor">1682</note> .</p>
+			<p>your kind letter dear Aurelia puts in a strange impatience to know what it is you dare not writ &amp; I believe it must be of great importance since you ad presently afer that you woud put your life into my hands. for god sake put me out of <pb n="157" /> my pain &amp; lett me know it, if ever you have loved me, if ever you have loved your prince, if ever you have loved or do eithere fathere mothere sister brothere, &amp; last of all if you love your dear husban I conjure you to lett me know it &amp; yt quikly, or I shall conclude you never did care for me nor for any I have namd make no begining nor ending put no name nor no superscription but put it for me in what you writ to my Mam or lett my sister her self send it these, or any othere way you can think of so I do but know it. adieu my dear Aurelia by this I shall know if you love me.</p>
+			<p>pray remember me very kindly to your mothere &amp; belive no body wishes more for the continuence of both your healths then I do. <hi rend="type">For the Lady Bathurst.</hi></p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="157" />
+			<p><head> <note resp="editor" value="LETTER 64" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Hague Feb. ye 23rd <note resp="editor">1683</note></p>
+			<p>I have found to letters of very old date in my standish wch makes me belive I have not ansered them for wch I ask you a thousand pardons. the first is of the 19th of December I can assure you <pb n="158" /> dear Aurelia I think all you said very well &amp; am very much of your mind conserning that persone you there mention &amp; had I known of the friendship at first I shoud have done all I coud in the world to have brock it of but I never knew any thing in the world till such time as she was forbid when I heard it from my sister herself &amp; was very much surprised &amp; trobled to find her consern as great. but then I did not say much because I did not think it nessesery anothere time you will oblidge me very much to lett me know if there be any new ones in hand that I may endevor to stop it if it be not to her advantage or at least do my best for I think nothing more prejudicciell to a young woman then ill company &amp; I hope you will continue your good consells to us both &amp; never flatter neithere.</p>
+			<p>By ye tother of the 2nd of January you tell me to things wch must needs be very pleasing to you &amp; then you may be sure thay are so to me: I received to days ago anothere by wch I find you are quicke of which I wish you much joy, &amp; hope you will ever have all the contentment imaginable in all things this world can aford &amp; eternall happynes in that wch is to come you never need to make excuses to me for aquianting me with your conserns for I take so much part in all that belongs to you that I look upon it as a peice of kindnes in you to do so I have been hindred so long in the writing of this that haveing more to write I have time to say nothing els ondly assure <pb n="159" /> you of my continueing the same till death - pray remember me as kindly as possible to your Mothere.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="159" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p>Newmarkett March ye 21 <note resp="editor" value="PROB. 1683" /> .</p>
+			<p>I am very sory Lady Apsley has bin ill again but I hope now ye spring comes on she will soon recover: this place aford no news but of Races &amp; cock matches which you dont care for. Dr. Lake went last night and will be in town much sooner then this: I am sory I did not know his wife was ill when he first knew it for I would very <pb n="160" /> willingly have lett him go on such an ocation I shall now be very quickly with you for the Dutchess intends to go to moro sevenight I can say no more at this time to my deare Semandra but yt she shall ever find me ye same I ever was. <hi rend="type">For the Lady Bathurst.</hi></p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="165" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p>Windsor June ye 4 <note resp="editor">1683</note> .</p>
+			<p>do not acuse your Ziphares without heareing him &amp; indeed you wrong him mightely in saying he is unkind tho what I am going to say may sound like an excuse yet I asure you tis not so: when I was at London ye first time if I had had time I would have made you a visit &amp; ye reason I have not writt to you all this time was becaus I was afraid reading might not be good for you &amp; tho you heard not from me yet I enquired of every body how you did &amp; writt to your mother a purpos therefore do not have so ill opinions of your Ziphares for tho he changes his condition yet nothing shall ever alter him from being ye same to his deare Semandra that he ever was: as to what you say in your last letter about Sr Benjamin I will be sure to speak to the Duke &amp; do all the kindnes yt lyes in my power but I must needs tell my deare Semandra this that when I first heard this buisnes conserning my self I spoke to ye Duke of my self for Sr Benjamin Bathurst I am very glad you have got so good a freind as my Uncle Rochester for he can do you as much kindnes &amp; service as any body &amp; I am sure any thing that I lyes in my power shall not be wanting, once more lett me beg you not to have any more ill opinions of me but asure yourself yet all ocations I will be ready to shew my self your faithfull Ziphares: &amp; now I must desire you yt as soon as you have received this you would send <pb n="166" /> for Mr. Oliver &amp; bid him com hither for tell him I want him mightely to mend one of my gounds &amp; bid him bring me a paire of bodys to weare with a manto.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_013">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="168" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p>I beleeve my deare Semandra thinks me a very strang creature for not haveing answerd your letter in all this while but I do asure you it has not bin my fault for yt day I received it it was so soon after diner yt I could not then posible writt &amp; after prayers till I went to Whithall I had company with me all day: yeaterday I did intend to have writt but dineing with ye Queen made me so late yt I could have no time before prayers &amp; afterwards againe I had company till I went out &amp; therfore pray donot have an ill opinion of me for I do realy love you very well &amp; will ever do so &amp; as for ye picture you shall have one very soon &amp; pray beleeve what I say for it is realy true &amp; you shall ever find me your faithfull Ziphares.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_014">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="169" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p>Why would not my deare Semandra writt to me before but keep herself uneasy all this while and now I must tell you yt I am not nor never was angry with you in all my life &amp; I asure you no body has ever said anything against you to me &amp; ye reason why I said no more to you yt day you spoke to me was becaus I can never expres my self in words &amp; therefore if ever you have more suspitions of me as I hope you will not after reading this letter lett me know them by a letter: but I asure you I love you as well as ever tis true I have sometimes when I do not know it a very grave look wch has made others as well as you ask me if I was angry with them yt I look'd so gravly on them therefore do not mind my looks for I realy look grave &amp; angry when I am not so another thing you tax me of is never sending for you wch is a thing I have not don I confess this great but has not bin my fault I asure you for the Prince stays with me every day from diner to prayers &amp; by that time I com from prayers tis half an hour after four &amp; on my playing days from yt time I am always in expectation of company on thos days yt I donot play I comonly go to whithall at six so yt yt hour an a half wch I have from prayers till I go to the Dutchess I <pb n="170" /> am glad sometimes to get a litle of it alone it being the only time I have to myself and for ye other part of it the Prince ether comes to me or I go to him and we stay with one another till I go out thus you see I have told you very freely how I spend my time so you see yt tis not my fault yt I donot send for you because I have hardly a moment yt I can send for you but yt before you can com ether I have grave company or am gon to Whithall but at any time whenever you will com I will see you &amp; shall be very glad of your company &amp; if you canot com if you will will writt I shall be very glad of your letters &amp; will answer them very punctualy therfore lett me beg you if you love your Ziphares give way to none of thes false suspitions of me for I do asure you upon my word I do love you as well as ever &amp; will do so as long as I live: as for ye paypour I signd an seald I do remember it very well and will be as good as my word in it tho I canot yet, ye reason I will tell you when I writt next as for what you desire to know about Sir Benjamin no body has ever said anything against him to me or if it had bin so you may be sure I would first ask him him about it I will now end hopeing you are very well satisfyed yt I am ye same I ever was &amp; ever will be to ye last moment of my life.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_015">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="173" />
+			<note resp="compiler" value="ANNE TO FRANCES APSLEY" />
+			<p>Windsor Jully ye 1.</p>
+			<p>my deare Semdra not haveing time last night to writt to you by your Brother I now send having a purpose a purpose with this that I might not be any longer without telling you yt I do realy love you as well as ever I did I will without faile send your letter to my sister to night I am very sory you could not com yesterday but I hope by Sunday your face will be well againe &amp; then that you will com hither to Church deare Semdra I would say more to you but yt tis past ten aclock &amp; therfore I must go &amp; be drest but whether my letters be long or short I will ever be the same.</p>
+			<p>pray remember me very kindly to your mother. <hi rend="type">For the Lady Bathurst.</hi></p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_016">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="173" />
+			<p><head> <note resp="editor" value="LETTER 70" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Dieren August 25th <note resp="editor">1683</note> .</p>
+			<p>I write my last in such hast to my dear Aurelia that I had not then time to ansere that I had of <pb n="174" /> yours &amp; now I have received anothere since so that I have now to of yours to ansere the first of wch was write the day before my sister was to be married, you may believe twas no small joy to me to heer she liked him &amp; I hope she will do so every day more &amp; more for els I am sure she cant love him &amp; without that tis impossible to be hapy wch I wish her with all my heart as you may easely imagin knowing how much I love her. by the tothere you tell me of the comitions my sister left with you wch I shoud at first have desired you to have done but that she had often bid me employ her &amp; woud have it so by all means ye wch I did the rathere in hopes of haveing some comition from her for there is nothing pleases me more then to be so employed, but I dont heer of any yet &amp; indeed this place afords so little of anything but what one has much better in England that I fear I shall not get any at all. adieu dear Aurelia I have this day so many letters to write that I have not time to say any more to you ondly assure you of the continuance of my kindness wch nothing but death can ever alter.</p>
+			<p>Pray remember me very kindly to Lady Apsley.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_017">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="175" />
+			<p><head> <note resp="editor" value="LETTER 72" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Hague Nov ye 5th.</p>
+			<p>I never found it a hard matter to write to my dear Aurelia before, but at present I dont know <pb n="176" /> what to say for your afliction is so just one can hardly go about to comfort you and indeed upon such ocations tis ondly from God it can come whom I beseech to grant you may bear it like a christian &amp; so as it may sum to your good, as for my own part I assure you I am as sory for your losse as any body can be wch I hope you dont dout, knowing how much I love you. I know tis in afliction friands shoud shew them selves &amp; I should be very glad if I knew any way to shew you I am so more than you can belive.</p>
+			<hi rend="type">For the Lady Bathurst.</hi>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_018">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1684? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="179" />
+			<p><head> <note resp="editor" value="LETTER 76" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Hague Aprill ye 4th <note resp="editor">1684</note> .</p>
+			<p>I am very sory to find yt my Lady Apsley has bin so very ill as you say in your leter but I hope twas ondly the cold wethere &amp; yt with the spring she <pb n="180" /> will recover I am sure if my wishes can contribute to her health she will not want it nor them: as for you dear Aurelia you make me mad with asking pardon for writing a long leter since you may belive thay are very wellcome to me I haveing desired it so often of you for I can compliment with nobody much lesse with my good friands, I wish I coud send you news from heance of any kind, but as you know no body heer so tis impossible: we have ye coldest Easter I think that ever was for it freezes every night still wch makes the spring very backward, adieu dear Aurelia belive me ever the same.</p>
+			<hi rend="type">for the Lady Bathurst.</hi>
+		</text>
+	</TEI>
+	<TEI xml:id="ROYAL4_019">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1684? TC MARY2"></title>
+					<author key="MARY II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="181" />
+			<p><head> <note resp="editor" value="LETTER 77" /> </head> <note resp="compiler" value="MARY TO FRANCES APSLEY" /></p>
+			<p>Honslerdyck June 9th <note resp="editor">1684</note> .</p>
+			<p>I have a long while had to of my dear Aurelias leters to ansere wch on thing or othere has allways hindred me doing till this time, on of them is ondly in contredictione of a former leter and the othere tels me of your being with child, I wish you beter luke then either the Duchese or my dear sister have had you know how dear she is to me and therefore will not dout how much I was trobled for her I am sure if it had bin my self I coud not have bin very much more, but I think we have all reasson to thank God she is come of as she is wch my thinks is allmost a miracle to be so well of a dead child. pray remember me very kindly againe to my Lady Apsley &amp; belive me as much yours as ever.</p>
+			<p>The Prince is gone into Brabant so yt I am now alone heer when he comes bake is uncertaine for wch I am sure you will pitie me.</p>
+			<hi rend="type">For the Lady Bathurst.</hi>
+		</text>
+	</TEI>
+</teiCollection>

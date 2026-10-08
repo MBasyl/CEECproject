@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FPAUPER">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>ESSEX PAUPER LETTERS 1731-1837. ED. BY THOMAS SOKOLL. RECORDS OF SOCIAL AND ECONOMIC HISTORY. NEW SERIES 30. PUBLISHED FOR THE BRITISH ACADEMY BY OXFORD UNIVERSITY PRESS. 2001.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="PAUPER_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="C 1788 T TBRAY"></title>
+					<author key="THOMAS BRAY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="289" />
+			<head> <note resp="editor" value="279 FROM THOMAS BRAY IN EDMONTON (MIDDLESEX) TO THE CHURCHWARDENS AND OVERSEERS OF GREAT CHISHALL, 12 March 1788" /> </head>
+			<p>To the Church Wardens &amp; Overseers of the Poor of the Parish of Chisel</p>
+			<p>Gentlemen</p>
+			<p>I am Sorry I should have Occasion to trouble you but Necessity Obliges me, having had the Misfortune of two <normalised orig="fitts" auto="true">fits</normalised> of illness as you may see by the Apothecaries Bills, as well my Wife has been ill some time not able to do anything which has greatly <normalised orig="Distressd" auto="true">Distressed</normalised> me, as I never have been any ways troublesome to you for any Relief before, I hope you will be so kind to take it into Consideration, as the Apothecary is so very Pressing upon me for his Money, and it is not on my Power to pay him any without Selling what few things I have which if I should be <normalised orig="Oblig'd" auto="true">Obliged</normalised> to do, I and my Wife must be <normalised orig="Oblig'd" auto="true">Obliged</normalised> to Come to you for Relief, I hope you Gentlemen will be so kind to Advance the Money for the Payment of these Bills, as my Long illness greatly <normalised orig="Distress'd" auto="true">Distressed</normalised> us, for a support, or I should not have troubled you, be so kind to Order the payment soon as I am greatly <normalised orig="Distresst" auto="true">Distressed</normalised> on <normalised orig="Acouunt" auto="true">Account</normalised> of it, I am</p>
+			<p>Gentlemen</p>
+			<p>Your Afflicted &amp; <normalised orig="Distress'd" auto="true">Distressed</normalised> <hi rend="sup" range="4,5" orig="Serv=t="><normalised orig="Servt" auto="true">Served</normalised></hi></p>
+			<p>Thomas Bray</p>
+			<p>Bury Street Edmonton</p>
+			<p>March 12 1788</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PAUPER_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="C 1750 T TMORSE"></title>
+					<author key="THOMAS MORSE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="290" />
+			<head> <note resp="editor" value="280 FROM THOMAS MORSE IN (GREAT) COGGESHALL TO THE CHURCHWARDENS AND OVERSEERS OF ST JOHN BAPTIST, HEREFORD, 12 MARCH 1750" /> </head>
+			<p>Coggeshall March <hi rend="sup" range="1,2" orig="y=e=">ye</hi> 12 1750</p>
+			<p><note resp="editor" range="0,3" orig="[\Gen\]tleman">Gentleman</note></p>
+			<p>This with my humble Service returning many thanks for all favours: to Inform you that the Overseers &amp;c of the Parish have been with me and desired I would write to You forthwith relating to the Money which they Disbusted to me and which I have <hi rend="sup" range="5,6" orig="Recev=d=">Recevd</hi> from their hands though since the <normalised orig="Receving" auto="true">Receiving</normalised> of Your letter have been Obliged to Shift without - through the Goodness of some Friends and of my Son who has been a Servant here and is out of his time But the Gentlemen have given me Notice that Unless their letters be answered to their Satisfaction within 14 days they will get an Order &amp; bring me home and as I am settled here &amp; through the Help of Some friends Capable of getting my Bread better than if I should come home and as you must be <normalised orig="Sinsable" auto="true">Sensible</normalised> it will be a great <normalised orig="Expence" auto="true">Expense</normalised> for two People so far advanced in Years to Come so far I hope you will therefore take it into Consideration and so Order the matter that wee may be Continued where we are which will Greatly <normalised orig="Oblidge" auto="true">Oblige</normalised> Gentleman Your</p>
+			<p>Obedient &amp; humble Servant</p>
+			<p>Thomas Morse</p>
+			<p>PS. Gentlemen</p>
+			<p>I should be glad to Receive your answer please to Direct for <normalised orig="mee" auto="true">me</normalised> the Bull In Coggeshall Essex</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PAUPER_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1755 T JCROSS"></title>
+					<author key="JANE CROSS"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="292" />
+			<head> <note resp="editor" value="281 FROM JANE CROSS IN CANTERBURY TO AUSTIN VAILANT, CHURCHWARDEN OF ST BOTOLPH, COLCHESTER, 24 APRIL 1755" /> </head>
+			<p>Cantubery <normalised orig="Eprill" auto="true">April</normalised> the 27 1754</p>
+			<p>To you Gentlemen church wardens of the Parish of buttle to whom I <normalised orig="hapily" auto="true">happily</normalised> belong do I now make bold to write being your your poor yet humble Petitioner and first I beg leave to <normalised orig="acquant" auto="true">acquaint</normalised> you I <normalised orig="Gott" auto="true">Got</normalised> safe to cantubery and was loveingly received by my dear mother who was doubtless Glad to see me and is very willing to help me in what is in her power but her acent years makes it not in her power to do Greatly for me neither do I of my self desire to be incombant on my dear mother but desire to labour for my self and my child but its not in my power to subsist with my own labour I therefore <normalised orig="appeall" auto="true">appeal</normalised> to your dear Goodness to consider my case and be please to allow me some small allowance to help bring up my dear baby - my mother is willing to Give me a bed and some sl small <normalised orig="triffle" auto="true">trifle</normalised> to help furnish me a room but I <note resp="editor" range="0,4" orig="[\can n\]ot">can not</note> except of it till I do receive your kind answer because I can not undertake to pay house rent and maintain my self and child therefore I beg Gentlemen you please to consider it and soon to send me your answer and I hope you will not deny me so small a <normalised orig="subsistance" auto="true">subsistence</normalised> as six pence a week which to be sure is but a <normalised orig="triffle" auto="true">trifle</normalised> and my hands must labour hard to do the rest beside Gentlemen you very well know I cam away very bear in <normalised orig="apparell" auto="true">apparel</normalised> and my child like wise and its favouring your charge Greatly that I am come and if you please to consider me in this favour I nor my baby shall never more be a trouble to you but if you deny it me and refuse to help me I must send my child down to you for its for him I desire an allowance as to my self I will work freely and like my own place of abode very well and think to stay hear so long as my dear mother lives but my child I must part from to you if you <normalised orig="dont" auto="true">don't</normalised> allow me so be please to answer my letter <normalised orig="speedyly" auto="true">speedily</normalised> if you please and let me know what you do intend for me I beg the money quarterly and as I came bear and had work to seek I hope you will send me a half a Geney for this quarter mittsumer and I beg you please to send it me by the <normalised orig="Collchester" auto="true">Colchester</normalised> <normalised orig="hyes" auto="true">hies</normalised> and leave it at the bear and wheat <normalised orig="Sheafe" auto="true">Sheaf</normalised> in thames street in london for mr Tallbutt hyeman to cantubery - as if <note resp="editor" range="1,3" orig="y[\ou\]">you</note> send a letter be please to direct your letter for me Jane cross at mr bangges in <pb n="293" /> <normalised orig="hospitall" auto="true">hospital</normalised> I lane in st milldreds in cantubery - and pray send with speed I beg - and you will much oblige your humble petitioner and parishsoner</p>
+			<p>Jane cross</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PAUPER_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1795? T AGARNER"></title>
+					<author key="ANN GARNER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="518" />
+			<head> <note resp="editor" value="593 FROM ANN GARNER (IN ATTLEBOROUGH, NORFOLK) TO MR COOK IN HAVERING-ATTE-BOWER (16 APRIL 1795)" /> </head>
+			<p><hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Cook</p>
+			<p>Ann Garner the wife of James Garner Could wish to be hapy to Live with my <normalised orig="husban" auto="true">husband</normalised> again but I am very uneasy &amp; <normalised orig="unhapy" auto="true">unhappy</normalised> that he have Left <normalised orig="mee" auto="true">me</normalised> a Gain for I have been <normalised orig="Lawfull" auto="true">Lawful</normalised> <normalised orig="maried" auto="true">married</normalised> to him 27 years and have had thirteen <normalised orig="Chilldren" auto="true">Children</normalised> by him now I think It <normalised orig="tis" auto="true">tic</normalised> a unjust thing for you Gentleman &amp; officers to <normalised orig="harber" auto="true">harbour</normalised> <normalised orig="maried" auto="true">married</normalised> men thear from thear wife and familys now I understand the Letter <normalised orig="wich" auto="true">which</normalised> <hi rend="sup" range="1,2" orig="m=r=">mr</hi> Cook sent to the Attlburg officer that he have a wife and family in your place and if he be thear I <normalised orig="meen" auto="true">men</normalised> to be thear my self and beg of you to send me a Answer weather he be thear or near for I think <normalised orig="tis" auto="true">tic</normalised> not proper for a <normalised orig="nother" auto="true">another</normalised> woman to in joy my Right his Daught <normalised orig="wich" auto="true">which</normalised> Laid in when he was thear have Laid il so to hart that thea think she out Live</p>
+			<p>From your humble <normalised orig="servent" auto="true">servant</normalised></p>
+			<p>Ann Garner</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PAUPER_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1748 FO MPAVETT"></title>
+					<author key="MARY PAVETT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="560" />
+			<head> <note resp="editor" value="645 FROM MARY PAVETT IN RAINHAM TO HENRY PAVETT IN STRATFORD (ESSEX), (2) MARCH 1748" /> </head>
+			<p>March th <note resp="editor">2</note> 1748</p>
+			<p>Raynham</p>
+			<p>Loving Brother This Coms to Let you Now that My <normalised orig="husban" auto="true">husband</normalised> Died Yesterday and <normalised orig="Desier" auto="true">Desire</normalised> to Now if you Will Com Down and See him <normalised orig="Beried" auto="true">Berried</normalised> for he Life in asad Conditon I <normalised orig="desier" auto="true">desire</normalised> to Now if you and your Brother Will Be at the <normalised orig="Expence" auto="true">Expense</normalised> of Bearing him if Not to <normalised orig="goe" auto="true">go</normalised> to the parish and <normalised orig="aquaint" auto="true">acquaint</normalised> them of it pray Send apuntal anser By the Barer of <normalised orig="Whot" auto="true">What</normalised> is to be Don in the afaire for Ihave Not got <normalised orig="Whare" auto="true">Where</normalised> With to Defray the <normalised orig="Expence" auto="true">Expense</normalised> of Bering him for if the parish Berries him I must be <normalised orig="forst" auto="true">forced</normalised> to Com Com to ham parish and With What things I <normalised orig="hav" auto="true">have</normalised> got I can <normalised orig="Mak" auto="true">Make</normalised> Shift Just to Live and if ham parish Will is to be at the Charge <normalised orig="Desier" auto="true">Desire</normalised> them to Send a note from <normalised orig="thare" auto="true">their</normalised> hands but I shall be glad if you Will Com Down for <normalised orig="thare" auto="true">their</normalised> is Somthings that Will be of Servis to you in your Way of Business he Came <normalised orig="hom" auto="true">home</normalised> of the <normalised orig="Satturday" auto="true">Saturday</normalised> Night and Died amonday Noon he Not got acoffin Nor I have got No Money <normalised orig="Soe" auto="true">So</normalised> pray Send Me Word by the Barer from your <normalised orig="Loveing" auto="true">Loving</normalised></p>
+			<p>Sister Mary Pavett</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PAUPER_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1748 FO HPAVETT"></title>
+					<author key="HENRY PAVETT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="560" />
+			<note resp="compiler" value="645A HENRY PAVETT'S ANSWER TO LETTER 645 DATED 2 MARCH (1748)" />
+			<p>Sister I Recved your Leater I am <normalised orig="Sory" auto="true">Sorry</normalised> to her my Brother is dead I heave Ben with the Chorchworden and thay well not Bary him without Ranom Can find a setefiteket from there hands Rainom Praish must Beary him my Brother John and I Cant a ford to Beary him And the Parish must <normalised orig="Wheare" auto="true">Where</normalised> he did I Cant no Wais Come Down to See him Beared So my Love to you</p>
+			<p>Henry Pavett</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PAUPER_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1731 T MHOWE"></title>
+					<author key="MARY HOWE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="602" />
+			<head> <note resp="editor" value="705 FROM MARY HOWE TO MR RANKING IN COOPERSALE (THEYDON GARNON), 13 JANUARY 1731" /> </head>
+			<p>Jenaw 13 day 1731</p>
+			<p>Mr ranking this is to let you know that the doxtor have done what he can for me but my <normalised orig="iees" auto="true">eyes</normalised> are never the better but rather <normalised orig="wors" auto="true">worse</normalised> i <normalised orig="ame" auto="true">am</normalised> to be <hi rend="sup" range="9,10" orig="discharge=d=">discharged</hi> next wandsday i hope you will be so kind as to send me word how i must come home by next wandsday morning so with humble <normalised orig="sarvis" auto="true">service</normalised> to you and your good wife</p>
+			<p>sir I hope you will exquese me in wrighting of a letter but i did not know no other way So i rest your humble <normalised orig="sarvant" auto="true">servant</normalised></p>
+			<p>mary how patient in</p>
+			<p><note resp="editor" value="CONTINUED CROSSWISE IN LEFT-HAND MARGIN" /> peter ward</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PAUPER_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1736 T MMARSHALL"></title>
+					<author key="MARY MARSHALL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="602" />
+			<head> <note resp="editor" value="706 FROM MARY MARSHALL TO THE CHURCHWARDENS AND OVERSEERS OF THEYDON GARNON, 1 SEPTEMBER 1736" /> </head>
+			<p>Gentlemen</p>
+			<p>I am very sorry I am <normalised orig="forst" auto="true">forced</normalised> to be so troublesome you were so good as to give me one <normalised orig="Guine" auto="true">Guinea</normalised> which I was <normalised orig="forst" auto="true">forced</normalised> to lay out I have sent word of every penrey at the <note resp="editor" range="5,6" orig="Botto[\m\]">Bottom</note> I must beg your Godnesses to send me one half Guinea more and I hope that God will bless me and in able me to geet my bread without being troublesome any more I was <normalised orig="forst" auto="true">forced</normalised> to geet a small malter for bread of my Landlady for without I cant geet my bread I beg you will please to send it me as I may <normalised orig="goe" auto="true">go</normalised> to work from your poor parishner</p>
+			<p>Mary Marshall</p>
+			<p><hi rend="sup" range="3,4" orig="Sep=t=">Sept</hi> <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="1,3" orig="1=st=">1st</hi> 1736</p>
+			<note resp="compiler" value="LIST OF EXPENSES OMITTED" />
+			<p><pb n="603" /> they are very urgent for a Certificate</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PAUPER_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1759 T CAMP"></title>
+					<author key="MRS CAMP"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="603" />
+			<head> <note resp="editor" value="708 FROM WIDOW CAMP IN WIDFORD (ESSEX) TO MR HUMERSON IN COOPERSALE (THEYDON GARNON), 12 JULY 1759" /> </head>
+			<p><hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Humerson</p>
+			<p><normalised orig="Iam" auto="true">Jam</normalised> very Sorry that <normalised orig="Iam" auto="true">Jam</normalised> <normalised orig="Oblidged" auto="true">Obliged</normalised> to write to you for Some <normalised orig="Releife" auto="true">Relief</normalised> but Can no <hi rend="sup" range="3,4" orig="way=s=">ways</hi> help it I have been very Ill a Long time and <normalised orig="Oblidged" auto="true">Obliged</normalised> to have a Doctor to attend me which hath brought me to Great Nescesity which Ihope you will Consider me Something for it is very Hard with me at present and by doing this I Shall Ever be bound to pray for you Ishould not have sent to you only being too Hard Drove</p>
+			<p>From your <normalised orig="Disttresed" auto="true">Distressed</normalised> Humble <hi rend="sup" range="3,4" orig="Ser=t=">Sert</hi> to Command</p>
+			<p><normalised orig="widdow" auto="true">widow</normalised> Camp</p>
+			<p>widford July <hi rend="sup" range="1,2" orig="y=e=">ye</hi> <hi rend="sup" range="2,4" orig="12=th=">12th</hi> 1759</p>
+			<p>The <note resp="editor" value="BOTTOM OF PAGE TORN OFF" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PAUPER_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1770? T GOLIVER"></title>
+					<author key="GEORGE OLIVER"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="608" />
+			<head> <note resp="editor" value="715 FROM GEORGE OLIVER TO MR LONG, OVERSEER OF WEST THURROCK (1770)" /> </head>
+			<p><hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Long Overseer Sir I hope the gentleman will take it in consideration to allow me something a week for my family the gentleman you have got a family and you must now than a little how to keep a family I have been ill fourteen weeks and I aint had only ten shillings of you and haw do you thing I must keep my family so I have three shillings a week to pay house rent I never trouble you for any think when I am weell It aint my wish now If i could help it there is six of us in family there is nare a one of them able to bring any thing in I cant set here and see my family want when I am close to my own parish I hope in a little while I shall be able to come out again and then I shant want to trouble you gentleman no more I thank you sir to send me an answer</p>
+			<p>George Oliver</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PAUPER_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1768 T ACLARK"></title>
+					<author key="ANN CLARK"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="626" />
+			<head> <note resp="editor" value="747 FROM ANN CLARK IN (BERMONDSEY, LONDON) TO THE REVD DR CHAMBERS IN LITTLE WALTHAM, 9 OCTOBER 1768" /> </head>
+			<p><normalised orig="octeber" auto="true">october</normalised> ye 9 1768</p>
+			<p>To the woshabel gestes of the paresh the Humble Purtision of ann clark <normalised orig="seting" auto="true">setting</normalised> forth my <normalised orig="grat" auto="true">grant</normalised> <normalised orig="destress" auto="true">distress</normalised> Showing I pade five pound at the indey house to git Him of he after words <hi rend="sup" range="7,8" orig="indever=d=">indeverd</hi> to <normalised orig="woork" auto="true">work</normalised> at abrookous But got ahurt in his leg which was histeth and left me and my <normalised orig="famaley" auto="true">family</normalised> in the <normalised orig="gratest" auto="true">greatest</normalised> <normalised orig="destress" auto="true">distress</normalised> <normalised orig="ef" auto="true">of</normalised> your Goodness will bee <normalised orig="pleesd" auto="true">pleased</normalised> to send me sum relefe so That with industry imay bee able to git my bread or Else must bee <normalised orig="oblidg" auto="true">oblige</normalised> to com don and my <normalised orig="famaly" auto="true">family</normalised> upon The paresh I <normalised orig="beeg" auto="true">beige</normalised> your goodness will take it in to <normalised orig="considerasion" auto="true">consideration</normalised> and send me <normalised orig="som" auto="true">some</normalised> reelefe as soon as you Reeceive this my husband <normalised orig="beeing" auto="true">being</normalised> deed and <normalised orig="weeakes" auto="true">weeks</normalised> Ans his sickness and burel has drove me to the <normalised orig="Gratest" auto="true">Greatest</normalised> destrees in complying <normalised orig="tith" auto="true">with</normalised> this your Poor purtisinor will bee in duty ever bound To pray for you ihad a letter from scotland</p>
+			<p>And informs me that All my <normalised orig="frends" auto="true">friends</normalised> <normalised orig="thare" auto="true">their</normalised> is Ded which mad me not Go on my <normalised orig="iorney" auto="true">journey</normalised> so made no <normalised orig="youse" auto="true">yous</normalised> of my pas Ps plees to Derect For me to bee Left at the son in <normalised orig="wite" auto="true">wit</normalised> street near sant gorges church in the Boorow - Sourthwork Pray send an <normalised orig="answar" auto="true">answer</normalised> By the next post</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PAUPER_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="D 1766 T TWOODWARD"></title>
+					<author key="TIMOTHY WOODWARD"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="627" />
+			<head> <note resp="editor" value="748 FROM TIMOTHY WOODWARD TO MR DRAKE IN WANSTEAD, 1766" /> </head>
+			<p><note resp="editor">I</note> make bold to trouble you to let you <note resp="editor" range="0,2" orig="[\kn\]ow">know</note> that <hi rend="sup" range="1,2" orig="M=r=">Mr</hi> Mold who is the master <note resp="editor">of the</note> house where I am Denies me the liberty of a person going with me to Doctor Taylor twice a week he has told me Downright that I shall go no more I humbly beg of you to be so kind as to think of some way or other to help me at this time for I find myself much better then when I came &amp; it will be a great pity for me to lose this <normalised orig="oportunity" auto="true">opportunity</normalised> that you have been so kind as to give me under the blessing of God whereby I may have my sight restored <note resp="editor">----</note> th</p>
+			<p>sir in so doing you will oblige your Humble servant</p>
+			<p>Timothy Woodward</p>
+			<p><note resp="editor">----</note> 2 1766</p>
+		</text>
+	</TEI>
+</teiCollection>

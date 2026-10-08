@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FSTUBS">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>AN EIGHTEENTH-CENTURY INDUSTRIALIST. PETER STUBS OF WARRINGTON 1756-1806. T. S. ASHTON. MANCHESTER: MANCHESTER UP, 1939. REPRINT 1961.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="STUBS_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1791 T CCHARLES"></title>
+					<author key="CAROLUS CHARLES"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="11" />
+			<note resp="compiler" value="CAROLUS CHARLES TO PETER STUBS" />
+			<p>Aughton <hi rend="type">Octr. 1st</hi> 1791.</p>
+			<p>Sr.,</p>
+			<p>I wrote to you some time since but no answer, the subject of which was as follows viz. to desire to know if you can give me work if it be for 2 or 3 months only, or till May next at which time if it be agreeable I propose <normalised orig="comeing" auto="true">coming</normalised> to Warrington to reside and harden or finish for you if you want one at that time and if you think proper will turn my lads over or if you can give <note resp="editor">me</note> sufficient work in your Shop will keep 'em on their time out, at the rates you give others, they are forwards in their business and works very well. If you can give me work here till May (as I can't leave here before) you may be assured I shall come to Warrington. <pb n="12" /> I shall send 'em if I send any soft 14 to doz., and propose finishing by the doz. which I think is more satisfaction to both sides. I paid the person for the last <note resp="editor">? letter</note> being a private but I suppose it was not <normalised orig="deliver'd" auto="true">delivered</normalised> and will pay for this. Beg you'll keep this a profound secret as I've been told in Greens warehouse of alowing you 13 to doz. hard but thought others did the same, and particularly desire you'll send by return of Post as I shall be in Liverpool on Wednesday next and you'll oblige you Hble <normalised orig="Servt" auto="true">Served</normalised>.</p>
+			<p>Carolus Charles.</p>
+			<p>P.S. Direct for me to be left with <normalised orig="Jn" auto="true">In</normalised>. Collins, Brewer at <normalised orig="beesam" auto="true">bosom</normalised> and Shuffle in Cheapside Liverpool.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1792 T CCHARLES"></title>
+					<author key="CAROLUS CHARLES"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="12" />
+			<note resp="compiler" value="CAROLUS CHARLES TO PETER STUBS" />
+			<p>Aughton <hi rend="type">1st Jan.</hi> '92.</p>
+			<p>Sr.,</p>
+			<p>I hope you'll Excuse this as I did Expect your <normalised orig="writeing" auto="true">writing</normalised> the week after I was with you, but hope there is Nothing amiss. Mr. Green has not been at home some time before I was with you nor is he yet come or I <normalised orig="wou'd" auto="true">would</normalised> not have troubled you and beg you'll be kind enough to send me an order and Steel, and if you'll oblige me with 4 or 5 guineas shall forever remember it and send your work in small parcels or by any stated time you choose. I have money to pay to Different people and Can't get it from 'em. Yesterday week I had not my due by near half, yesterday the same. He will pay only 10 <hi rend="type">s.</hi> pound of the Clear neat Cash when all is Deducted, and I can't take truck for the remaider at his price. H. Yond told my wife yesterday that one of the men in your Shop told him you and I had been <normalised orig="makeing" auto="true">making</normalised> an agreement and I was to go to Warrington to work Constantly for you, by which you may se how Dagerous <normalised orig="'tis" auto="true">it is</normalised> to trust Some people, not that I value it if Green know it, but <normalised orig="wou'd" auto="true">would</normalised> advise you to take care who you Confide in, but beg and Desire you'll asaist me in the above friendship and I will give Joseph Henshaw meeting on purpose at Liverpool on Thursday next. Pray don't Sr. don't <normalised orig="Disapoint" auto="true">Disappoint</normalised> your friend.</p>
+			<p>Cs. Charles.</p>
+			<p>I've paid Carriage.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1792 T CCHARLES"></title>
+					<author key="CAROLUS CHARLES"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="13" />
+			<note resp="compiler" value="CAROLUS CHARLES TO PETER STUBS" />
+			<p>Aughton <hi rend="type">18 Jan.</hi> '92.</p>
+			<p>Sir,</p>
+			<p>I received the Steel on Saturday last. I have had not any by me Strong Enough for any but the 5 In. Cross which was in hand before I received it, but my son being taken bad of the bloody flux will throw us a little behind but you may Depend we shall do 'em without <normalised orig="Omision" auto="true">Omission</normalised> now he is gotten better. I can't tell how long they will be in executeing being larger than I ever made any in Lancashire. I am sorry you took Umbrage at my <normalised orig="Desireing" auto="true">Desiring</normalised> 4 or 5 guineas. I did not expect it from the acquaintance we have had but when a man is Driven to necessity and near to Desperation I hope you'll excuse the attempt. I think I shall send them by another Hand than Henshaw. I was right in my Conjectures about the Combination but no more of that now. I've a Settlement with Mr. Green and if I must leave him <normalised orig="wou'd" auto="true">would</normalised> Desire to do it honourably and quietly as we met so. Will let you know a day or two before the files comes. I <normalised orig="cou'd" auto="true">could</normalised> be of great utility to you if things <normalised orig="wou'd" auto="true">would</normalised> suit but more of that another time. I don't know the price of the large Cross but shall rely on you for that.</p>
+			<p>I am Sr. your Hble <normalised orig="Servt" auto="true">Served</normalised>.</p>
+			<p>Cs. Charles.</p>
+			<p>P.S. I am more free from Mr. Green by either <normalised orig="tye" auto="true">tie</normalised> or promise than I am from you, but <normalised orig="shou'd" auto="true">should</normalised> not like any transactions betwixt you and I ever <normalised orig="turn'd" auto="true">turned</normalised> over. I want to get a Settlement without passion.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1792 T CCHARLES"></title>
+					<author key="CAROLUS CHARLES"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="13" />
+			<note resp="compiler" value="CAROLUS CHARLES TO PETER STUBS" />
+			<p>Aughton <hi rend="type">July 7th</hi> '92.</p>
+			<p>Sr.,</p>
+			<p>I've sent you the following files viz,</p>
+			<note resp="compiler" value="LIST OMITTED" />
+			<p>There is 14 Cross in both sizes. I have more but tyd them in <normalised orig="dry'd" auto="true">dried</normalised> paper and they've Contracted rust &amp; are <normalised orig="spoil'd" auto="true">spoiled</normalised>, these was put in Oily paper and are saved. If you please <normalised orig="shou'd" auto="true">should</normalised> be glad you'd send 4 guineas by Sherwood on Tuesday made in a parcel, and the box. I <normalised orig="shou'd" auto="true">should</normalised> have sent more files but my son was so put out of the way by <pb n="14" /> his bror. Joseph by being struck and shaked in such a manner by him when I was Absent that I thought for 3 days had not ever seen <normalised orig="thro'" auto="true">through</normalised> it, he not being in a Capacity to bear it. Joseph went from here on Saturday last to bring work to Prescot but has not been seen here since. As he has <normalised orig="threaten'd" auto="true">threatened</normalised> little Cranage I suppose he has been with you, which if he has <normalised orig="shou'd" auto="true">should</normalised> be glad you'd let me know and how they've <normalised orig="order'd" auto="true">ordered</normalised> as his Mother says he shall not go to him any more and is quite <normalised orig="Inconsoliable" auto="true">Inconsolable</normalised>, have not much time now but think I shall remove from here sooner than thought of. This you'll keep, but think to come over again to Warrington to'ards Michealmas and by then shall be more settled in some points. Am Sr. with Due respect (not forgetting your favours)</p>
+			<p>Subscribe myself your Hble <normalised orig="Servt" auto="true">Served</normalised>.</p>
+			<p>Cs. Charles.</p>
+			<p>I think there is 2 or 3 of 5 In. frame Saw among 4 1/2.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1792 T CCHARLES"></title>
+					<author key="CAROLUS CHARLES"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="14" />
+			<note resp="compiler" value="CAROLUS CHARLES TO PETER STUBS" />
+			<p>Aughton <hi rend="type">July 21st.</hi> '92.</p>
+			<p>Sr.,</p>
+			<p>I am sorry there was any mistake in the 4 In. frame saw files. Was you not mistaken in booking 'em, as I know there was no more than you <normalised orig="mention'd" auto="true">mentioned</normalised>, have sent you the following files <note resp="editor" value="HERE FOLLOWS A BILL FOR 52 DOZ. FILES VALUED AT &pound;11 9S. 0D., LESS DISCOUNT &pound;2 17S. 0D." /> Desire if you please to remit me 6 guineas. Let me know if you be willing for Sherwood to Carry the files. Hie proposes Carrying them at 6d. a time. Have had another summons from Mr. Green. I believe he is very Ill at want for files and wonders I neglected him so long. If he searches his breast he may soon know, says he will either come or send if I don't send him an Explanation in a little time and heard he is for bringing an Exorbitant bill against me. His way of <normalised orig="tradeing" auto="true">trading</normalised> has been very Intricate. When any cash of any Acct. was to <note resp="editor">be</note> paid he neither <normalised orig="cou'd" auto="true">could</normalised> nor <normalised orig="wou'd" auto="true">would</normalised> he said pay it Stormingly saying I pay you more money than any one, then paying what he thought proper which caused people to take his goods which price <normalised orig="'tis" auto="true">it is</normalised> two to one you <normalised orig="cou'd" auto="true">could</normalised> not get and if Importuned for a bill fly in a passion and tell you he had more plague with <note resp="editor">you</note> than any body else after you had <normalised orig="travel'd" auto="true">travelled</normalised> ten or 12 Miles in the night and not a dry thread on you &amp; set in his Warehouse for 6 or 7 hours without being <normalised orig="ask'd" auto="true">asked</normalised> what you want. I wish I was well out of his Clutches or power for I suppose I must have little Content till I am. <normalised orig="Shou'd" auto="true">Should</normalised> be glad of your Advice on Tuesday as I think to give him some Sort of an answer and <normalised orig="shou'd" auto="true">should</normalised> be glad you'd put the paper into the box &amp; make the Cash into a parcel and you'll oblige Sr. <normalised orig="yr" auto="true">ire</normalised>. Hble <normalised orig="Servt" auto="true">Served</normalised></p>
+			<p>Cs. Charles.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1795 T TTATLOCK"></title>
+					<author key="THOMAS TATLOCK"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="17" />
+			<note resp="compiler" value="THOMAS TATLOCK TO PETER STUBS" />
+			<p>Liverpool <hi rend="type">September 20th</hi> , 1795.</p>
+			<p>Dear Sir,</p>
+			<p>I have made bold to write a few lines to you to beg the favour for you to have lent me three or four guineas. At this present time we are rather in distress or <normalised orig="els" auto="true">else</normalised> would not have troubled you. It is to pay a few trifling debts with. You may depend upon me paying you every <normalised orig="peny" auto="true">penny</normalised> again by <normalised orig="stoping" auto="true">stopping</normalised> so much a week. I am now working the last of your work up. I hope you be so good as to send me more work and to have granted me this one <normalised orig="favor" auto="true">favour</normalised> and you will greatly oblige me. You may stop it as you please. I received your letter and the money with great satisfaction and I hope while I have my health to do my best for you in every point. So no more at present from your obedient servant</p>
+			<p>Thomas Tatlock.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1796 T TTATLOCK"></title>
+					<author key="THOMAS TATLOCK"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="17" />
+			<note resp="compiler" value="THOMAS TATLOCK TO PETER STUBS" />
+			<p>Liverpool, <hi rend="type">April ye 9th</hi> 1796.</p>
+			<p>Sir,</p>
+			<p>I take the liberty to in form you that this day my wife is got to her bed some time before we expected and as my rent is due it has put me to a great <normalised orig="streat" auto="true">street</normalised> as my landlord cannot do without it. I shall take it as a great favour if you will assist me with 2 pound ten shillings and <pb n="18" /> if you will please to send me word how much you will <normalised orig="chuse" auto="true">choose</normalised> me to pay a week I will pay it with pleasure. I am sorry that you found fault with the work but I altered my <normalised orig="swage" auto="true">swag</normalised> to your <normalised orig="patern" auto="true">pattern</normalised> and no one cuts them but my self and the young man but I will do my endeavour to <normalised orig="plese" auto="true">please</normalised> you and I hope that you will <normalised orig="plese" auto="true">please</normalised> to send me the sum mentioned which I shall acknolage as a great favour from</p>
+			<p>Your Humble Servant</p>
+			<p>Thomas Tatlock.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1795 T JLYON"></title>
+					<author key="JAMES LYON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="19" />
+			<note resp="compiler" value="JAMES LYON TO PETER STUBS" />
+			<p>Sr., I have sent these five <normalised orig="Groce" auto="true">Gross</normalised>. They <note resp="editor">are</note> all the Heel <normalised orig="Blads" auto="true">Blots</normalised> I could get Readey But will send you more on Tuesday by Nields Cart. I sent you 18 Dozen Heal <normalised orig="Blads" auto="true">Blots</normalised> and 12 Dozen sewing a week before. I sent them 6 <normalised orig="Groce" auto="true">Gross</normalised>. If not Recd. them pleas to enquire at Mr. Bowman's. By those Mis carreing you might think I was <normalised orig="serveing" auto="true">serving</normalised> sumbody else. I do a sure you I do not Receive 1 shilling in all the Town neither will I, so Long as you will <normalised orig="imploy" auto="true">employ</normalised> <normalised orig="mee" auto="true">me</normalised>. I will serve you in the Best manner I can so I hope this will Suffice you at present.</p>
+			<p>I am yours at Command</p>
+			<p>James Lyon.</p>
+			<p>October 1795.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1795 T JLYON"></title>
+					<author key="JAMES LYON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="19" />
+			<note resp="compiler" value="JAMES LYON TO PETER STUBS" />
+			<p>Stockport <hi rend="type">Decr. 17</hi> , 1795.</p>
+			<p>Mr. Stubs,</p>
+			<p>Sir, I Rec'd your Letter yesterday. I am in Good Health but have been <normalised orig="mutch" auto="true">much</normalised> <normalised orig="uneasey" auto="true">uneasy</normalised> at your silence so Long. I thought I had offended that you <normalised orig="wou'd" auto="true">would</normalised> not <normalised orig="Imploy" auto="true">Employ</normalised> <normalised orig="mee" auto="true">me</normalised> any Longer. I have <normalised orig="tould" auto="true">told</normalised> Mr. Ouldknow and hee will give <normalised orig="mee" auto="true">me</normalised> work after Christmas. So I intended to a maid you sum work in the Holodays for what I owe you and to a <normalised orig="Return'd" auto="true">Returned</normalised> your Tools. But I will never Leave you while you will <normalised orig="Imploy" auto="true">Employ</normalised> <normalised orig="mee" auto="true">me</normalised>. I will never Bastard my <normalised orig="Promes" auto="true">Promise</normalised> to you. Your abstance has been no profit to <normalised orig="mee" auto="true">me</normalised> though I have <normalised orig="sould" auto="true">sold</normalised> sum and I have a <normalised orig="Quantaty" auto="true">Quantity</normalised> under hand of most <normalised orig="usefull" auto="true">useful</normalised> sorts and will Bring you all I <pb n="20" /> can next week's end. I must beg you will send <normalised orig="mee" auto="true">me</normalised> Letter to Receive 3 Guineas for its a Long time since I Rec'd <normalised orig="mutch" auto="true">much</normalised>. If you will grant my Desire I will bee under a heavy Stopidge that shall suffice you. I will not send any more by any Body for I will Bring them every other <normalised orig="Saterday" auto="true">Saturday</normalised> if God Permit.</p>
+			<p>I remain your Hble Srvt.</p>
+			<p><normalised orig="Jas" auto="true">Jose</normalised>. Lyon.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1794 FN SSTUBS"></title>
+					<author key="SARAH STUBS"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="43" />
+			<note resp="compiler" value="SARAH STUBS TO HER PARENTS" />
+			<p>Dear Father &amp; Mother</p>
+			<p>I <normalised orig="recived" auto="true">received</normalised> your letter on Monday the 26 of May and am glad to hear you are all well. I was at Mr. Smiths when I received your letter and as been there ever since. Mr. Smith said if I would not come and stop a week or two he would never come to our house again. I hade engaged my <normalised orig="selfe" auto="true">self</normalised> to Mr. Spears but he wode make me come there first so Mr. &amp; Mrs. Smith went to beg me of. Mr. Smith as made me a present of a Silver Fruit knife in a very <normalised orig="handsom" auto="true">handsome</normalised> case. Mrs. Smith and me either go a visiting every day or else we have company. We was at Mr. Cams on day. He is a file maker. He desired me to give is Copts. to you. I have told Mr. Spear you want me to come home at Whitsuntide but he says he will hear nothing of it. Miss Spear is reckoned to be one of the handsomest and Genteelest young <normalised orig="Ladais" auto="true">Ladies</normalised> in all Shefeild and keeps the genteelest company. They keep with pople that keeps their own caraige. You will think I have been <normalised orig="wery" auto="true">weary</normalised> extravagant but I am obleidged to <normalised orig="apear" auto="true">appear</normalised> as Genteel as ever I can or I should be nothing at all thought on. Mr. Smiths keeps the genteelest of company.</p>
+			<p>I just been <normalised orig="haveing" auto="true">having</normalised> a tooth <normalised orig="pulld" auto="true">pulled</normalised> out &amp; my mouth is so <normalised orig="painfule" auto="true">painful</normalised> I can scare write. It is Bradfeild Feast next Sunday and Mr. Perkins says he will send a horse for me if I will com. Mr. Parkin <normalised orig="receivd" auto="true">received</normalised> the salmon in good orderer and is very much obleidged to you for it. I have Dined at Mr. <normalised orig="Harrisons" auto="true">Harrison</normalised> <normalised orig="latley" auto="true">lately</normalised>. The mad very much on me and desired me to come any time. All your <normalised orig="Freinds" auto="true">Friends</normalised> at Shefeild send there compts. to Mrs. Allen and love to my Brothers and Sisters</p>
+			<p>I am Dear Father &amp; Mother your Dutiful Daughter</p>
+			<p>Sarah Stubs.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1793 FN JSTUBS"></title>
+					<author key="JOHN STUBS"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="135" />
+			<note resp="compiler" value="JOHN STUBS TO HIS PARENTS" />
+			<p>Chester <hi rend="type">22 <hi rend="sup" range="4,5" orig="Sept=r=">Septr</hi></hi> 1793.</p>
+			<p>Dear Father &amp; Mother,</p>
+			<p>I was much <normalised orig="surprized" auto="true">surprised</normalised> that I did not receive my box yesterday am afraid my mother is worse as she did not send it, it put Miss Cole to great trouble for I had not a clean shirt &amp; she was <normalised orig="oblig'd" auto="true">obliged</normalised> to get one <normalised orig="wash'd" auto="true">washed</normalised> for me on yesterday afternoon. I hope you will not omit sending it tomorrow. Miss Cole's Compliments to both of you my duty to both of you &amp; love to all my brothers &amp; Sisters not forgetting little Ellen &amp; Betsey as Sarah calls her &amp; am Dear Father &amp; mother</p>
+			<p>Your <normalised orig="dutifull" auto="true">dutiful</normalised> Son</p>
+			<p>J. Stubs.</p>
+			<p>N.B. We hear Miles is come to Warrington pray is it true.</p>
+			<p>P.S. I have begun book keeping.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1793 FN JSTUBS"></title>
+					<author key="JOHN STUBS"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="135" />
+			<note resp="compiler" value="JOHN STUBS TO HIS PARENTS" />
+			<p>Chester <hi rend="type"><hi rend="sup" range="3,4" orig="Oct=r=">Octr</hi> 27</hi> 1793.</p>
+			<p><normalised orig="Honor'd" auto="true">Honoured</normalised> Parents,</p>
+			<p>I take this opportunity of writing to let you know I have a shirt missing &amp; would be <normalised orig="oblig'd" auto="true">obliged</normalised> to you to ask my Aunt if she as got it. On Friday was the Mayor <normalised orig="chusing" auto="true">choosing</normalised> and to day the went to Warbus church with music and the whole Corporation then the 4 Regt. of Royal Irish Dragoons following them and a very pretty sight it was. My love to all my Brothers &amp; Sisters &amp; to Peter tell him a letter will come as soon without putting speed on it as with, should be glad to hear from you &amp; to hear you grant me my request as in my last. I am</p>
+			<p><normalised orig="Honor'd" auto="true">Honoured</normalised> parents, Your dutiful Son</p>
+			<p>J. Stubs.</p>
+			<p>Please to excuse haste as it is almost time to shut up the post office.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_013">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1793 FN JSTUBS"></title>
+					<author key="JOHN STUBS"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="135" />
+			<note resp="compiler" value="JOHN STUBS TO HIS PARENTS" />
+			<p>Chester <hi rend="type"><hi rend="sup" range="3,4" orig="Nov=r=">Novr</hi></hi> 20th 1793.</p>
+			<p><normalised orig="Honor'd" auto="true">Honoured</normalised> Parents,</p>
+			<p>I take this opportunity of writing to let you know my Quarter is up on the 18th of Decr. &amp; <normalised orig="shou'd" auto="true">should</normalised> be glad to <note resp="editor">know</note> whether I must come home on the 19th because if you <normalised orig="wou'd" auto="true">would</normalised> not have <note resp="editor">me</note> to go to that <pb n="136" /> School any longer I had better not to enter on a fresh Quarter so please to let me know in your next. I have not begun Mensuration as yet but shall as soon as Mr. Stolterfoth can get me a case of Instruments, please to send me a bit of blue to mend my coat I have not much to say at present but that Miss Cole is very poorly but hope she be better in the Morning, desires to be <normalised orig="remember'd" auto="true">remembered</normalised> to you &amp; my Aunts family. My love to Brothers &amp; Sisters &amp; hope you will accept the same yourselves.</p>
+			<p>I am <normalised orig="Honor'd" auto="true">Honoured</normalised> Parents, Your dutiful Son,</p>
+			<p>J. Stubs.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_014">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1794 FN JSTUBS"></title>
+					<author key="JOHN STUBS"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="136" />
+			<note resp="compiler" value="JOHN STUBS TO HIS PARENTS" />
+			<p>Newton, <hi rend="type">July</hi> 4. 1794.</p>
+			<p><normalised orig="Honor'd" auto="true">Honoured</normalised> Parents,</p>
+			<p>I <normalised orig="receiv'd" auto="true">received</normalised> a Shirt yesterday but I think I have a pair of blue Stockings you have not sent which I would thank you to send with my small tooth comb and a case for my other comb and a black lead <normalised orig="pencel" auto="true">pencil</normalised> for I had the misfortune to loose my case of Instruments and black lead pencil out of my <normalised orig="pockett" auto="true">pocket</normalised> when I came to Newton but I have found my Instruments again. Should be glad to know when the Bishop comes to Warrington as I am at an age to be <normalised orig="confirm'd" auto="true">confirmed</normalised>. Mr. Wallworth has given us leave to keep Rabbits &amp; I <normalised orig="shou'd" auto="true">should</normalised> be oblige to you if you will send a hung lock and key and staple there is in my brother <normalised orig="Peter's" auto="true">Potter's</normalised> drawer &amp; my watch by the bearer. I am</p>
+			<p><normalised orig="Honor'd" auto="true">Honoured</normalised> Parents</p>
+			<p>Your dutiful Son</p>
+			<p>J. Stubs.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_015">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1796 FN PSTUBS"></title>
+					<author key="PETER STUBS JR."></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="137" />
+			<note resp="compiler" value="PETER STUBS JR. TO HIS PARENTS" />
+			<p>Hawarden, <hi rend="type">April 5th</hi> 1796.</p>
+			<p><normalised orig="Honor'd" auto="true">Honoured</normalised> Parents,</p>
+			<p>We have not yet received our things and <note resp="editor">you</note> have no need to expect we know were they are. We yet want some Tops and string to spin them with, and a few marbles and also my Brother John's Pilgrims Progress, Sparmans Voyages and a Voyage to the Cape of good Hope and my Sister Mary's Speaker and her Fables and my Ovid and any other books beside you please for me and my Brothers to read at a night for we are quite lost for something to do at a night, and also a tooth brush and tell Mr. Bratt to send Robert some tops and marbles and some little books. We want a school box for that as we have is too little, so you may send them in it and you must be sure send us word to what Inn in Chester they will come to. And also send us word when my Mother will come but would rather she would come to Chester races and then we might go and see one days race and return again. Please to tell my Sister Mary and Sarah and my Brother John to write and send it along with our Parcel. The fever is very ripe about half a mile of us but if it worsens any I will let you know.</p>
+			<p>So no more but give our love to Father and Mother Brothers and <pb n="138" /> Sisters, and also <hi rend="sup" range="1,2" orig="W=m=">Wm</hi> &amp; Easter and hope they are all well as we are at present and am <hi rend="sup" range="5,6" orig="Honor=d="><normalised orig="Honord" auto="true">Honoured</normalised></hi> Parents</p>
+			<p>Your dutiful Son</p>
+			<p>Peter Stubs.</p>
+			<p>N.B. Be sure to write by return of Post.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_016">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797 FN PSTUBS"></title>
+					<author key="PETER STUBS JR."></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="138" />
+			<note resp="compiler" value="PETER STUBS JR. TO HIS FATHER" />
+			<p>Hawarden <hi rend="type">February 19th</hi> 1797.</p>
+			<p>Dear Father,</p>
+			<p>Mr. Willett desires me to write to You to ask You if it is your Will that any of us should learn to dance as the dancing Master will attend on the 25th of March if He can get a sufficient Quantity to make it worth his while to attend. The Terms are half a Guinea Entrance and 15s per Quarter but he charges Nothing Entrance to those who have been to a dancing School before and I should be glad if You would answer this Letter as soon as ever you can make it convenient. Sorry am I to inform You that Mr. Willett has sent his Man to Day to Liverpool to Mr. Sherwood's to inform them of his Son being at the Brink of <note resp="editor" value="Posterity STRUCK OUT" /> Eternity. He was just got well of the Fever and some other Disorder took him which I doubt will be his End. So no more from</p>
+			<p><normalised orig="Your's" auto="true">Yours</normalised> &amp;c &amp;c</p>
+			<p>Peter Stubs.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_017">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797 FN PSTUBS"></title>
+					<author key="PETER STUBS JR."></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="138" />
+			<note resp="compiler" value="PETER STUBS JR. TO HIS PARENTS" />
+			<p>Hawarden <hi rend="type">May 8th</hi> 1797.</p>
+			<p><hi rend="sup" range="3,4" orig="Hon=d=">Hond</hi> Parents,</p>
+			<p>We only received our Parcel on Wednesday last or should have certainly returned you our grateful Thanks for it before now and are very much obliged to you for it now. We three and P. Johnson went to Chester on Thursday and returned yesterday, Mr. Cole's being unwell the Beginning of the Week prohibited our going before. I hope you will be sure to let us know how poor James Lion goes on in your next and give our best Respects to him if alive and tell him we are very sorry for him. We have writ &amp; writ to know when our Mother comes and are no wiser yet but I hope you <hi rend="type">will either say Yes or No in your next</hi> . We take it very unkind of you not letting us know of our Sister's Neck being broke or Mary's coming from School or anything. We are like so many lost Sheep ignorant of every thing that passes. All our Eyes are well. Love to yourselves, Brothers and Sisters, E. &amp; W. H. and are</p>
+			<p>Your ever dutiful Sons,</p>
+			<p>P. T. &amp; W. Stubs.</p>
+			<p>N B. An Answer by return of Post.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_018">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1797 FN PSTUBS"></title>
+					<author key="PETER STUBS JR."></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="139" />
+			<note resp="compiler" value="PETER STUBS JR. TO HIS FATHER" />
+			<p>Hawarden <hi rend="type">May 21st</hi> 1797.</p>
+			<p>Dear Father,</p>
+			<p>A Fortnight has now expired. The Vacation begins to draw near. Mr. Cole proposed that We should be at Chester the Morning We break up and breakfast with him and he will have a Chaise ready for Us to go to Preston Brook &amp;c. We had a Letter from our Sister yesterday and She was very well but I suppose you know that better than Us. I beg you will inform Us in your next whether You approve of the above Plan or no, very soon. <hi rend="sup" range="1,2" orig="P=r=">Pr</hi> Johnson, Self &amp; Brothers are to go to Hollywell, this day Fortnight. We are all well and hearty and join in Love to Yourself and Mother, Brothers &amp; Sisters and are Dear Father,</p>
+			<p>Your dutiful Sons</p>
+			<p>P. T. &amp; W. <normalised orig="Stubbs" auto="true">Stubs</normalised>.</p>
+			<p>God save the King Amen <hi rend="type">so be it.</hi></p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_019">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1794 FN SSTUBS"></title>
+					<author key="SARAH STUBS"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="142" />
+			<note resp="compiler" value="SARAH STUBS TO HER PARENTS" />
+			<p>Shefeild, <hi rend="type">April 29</hi> , 1794.</p>
+			<p><hi rend="sup" range="3,4" orig="Hon=d=">Hond</hi> Parents,</p>
+			<p>I arrived safe at Shefeild last night and found Mr. <normalised orig="Parkins" auto="true">Perkins</normalised> Family very well. We went out to sup last Night and as had company to day. There has a Gentleman dined here to day from London he calls his name Hurst. He enquired very kindly after you he his a File maker he asked if I was your Sister he was quit astonished when I said I was your Daughter. Mr. Perkins came to meet me yesterday and I am going their to day. Mr. and Mrs. Parkin makes very much on me. I <normalised orig="donat" auto="true">donate</normalised> see anything distressing yet. Mrs. Parkin seems to be a very agreeable good kind of woman. There is good many people that I am got <normalised orig="aquainted" auto="true">acquainted</normalised> I can hardly understand they talk so queer. Mr. Alkock gave me a bill for Mr. Harison. I only saw young Mr. Harison and the old woman the old woman did not speak to me she was stood at the entry end in an old stuf gown and an old <normalised orig="bonet" auto="true">bonnet</normalised> you would hardly pick up in the street but the young man asked come and stop awhile but I think I would rather <normalised orig="chuse" auto="true">choose</normalised> to stop where I ham. I was very sick <normalised orig="comming" auto="true">coming</normalised> in the coach betwixt Manchester and buxton and I doubt you will be as sick as I was when I tell you that I paid <hi rend="sup" range="2,4" orig="18=s.=">18s.</hi> for riding. We changed horses 4 times and every time we had to pay a fresh coach man that made it <hi rend="sup" range="2,4" orig="20=s.=">20s.</hi>, we paid <hi rend="sup" range="2,4" orig="18=d.=">18d.</hi> for a very plain dinner indeed as eve I seat down to. I have no more to say at present but will write again after a while.</p>
+			<p>I am <hi rend="sup" range="3,4" orig="Hon=d=">Hond</hi> Parents</p>
+			<p>Your <normalised orig="dutifull" auto="true">dutiful</normalised> Daughter</p>
+			<p>Sarah Stubs.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_020">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1796 FN MSTUBS"></title>
+					<author key="MARY STUBS"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="144" />
+			<note resp="compiler" value="MARY STUBS TO HER PARENTS" />
+			<p>Liverpool <hi rend="type">March 5th.</hi> 1796.</p>
+			<p>Dear Parents,</p>
+			<p>It is with the greatest pleasure I take up my pen to write to you, to inform you I like the <normalised orig="Satuation" auto="true">Situation</normalised> you have had the goodness to place me in, only for one reason which is that all the young Ladies of my Age in the school are Parlour Boarders. I therefore should be much happier if you would have the kindness to let me be one. The Difference the young Ladies tell me is 6 Guineas a year. If you have any objections I will not desire it. I will be obliged to you if you will send me some Towels, as the young Ladies find their own. Inform me if you <normalised orig="pease" auto="true">peas</normalised> by your next Letter if you paid the Carriage for my Box to Liverpool. give my love to my Brothers and Sisters &amp; accept the same</p>
+			<p>From your <normalised orig="Dutifull" auto="true">Dutiful</normalised> Daughter</p>
+			<p>Mary Stubs.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="STUBS_021">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1800 FN MSTUBS"></title>
+					<author key="MARY STUBS"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="144" />
+			<note resp="compiler" value="MARY STUBS TO HER PARENTS" />
+			<note resp="editor" value="DECEMBER 1800" />
+			<p>Dear Parents,</p>
+			<p>Mr. Hall <normalised orig="call'd" auto="true">called</normalised> on me last week. I was happy to hear you were all well and got the Fair over without much trouble. Mr. Smith is expected home on Wednesday. Miss Sarah Eyre returns with me on Saturday, but Mr. Eyre says I shall not go than you write for me. I am not of so much consequence as I think of or you could not have spared me so long. I am afraid we shall not have a pleasant journey home, the Snow is seven yards deep on the <normalised orig="Moores" auto="true">Moors</normalised>, the Coach does but go twice a week now on Mondays and Fridays.</p>
+			<p>Mr. Eyres and Mr. Smiths Familys make their best respects to you and Sister Whiteley, give my love to Brothers and Sisters my Duty to my Mother and accept the same</p>
+			<p>from your dutiful Daughter</p>
+			<p>Mary Stubs.</p>
+		</text>
+	</TEI>
+</teiCollection>

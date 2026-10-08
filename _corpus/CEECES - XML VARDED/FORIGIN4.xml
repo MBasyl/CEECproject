@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FORIGIN4">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>ORIGINAL LETTERS, ILLUSTRATIVE OF ENGLISH HISTORY; INCLUDING NUMEROUS ROYAL LETTERS: FROM AUTOGRAPHS IN THE BRITISH MUSEUM, AND ONE OR TWO OTHER COLLECTIONS. VOL III. 2ND EDITION. ED. BY ELLIS, HENRY. LONDON: HARDING, TRIPHOOK, AND LEPARD. 1825.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="ORIGIN4_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682 FN JAMES2"></title>
+					<author key="JAMES II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="328" />
+			<head> <note resp="editor" value="LETTER CCCLXXVI. JAMES DUKE OF YORK TO HENRIETTA FITZ-JAMES, HIS NATURAL DAUGHTER." /> </head>
+			<pb n="329" />
+			<p>Windsor April 23. 1682</p>
+			<p>I have received the Letter you wrote lately to me, and am very glad to find by one I had at the same time from my cousin the <normalised orig="Princesse" auto="true">Princess</normalised> Louise, that you behave yourself so well, and that she gives you so good a character. I hope you will do nothing to give her reason to alter her opinion of you, and that you will do nothing to make me <normalised orig="lesse" auto="true">less</normalised> kind to you then I am, and you shall upon all occasions find me as kind to you as you can desire.</p>
+			<p>James.</p>
+			<p>For <hi rend="sup" range="1,3" orig="M=rs=">Mrs</hi> Henrietta <normalised orig="Fitz" auto="true">Fits</normalised> James at Maubuison.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ORIGIN4_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683 FN JAMES2"></title>
+					<author key="JAMES II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="329" />
+			<head> <note resp="editor" value="LETTER CCCLXXVII. JAMES DUKE OF YORK TO HENRIETTA FITZ JAMES." /> </head>
+			<p>Windsor, May 29. 1683.</p>
+			<p>You have now been long enough where you are, and are of an age proper to know whether that kind of life will agree with you or no; to know which, and the desire I have to see you, has made me desire this bearer, Sir Henry Tichburne, to bring you over into England, along with his Wife, to his <normalised orig="owne" auto="true">own</normalised> house; <pb n="330" /> where I shall have the opportunity of seeing you when we go to Winchester this <normalised orig="sommer" auto="true">summer</normalised>, and letting you see that I shall always be very kind to you.</p>
+			<p>James.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ORIGIN4_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1684 FN JAMES2"></title>
+					<author key="JAMES II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="330" />
+			<head> <note resp="editor" value="LETTER CCCLXXVIII. JAMES DUKE OF YORK TO HENRIETTA FITZ JAMES, NOW LADY WALDEGRAVE." /> </head>
+			<p>Windsor, June 9. 1684</p>
+			<p>Till the <normalised orig="Duchesse" auto="true">Duchess</normalised> came to this place, I did not know that Sir Charles Waldgrave was dead, or <normalised orig="els" auto="true">else</normalised> I had <normalised orig="writen" auto="true">written</normalised> <normalised orig="soner" auto="true">sooner</normalised> to you to have told you I was sorry to <normalised orig="heare" auto="true">hear</normalised> of it; and now that Sir Henry is come to the estate I must recommend to you both to be good managers, and to be sure to live within what you have, and be sure to have a care not to run out at first. Now that the <normalised orig="Duchesse" auto="true">Duchess</normalised> is here, I shall <normalised orig="seldome" auto="true">seldom</normalised> go to London; when I do, I shall be sure to <normalised orig="lett" auto="true">let</normalised> you know it, that you may meet me there. Tomorrow I am to go a hunting; and on Friday to Hampton Court: and at any <normalised orig="tyme" auto="true">time</normalised> when you do come <normalised orig="hether" auto="true">hither</normalised>, take care that it be not when I am abroad, that you may not mise me. Let me <normalised orig="heare" auto="true">hear</normalised> from you, and be assured I shall always be very kind to you.</p>
+			<p>For the <normalised orig="younge" auto="true">young</normalised> Lady Waldgrave.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ORIGIN4_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1680S FN JAMES2"></title>
+					<author key="JAMES II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="331" />
+			<p><head> <note resp="editor" value="LETTER CCCLXXIX. KING JAMES THE SECOND TO LADY WALDEGRAVE." /> </head> <note resp="compiler" value="POST FEBRUARY 1685" /></p>
+			<p>Windsor Saturday Morning</p>
+			<p>I was very sorry to <normalised orig="heare" auto="true">hear</normalised> this morning of the accident which happened to your brother Harry, and send <normalised orig="thes" auto="true">these</normalised> foottman on purpose to you, to have an account from you how he do's. They tell me his face will not be marked with it. Pray <normalised orig="lett" auto="true">let</normalised> me know the truth out, and how <normalised orig="sone" auto="true">soon</normalised> they <normalised orig="thinke" auto="true">think</normalised> he may be well enough to go. Remember me to your Brother James, and tell him I am sorry his journey should be stopped for some days, <normalised orig="especialy" auto="true">especially</normalised> by such an accident; and tell Harry I hope he will be carefuller for the <normalised orig="tyme" auto="true">time</normalised> to come; and now, that he do what the <normalised orig="Chirurgeons" auto="true">Surgeons</normalised> will have him, which is all I shall say now, but to assure you of the continuance of my <normalised orig="kindnesse" auto="true">kindness</normalised></p>
+			<p>J. R.</p>
+			<p>For the Lady Waldgrave.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ORIGIN4_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 FN JAMES2"></title>
+					<author key="JAMES II"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="331" />
+			<head> <note resp="editor" value="LETTER CCCLXXX. KING JAMES THE SECOND TO THE LADY WALDEGRAVE." /> </head>
+			<p>Coventry Sept. 1. 1687</p>
+			<p>Two days since I was very much allarumd by the <pb n="332" /> Letters which came from France about your brother <normalised orig="Barwick" auto="true">Berwick</normalised>, but now, God be <normalised orig="thank'd" auto="true">thanked</normalised>, I am at ease concerning him, for by Letters I have had this day from <normalised orig="severall" auto="true">several</normalised> parts, and from the Army, I find he was very well recovered <normalised orig="tho'" auto="true">though</normalised> still a little <normalised orig="weake" auto="true">weak</normalised>; and I believe the <normalised orig="Earle" auto="true">Earl</normalised> of Kennole who died at Mohas, <normalised orig="neare" auto="true">near</normalised> the Army, was the occasion of that report. I <normalised orig="beleve" auto="true">believe</normalised> by that <normalised orig="tyme" auto="true">time</normalised> this gets to you, I shall have letters from him or Sir Ed. Vandery. I have not <normalised orig="tyme" auto="true">time</normalised> to say more, but that you shall still find me very kind to you.</p>
+			<p>For the Lady Waldgrave.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ORIGIN4_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685? T JSCOTT"></title>
+					<author key="JAMES SCOTT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="340" />
+			<head> <note resp="editor" value="LETTER CCCLXXXIII. THE DUKE OF MONMOUTH TO THE DUKE OF ALBEMARLE; SIGNING AS KING." /> </head>
+			<p>My Lord</p>
+			<p>Whereas we are credibly informed that <pb n="341" /> there are some horse and foot in arms under your command for James Duke of York, which are purposely raised in opposition to us and our royal authority. We thought fit to signify to you our resentment thereof, and do promise ourself that what you have transacted therein is through <normalised orig="inadvertency" auto="true">inadvertence</normalised> and mistake; and that your Grace will take other means, when you have received information of our being proclaimed King to succeed our royal father lately deceased. We have therefore sent this messenger on purpose to intimate the same unto you; and it is our royal will and pleasure, and we do hereby strictly charge and command you upon notice and receipt hereof, to cease all hostility, and force, and arms, against us and all our loving subjects; and that your Grace would immediately repair to our Camp where you shall not fail of a very kind reception by us. Or in default of the premises, we shall be obliged to proclaim you, and all those in arms under your command, rebels and traitors; and shall proceed against them and you accordingly. Yet we assure ourself that your Grace will pay ready obedience to our command; wherefore we bid you heartily farewell.</p>
+			<p>James R.</p>
+			<p>To our trusty and welbeloved Cousin and Councellor Christopher Lord Duke of Albemarle.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ORIGIN4_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 FO JSCOTT"></title>
+					<author key="JAMES SCOTT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="343" />
+			<head> <note resp="editor" value="LETTER CCCLXXXV. THE DUKE OF MONMOUTH TO THE QUEEN DOWAGER." /> </head>
+			<p>From Ringwood the <hi rend="sup" range="1,3" orig="9=th=">9th</hi>. <note resp="compiler" value="JULY 1685." /> Madam</p>
+			<p>Being in this unfortunate condition, and having none left but your Majesty that I think may have some compassion of me, and that for the last King's sake, makes me take this <normalised orig="boldnes" auto="true">boldness</normalised> to beg of you to <normalised orig="intersed" auto="true">intercede</normalised> for me. I would not desire your Majesty to doe it, if I wear not from the <normalised orig="botom" auto="true">bottom</normalised> of my hart convinced how I have bine disceaved in to it, and how angry God Almighty is with me for it: but I hope, Madam, your intersesion will give me life to repent of it, and to <normalised orig="shew" auto="true">show</normalised> the King how really and truly I will serve him hereafter. And I hope, Madam, your Majesty will be convinced that the Life you save shall ever be devoted to your service: for I have been and ever shall be</p>
+			<p>Your Majesty's most <normalised orig="dutifull" auto="true">dutiful</normalised> and obedient servant</p>
+			<p>Monmouth.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ORIGIN4_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="C 1685 FO JSCOTT"></title>
+					<author key="JAMES SCOTT"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="346" />
+			<note resp="compiler" value="THE DUKE OF MONMOUTH TO JAMES II" />
+			<p>Tuesday. <note resp="compiler" value="14 JULY 1685." /></p>
+			<p>Sir</p>
+			<p>I have received your Majesty's order this day that I am to dye tomorrow. I was in hopes Sir by what your Majesty said to me yesterday, of taking care of my Soul, that I should have had some little more time; for truly, Sir, this is very short. I do beg of your Majesty, if it be possible to let me have one day more, that I may go out of the world as a christian ought.</p>
+			<p>I had desired several times to speak with my Lord Arundel of Wardour, which I do desire still. I hope your Majesty will grant it me; and I do beg of your Majesty to let me know by him if there is nothing in this world that can <normalised orig="recal" auto="true">recall</normalised> your sentence, or, at least reprieve me for some time. I was in hopes I should have lived to have served you, which I think I could have done to a great degree; but your Majesty does not think it fit. Therefore, Sir, I shall end my days with being satisfied that I had all the good intentions imaginable for it, and should have done it, being that I am your Majesty's most dutiful</p>
+			<p>Monmouth.</p>
+			<p>I hope your Majesty will give Doctor Tennison leave to come to me, or any other that your Majesty will be pleased to grant me.</p>
+			<p>To the King.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ORIGIN4_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1704 T ANNE"></title>
+					<author key="QUEEN ANNE"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="355" />
+			<head> <note resp="editor" value="LETTER CCCLXXXIX. QUEEN ANNE TO SIR GEORGE ROOKE." /> </head>
+			<pb n="356" />
+			<p><hi rend="sup" range="1,2" orig="S=t=">St</hi>. James's Jan. the <hi rend="sup" range="2,3" orig="22=d=">22d</hi> 1703/4</p>
+			<p>You <normalised orig="haveing" auto="true">having</normalised> represented that the King of Spain <pb n="357" /> <normalised orig="seem'd" auto="true">seemed</normalised> desirous upon the first turn of the wind to make the best of his way to Lisbon with such clean Ships as shall be in <normalised orig="readynesse" auto="true">readiness</normalised> for that service, and this matter requireing the greatest secrecy, I think it proper to give you Orders in my own hand to pay the same obedience to the King of Spain, as to the time and manner of his setting <normalised orig="saile" auto="true">sail</normalised>, and as to the number of Ships which shall be in a <normalised orig="readynesse" auto="true">readiness</normalised> to attend him, as you would do to my self, I am</p>
+			<p>Your very affectionett <normalised orig="freind" auto="true">friend</normalised></p>
+			<p>Anne R.</p>
+			<p>For <hi rend="sup" range="1,2" orig="S=r=">Sr</hi>. George Rook.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ORIGIN4_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1716 T WNICOLSON"></title>
+					<author key="WILLIAM NICOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="366" />
+			<head> <note resp="editor" value="LETTER CCCXCVI. BISHOP NICOLSON TO ARCHBISHOP WAKE." /> </head>
+			<p>Rose, Sept. 13. 1716.</p>
+			<p>My very good lord</p>
+			<p>In my last I acquainted your Grace that we were in daily expectance of a good number of Northern captives; and that we look for their being followed by several Lords of Session. The prisoners are arrived, and as we hope in salva` <normalised orig="custodia" auto="true">custody</normalised>` . But we are now assured that our Judges are to come from another quarter. <normalised orig="'Tis" auto="true">It is</normalised> confidently said that none durst try them at Edinburgh; nor will any that tries them here dare to return thither.</p>
+			<p>Notwithstanding the fair Account which your Grace has had of the present peaceable disposition of the good folks of that country, if we believe the officers who brought the rebels hither, they are very ripe for another Insurrection.</p>
+			<p>I heartily wish that we may have a gaol-delivery here as soon as possible. Not that I have any jealousy that the prisoners are like to make their escape, but because I apprehend, that (if justice be not executed speedily) many of them will leave the world in a less exemplary way than they ought to do. The Castle (where they are lodged) is a moist and unwholesome <pb n="367" /> place; and our garrison is so thin, that the Commandant is forced, for security, to crowd them all into three Rooms. Then the greatest part of them sleep upon bare straw. For though they are generally desirous and sufficiently able to hire beds, the townsmen are loath to let their goods be carried into a place where they are sure to rot. In this miserable state have most of these mad creatures been for four or five days past; several roaring in fits of the gout or gravel. Nor can I see any appearance of their being relieved. These complaints are very uneasy to me.</p>
+			<p>My Lord, I am hourly pestered with addresses and <normalised orig="sollicitations" auto="true">solicitations</normalised> from the friends and advocates of these unhappy wretches; who will not believe me when I tell them, that I have neither power or inclination to do them any service; but renew their suit every morning with as much earnestness as if no denial had been given them.</p>
+			<p>Amongst the rest the bishop of Edinburgh warmly recommends to my <hi rend="type">counsel, direction, and favour</hi> , a son of his who is one of our guests. This youngster was taken in actual rebellion at the battle of Dumblain; and the father does not pretend to say that he repents of that sin. On the contrary he gives broad hints of his being <normalised orig="perswaded" auto="true">persuaded</normalised> that his child now suffers for righteousness sake. He will not so much as undertake to keep the boy out of harm's way for the future, should he now be set at liberty; but rather intimates <pb n="368" /> that his present affliction renders him a proper object of all the good offices that I am capable of doing him.</p>
+			<p>I have dealt very plainly with this mischievous prelate; who (by the way) bemoans the <normalised orig="compleated" auto="true">completed</normalised> desolation of the Scottish Church and the insufferable hardships ( unde et a quo? ) of her poor clergy. I have let him know, that I will no more bestir myself for his son, than I would for my own in the like circumstances; but leave him entirely to God's mercy and the King's.</p>
+			<p>I am ever Your Grace's most dutiful Servant</p>
+			<p>W. Carliol.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ORIGIN4_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1716 T WNICOLSON"></title>
+					<author key="WILLIAM NICOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="374" />
+			<head> <note resp="editor" value="LETTER CCCC. BISHOP NICOLSON TO ARCHBISHOP WAKE." /> </head>
+			<p>Rose, Oct. <hi rend="sup" range="2,4" orig="13=th=">13th</hi>. 1716.</p>
+			<p>My very good lord</p>
+			<p>Your Grace allows me to trouble You upon every Change of the face of our Affairs at Carlisle; and the only ease that I have is in complaining of my afflictions.</p>
+			<p>On Thursday night last a Squadron of High-Land Witnesses (about twenty eight or thirty) were brought in to us, under a strong guard; and they were followed Yesterday morning by a new Detachment of Advocates, and Writers; a generation of learned men who are commonly so obliging as to make directly for my House. I have been honoured with a visit by one of these already; and I despair not of the like favours from the rest.</p>
+			<p>This gentleman seems to be pretty positive, that we shall have no Judges nor Advocates on his Majesty's side of the question, from Edinburgh; and that, because the whole Nation is averse to Trials of Scotch criminals in our English Forms. He objects particularly, on this occasion, against the admission of such evidence as is now preparing. Socii criminis , he says, <pb n="375" /> never were admitted in Scotland (he will needs say, never ought to be admitted any where else,) as proper witnesses in a Cause of Blood. Such discourse as this I foresee will raise new speculations amongst those of us who are already too much inclined to grumble. Notwithstanding all which, I have yet so much courage as to hope (and <normalised orig="'tis" auto="true">it is</normalised> but just so much) that we shall acquit ourselves like men. The only damping consideration, is, the longer time that's allowed us for cool thinking, the more cowardly we are apt to grow. This was our case twelve months' ago. It may be so again.</p>
+			<p>For my own part, I do seriously protest to your Grace, that I am under deeper apprehensions of mischief to myself and family from the partisans of these Men, now they are in hold, than I was when I saw them in a full march and battle array.</p>
+			<p>I have procured for them daily prayers, and weekly sermons; and have contributed towards the conveniences of their lodgings, which are now (as far as their numbers will admit) sufficiently easy. Yet all these services are spilt upon the ground; because I will not personally preach up their innocence. This is the present state of Carlisle, and of</p>
+			<p>Your Grace's most obedient Servant</p>
+			<p>W. Carliol.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="ORIGIN4_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1716 T WNICOLSON"></title>
+					<author key="WILLIAM NICOLSON"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="390" />
+			<head> <note resp="editor" value="LETTER CCCCVIII. BISHOP NICOLSON TO ARCHBISHOP WAKE." /> </head>
+			<p>Rose Dec. <hi rend="sup" range="2,4" orig="17=th=">17th</hi>. 1716.</p>
+			<p>My very good lord</p>
+			<p>My Saturday's Postscript was written in such haste, that I had not time to acquaint your Grace, that the honour of your Letter came to my hand when I was with <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Justice Tracy; who had acquainted me with a like application, in favour of the bishop of Edinburgh's son, made to himself by the Earl of Caernarvon. Two such Advocates were soon agreed to be <pb n="391" /> worth a whole Threeve of them from the North; and thereupon I had leave to send for the young fellow to the bar; where he presently appeared; desired to be immediately arraigned; and (that being granted) pleaded Guilty. This he did in so becoming a manner, and so good an appearance of a true penitent heart, that the Judge promised to represent his case favourably to his Majesty; whose mercy he confidently relies upon. I had never seen the young man's face before; but was not a little pleased with his modest behaviour.</p>
+			<p>The Scottish Counsel are very impatient, for want of an opportunity to open their portmanteaus; wherein they are said to have brought many and large volumes of Records, for the ascertaining of the legal privileges and immunities of the ancient Kingdom. Several of them open very loud on this occasion: but the most obstreperous is reported to be one <hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Graham a person of great learning and eminence. He is the Kings Judge of the Admiralty in Edinburgh; and in the warmth of his zeal has procured leave to be of Counsel for the Prisoners, on purpose to dispute this point: which he declares he'll maintain to the hazard of his very life, as well as his fortunes. The Judges seem to hope that they shall be able to ward off this Argument. And indeed the Solicitor General and the rest of our English Counsel, on the crown side, appear as loath to engage in it.</p>
+			<pb n="392" />
+			<p><hi rend="sup" range="1,2" orig="M=r=">Mr</hi>. Mackenzie of Frazerdale (against whom an Indictment was found by the Grand Jury on Saturday last) seems to be the likeliest person to bring on the debate. This Gentleman's case has been so variously represented, that (without a formal Trial) nobody can tell what to make of it. Some stoutly affirm, as himself does, that he never bore arms in the Pretender's camp; that he was carried prisoner into Perth; and thence made his escape before the battle of Dumblain. Others say, that (upon a family disgust) he did freakishly join the Rebels at first; but saw his error pretty early, and stole off to the Duke of <normalised orig="Athol" auto="true">Idol</normalised>. His Grace strongly avows his just claim to remission, or rather an acquittal; and has sent Lord James, now Lord Tullibardin to solicit his cause. On the other hand, Lord <normalised orig="Lovat" auto="true">Loveit</normalised> has seized the life-rent of his estate, and will probably be desirous to continue in possession.</p>
+			<p>I have <normalised orig="inclosed" auto="true">enclosed</normalised> a List of all that had Bills found against them by the Grand Jury, when I came away on Saturday in the evening; to which I believe I may add Brigadier Campbell, a Bill being preferred against him that day. This unfortunate man was in no engagement; and had not been four days in Scotland, when he was taken in one of the Western Islands. He has been in Foreign Service (under the Czar, the Venetians, &amp;c.) from his youth; and I dare parole for him, if the Government sends him back to the <pb n="393" /> <normalised orig="Adriatick" auto="true">Adriatic</normalised> coast, he'll never petition for another return into his native country.</p>
+			<p>I am Your Grace's most obedient servant</p>
+			<p>W. Carliol.</p>
+		</text>
+	</TEI>
+</teiCollection>

@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCollection SYSTEM "../CEEC.dtd" [
+	<!ENTITY ETH "&#208;">
+	<!ENTITY eth "&#240;">
+	<!ENTITY YOGH "&#540;">
+	<!ENTITY yogh "&#541;">
+	<!ENTITY THORN "&#222;">
+	<!ENTITY thorn "&#254;">
+	<!ENTITY pound "&#163;">
+]>
+<teiCollection xml:id="FPETTY2">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>THE PETTY-SOUTHWELL CORRESPONDENCE 1676-1687. ED. BY THE MARQUIS OF LANSDOWNE. REPRINTS OF ECONOMIC CLASSICS. NEW YORK: AUGUSTUS M. <normalised orig="KELLEY" auto="true">KELLY</normalised> PUBLISHERS. 1967.</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<TEI xml:id="PETTY2_001">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="99" />
+			<head> <note resp="editor" value="54. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 28 Augt 1682</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>I have been Rouleing of late between this and Bath, and am tomorrow carrying my little fry to compliment the Company there, of which I had a coachfull of the <normalised orig="Ladyes" auto="true">Ladies</normalised> here on Wenesday last.</p>
+			<p>So I come slow to the <normalised orig="acknowledgeing" auto="true">acknowledging</normalised> yours of the <hi rend="sup" range="2,4" orig="17=th=">17th</hi>, which came with a valuable Cargo to me. For tho I had <normalised orig="noe" auto="true">no</normalised> <normalised orig="concerne" auto="true">concern</normalised> in the subject matter of any paper you <normalised orig="writt" auto="true">wrote</normalised>, yet all of them are to me as <normalised orig="soe" auto="true">so</normalised> many modells to <normalised orig="worke" auto="true">work</normalised> by, and of like force as the five Powers in the meckanicks. Wherefore <normalised orig="lett" auto="true">let</normalised> me not want copies of what you can spare, for they shall not dye, if I or Neddy can <normalised orig="helpe" auto="true">help</normalised> it.</p>
+			<p>The Prints doe constitute you one of the 3 <normalised orig="Governours" auto="true">Governors</normalised> of his Majesty's Irish Revenue, but a word from your <normalised orig="selfe" auto="true">self</normalised> would be more <normalised orig="authentick" auto="true">authentic</normalised>. I wish for his Majesty's sake it were the worst <normalised orig="newes" auto="true">news</normalised> I could have concerning Ireland.</p>
+			<p><normalised orig="Rejoyce" auto="true">Rejoice</normalised> at the happy arrival of your two brave <normalised orig="Boyes" auto="true">Boys</normalised>. Neddy will be at leisure ere long to try his cousin's patience. <normalised orig="Happinesse" auto="true">Happiness</normalised> to all is the constant wish of</p>
+			<p>Yours</p>
+			<p>R. Southwell</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_002">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="100" />
+			<head> <note resp="editor" value="55. PETTY TO SOUTHWELL." /> </head>
+			<p>London, ye <hi rend="sup" range="1,2" orig="5=o=">5o</hi> <hi rend="sup" range="3,5" orig="Sep=br=">Sepbr</hi> 1682</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> <normalised orig="Cosen" auto="true">Cousin</normalised></p>
+			<p>Yesterday came to Town what was <normalised orig="declard" auto="true">declared</normalised> on Sunday night at Windsor, vizt, That the Revenue of Ireland is to bee managed by the <normalised orig="Ld" auto="true">Lt</normalised> Longford, Lem Kingdon, one Mr Strong of the Excise, Mr Dixon of the <normalised orig="Customes" auto="true">Customs</normalised> of London, and Captain Bridges of Dublin, who as <normalised orig="tis" auto="true">tic</normalised> thought did but represent Mr Trant. By good <normalised orig="Lucke" auto="true">Luck</normalised> I never sollicitated any body in the Case, I <normalised orig="onely" auto="true">only</normalised> putt in 3 <normalised orig="severall" auto="true">several</normalised> papers of <normalised orig="proposalls" auto="true">proposals</normalised> before you went hence, which I think did the service no <normalised orig="harme" auto="true">harm</normalised>. As for my <normalised orig="selfe" auto="true">self</normalised>, my work hath ever been my wages in this world. My <normalised orig="owne" auto="true">own</normalised> buisnesse sticks in the Bog where you left it. I have much to say, but I have nobody to <normalised orig="heare" auto="true">hear</normalised> <normalised orig="mee" auto="true">me</normalised>.</p>
+			<p>I will review the specimen of <hi rend="type"><normalised orig="Logick" auto="true">Logic</normalised></hi> , and perhaps send it inlargd as well as <normalised orig="explaind" auto="true">explained</normalised>. Wee are all in health here. Charles and his sister are in daily emulation about <normalised orig="Arithmetick" auto="true">Arithmetic</normalised>; That spirit doth begin to rise and <normalised orig="appeare" auto="true">appear</normalised> in Charles upon the <normalised orig="Charmes" auto="true">Charms</normalised> and Conjurations of his sister. The Latin also joggs on, so as I hope you shall ere long bee <normalised orig="redy" auto="true">ready</normalised> to receive <pb n="101" /> <normalised orig="Cosen" auto="true">Cousin</normalised> <normalised orig="Neddy's" auto="true">Noddy's</normalised> Arrows. As for news: it is said that the Duke of Hanover is to have my <normalised orig="Ld" auto="true">Lt</normalised> Lowtherdell's Garter.</p>
+			<p>I have writ 3 sheets in answer to 31 questions concerning <normalised orig="mony" auto="true">money</normalised>. If it take (for I renounce all Judgement of my <normalised orig="owne" auto="true">own</normalised>) you shall have a <normalised orig="Coppy" auto="true">Copy</normalised>. But laying all these things aside, <normalised orig="lett" auto="true">let</normalised> <normalised orig="mee" auto="true">me</normalised> here that you and your family are well, for that will best please</p>
+			<p><hi rend="sup" range="2,4" orig="Yo=rs=">Yors</hi></p>
+			<p>W. P.</p>
+			<note resp="compiler" value="POSTSCRIPT BY DIFFERENT HAND OMITTED" />
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_003">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="101" />
+			<head> <note resp="editor" value="56. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 11 <hi rend="sup" range="3,4" orig="Sep=r=">Sepr</hi> 1682</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>By yours of the <hi rend="sup" range="1,3" orig="5=th=">5th</hi> Instant I see the 5 Commissioners of the Revenue of Ireland. The first I easily <normalised orig="guesse" auto="true">guess</normalised> at, but who <normalised orig="lanched" auto="true">launched</normalised> the other 4 into this Bethesda I want to know? You say nothing of their <normalised orig="Sallary" auto="true">Salary</normalised>; nor of their subordination to the Treasury here; nor if those 2 points (which <normalised orig="soe" auto="true">so</normalised> <normalised orig="indeared" auto="true">endeared</normalised> the former prosecution) doe still subsist, as to <normalised orig="Tanger" auto="true">Tangiers</normalised> and the <normalised orig="Shipps" auto="true">Ships</normalised>, wherein as a Kingsale man I am a little <normalised orig="concernd" auto="true">concerned</normalised>.</p>
+			<pb n="102" />
+			<p>But I <normalised orig="confesse" auto="true">confess</normalised> I am much more, to see that when the <normalised orig="Citty" auto="true">City</normalised> is delivered, yett noebody reguards the wise man. I will believe that your papers had more effect than you are told of; and seeing they <normalised orig="turne" auto="true">turn</normalised> you <normalised orig="noe" auto="true">no</normalised> better to Account, <normalised orig="lett" auto="true">let</normalised> me at least have the Transcript of what you gave in. For I shrine all up, and fancy that in after times I shall be resorted too for your <normalised orig="workes" auto="true">works</normalised>, as Mr Hedges is for the true Opo-balsamum.</p>
+			<p>I see <normalised orig="alsoe" auto="true">also</normalised> as to your particular <normalised orig="affaire" auto="true">affair</normalised>, that you stick fast as before, and scarce know where with <normalised orig="benefitt" auto="true">benefit</normalised> to expose your doleance. I would advise better if I knew how; but surely it can do no hurt if you take Sir Edward Dering fresh at his <normalised orig="arrivall" auto="true">arrival</normalised> from Kent and explain to him that by him alone you can hope to be understood. The <normalised orig="proposall" auto="true">proposal</normalised> which by my Lord Hyde's <normalised orig="incouragement" auto="true">encouragement</normalised> he <normalised orig="soe" auto="true">so</normalised> laboured in, being quite <normalised orig="layed" auto="true">laid</normalised> by, and new things done (wherein as being absent he has <normalised orig="noe" auto="true">no</normalised> share), I am apt to think he will not be unwilling to learn and know the extent of your case, and afterwards to act as <normalised orig="faire" auto="true">fair</normalised> <normalised orig="opportunityes" auto="true">opportunities</normalised> shall be offered him.</p>
+			<p>I take notice that all your clouds are only without <normalised orig="dores" auto="true">doors</normalised>, for at the same time you can think and <normalised orig="turne" auto="true">turn</normalised> your mind to the instruction of the unkind world. Your 3 <normalised orig="sheetes" auto="true">sheets</normalised> about money shall be much more welcome to me than money <normalised orig="itselfe" auto="true">itself</normalised>.</p>
+			<p>And then to have the specimen of <normalised orig="Logick" auto="true">Logic</normalised> enlarged, as well as explained, is a matter I really take to heart. For my <normalised orig="chiefe" auto="true">chief</normalised> <normalised orig="businesse" auto="true">business</normalised> is now <normalised orig="growne" auto="true">grown</normalised> a <normalised orig="sollicitude" auto="true">solicitude</normalised> for my son's education, and <normalised orig="soe" auto="true">so</normalised> I am chawing over every thing that I judge <normalised orig="usefull" auto="true">useful</normalised> in order to his <normalised orig="easyer" auto="true">easier</normalised> digestion. Neddy remembers you <normalised orig="advysed" auto="true">advised</normalised> him to gather <normalised orig="Tooles" auto="true">Tools</normalised>, as Hammer, saw, pincers, gimblett &amp;c; and he calls the arts and sciences <pb n="103" /> already by these nick-names, and <normalised orig="meanes" auto="true">means</normalised> to value them <normalised orig="noe" auto="true">no</normalised> more than as they really <normalised orig="proove" auto="true">prove</normalised> such. And as he passes for the top-artisan that invents a new <normalised orig="Toole" auto="true">Tool</normalised>, <normalised orig="soe" auto="true">so</normalised> Neddy <normalised orig="meanes" auto="true">means</normalised> to throng in among your admirers; not <normalised orig="onely" auto="true">only</normalised> for this <hi rend="type"><normalised orig="Logick" auto="true">Logic</normalised></hi> , but for all other <normalised orig="Tooles" auto="true">Tools</normalised>, which either for the Sake of his cousin Charles or the <normalised orig="Publick" auto="true">Public</normalised> you shall vouchsafe to frame or invent. He hopes also you will cause the <hi rend="sup" range="3,5" orig="104=th=">104th</hi> <normalised orig="Psalme" auto="true">Psalm</normalised> to be printed anew.</p>
+			<p>You have <normalised orig="alsoe" auto="true">also</normalised> within <normalised orig="dores" auto="true">doors</normalised> the sunshine of this new and profitable emulation <normalised orig="betweene" auto="true">between</normalised> Charles and his sister. I see that <normalised orig="tis" auto="true">tic</normalised> she ferments <normalised orig="Arithmetick" auto="true">Arithmetic</normalised> in him, but how you levened her (<normalised orig="unlesse" auto="true">unless</normalised> ex traduce ) pray let us know. I have <normalised orig="gott" auto="true">got</normalised> Dr Wallis by the end touching this subject; for I would <normalised orig="faine" auto="true">fine</normalised> by comprehending the reason <normalised orig="retaine" auto="true">retain</normalised> the practice, which else <normalised orig="vanisheth" auto="true">vanishes</normalised> as I have found for want of frequent use.</p>
+			<p>All my young ones are well and afford me much content; <normalised orig="tis" auto="true">tic</normalised> the most sensible share of worldly <normalised orig="happinesse" auto="true">happiness</normalised> we can have. I doe heartily congratulate your part, and am ever Yours</p>
+			<p>R. Southwell</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_004">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1682 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="111" />
+			<head> <note resp="editor" value="63. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 28 <hi rend="sup" range="2,4" orig="No=br=">Nobr</hi> 1682.</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>When by yours of the <hi rend="sup" range="2,4" orig="24=th=">24th</hi> past I understood your putting off the <normalised orig="evill" auto="true">evil</normalised> day of a dirty and dangerous Journey, I became much more sedate than before; but when you concluded your letter with an Interdiction to your <normalised orig="selfe" auto="true">self</normalised>, and such a Reverse as to say 'lett there be darknesse', I fell into <normalised orig="griefe" auto="true">grief</normalised> and you may think stupidity (by my long silence); and this for many Accounts. First that the world should be <normalised orig="soe" auto="true">so</normalised> wicked as to give you provocation, but chiefly <pb n="112" /> that you should take it. For has Sir Walter Raleigh added to his character by burning <normalised orig="halfe" auto="true">half</normalised> the World? Had he not been even more revenged, in heaping up <normalised orig="coales" auto="true">coals</normalised> and obleiging the <normalised orig="ungratefull" auto="true">ungrateful</normalised> age? <normalised orig="Besydes" auto="true">Besides</normalised> how preposterous is it for the Iniquity of the present bystanders (which are but a <normalised orig="handfull" auto="true">handful</normalised>) to bespite the inoffensive generations that are to come? And how well did Ben Johnson defy their hissings when he declared that what he had written was for Posterity. A prophet has no honour in his <normalised orig="owne" auto="true">own</normalised> time.</p>
+			<p>I have now the favour of yours of the <hi rend="sup" range="2,4" orig="25=th=">25th</hi> Instant, and in it some of the Rich Ore of the same old mine. Herein I first congratulate that you take home the <normalised orig="prodigall" auto="true">prodigal</normalised> son (I should indeed have <normalised orig="sayd" auto="true">said</normalised> it of the Father) and that you <normalised orig="lett" auto="true">let</normalised> the world see <normalised orig="plaine" auto="true">plain</normalised>, what they still suspected, that the <normalised orig="spiritt" auto="true">spirit</normalised> of Sir William Petty and not of John <normalised orig="Graunt" auto="true">Grant</normalised> presided in those Bills of Mortality. <normalised orig="Poore" auto="true">Poor</normalised> John, tho in his purgatory, can hardly drive such points as (by your allowance) he ventured on while here, in his State of <normalised orig="fudling" auto="true">fuddling</normalised> and of frailty. The good man was herein like a <normalised orig="dwarfe" auto="true">dwarf</normalised> mounted on an Elephant.</p>
+			<p>But <normalised orig="altho" auto="true">although</normalised>, to <normalised orig="keepe" auto="true">keep</normalised> gravity, you will needs excuse this new eruption and that still you are for unthinking and unobleiging too; I can but smile, as I would doe to <normalised orig="heare" auto="true">hear</normalised> <normalised orig="naturall" auto="true">natural</normalised> agents such as the sun, <normalised orig="moone" auto="true">moon</normalised>, and <normalised orig="starrs" auto="true">stars</normalised> <normalised orig="talke" auto="true">talk</normalised> at the same rate. Wherefore <normalised orig="tis" auto="true">tic</normalised> but <normalised orig="weakely" auto="true">weakly</normalised> done to say you will not think; and tho you <hi rend="type">must</hi> think, to say you will not Ratiocinate, is to sever heate from Light, which will not doe - or to say again that <normalised orig="tho'" auto="true">though</normalised> you do Ratiocinate we shall <normalised orig="noe" auto="true">no</normalised> more <normalised orig="heare" auto="true">hear</normalised> <normalised orig="on't" auto="true">on it</normalised>. You may better say <normalised orig="soe" auto="true">so</normalised> much touching Gunpowder, for <normalised orig="tis" auto="true">tic</normalised> a child when borne that cannot be <normalised orig="murtherd" auto="true">murdered</normalised>. Light when generated will shine out and <normalised orig="wisdome" auto="true">wisdom</normalised> must still <normalised orig="crye" auto="true">cry</normalised> <normalised orig="alowd" auto="true">aloud</normalised> in the <normalised orig="streetes" auto="true">streets</normalised>. Wherefore, <normalised orig="deare" auto="true">dear</normalised> Cousin, make a virtue of Necessity, and <pb n="113" /> what you cannot Resist or <normalised orig="suppresse" auto="true">suppress</normalised>, <normalised orig="lett" auto="true">let</normalised> us have it with a good Grace, and as it were, have amongst you blind Harpers.</p>
+			<p>While I was too credulous of your first anger (which yett I congratulate), I went to ransack all my papers, and have putt together in one Treasure all that ever I had from you, and which shall lye together an Heire-loom not only for this Neddy, but all the Neddyes that may come hereafter.</p>
+			<p>As to your present <normalised orig="worke" auto="true">work</normalised>; the very <normalised orig="Patterne" auto="true">Pattern</normalised> is Admirable - to teach men how to present to the World with <normalised orig="vitalls" auto="true">vitals</normalised>, and not with long <normalised orig="Haire" auto="true">Hair</normalised> and <normalised orig="Nailes" auto="true">Nails</normalised> which <normalised orig="comonly" auto="true">commonly</normalised> make up the <normalised orig="bulke" auto="true">bulk</normalised>. But Cousin, this Herb is a peculiar of your <normalised orig="owne" auto="true">own</normalised> Garden, and be not angry if it springs not up in every <normalised orig="soyle" auto="true">soil</normalised>. For me to attempt to propagate This method in my Neighbourhood as you propose, would be to destroy it. I am not their <normalised orig="favorite" auto="true">favourite</normalised>, which I really congratulate, as much as I prefer Philosophy before drinking.</p>
+			<p>I can truly tell you that <normalised orig="tis" auto="true">tic</normalised> <normalised orig="neere" auto="true">near</normalised> a month that I <normalised orig="writt" auto="true">wrote</normalised> to Mr Dickinson and Mr John Ellis in <normalised orig="termes" auto="true">terms</normalised> of as much <normalised orig="concerne" auto="true">concern</normalised> for you as I could <normalised orig="expresse" auto="true">express</normalised>.</p>
+			<p>My small puggs are all well and very <normalised orig="Joviall" auto="true">Jovial</normalised>, for I have got them a blind Harper. I hope the like with my Godson and all his good company, being ever</p>
+			<p><hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Your most affect Kinsman &amp; most humble servant</p>
+			<p>Robert Southwell</p>
+			<p>I am glad you have speeded orders about our old friend <hi rend="sup" range="1,2" orig="W=m=">Wm</hi> Fitzgerald.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_005">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="115" />
+			<head> <note resp="editor" value="65. SOUTHWELL TO PETTY." /> </head>
+			<p><pb n="116" /> Kingsweston, 16 <normalised orig="Aprill" auto="true">April</normalised> 1683</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>Your last demonstration was <normalised orig="soe" auto="true">so</normalised> killing, and in a matter of that <normalised orig="bulke" auto="true">bulk</normalised> and importance, that I have <normalised orig="remayned" auto="true">remained</normalised> ever since as one that had <normalised orig="seene" auto="true">seen</normalised> a miracle.</p>
+			<p>My Lord Weymouth, who is in the Role of your admirers, was lately here with me. We shall both meet by the end of this month in London, and are not to be long from your House. He was wishing he had your thoughts on the great catastrophe of Banquers; <normalised orig="wheather" auto="true">whether</normalised> land will Rise, or what may be the most probable consequences thereof.</p>
+			<p>But, <normalised orig="deare" auto="true">dear</normalised> cousin, must you have <note resp="editor">had</note> a fortunate hearing in the Treasury <normalised orig="uppon" auto="true">upon</normalised> Saturday last, and must I owe the glad <normalised orig="tydings" auto="true">tidings</normalised> rather to one of your Judges than your <normalised orig="selfe" auto="true">self</normalised>? Well! Laus Deo , which I heartily pronounced first in consideration of Kerry, and then of nature and Philosophy. For if the World will but give you Rest, I am sure you will be Teeming.</p>
+			<p>My 3 <normalised orig="Girles" auto="true">Girls</normalised> have <normalised orig="beene" auto="true">been</normalised> coughing till quite tyred out, but the approach of a London Journey <normalised orig="seemes" auto="true">seems</normalised> very restorative.</p>
+			<p>With true Service to my lady, my godson, and the Rest</p>
+			<p>I am ever, <hi rend="sup" range="1,2" orig="S=r=">Sr</hi> Your most affect Cousin &amp; most humble servant</p>
+			<p>Robert Southwell</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_006">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1683 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="117" />
+			<head> <note resp="editor" value="66. PETTY TO SOUTHWELL." /> </head>
+			<p>London, ye <hi rend="sup" range="2,3" orig="19=o=">19o</hi> <normalised orig="Aprill" auto="true">April</normalised> 1683</p>
+			<p><hi rend="sup" range="1,2" orig="D=r=">Dr</hi> <normalised orig="Cosen" auto="true">Cousin</normalised></p>
+			<p>To yours of the <hi rend="sup" range="2,3" orig="16=o=">16o</hi>. I say nothing of my Demonstrations about the Growth of London. When you come, in reference to my Lord Waymouth's questions concerning Bankrupts, I will <normalised orig="shew" auto="true">show</normalised> you a scheme of a Bankrupt wherein the Lamb may wade, and the Elephant may swim &amp;c.</p>
+			<p>I had a little opium given <normalised orig="mee" auto="true">me</normalised> on Saturday last, of which I said nothing, as doubting it might be corrected with Castorium and other strong Ingredients, - as it hath been. But I being dosd and <normalised orig="Stupifyed" auto="true">Stupefied</normalised>, can make no Judgement of it, but am sqird back like the weavers shuttle into Ireland, there to endure time and chance.</p>
+			<p>The <normalised orig="fitts" auto="true">fits</normalised> of the Double-Bottome do <normalised orig="returne" auto="true">return</normalised> very fiercely upon <normalised orig="mee" auto="true">me</normalised>. I cannot bee <normalised orig="diswaded" auto="true">dissuaded</normalised> but that it <normalised orig="conteynes" auto="true">contains</normalised> most glorious, <normalised orig="usefull" auto="true">useful</normalised> and pleasant things. My happiness <normalised orig="lyes" auto="true">lies</normalised> in being mad. I wish I were grown up to that Degree as to <normalised orig="beleive" auto="true">believe</normalised> I were fairly dealt with. I doe not attribute my wrongs to much hatred of my Person, as to other <normalised orig="internall" auto="true">internal</normalised> motions within the lucky Men of Power. Wee long here to see how wan the 3 girls will bee when they come to their <normalised orig="cosens" auto="true">cousins</normalised> hither.</p>
+			<p>I am <hi rend="sup" range="2,4" orig="Yo=rs=">Yors</hi></p>
+			<p>W. P.</p>
+			<p>I desire you to get <normalised orig="mee" auto="true">me</normalised> an Account of some Parishes according to the Method enclosed.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_007">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1684 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="126" />
+			<head> <note resp="editor" value="73. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 20 Sept. 1684</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>I had not till the last night yours of the 31st past, which I have read over and over, for the great <normalised orig="kindnesse" auto="true">kindness</normalised> as well as <normalised orig="varyety" auto="true">variety</normalised> of it.</p>
+			<p>I see the Vulture is still <normalised orig="knawing" auto="true">knowing</normalised> in <normalised orig="Kirry" auto="true">Kerry</normalised>, when at the same time a man child is borne to make you <normalised orig="forgett" auto="true">forget</normalised> that sorrow. Surely this new <normalised orig="shipp" auto="true">ship</normalised> has <normalised orig="stupifyed" auto="true">stupefied</normalised> that other anguish; and you might be exalted too much, but for that other dead weight that <normalised orig="keepes" auto="true">keeps</normalised> your life in <normalised orig="ballance" auto="true">balance</normalised>. In the Life of Paulus Emilius by Plutark there are these words:</p>
+			<p>"It <normalised orig="seemes" auto="true">seems</normalised> the province of some God to lessen that <normalised orig="hapinesse" auto="true">happiness</normalised> which is too great and inordinate, and <normalised orig="soe" auto="true">so</normalised> mingle the <normalised orig="affaires" auto="true">affairs</normalised> of human life that <normalised orig="noe" auto="true">no</normalised> one should be entirely free and exempt from <normalised orig="Calamitys" auto="true">Calamities</normalised>, but (as it is in Homer) that those should think themselves truly <normalised orig="blest" auto="true">blessed</normalised> to whom fortune has given an <normalised orig="equall" auto="true">equal</normalised> share of good and <normalised orig="evill" auto="true">evil</normalised>."</p>
+			<p>But as to the <normalised orig="shipp" auto="true">ship</normalised>, you <normalised orig="forgett" auto="true">forget</normalised> to <normalised orig="inclose" auto="true">enclose</normalised> the Catalogue of wagers, which I lament. If she take into Kingrode on her way about, I will be answerable for her good reception here.</p>
+			<p>As to <normalised orig="Kirry" auto="true">Kerry</normalised>, I now write and lend your letter to Mr <normalised orig="Pepys" auto="true">Poppies</normalised>, not <normalised orig="onely" auto="true">only</normalised> for his Entertainment, but that he excite Mr Guy to all that is friendly; and in particular that Mr Dickinson may be called <normalised orig="uppon" auto="true">upon</normalised>, not only to ease the Patient, but the Doctors <normalised orig="alsoe" auto="true">also</normalised>, who <normalised orig="confesse" auto="true">confess</normalised> they know not what to make of the Case.</p>
+			<p>But I am at some stand how to <normalised orig="thinke" auto="true">think</normalised> of all that <pb n="127" /> is past, and what the Reports now depending may signify, if you are (as you say) beginning all anew under the new Commission. Nor doe I <normalised orig="heare" auto="true">hear</normalised> you <normalised orig="presse" auto="true">press</normalised> on Judgment for the Reduced <normalised orig="Collumn" auto="true">Column</normalised>, or <normalised orig="wheather" auto="true">whether</normalised> it be already done or not, whereas in this great point seemed formerly to consist your antidote <note resp="editor">to</note> the Thunderbolt.</p>
+			<p>I would have repeated my <normalised orig="visitt" auto="true">visit</normalised> to my <normalised orig="deare" auto="true">dear</normalised> Cousins in London, but that I <normalised orig="hurry'd" auto="true">hurried</normalised> away on the sickness of my 2 eldest Daughters, who attending their Grandmother at Bath, <normalised orig="mett" auto="true">met</normalised> with this new <normalised orig="feavour" auto="true">fever</normalised> which hath humbled them; For they are still but creeping towards the health and vigour which they formerly had. And this <normalised orig="alsoe" auto="true">also</normalised> makes our resolution of a <normalised orig="quiett" auto="true">quiet</normalised> wintering in the Country the more <normalised orig="needfull" auto="true">needful</normalised>, while between the Apple Roaster and the Blind Harper (who is sent for), we shall <normalised orig="forgett" auto="true">forget</normalised> the long and blustering nights.</p>
+			<p>I <normalised orig="rejoyce" auto="true">rejoice</normalised> exceedingly that my Cousin Charles is in the <normalised orig="Carreere" auto="true">Career</normalised> you like, and <normalised orig="tis" auto="true">tic</normalised> enough to make my Grum~ett proud that you enquire how he <normalised orig="climbes" auto="true">climbs</normalised> his ropes. He is very strong; a stout rider - 110 <note resp="editor">miles</note> in 2 days and 1/2 - going 46 the first day (when I lately sent him home from Peterbrough) all on the trott, and one day thunder and <normalised orig="rayne" auto="true">rain</normalised> to the skin. He will <normalised orig="Learne" auto="true">Learn</normalised> anything on Horseback, and if repeated by his <normalised orig="Tutour" auto="true">Tutor</normalised>, in half the time he can doe it from the <normalised orig="booke" auto="true">book</normalised>. Formerly his <normalised orig="worke" auto="true">work</normalised> was to <normalised orig="gett" auto="true">get</normalised> many of the finest passages that lay about in verse and Prose, which I reckon he will never <normalised orig="forgett" auto="true">forget</normalised>, but serve hereafter as good <normalised orig="materialls" auto="true">materials</normalised> when he has judgment to spinn them out. He is now chiefly intent to be absolute master of Caesar's Com~entarys, and is learning his <normalised orig="Greeke" auto="true">Greek</normalised> <normalised orig="Grammer" auto="true">Grammar</normalised>, in order to some sprinkling <normalised orig="onely" auto="true">only</normalised> of that tongue. There are Virgill's <normalised orig="Georgicks" auto="true">Georgics</normalised>, Plutark's Lives (as newly translated) and other like things for the by. But wee are now going seriously into <normalised orig="Arithmetick" auto="true">Arithmetic</normalised>, Geometry, Astronomy and Cosmography, or some tincture or Instruction towards <pb n="128" /> them, by the <normalised orig="helpe" auto="true">help</normalised> of one Ferfaix who is coming <normalised orig="downe" auto="true">down</normalised> and to stay this winter at Least amongst us.</p>
+			<p>I have never <normalised orig="prest" auto="true">pressed</normalised> or <normalised orig="Strayned" auto="true">Strained</normalised> on the Boy to his <normalised orig="booke" auto="true">book</normalised>, being content to <normalised orig="lett" auto="true">let</normalised> him grow att the same time in other things; which his going about with me does bring in, As an acquaintance with all my friends and the Business that is depending between us. He reads all my Letters and all the Answers I make, and sometimes he answers some for me, and will write a Letter passing well. He <normalised orig="designes" auto="true">designs</normalised> and has a <normalised orig="Musicall" auto="true">Musical</normalised> <normalised orig="Voyce" auto="true">Voice</normalised>; but when all is done, he loves play in his Heart. I have here <normalised orig="sayd" auto="true">said</normalised> enough for 7 <normalised orig="yeares" auto="true">years</normalised>; with all duty to my Lady and love to Charles</p>
+			<p>I am ever <note resp="compiler" value="UNSIGNED" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_008">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1684 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="132" />
+			<head> <note resp="editor" value="75. PETTY TO SOUTHWELL." /> </head>
+			<p>Dublin, <hi rend="sup" range="2,3" orig="23=o=">23o</hi> Xbr. 1684</p>
+			<p>Dear <normalised orig="Cosen" auto="true">Cousin</normalised></p>
+			<p>Tho I am not upon my oath, yet for the <normalised orig="Honor" auto="true">Honour</normalised> of <normalised orig="Eternall" auto="true">Eternal</normalised> Truth, whom I have ever sought and adoard, I will tell you the whole Truth, and nothing but the Truth, concerning our <normalised orig="Navall" auto="true">Naval</normalised> Experiments. Upon the <hi rend="sup" range="2,4" orig="15=th=">15th</hi> and <hi rend="sup" range="2,4" orig="16=th=">16th</hi> of this month, wee got her out, to try her sailing &amp; c, which did not answer expectac~on. The main fault (unto which all the rest were Consequences) was not bearing sufficient <normalised orig="Saile" auto="true">Sail</normalised>, which the Careening I menc~oned in my last seemed to secure our Gravest <normalised orig="Ship-wrights" auto="true">Shipwrights</normalised> and Sea-men against; and is a fault the more easily <normalised orig="remedyed" auto="true">remedied</normalised> upon our Principle, which all our Modells do still justify. But what is all that? - Wee have suffered a Publiq disappointment!</p>
+			<p>Just now I received a <normalised orig="joynt" auto="true">joint</normalised> Letter from Mr <normalised orig="Pepys" auto="true">Poppies</normalised> and Sir Anthony Deane, <normalised orig="contayning" auto="true">containing</normalised> <normalised orig="severall" auto="true">several</normalised> wagers, with a <normalised orig="proposall" auto="true">proposal</normalised> That I must bee personally a board upon all their <normalised orig="trialls" auto="true">trials</normalised>; with a <normalised orig="proposall" auto="true">proposal</normalised> a little before that if wee did <normalised orig="excell" auto="true">excel</normalised> all the King's yachts, that then the Charge of our Rigging should be boaren. The Considerac~on of all which doth lessen my trouble concerning this matter. I will calmly and gravely spend the remainder of my days in diging for Truth in this matter; and being conscious of no <normalised orig="willfull" auto="true">wilful</normalised> miscarriage therein, will courageously <normalised orig="indure" auto="true">endure</normalised> the <normalised orig="Reproches" auto="true">Reproaches</normalised> and derisions of the Vulgar; remaining with my service to all of your family.</p>
+			<p><hi rend="sup" range="2,4" orig="Yo=rs=">Yors</hi> most <normalised orig="intirely" auto="true">entirely</normalised></p>
+			<p><hi rend="sup" range="1,2" orig="W=m=">Wm</hi> Petty</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_009">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="142" />
+			<head> <note resp="editor" value="81. PETTY TO SOUTHWELL." /> </head>
+			<p>London, <hi rend="sup" range="2,4" orig="29=th=">29th</hi> August 1685</p>
+			<p><hi rend="sup" range="1,3" orig="D=re=">Dre</hi> <hi rend="sup" range="2,3" orig="Co=z="><normalised orig="Coz" auto="true">Cos</normalised></hi></p>
+			<p>To yours of the <hi rend="sup" range="2,4" orig="25=th=">25th</hi>. As to my wife's perfect Recovery, wee must have patience, but do not doubt it.</p>
+			<p>I agree with you in Hopes that the Duke of <normalised orig="Lorrain" auto="true">Lorraine</normalised> may bee able to take <normalised orig="downe" auto="true">down</normalised> the great Troubler of the World, of whom Ireland ought to be jealous. I am also <normalised orig="cleere" auto="true">clear</normalised> that if men will but consider, our terrors concerning Ireland are not well grounded. I only <normalised orig="feare" auto="true">fear</normalised> what men drunk with Rage and Revenge may doe of harm to Themselves and others.</p>
+			<p>I congratulate what you say of the pretty Spinsters and the Rest of your <normalised orig="Rurall" auto="true">Rural</normalised> Gazette.</p>
+			<p>I hope wee may answer your desires in the 2 <normalised orig="Barrony" auto="true">Barony</normalised> Maps of land <normalised orig="neere" auto="true">near</normalised> Kingsale when you come to <normalised orig="Towne" auto="true">Town</normalised>.</p>
+			<p>I think there needs be no <normalised orig="formall" auto="true">formal</normalised> Essay about what I hinted for reading the Scriptures, for (1st) We hold all equally canonised. (2) <normalised orig="Tis" auto="true">Tic</normalised> Manifest that St Luke and the Acts are the best History of Christ and the Apostles. (3) The Epistles of Peter, James, John and Jude, are stiled Catholiq or <normalised orig="Generall" auto="true">General</normalised> Epistles, directed to the whole world, and not to Particular Churches upon <normalised orig="speciall" auto="true">special</normalised> occasions. (4) They do manifestly <normalised orig="containe" auto="true">contain</normalised> the whole Christian Doctrine. I only add that the 2 <normalised orig="Bookes" auto="true">Books</normalised> of the Chronicles is the like Epitome of the History of the Jewish nation and Church.</p>
+			<pb n="143" />
+			<p>What you say of My Lord Treasurer pleases me well, and I hope <normalised orig="tis" auto="true">tic</normalised> not an Embryon, but a foetus <normalised orig="prope" auto="true">prop</normalised> partum . <normalised orig="Gett" auto="true">Get</normalised> but into that organ loft and I will blow your <normalised orig="bellowes" auto="true">bellows</normalised>, having wind enough for all your Pipes - I say Wind.</p>
+			<p>For further impositions about Neddy, I think them needless. You have planted all <normalised orig="necessarys" auto="true">necessaries</normalised> in his ground, you have led him through all the shops and warehouses of other things. Let nature now work. See what he will choose and learn of himself. What is cram~ed in by much teaching will never come to much, but parch away when the Teachers are gone. Within a <normalised orig="yeare" auto="true">year</normalised> or two you will have a crisis on him; - let's mark that.</p>
+			<p>I am contented you will be here about the Parliament's sitting. What shall We say more, but the old assertion that I am Yours</p>
+			<p><hi rend="sup" range="1,2" orig="W=m=">Wm</hi> P.</p>
+			<p>Tell the spinsters what fine <normalised orig="wooll" auto="true">wool</normalised> and flax I wish them to work upon, and how good a market for their <normalised orig="weares" auto="true">wears</normalised>.</p>
+			<note resp="editor" value="POSTSCRIPT" />
+			<p>I am angry that you did not <normalised orig="speake" auto="true">speak</normalised> a word, neither of Reason or Ridicule, <normalised orig="uppon" auto="true">upon</normalised> the Paper <hi rend="type">for the Multiplication of Mankind</hi> ; as if that Desideratum were frivolous which I take to be <normalised orig="equall" auto="true">equal</normalised> to all the Projects which have been these many <normalised orig="yeares" auto="true">years</normalised> for the advantage of the World. Pray send it back with an affidavit on the back of <normalised orig="itt" auto="true">it</normalised> That you have neither <normalised orig="shewne" auto="true">shown</normalised> it to any fortunate fop, nor taken any <normalised orig="copie" auto="true">copy</normalised> of <normalised orig="itt" auto="true">it</normalised>. In dudgeon: Adieu.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_010">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="144" />
+			<head> <note resp="editor" value="82. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 5 Sept 1685</p>
+			<p>Dear Cousin</p>
+			<p>I have yours in your own ill hand of the <hi rend="sup" range="2,4" orig="29=th=">29th</hi> past, but what you say of my Lady's Recovery makes ample compensation. <normalised orig="Soe" auto="true">So</normalised> <normalised orig="alsoe" auto="true">also</normalised> does your kind mention of the Spinsters, and the <normalised orig="faire" auto="true">fair</normalised> <normalised orig="opineon" auto="true">opinion</normalised> of their Brother Neddy, and your Inculcateing the Method of reading the Holy <normalised orig="Writt" auto="true">Wrote</normalised>, which are all favours of Weight.</p>
+			<p>But you come off at last with a Biting Postscript. You chide that I say nothing of your Calculation, as if it were <normalised orig="soe" auto="true">so</normalised> small a matter to speak Skilfully of Mankind, and to discourse in this Great Case (of) the Effects and power of Generation, as it were the putting of a <normalised orig="dowsen" auto="true">dozen</normalised> of Eggs under a Henn!</p>
+			<p>Your Great Demonstration is first the Defect, then the Art, and lastly the value of <hi rend="type">Multiplication</hi> . And since you will force me to object, pray answer me this: Mankind must by your method become at last as thick as <normalised orig="grasse" auto="true">grass</normalised> - not 3 acres to a man, but 3 men to an acre, and what not! Nay the Sea <normalised orig="alsoe" auto="true">also</normalised> must be covered as <normalised orig="farr" auto="true">far</normalised> as timber can be gotten for stages and ships.</p>
+			<p>And now that I speak of a <normalised orig="Shipp" auto="true">Ship</normalised>, What if your <normalised orig="proposall" auto="true">proposal</normalised> had been made to those on the Arck, and the Deluge were to have lasted? If getting children <pb n="145" /> had not been restrained, the <normalised orig="Shipp" auto="true">Ship</normalised> at last must have sunk or the Surplus gone over-board. Wherefore if the Tower you build, - how beautiful soever in the progress - must by its own <normalised orig="heighth" auto="true">height</normalised> or weight fall at last, what need we <normalised orig="rayse" auto="true">raise</normalised> it higher then it is?</p>
+			<p>Then your Great art cannot remain a Secret, as the Philosopher's Stone, or be <normalised orig="monopolized" auto="true">monopolised</normalised> by Letters Patent; for all Men are become Philosophers in this Science. And if the noise that one Kingdom (by adding a Law to Generation) is likely to Infect and devour his neighbour, be but heard, that Neighbour will presently make Resistance by the same Engine; and it will <normalised orig="soone" auto="true">soon</normalised> <normalised orig="goe" auto="true">go</normalised> about, since the practice will be more easy to the Latter than it was to the first. Yett they surely who begin with the greatest numbers will have the greatest advantage in this Experiment, tho at the last a <normalised orig="superfoetation" auto="true">superfetation</normalised> of mankind, since our Space is Limited, must produce either Laws or Bloodshed for their necessary Reducing. <normalised orig="Soe" auto="true">So</normalised> I have seen in Germany most Stately Trees for a great space Burnt <normalised orig="downe" auto="true">down</normalised>, to <normalised orig="gett" auto="true">get</normalised> a little Arable to live by. <normalised orig="Soe" auto="true">So</normalised> you knew the Hebrew Children were <normalised orig="drownd" auto="true">drowned</normalised> on account of Multiplication, and somewhere in Greece the old men were by Law to be tumbled over a Bridge.</p>
+			<p>Now if the Success of the Project be Ruinous, what need I <normalised orig="speake" auto="true">speak</normalised> of the <normalised orig="Meanes" auto="true">Means</normalised> towards it - as to putt a <normalised orig="Girle" auto="true">Girl</normalised> at 16 and a <normalised orig="Ladd" auto="true">Lad</normalised> at 18 to <normalised orig="gett" auto="true">get</normalised> Children, before they know how to maintain them, or have served out <normalised orig="halfe" auto="true">half</normalised> their Apprentiseshipps?</p>
+			<p>If a whole Country of <normalised orig="poore" auto="true">poor</normalised> Labourers should have more Children than honest labour can <normalised orig="maintaine" auto="true">maintain</normalised> (as may presently bee, if one may have 25 children, and the first 12 be helpless), it follows that they must be maintained by the State. And consequently the State will be owners and disposers of the Children begotten, and <normalised orig="soe" auto="true">so</normalised> introduce a vasilage which leaves the Parents <normalised orig="noe" auto="true">no</normalised> other Right to their Children than the Earth hath to its Plants. How to <normalised orig="gett" auto="true">get</normalised> new <normalised orig="Lawes" auto="true">Laws</normalised> and <normalised orig="fitt" auto="true">fit</normalised> Judges for such a Constitution will in this our Climate be somewhat hard.</p>
+			<pb n="146" />
+			<p>Then whereas you fix the value of a man's Labour at 83&pound;, and <normalised orig="soe" auto="true">so</normalised> multiply the value with the increase of men, this my thinks would have a quite Contrary Effect; for if Diamonds grew as com~on as pebbles, they would be but of the same account.</p>
+			<p><normalised orig="Soe" auto="true">So</normalised> in the case of mortality, if in London it <normalised orig="exceede" auto="true">exceed</normalised> that in the Country, the multiplication of other <normalised orig="Cittys" auto="true">Cities</normalised> will doe the like. For if there be more men, there will be and must be more <normalised orig="communitys" auto="true">communities</normalised>; and the more London is populous the more will the Rule of Mortality increase. And <normalised orig="soe" auto="true">so</normalised> the future Throngs will somewhat <normalised orig="impayre" auto="true">impair</normalised> the numbers you impute to the career of generac~on.</p>
+			<p>But why do I meddle in these matters? You know Calculation is not a Herb of my Garden - <normalised orig="tis" auto="true">tic</normalised> a peculiar of your <normalised orig="owne" auto="true">own</normalised>. I can only write captiously and, as they say <normalised orig="'turne" auto="true">turn</normalised> the Tables', because you will have me write.</p>
+			<p>However to make you some amends. I will conclude with a story: There is a Province in China where by the constitution, all of the com~on sort who desired to marry, were twice a <normalised orig="yeare" auto="true">year</normalised> to send up their names to the <normalised orig="Capitall" auto="true">Capital</normalised> <normalised orig="Citty" auto="true">City</normalised> and to some <normalised orig="Senatours" auto="true">Senators</normalised> who presided for That End. Six of these took Care of the Males, and six more of the Females, and at the day of appearance each of the numbers were marshalled into 3 Squadrons. The men into the most Rich, the most <normalised orig="Poore" auto="true">Poor</normalised>, and those who were indifferent. <normalised orig="Alsoe" auto="true">Also</normalised> the women into the most Fair, the most ugly, and those <normalised orig="alsoe" auto="true">also</normalised> who were indifferent. These indifferents were <normalised orig="matcht" auto="true">matched</normalised> up on <normalised orig="equall" auto="true">equal</normalised> <normalised orig="termes" auto="true">terms</normalised>. The most <normalised orig="beautifull" auto="true">beautiful</normalised> were at high and valuable rates <normalised orig="payd" auto="true">paid</normalised> for by the most Rich; and at last the most <normalised orig="Poore" auto="true">Poor</normalised> <normalised orig="marryed" auto="true">married</normalised> the most Ugly. Yett they had this satisfaction: to have all the money <normalised orig="devided" auto="true">divided</normalised> among them which the most rich had given for the most fair. After this the magistrates lead them to the <normalised orig="Nuptiall" auto="true">Nuptial</normalised> <pb n="147" /> House, where at the <normalised orig="publick" auto="true">public</normalised> charges they had fiddles and sack possett for that night, and the next morning they had leave to depart.</p>
+			<p>I have <normalised orig="shewne" auto="true">shown</normalised> your Paper to Mr <normalised orig="Pepys" auto="true">Poppies</normalised>, who is but one of all mankind who are concerned in <normalised orig="itt" auto="true">it</normalised>; And I doe hereby make affidavit that I have taken a copy of it.</p>
+			<p>Yrs</p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_011">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="159" />
+			<head> <note resp="editor" value="87. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 24 Sept 1685</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>The <normalised orig="Inclosed" auto="true">Enclosed</normalised> is to one part of your kind letter of the <hi rend="sup" range="2,4" orig="19=th=">19th</hi>. As to the other, about the Irish Settlement, I must have a little time to ruminate on those master <normalised orig="Stroakes" auto="true">Strokes</normalised> you give, which in the <normalised orig="meane" auto="true">mean</normalised> time I very heartily thank you for.</p>
+			<p>I use my servant's hand in the <normalised orig="Inclosed" auto="true">Enclosed</normalised>, because you have <normalised orig="complayned" auto="true">complained</normalised> that my <normalised orig="owne" auto="true">own</normalised> is not <normalised orig="alwayes" auto="true">always</normalised> current.</p>
+			<pb n="160" />
+			<p>I hope my lady and the little ones are as I wish them. <normalised orig="Myne" auto="true">Mine</normalised> here I thank God are <normalised orig="soe" auto="true">so</normalised>. Neddy <normalised orig="braggs" auto="true">briggs</normalised> of your Favours and the fine <normalised orig="Mapps" auto="true">Maps</normalised> he has in custody. My 2 daughters think they have <normalised orig="gott" auto="true">got</normalised> all the <normalised orig="mathematicks" auto="true">mathematics</normalised> because they can demonstrate an <normalised orig="equilaterall" auto="true">equilateral</normalised> <normalised orig="Tryangle" auto="true">Triangle</normalised>.</p>
+			<p>Neddy has <normalised orig="gott" auto="true">got</normalised> from Caspar <note resp="editor" value="?" /> a <normalised orig="cleare" auto="true">clear</normalised> <normalised orig="plaine" auto="true">plain</normalised> Stile in all his Letters, <normalised orig="soe" auto="true">so</normalised> that I never have one hard word from him, which I am pleased with.</p>
+			<p>I have nothing more to add concerning Hobby Horses, and therefore <normalised orig="remayne" auto="true">remain</normalised></p>
+			<p>Sr, Your most affect Kinsman &amp; humble <hi rend="sup" range="4,5" orig="serv=t="><normalised orig="servt" auto="true">served</normalised></hi></p>
+			<p>Robert Southwell</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_012">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="171" />
+			<head> <note resp="editor" value="91. PETTY TO SOUTHWELL." /> </head>
+			<p>London, 10 October 1685</p>
+			<p>Dear <normalised orig="Cousen" auto="true">Cousin</normalised></p>
+			<p>Let <normalised orig="mee" auto="true">me</normalised> tack on a tip to the <normalised orig="tayle" auto="true">tail</normalised> of our <hi rend="type">Multiplication</hi> <normalised orig="businesse" auto="true">business</normalised>. I have yours of the <hi rend="sup" range="2,4" orig="24=th=">24th</hi> past. I have out of it and all your other letters <normalised orig="pickt" auto="true">picked</normalised> out what properly belongs to that matter. I have out of my first garble again <normalised orig="pick't" auto="true">picked</normalised> out what was wit, ornament, and Raillery, from the rest. In which finding (tho good) objections against what was not in my first essay, I have added such matter to the Essay as is a fit <normalised orig="anvile" auto="true">anvil</normalised> for your heavy <normalised orig="hamers" auto="true">homers</normalised>. That what you have ingeniously written may not bee lost, I have made men to bee <normalised orig="kild" auto="true">kilt</normalised> by your <normalised orig="Armes" auto="true">Arms</normalised>. And all this I am <normalised orig="importun'd" auto="true">importuned</normalised> to print, wherefore make hast up hither. To conclude (<normalised orig="Cousen" auto="true">Cousin</normalised>), If I <pb n="172" /> find that you have done <normalised orig="mee" auto="true">me</normalised> or my Essay any <normalised orig="harme" auto="true">harm</normalised>, I will satisfy my Justice upon you <normalised orig="onely" auto="true">only</normalised> by telling all the women of between 16 and 41 years old that you hinder their <normalised orig="haveing" auto="true">having</normalised> husbands &amp;c. Concerning the <hi rend="type">Quaeries</hi> , Let the <normalised orig="Divell" auto="true">Devil</normalised> take them for <normalised orig="mee" auto="true">me</normalised>.</p>
+			<p>In consequence of what I said to <hi rend="sup" range="4,5" orig="Mons=r=">Monsr</hi> Paschall's paper, you would have <normalised orig="mee" auto="true">me</normalised> do by <normalised orig="deare" auto="true">dear</normalised> Neddye's head as my Lady <normalised orig="Duches" auto="true">Duchess</normalised> of Ormond did to the round tower in Kilkenny; that is make his wall thiner, <normalised orig="breake" auto="true">break</normalised> out Lights, make partitions, set up Shelves, bring in furniture, new Frame the <normalised orig="staires" auto="true">stairs</normalised>, make new passages &amp;c. To all which I will make no answer till you come. I see <normalised orig="tis" auto="true">tic</normalised> better and easier to bee banged or beaten by you, than to write anything that pleases you.</p>
+			<p><normalised orig="Neverthelesse" auto="true">Nevertheless</normalised> to begin the furnishing of Neddyes Tower, I send you the shortest <normalised orig="Catichisme" auto="true">Catechism</normalised> I can frame, and suitable to our Com~on prayer <normalised orig="Catichisme" auto="true">Catechism</normalised>. I call it <hi rend="type">Religio Christiana puerilis</hi> - I might ad Et quae etiam est mea senilis .</p>
+			<p>Here is come out a book of note <hi rend="type">A Papist misrepresented and represented</hi> written by J. L. I object that Hee ought to have put nothing in his <normalised orig="Collumne" auto="true">Column</normalised> of 'Misrepresented', but what is found in authentic non-papist authors; and nothing into his <normalised orig="Collumne" auto="true">Column</normalised> of 'Represented' but the very words of the <normalised orig="Councill" auto="true">Council</normalised> of Trent. So have you this mighty book <normalised orig="answer'd" auto="true">answered</normalised>. When you come up, I will <normalised orig="shew" auto="true">show</normalised> you 2 sheets written by W P. to the said purpose.</p>
+			<p>I do not know what you meant by 'Brewing' - <normalised orig="Explaine" auto="true">Explain</normalised> it, and your operations upon Kings-Weston.</p>
+			<p>Adieu</p>
+			<p>W. P.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_013">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="175" />
+			<head> <note resp="editor" value="94. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 31 Oct. 1685</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>Although I am preparing by this day <normalised orig="Sevenight" auto="true">Seven-night</normalised> to <normalised orig="kisse" auto="true">kiss</normalised> your hand, yett in the <normalised orig="meane" auto="true">mean</normalised> time I will <normalised orig="thanke" auto="true">thank</normalised> you for your last, and the Character <normalised orig="therin" auto="true">therein</normalised> of your short Cathechisme, which I annex <normalised orig="alsoe" auto="true">also</normalised> to the Text and send it now to our Neddy to doe the like.</p>
+			<p>Whatever enemy you think me to <hi rend="type">Multiplication</hi> , I have this day planted above 40 <normalised orig="faire" auto="true">fair</normalised> Trees, and I hope they will produce their like, and <normalised orig="soe" auto="true">so</normalised> on in Secula Seculorum . O that I could but help to plant one Cedar in Kerry, and have the same prospect of duration! But how my Charity or Courage shall <normalised orig="avayle" auto="true">avail</normalised> herein, <normalised orig="unlesse" auto="true">unless</normalised> you have some white powder or other, that can putt any man forward like a Prince <normalised orig="Credentiall" auto="true">Credential</normalised>! Doe but you take care of this part and <normalised orig="I'le" auto="true">I'll</normalised> warrant you for following Instructions.</p>
+			<p>I long to see the pretty Governante and our Fingallian <normalised orig="uppon" auto="true">upon</normalised> the Stage. My 3 Spinsters charge me strictly to bring them <normalised orig="downe" auto="true">down</normalised> an exact account of all performance therein.</p>
+			<p>I see you allow me when I come up to <normalised orig="talke" auto="true">talk</normalised> of stuffing out our puccane <note resp="editor" value="?" /> I <normalised orig="meane" auto="true">mean</normalised> Neddy. One point I resolve shall be to know <normalised orig="wheather" auto="true">whether</normalised> you ever <normalised orig="writt" auto="true">wrote</normalised> down a <normalised orig="Sett" auto="true">Set</normalised> of Cases in the way of <normalised orig="Politicall" auto="true">Political</normalised> <pb n="176" /> <normalised orig="Arithmetick" auto="true">Arithmetic</normalised>, in order to instruct and settle the present Age in the method, for this you once did Intend.</p>
+			<p>I hope my lady is in perfect health and all the little ones. <normalised orig="Myne" auto="true">Mine</normalised> are merry and content, which is as good as being wise.</p>
+			<p>I am ever, <hi rend="sup" range="1,2" orig="S=r=">Sr</hi>, Your most affect &amp; most humble servant</p>
+			<p>Robert Southwell</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_014">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1685 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="179" />
+			<head> <note resp="editor" value="98. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 23. Dec 1685</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>Our Neddy is come, and what between him and Christmas, the Girls think they may be romps by authority. <normalised orig="Tis" auto="true">Tic</normalised> only Mr Kneller that <normalised orig="keepes" auto="true">keeps</normalised> them to any rules of proportion.</p>
+			<p>Your 3 Papers that he brought me, and your letter - the mother that <normalised orig="wrapt" auto="true">wrapped</normalised> them all - are welcome more than Christmas it <normalised orig="selfe" auto="true">self</normalised>. I must say as old Dr Clayton, that you brought 3 quarters of these things into the world with you. Non vox hominum sonat. Your Branches of <normalised orig="Regall" auto="true">Regal</normalised> authority show all the extent of that magnificent <normalised orig="Pallace" auto="true">Palace</normalised> at once.</p>
+			<p>Your judgment about the Art of <hi rend="type">Sweetening Sea Water</hi> makes me but wish that I had a list of all those thoughts and estimates which produced those few but effectual and mighty determinations.</p>
+			<p>The Epigrams and <normalised orig="Mottos" auto="true">Mottoes</normalised> on that Subject <normalised orig="shew" auto="true">show</normalised> what <normalised orig="numberlesse" auto="true">numberless</normalised> thoughts you have had, and a method how to <normalised orig="imploy" auto="true">employ</normalised> the Chipps, after you have hewed out the Mayne Timbers and <normalised orig="beames" auto="true">beams</normalised> for use.</p>
+			<p>The two stratagems of <normalised orig="Arithmetick" auto="true">Arithmetic</normalised> in your letter are very pleasing to us. We admire at the hidden affinity that <normalised orig="lyes" auto="true">lies</normalised> in numbers, and <normalised orig="breakes" auto="true">breaks</normalised> out as water that <normalised orig="runns" auto="true">runs</normalised> sometimes underground and sometimes <pb n="180" /> above. This I say in reference to the second trick about scattered numbers and their <normalised orig="Totalls" auto="true">Totals</normalised>. As to the first, by placing the <normalised orig="digitts" auto="true">digits</normalised> 15 just is made in 6 places, but more in the other 2 places.</p>
+			<p>These matters were the more seasonable for that we had already plungd into a french <normalised orig="booke" auto="true">book</normalised> of Mathematical Revelations, and poor <normalised orig="Neddy's" auto="true">Noddy's</normalised> head was almost cloven by hard questions which the girls had prepared for him. They are now reconciled, and all of them your <normalised orig="votaryes" auto="true">votaries</normalised>; and doe pay all duty to my Lady, and wish all manner of <normalised orig="happinesse" auto="true">happiness</normalised> to their Cousins.</p>
+			<p>I have my share in all these things, and will, as the time requires, conclude with a happy Christmas to you; and am ever with great acknowledgements Your most affect kinsman &amp; most humble servant</p>
+			<p>Robert Southwell</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_015">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="189" />
+			<head> <note resp="editor" value="106. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 28 April 1686</p>
+			<p>Dear Cousin</p>
+			<p>It is strange I should be <normalised orig="soe" auto="true">so</normalised> long in acknowledging yours of the <hi rend="sup" range="1,3" orig="8=th=">8th</hi>, but there are things to tell you of. I was since then at Badminton to <normalised orig="meete" auto="true">meet</normalised> my Lord of Ormonde - I was at Bathe to compliment my Lord Tirconnell - and at Longleat to bid farewell to my Lord Weymouth, who goes not <normalised orig="soe" auto="true">so</normalised> soon as he pretended. I have had <normalised orig="alsoe" auto="true">also</normalised> some ill <normalised orig="trickes" auto="true">tricks</normalised> of my sore throat: and even your letter was sick, for all of that post fell into the River and yours was <normalised orig="tatterd" auto="true">tattered</normalised> and <normalised orig="torne" auto="true">torn</normalised>, and it was almost Algebra to find it out.</p>
+			<pb n="190" />
+			<p>After this sincere preamble, I will as sincerely answer you as I can, for what you write concerns your <normalised orig="selfe" auto="true">self</normalised> and 3 cousins whom I have reason to <normalised orig="esteeme" auto="true">esteem</normalised>. I say your <normalised orig="selfe" auto="true">self</normalised>, because you mention the <hi rend="type">Explanation of 12 <normalised orig="Theologicall" auto="true">Theological</normalised> Words</hi> . I am afraid you may herein <normalised orig="Quieta" auto="true">Quiet</normalised> <normalised orig="movere" auto="true">mover</normalised> , and so blister your fingers; and if you <normalised orig="shew" auto="true">show</normalised> them at all to any, I wish you would <normalised orig="lett" auto="true">let</normalised> me have the first sight. You know I am your <normalised orig="Sawcy" auto="true">Saucy</normalised> friend, and adventer to chide while others choose to accuse.</p>
+			<p>As to Cousin Charles, I like <normalised orig="extreamly" auto="true">extremely</normalised> the Scope of his <normalised orig="Travell" auto="true">Travel</normalised>. You point at <normalised orig="severall" auto="true">several</normalised> <normalised orig="usefull" auto="true">useful</normalised> enterprises, but say all in saying he is to shift among the dangerous men.</p>
+			<p>For his mimicall faculty I am as much at a <normalised orig="plung" auto="true">plunge</normalised> as if my son were a great dancer on the High Rope. If there were <normalised orig="noe" auto="true">no</normalised> falling in the case, the vigour and activity would be pleasing enough! You handle the matter <normalised orig="soe" auto="true">so</normalised> as to <normalised orig="disowne" auto="true">disown</normalised> and applaud it at once. You think it is a good offensive weapon and yett such an one as may <normalised orig="neede" auto="true">need</normalised> a sword to defend It. You think it will allure women, <normalised orig="altho" auto="true">although</normalised> it terrify men. And so you <normalised orig="passe" auto="true">pass</normalised> to say that his sister hath a dash of the same. Now I should be sorry to pervert the Observation; and that any she-friend of mine should either terrify women or allure men - Nor can there be a sword in this case to defend it!</p>
+			<p>Can you not remember a <normalised orig="certaine" auto="true">certain</normalised> lady of the Land, who for acting others in her Chamber was brought <normalised orig="uppon" auto="true">upon</normalised> the <normalised orig="publick" auto="true">public</normalised> Stage, and Sempronia <note resp="editor">was</note> punished more at once than all the <normalised orig="Secrett" auto="true">Secret</normalised> farces were worth. <normalised orig="Tis" auto="true">Tic</normalised> true, in <normalised orig="meere" auto="true">mere</normalised> Children any Simptome of <normalised orig="Witt" auto="true">Wit</normalised> is welcome; but as to my cousin Ann that is now taking her ply, <normalised orig="roote" auto="true">root</normalised> this weed out I conjure you, as you would a <normalised orig="peece" auto="true">piece</normalised> of Witch Craft!</p>
+			<pb n="191" />
+			<p>I have been told of a Marshall of France, <hi rend="sup" range="3,5" orig="Mon=sr=">Monsr</hi> Clerambaut, who was wont to say "<normalised orig="Qui" auto="true">Queen</normalised> est <normalised orig="maistre" auto="true">maestro</normalised> du Ridicule est <normalised orig="maistre" auto="true">maestro</normalised> du <normalised orig="monde" auto="true">monte</normalised>" ; and that the Duke of Buckingham was <normalised orig="soe" auto="true">so</normalised> in Love with this saying and that man's example, that he resolved to build <normalised orig="uppon" auto="true">upon</normalised> the same foundation. Build he did (as you very well know), but the foundation being <normalised orig="naught" auto="true">nought</normalised>, the <normalised orig="Stormes" auto="true">Storms</normalised> and tempests beat down his House and great was the fall thereof.</p>
+			<p>As to my Cousin Harry, I am <normalised orig="extreamely" auto="true">extremely</normalised> in Love with his faculty of <hi rend="type">Pro</hi> and <hi rend="type">Con</hi> , for that will certainly bring in guinyes at Westminster Hall, tho he should never comprehend whether <hi rend="type">Pro</hi> or <hi rend="type">Con</hi> were most in the Right. This I say because I knew a great man that fulfilled It.</p>
+			<p>I will advise our Neddy to <normalised orig="strick" auto="true">strict</normalised> in with Cousin Harry betimes, and to <normalised orig="Steale" auto="true">Steal</normalised> a Sight of all the little and great Instructions you give to become picklock of the Law. We have <normalised orig="noe" auto="true">no</normalised> other engine at present but the demonstrations of Euclide.</p>
+			<p>I pay all service to my lady and kindness to the little ones, being ever <hi rend="sup" range="1,2" orig="S=r=">Sr</hi>, <hi rend="sup" range="1,3" orig="Y=rs=">Yrs</hi></p>
+			<p><normalised orig="R-S" auto="true">RS</normalised>.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_016">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="201" />
+			<head> <note resp="editor" value="112. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 29 May 1686</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>I had your condoling Letter of the <hi rend="sup" range="2,4" orig="22=nd=">22nd</hi>, and pray allow me to tell you what my Little daughter said, being a while <normalised orig="agoe" auto="true">ago</normalised> full of mirth and good humour at the Discourse that was <normalised orig="betweene" auto="true">between</normalised> us: "Truly father", said she, "If a <normalised orig="dogg" auto="true">dog</normalised> should come into the <normalised orig="Roome" auto="true">Room</normalised>, you doe say such play things, that I believe you would make him Laugh."</p>
+			<p>Cousin, you doe wipe off <normalised orig="Teares" auto="true">Tears</normalised> at a very strange rate, but why did nature furnish Them if there must be no Sorrow? Can you, by pointing at what is contemptible in a noble object, Establish your <normalised orig="maxime" auto="true">maxim</normalised> in this <normalised orig="alsoe" auto="true">also</normalised>: That nothing is Stronger than its weakest part? I should rather say it is <normalised orig="unnaturall" auto="true">unnatural</normalised> to lessen any thing that is either anihilated, or must rise glorious. For tho your friends in Eutopia triumph and sing Hymns at a <normalised orig="Funerall" auto="true">Funeral</normalised>, <normalised orig="tis" auto="true">tic</normalised> but to fortify those that must Dye, and by this disguise fling sugar into the bitter <normalised orig="Cupp" auto="true">Cup</normalised>. If you would know nature's mind, see what is done even by the men of Leest Humanity. The Cafras and Hattintoes never loose a Friend or Relation but they <normalised orig="cutt" auto="true">cut</normalised> off a <normalised orig="Joynt" auto="true">Joint</normalised> from one of their Fingers - <normalised orig="soe" auto="true">so</normalised> much they <normalised orig="scorne" auto="true">scorn</normalised> the acquisition of Mourning Rings. The Indian women <normalised orig="burne" auto="true">burn</normalised> with their dead Husbands, And the Husbands of Angola appoint when they dye who shall for 8 <normalised orig="dayes" auto="true">days</normalised> Console the afflicted <normalised orig="Widdow" auto="true">Widow</normalised>, and it falls to their next of kin thus to <normalised orig="cohabite" auto="true">cohabit</normalised> with Her if they dye Intestate.</p>
+			<pb n="202" />
+			<p>Funus justa petit and Sal <normalised orig="liquefit" auto="true">liquefied</normalised> ut condiat . <normalised orig="Teares" auto="true">Tears</normalised> are the true and <normalised orig="naturall" auto="true">natural</normalised> <normalised orig="balsome" auto="true">balsam</normalised>, and they who refuse Them <normalised orig="robb" auto="true">rob</normalised> the Dead.</p>
+			<p>But what Art - I was going to say play-words - does your <normalised orig="kindnesse" auto="true">kindness</normalised> find out to stifle my <normalised orig="recentments" auto="true">resentments</normalised>? You tell me of Empire, and how much I assend by the desolations that are past. If by loosing one wife I have Title to the million that are <normalised orig="unmarryed" auto="true">unmarried</normalised>, by the same right your million have Title to me; which would <normalised orig="proove" auto="true">prove</normalised> but a hard Chapter. And how can you magnify my Headship over Infants by the loose of Sir John Percivale? Is not this to magnify the <normalised orig="Rouling" auto="true">Rolling</normalised> of Sysiphus's stone - to <normalised orig="beginn" auto="true">begin</normalised> <normalised orig="againe" auto="true">again</normalised> at the <normalised orig="Bottome" auto="true">Bottom</normalised> when I was at the Mountain's <normalised orig="topp" auto="true">top</normalised>, and thought I had nursed up those who in reason should <normalised orig="turne" auto="true">turn</normalised> nurses to <normalised orig="myne" auto="true">mine</normalised>?</p>
+			<p>Thus you see, Cousin, I will not be comforted. For while your good nature finds Arts to divert Sorrow, It discovers there is some sorrow due; and it being as debt, the soonest payment will be the best.</p>
+			<p>As to the <normalised orig="Shipp" auto="true">Ship</normalised>, you have already had my <normalised orig="wandring" auto="true">wandering</normalised> thoughts. I doe for Consolation sometimes read the Chapter, how there arose a tempestuous wind called "Euroclidon"; yett after all, how some by swimming, others on Boards and broken planks, <normalised orig="gott" auto="true">got</normalised> all to Land, <normalised orig="soe" auto="true">so</normalised> as not a <normalised orig="soule" auto="true">soul</normalised> was lost. In the next place, when I am more shaken, and <normalised orig="thinke" auto="true">think</normalised> where Neddy (The Pinnace) may have surest anchorage in omne eventum , I start up and shape his Course, blow high, blow low, towards Westminster Hall; for whatever happens Crafty Knaves will Live.</p>
+			<p>I am Yrs</p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_017">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="209" />
+			<head> <note resp="editor" value="117. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 7 June 1686</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>I have the favour of 2 of yours of the <hi rend="sup" range="1,3" orig="5=th=">5th</hi> and the 'State of a Case' <normalised orig="Inclosed" auto="true">Enclosed</normalised>. One of your Letters is <normalised orig="uppon" auto="true">upon</normalised> <hi rend="type">Death without Mourning</hi> , and seeing it is hard to defend passion against Reason, I will acquiesce in your Arguments and read them <normalised orig="uppon" auto="true">upon</normalised> ill accidents, in hopes they will support me.</p>
+			<pb n="210" />
+			<p>As to the State of the Case you send now, and the State you sent before, I cannot think how any Cases can be more strong that are not of <normalised orig="Mathematicall" auto="true">Mathematical</normalised> Demonstration.</p>
+			<p>Nor did I tell you what I <normalised orig="hapned" auto="true">happened</normalised> to over <normalised orig="heare" auto="true">hear</normalised>, but with most friendly Intention - that you might <normalised orig="looke" auto="true">look</normalised> early out. I have known you formerly to mind your Cylinders, while your Acres were Tearing from you; and you would not desist from Philosophy, as long as it was not in the power of a Decree to <normalised orig="forbidd" auto="true">forbid</normalised> Rubarb and Cena from purging.</p>
+			<p>But since the discovery of my <normalised orig="owne" auto="true">own</normalised> <normalised orig="feares" auto="true">fears</normalised> hath exceeded all due proportion and that you send "Hulchy Pulchy" to defy It; I will take heart <normalised orig="alsoe" auto="true">also</normalised>, as did your Boy Thom, who was sorely <normalised orig="afrighted" auto="true">affrighted</normalised> at the roaring of the Sea and the trembling of the <normalised orig="Vessell" auto="true">Vessel</normalised>, till he heard the seamen <normalised orig="sweare" auto="true">swear</normalised>.</p>
+			<p>I am glad you expect better things from the new, than you felt from the old <normalised orig="Councill" auto="true">Council</normalised>, and I had <normalised orig="noe" auto="true">no</normalised> meaning in that phrase of "Land in the <normalised orig="Moone" auto="true">Moon</normalised>" but to excite you as aforesaid. For <normalised orig="marriners" auto="true">mariners</normalised> doe usually cry 'all hands Aboard' when there is thoughts of any danger.</p>
+			<p>I hope, Cousin, in the <normalised orig="meane" auto="true">mean</normalised> time it will be <normalised orig="noe" auto="true">no</normalised> false Latin to <normalised orig="looke" auto="true">look</normalised> well after my Hay, or if I <normalised orig="goe" auto="true">go</normalised> on with my new Invention of an Oxe-House, where the Cattle are both to eat and drink in the same <normalised orig="Cribb" auto="true">Crib</normalised>, and not to <normalised orig="stirr" auto="true">stir</normalised> till they be fitted for the Slaughter. Magister <normalised orig="Artis" auto="true">Arts</normalised> <normalised orig="Venter" auto="true">Venture</normalised></p>
+			<p>I am ever yrs</p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_018">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="210" />
+			<head> <note resp="editor" value="118. PETTY TO SOUTHWELL." /> </head>
+			<p><pb n="211" /> Piccadilly, 12 Junii 1686</p>
+			<p>Dre Cozn</p>
+			<p>To yours of the <hi rend="sup" range="1,3" orig="7=th=">7th</hi> I <normalised orig="returne" auto="true">return</normalised> this humble long answer. I beg your pardon <hi rend="sup" range="2,3" orig="(1=o=)">(1o)</hi> for comparing your friendly warnings to Goblins and <normalised orig="Devills" auto="true">Devils</normalised>, <hi rend="sup" range="2,3" orig="(2=o=)">(2o)</hi> for seeming to defy them all with the spell of 'hulchi' &amp;c, wherein I did not doe well. Pray doe not punish me by supposing the like hereafter, for I took all very kindly and thankfully.</p>
+			<p>Nevertheless what shall a man say who hath been used like <normalised orig="mee" auto="true">me</normalised> ( <hi rend="type">e.g.</hi> in Kerry), but at some times and to an Intimate friend use some words of contempt and desperation when Right and Reason will doe <normalised orig="noe" auto="true">no</normalised> good? What I said to you was but like that of Rhubarb &amp;c. to the Court of <normalised orig="Claymes" auto="true">Claims</normalised>. And I am glad that my spell 'Hulchi' gave you the same comfort that the Seaman's swearing did to Tom.</p>
+			<p>Among other weapons that I am <normalised orig="scowring" auto="true">scouring</normalised> up, I have drawn out a paper <normalised orig="shewing" auto="true">showing</normalised> what money I had at Xmas 1636 - which was 1s. How it rise to 4s 6d, then to 24s, then to 4&pound;. Then to 70. Next how it fell to 26, then rise to &pound;480 at my Landing in Ireland. Next to 13,060&pound; at finishing the Survey. And how after I <normalised orig="gott" auto="true">got</normalised> my Land in Ireland and Estate in England &amp;c, it was 3200&pound; at the King's Restoration &amp;c. And so all along to this very day. Perhaps the like hath not been <normalised orig="seene" auto="true">seen</normalised>. This and the like gave me courage wherewith I fought Zanchy. Whatever becomes of me I can leave such arguments of 50 <normalised orig="yeares" auto="true">years</normalised> art and Industry as will be a credit to my children <pb n="212" /> and friends. And now instead of <hi rend="type">Hulchi Pulchi</hi> I say <normalised orig="'God's" auto="true">God's</normalised> Will be done - Naked came I into the World and naked must go out of it.'</p>
+			<p>I did, Dear Cozen, obtrude upon you the Case with Lord Dunsany and <normalised orig="obeyd" auto="true">obeyed</normalised> you in sending that of Tegrohan. I take my <normalised orig="turne" auto="true">turn</normalised> to obtrude <normalised orig="againe" auto="true">again</normalised> <normalised orig="uppon" auto="true">upon</normalised> you that of Macgillicuddy which I think must needs come <normalised orig="uppon" auto="true">upon</normalised> the Stage. And then you shall <normalised orig="comand" auto="true">command</normalised> another, and so as long as you please, but no longer.</p>
+			<p>Enlarge a little <normalised orig="uppon" auto="true">upon</normalised> the <normalised orig="Meate" auto="true">Meat</normalised> and Drink Cribs which you have for your Oxen. I envy you <normalised orig="rurall" auto="true">rural</normalised> contentments - give me an alms out of your abundance. <normalised orig="Feare" auto="true">Fear</normalised> not Neddy; <normalised orig="Ile" auto="true">Isle</normalised> warrant hee will live, your Godson is short of him in that faculty,</p>
+			<p>Adieu <note resp="compiler" value="UNSIGNED" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_019">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="212" />
+			<head> <note resp="editor" value="119. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 10 July 1686</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>Here has been a great Irish wedding in our neighbourhood, and by the title I <normalised orig="tooke" auto="true">took</normalised> share in it, and part of the dinn has even reached this <normalised orig="poore" auto="true">poor</normalised> place. And these are the causes why I come thus slow to acknowledge yours of the <hi rend="sup" range="2,4" orig="12=th=">12th</hi> past.</p>
+			<p>I am now returning to the care of Hay Harvest and of my Oxe-House. In this there is nothing new, but that a <normalised orig="Streame" auto="true">Stream</normalised> of Water is to run under the <normalised orig="Cribb" auto="true">Crib</normalised>, <normalised orig="soe" auto="true">so</normalised> they drink where they stand and when they please; and this want of Liberty is to hasten them for the Slaughter. If Irish Rents come in <normalised orig="noe" auto="true">no</normalised> better, I must invent something more - either the art of fasting or <hi rend="sup" range="4,5" orig="Mons=r=">Monsr</hi> Payim's <note resp="editor" value="?" /> Invention to soften <normalised orig="beanes" auto="true">beans</normalised>.</p>
+			<p>I perceive you are scouring old papers, and your short hint of Meliorations from the <normalised orig="yeare" auto="true">year</normalised> 1636 is <normalised orig="soe" auto="true">so</normalised> entertaining that I wish I had more of It.</p>
+			<pb n="213" />
+			<p>I <normalised orig="thanke" auto="true">thank</normalised> you for the State of <hi rend="sup" range="1,2" orig="M=c=Gillocuddy">McGillocuddy</hi>'s <normalised orig="businesse" auto="true">business</normalised> which I have now read <normalised orig="againe" auto="true">again</normalised>, and I think your measure is very hard, but the time now to <normalised orig="redresse" auto="true">redress</normalised> it much harder. For who can mind right or wrong touching Ham~ocks and Cabins when the whole <normalised orig="Shipp" auto="true">Ship</normalised> is in danger, or <normalised orig="lyes" auto="true">lies</normalised> at Hull? And yett I am told (tho you say nothing of It) that Sir William <note resp="editor" range="1,5" orig="P[\etty\]">Petty</note> had great <normalised orig="accesse" auto="true">access</normalised> to the Great Man before his going over; that he gave him in <normalised orig="severall" auto="true">several</normalised> Schemes as to Adventurers and Soldiers, and urged so well the preference of Money to any disturbance of the present Settlement, that the Great Man <normalised orig="himselfe" auto="true">himself</normalised> <normalised orig="seemes" auto="true">seems</normalised> to have a <normalised orig="Byas" auto="true">Bias</normalised> that way; that he has been heard to say how his <normalised orig="owne" auto="true">own</normalised> Fortune was settled by the Acts, and that His Majesty has <normalised orig="noe" auto="true">no</normalised> thought of parting with a foot of his estate in that Country. And this is all I can say as to the Mayne.</p>
+			<p>I am glad you fancy that Neddy will find out the way of shifting among dangerous men. It will import him both for his <normalised orig="owne" auto="true">own</normalised> sake and his sisters too.</p>
+			<p>I hope my good lady and all yours are well. We have lost in Sir William Coventry a great man of our nation.</p>
+			<p>I am ever <normalised orig="yr" auto="true">ire</normalised></p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_020">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="213" />
+			<head> <note resp="editor" value="120. PETTY TO SOUTHWELL." /> </head>
+			<p><pb n="214" /> Piccadilly, 13 July 1686</p>
+			<p>Dr Cozen</p>
+			<p>I will now answer but a small part of yours of the <hi rend="sup" range="2,4" orig="10=th=">10th</hi> Instant, and divide even that small part into the 3 partites following (1) Concerning <normalised orig="myselfe" auto="true">myself</normalised>. (2) Neddy. (3) The great man you mention.</p>
+			<p>Concerning Myself, I say that I had 13,060&pound; in cash anno 1656, which at 10 per cent (above 12 being then justly taken) would anno 1666 have <normalised orig="beene" auto="true">been</normalised> 26,120&pound;, and anno 1676 52,240&pound;, and in this <normalised orig="yeare" auto="true">year</normalised> 1686 104 thousand 480&pound;. I further say that, without meddling with forfeited lands, I could Anno 1656 have returned into England and been at the top of practice in Oliver's Court, when Dr Willis was casting waters at Abington Markett and the Cock <normalised orig="Lowre" auto="true">Lower</normalised> but an <normalised orig="Egge" auto="true">Egg</normalised>. And what the superlucration thereof (besides the <hi rend="sup" range="3,4" orig="104=m=">104m</hi> &pound;) might have <normalised orig="beene" auto="true">been</normalised> in 30 <normalised orig="yeares" auto="true">years</normalised>, I leave to your judgment. I say the profitt of these 2 funds, would have exceeded my present State by <note resp="editor" value="BLANK" /> .</p>
+			<p>As to Neddy, I say that this present great and early acquaintance, with the easy access to great Men, will give him bread and cheese by the Law before he bee ripe; whereas my Harry may be an able man 7 <normalised orig="yeares" auto="true">years</normalised> before he <normalised orig="getts" auto="true">gets</normalised> bread only.</p>
+			<p>As to the Great man, I had indeed strange <normalised orig="accesse" auto="true">access</normalised> and acceptance. I spake unto him as one having authority and not as the Scribes and Pharisees. I said <normalised orig="severall" auto="true">several</normalised> <normalised orig="sowre" auto="true">sour</normalised> things which he took as Juice of Orange Squeezed into his Mince meat, and not as <normalised orig="Vitrioll" auto="true">Vitriol</normalised>. For some of the things he told me were these:</p>
+			<pb n="215" />
+			<p><hi rend="sup" range="1,2" orig="1=o=">1o</hi>. That all the Lands which the Irish lost as forfeited were not worth Anno 1653, when they left them, <normalised orig="neare" auto="true">near</normalised> <hi rend="sup" range="3,4" orig="300=m=">300m</hi> pounds.</p>
+			<p><hi rend="sup" range="1,2" orig="2=o=">2o</hi>. That the 34,000 men which the heads of the Irish were permitted and assisted to carry to <normalised orig="forraigne" auto="true">foreign</normalised> States, at 10&pound; per head, were worth more than the said Lands; but 10&pound; is not 1/2 the value of negroes nor 1/5 of Algier slaves, nor 1/7 of their real value in Ireland.</p>
+			<p><hi rend="sup" range="1,2" orig="3=o=">3o</hi>. I said that what the Irish <normalised orig="gott" auto="true">got</normalised> restored Anno 1663, more then what belonged to them Anno 1641, is now worth much more than all they ever lost.</p>
+			<p><hi rend="sup" range="1,2" orig="4=o=">4o</hi>. That they <normalised orig="gott" auto="true">got</normalised> <hi rend="sup" range="4,5" orig="1100=m=">1100m</hi> Acres of Land by Innocence, making 7 of 8 Innocent. Whereas it <normalised orig="appeares" auto="true">appears</normalised> by the arrears <normalised orig="allowd" auto="true">allowed</normalised> to the 49 officers, that there was a Protestant Army of <hi rend="sup" range="2,3" orig="20=m=">20m</hi> men from 1641 to 1649, which army together with the 7/8 of the Irish that were Innocent, could not <normalised orig="beate" auto="true">beat</normalised> 1/8 nocent part of the Irish, but necessitated my Lord of Ormond to make the Peace of 1648 - vide the Articles.</p>
+			<p>This (as Sir Jerome said) "was not <normalised orig="halfe" auto="true">half</normalised>". He heard me with trouble and admiration. He <normalised orig="pressd" auto="true">pressed</normalised> me to <normalised orig="speake" auto="true">speak</normalised> of the Settlement. I told him there were things in it against the light of Nature and the current Equity of the World, but <normalised orig="wether" auto="true">whether</normalised> it was worth the breaking I doubted; but if It were <normalised orig="broaken" auto="true">broken</normalised> by Parliament I <normalised orig="offerd" auto="true">offered</normalised> things to be <normalised orig="mix'd" auto="true">mixed</normalised> with those Acts as should mend the Condition of all men.</p>
+			<p>Thus much for the present from him who is Yours</p>
+			<p>W-P.</p>
+			<p>The next shall be how I <normalised orig="gott" auto="true">got</normalised> the shilling at Xmas 1636. How I came by 4s 6d when I went to sea and how I advanced the same to 24s when I went to the Jesuits <normalised orig="Colledge" auto="true">College</normalised>. What the setting of my <normalised orig="Broaken" auto="true">Broken</normalised> <normalised orig="Legg" auto="true">Leg</normalised> cost to the farrier's wife, what for Crutches &amp;c.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_021">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="229" />
+			<head> <note resp="editor" value="127. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 11 Augt 1686</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>I have yours of the <hi rend="sup" range="1,3" orig="7=th=">7th</hi> and am <normalised orig="soe" auto="true">so</normalised> conscious of my late silence, that you <normalised orig="deale" auto="true">deal</normalised> hardly with me to reproach it. You have sung <normalised orig="soe" auto="true">so</normalised> many new and surprising Tunes that I am just like the Cobbler's Daw - struck mute on the Caesurean <normalised orig="Tryumph" auto="true">Triumph</normalised>. But, as in a month he burst out with all the <normalised orig="musick" auto="true">music</normalised> he had heard, <normalised orig="soe" auto="true">so</normalised> I wish I may <normalised orig="proove" auto="true">prove</normalised> like that Daw in this part.</p>
+			<p>We have <normalised orig="beene" auto="true">been</normalised> of late wholly Intent on our friends from Ireland, and on Sunday the last <normalised orig="parcell" auto="true">parcel</normalised> arrived. And I have frequent <normalised orig="returnes" auto="true">returns</normalised> of a <normalised orig="Scurvey" auto="true">Scurvy</normalised> <normalised orig="Soare" auto="true">Soar</normalised> Throat, <normalised orig="soe" auto="true">so</normalised> that, <normalised orig="unlesse" auto="true">unless</normalised> I would <normalised orig="onely" auto="true">only</normalised> <hi rend="type">admire</hi> , I am not in a condition to <normalised orig="speake" auto="true">speak</normalised> to you at large.</p>
+			<p><normalised orig="Tis" auto="true">Tic</normalised> almost 20 <normalised orig="yeares" auto="true">years</normalised> past that I have desired the <pb n="230" /> explanation of Ut Apes Geometriam , and you may judge if I am not exalted now to see <normalised orig="soe" auto="true">so</normalised> many master <normalised orig="stroakes" auto="true">strokes</normalised> thereon, and more perhaps than ever you thought at First. But <normalised orig="tis" auto="true">tic</normalised> now a cloudy and a <normalised orig="rayny" auto="true">rainy</normalised> day, and I will not risk or execute what Tully <normalised orig="sayes" auto="true">says</normalised> on such occasions - periclitandae sunt <normalised orig="vires" auto="true">verse</normalised> ingenii, et ista <normalised orig="mentis" auto="true">mantis</normalised> interna comentatio proferenda est - for I cannot yett think as I ought or utter what I think. <normalised orig="Soe" auto="true">So</normalised> this is <normalised orig="onely" auto="true">only</normalised> to <normalised orig="bespeake" auto="true">bespeak</normalised> your patience and to advise you to <normalised orig="looke" auto="true">look</normalised> well after your flock, since already your spinster is called <normalised orig="uppon" auto="true">upon</normalised>. I expect <normalised orig="noe" auto="true">no</normalised> such humours till Irish Rents are better <normalised orig="payd" auto="true">paid</normalised>, or to pay <normalised orig="Goates" auto="true">Goats</normalised> <normalised orig="Hayre" auto="true">Hair</normalised> instead of <normalised orig="wooll" auto="true">wool</normalised>.</p>
+			<p>My Lady Percivale does most <normalised orig="thankefully" auto="true">thankfully</normalised> acknowledge yours and my <normalised orig="ladyes" auto="true">ladies</normalised> kind remembrances. She has here 2 brave brawny <normalised orig="boyes" auto="true">boys</normalised> as loud as bedlams and the <normalised orig="Girle" auto="true">Girl</normalised> is of the same Tribe; and in November we expect an other of the same Scantling.</p>
+			<p>I am ever Yrs</p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_022">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="232" />
+			<head> <note resp="editor" value="131.SOUTHWELL TO PETTY." /> </head>
+			<p><pb n="233" /> Kingsweston, 13 Sept 1686</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>I have yours of the <hi rend="sup" range="1,3" orig="9=th=">9th</hi> and the Essay <normalised orig="Inclosd" auto="true">Enclosed</normalised> therein. If admiration could please you I can afford very good measure, but if you love Victory more than submission, I must displease you for I am not able to contend. I have read the paper with strange delight, and <normalised orig="doubtlesse" auto="true">doubtless</normalised> <normalised orig="soe" auto="true">so</normalised> will the Pope, for my thinks that King should <normalised orig="hould" auto="true">hold</normalised> none of his <normalised orig="Councills" auto="true">Councils</normalised> <normalised orig="secrett" auto="true">secret</normalised> while a blind man in London can <normalised orig="discribe" auto="true">describe</normalised> more of his Condition that he knew <normalised orig="himselfe" auto="true">himself</normalised>. In the <normalised orig="meane" auto="true">mean</normalised> time you have done our King great Honour to <normalised orig="shew" auto="true">show</normalised> the world that he <normalised orig="Governes" auto="true">Governs</normalised> the greatest <normalised orig="Citty" auto="true">City</normalised> that is in it.</p>
+			<p>When I consider this discourse and your others of like Nature, <normalised orig="lett" auto="true">let</normalised> me putt you in mind how you have formerly promised a Sort of Gram~ar or Instruction whereby this Age may be enabled to calculate as you have done, and which assuredly was never done before. Our Neddyes head might in time take this <normalised orig="Byas" auto="true">Bias</normalised>, for he is Inclined to Numbers.</p>
+			<p>What shall I add more at present save my thanks for your great favour in this precious Token, and to one who is already <normalised orig="soe" auto="true">so</normalised> much in arreare to you <normalised orig="uppon" auto="true">upon</normalised> other Accounts. I still beg for time. And if in the <normalised orig="meane" auto="true">mean</normalised> time you know what the great Lord is doing, and to what end Mr Nagle, the great Surveyor of Ireland, is come over with him, you will be <normalised orig="soe" auto="true">so</normalised> kind as to impart a word unto</p>
+			<p>Yrs</p>
+			<p>R. S.</p>
+			<p>All services from herein to the Lady and the little ones.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_023">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="236" />
+			<head> <note resp="editor" value="134. SOUTHWELL TO PETTY." /> </head>
+			<p><note resp="editor" value="KINGSWESTON" /> 23 Oct 1686</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>We stand in <normalised orig="neede" auto="true">need</normalised> of your Judgment in a <normalised orig="materiall" auto="true">material</normalised> point. A <normalised orig="certaine" auto="true">certain</normalised> wayfaring man <normalised orig="calld" auto="true">called</normalised> the other day, and taking notice that one of the 3 spinsters had a very browne neck, "Child" <normalised orig="sayd" auto="true">said</normalised> he "you will not <normalised orig="gett" auto="true">get</normalised> a Husband <normalised orig="unlesse" auto="true">unless</normalised> your neck <normalised orig="looke" auto="true">look</normalised> whiter" - "Sir" said she "by the time I <normalised orig="neede" auto="true">need</normalised> a Husband, Browne Necks may come into fashion" - "<normalised orig="Noe" auto="true">No</normalised>" <normalised orig="sayd" auto="true">said</normalised> he "I will here present you with an Amber Neck-lace which will <normalised orig="gaine" auto="true">gain</normalised> you favour <normalised orig="imediately" auto="true">immediately</normalised>; but once that it is on, you must never take it off" - "<normalised orig="Noe" auto="true">No</normalised> Sir" <normalised orig="sayd" auto="true">said</normalised> she "perhaps I may live <normalised orig="soe" auto="true">so</normalised> long as that such a neck lace may come to throttle me at last." Now what think you of the Girle's Answer?</p>
+			<p>I read lately a <normalised orig="melancholly" auto="true">melancholy</normalised> prophesy, and the <pb n="237" /> contents were much to my <normalised orig="owne" auto="true">own</normalised> <normalised orig="sence" auto="true">sense</normalised>, and the prophet was a Great Caldean, and had long conversed with Men and <normalised orig="Starrs" auto="true">Stars</normalised>; <normalised orig="soe" auto="true">so</normalised> as I was much disquieted thereat. But when I considered that these things were not <normalised orig="writt" auto="true">wrote</normalised> either in Serious Prose or in <normalised orig="broaken" auto="true">broken</normalised> ejaculations or distracted words, but in smooth and flowing numbers - then <normalised orig="sayd" auto="true">said</normalised> I, "the <normalised orig="bitternesse" auto="true">bitterness</normalised> is over past, for who can utter Melody in his <normalised orig="sadnesse" auto="true">sadness</normalised>, or sing tunably when he is in a Strange land?" Since therefore the matter and the manner doe not agree, I also will sing:</p>
+			<p>"As men by <normalised orig="stormes" auto="true">storms</normalised> may to their Haven <normalised orig="Sayle" auto="true">Sail</normalised>,</p>
+			<p><normalised orig="Soe" auto="true">So</normalised> <normalised orig="lett" auto="true">let</normalised> your Numbers, not your <normalised orig="Sence" auto="true">Sense</normalised> <normalised orig="prevayle" auto="true">prevail</normalised>."</p>
+			<note resp="compiler" value="UNSIGNED" />
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_024">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1686 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="247" />
+			<head> <note resp="editor" value="143. PETTY TO SOUTHWELL." /> </head>
+			<p><pb n="248" /> London, <hi rend="sup" range="2,4" orig="25=th=">25th</hi> X br 1686.</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> <normalised orig="Cosen" auto="true">Cousin</normalised></p>
+			<p>Wee have not seen Neddy these 3 weeks and therefore suppose him to bee with you. If hee had <normalised orig="cald" auto="true">called</normalised> here, I would have given him the hints you desired; <normalised orig="altho" auto="true">although</normalised> in truth it is not necessary, for I do not know what is what, and my <normalised orig="owne" auto="true">own</normalised> cake, whereof I thought to have given you a <normalised orig="Bitt" auto="true">Bit</normalised>, may prove dough. I have had a letter from Sir George Curtis, but can say to you little about it as yet. My observing the wind too much, makes <normalised orig="mee" auto="true">me</normalised> not sow.</p>
+			<p>But <normalised orig="Cousen" auto="true">Cousin</normalised>, the <normalised orig="Bombes" auto="true">Bombs</normalised> against my Essays are <normalised orig="fierd" auto="true">feared</normalised>, one by <hi rend="type">La Republiq de Letters</hi> , and the other from the great <hi rend="sup" range="4,5" orig="Mons=r=">Monsr</hi> Auzout from Rome. More are daily expected from Paris and particularly from the famous Abbot Bernou. I received <hi rend="sup" range="4,5" orig="Mons=r=">Monsr</hi> Auzout's on Wensday last between 9 and 10, and <normalised orig="caryed" auto="true">carried</normalised> the King an Answer before 12, made before all the White Staves in the Bed Chamber. The chief objection was, that the out-Parishes which have stood these 50 <normalised orig="yeares" auto="true">years</normalised> in the Bills of Mortality, should not be accounted London. His paper did fall most upon what Captain <normalised orig="Graunt" auto="true">Grant</normalised> and myself had ever writ upon these matters.</p>
+			<p>I promised the King my speedy <normalised orig="remarques" auto="true">remarks</normalised> upon all hee said, which I have since done and I hope pretty well. And afterwards I made 2 new Essays in one, where I proved over again all that I had said before of London, Rome, <normalised orig="Rouen" auto="true">Roan</normalised> and Dublin, even allowing <hi rend="sup" range="4,5" orig="Mons=r=">Monsr</hi> Auzout all his Demands; even those for which hee had offered no manner of proof.</p>
+			<p>In the other Essays, wherein I <normalised orig="deale" auto="true">deal</normalised> with <normalised orig="lesse" auto="true">less</normalised> favour and more Justice towards the Interest of Paris and <hi rend="sup" range="4,5" orig="Mons=r=">Monsr</hi> Auzout, I <normalised orig="shew" auto="true">show</normalised> London to bee <normalised orig="equall" auto="true">equal</normalised> to Paris, Rome, and <normalised orig="Rouen" auto="true">Roan</normalised>, from their <normalised orig="owne" auto="true">own</normalised> sayings, <normalised orig="altho'" auto="true">although</normalised> I do not <normalised orig="beleive" auto="true">believe</normalised> it myself; which things I intend to <normalised orig="shew" auto="true">show</normalised> the King tomorrow if I can. I also, in answer to their objecting a <normalised orig="Citty" auto="true">City</normalised> in Persia to bee <pb n="249" /> greater than London, <note resp="editor">show</note> that (by their <normalised orig="owne" auto="true">own</normalised> sayings) the said Persian <normalised orig="Citty" auto="true">City</normalised> had 44000 Moschees in it before Mahomet was come.</p>
+			<p>This do they get who wrong your poor <normalised orig="Cousen" auto="true">Cousin</normalised>, who <normalised orig="wisheth" auto="true">wishes</normalised> you a Merry Christmas, and that the next <normalised orig="yeare" auto="true">year</normalised> may bee no worse than the past, and who is your good Company's and Kings-Weston and your <normalised orig="owne" auto="true">own</normalised></p>
+			<p>honest servant.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_025">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="249" />
+			<head> <note resp="editor" value="144. SOUTHWELL TO PETTY." /> </head>
+			<p><note resp="editor" value="KINGSWESTON" /> 6 Jan 1686/7</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>Yours of the <hi rend="sup" range="2,4" orig="25=th=">25th</hi> past made our Christmas here <normalised orig="looke" auto="true">look</normalised> like it <normalised orig="selfe" auto="true">self</normalised>, and we were all rejoycd to <normalised orig="heare" auto="true">hear</normalised> how you repelld the Roman <normalised orig="Gyant" auto="true">Giant</normalised> and <normalised orig="gott" auto="true">got</normalised> his Majesty of your <normalised orig="syde" auto="true">side</normalised>. When all is <normalised orig="setled" auto="true">settled</normalised> that relates to this predicament, I hope I shall not be the last to <normalised orig="solemnize" auto="true">solemnise</normalised> your fame, if you will but give me the <normalised orig="meanes" auto="true">means</normalised>.</p>
+			<p>Neddy is with us and preparing his mind to <normalised orig="passe" auto="true">pass</normalised> a little time in Oxford. My Lady Percivale lately lost her <normalised orig="onely" auto="true">only</normalised> daughter by convultion <normalised orig="fitts" auto="true">fits</normalised>, but the 3 <normalised orig="boyes" auto="true">boys</normalised> doe bravely.</p>
+			<p>I see how cautious you are in <normalised orig="Joyning" auto="true">Joining</normalised> issue with Sir G. Curtis, and who can blame you? We are <normalised orig="stund" auto="true">stunt</normalised> on account of the same motives. What you think <normalised orig="fitt" auto="true">fit</normalised> to spare as <normalised orig="newes" auto="true">news</normalised> or Information shall be <normalised orig="lookt" auto="true">looked</normalised> on as from the hand it comes.</p>
+			<p>Doe you still think that the <normalised orig="Parlyament" auto="true">Parliament</normalised> will here <normalised orig="meete" auto="true">meet</normalised>? I suppose their will <normalised orig="soone" auto="true">soon</normalised> be one in Ireland.</p>
+			<p>My Lady Dering prepares to be going up on Monday, and my Lady Percivale goes after, and they <normalised orig="needes" auto="true">needs</normalised> will have two of my <normalised orig="girles" auto="true">girls</normalised> of the party. I wish a happy <normalised orig="yeare" auto="true">year</normalised> to my lady and to all yours, and am ever,</p>
+			<p>Yrs <note resp="compiler" value="UNSIGNED" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_026">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="260" />
+			<head> <note resp="editor" value="152. SOUTHWELL TO PETTY." /> </head>
+			<p><pb n="261" /> <note resp="editor" value="CORNEBURY" /> 7 March. 1686/7</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>I have yours of the <hi rend="sup" range="1,3" orig="5=th=">5th</hi> and <normalised orig="thanke" auto="true">thank</normalised> you for the honour of It. All you write is to me a matter of Record. I could not <normalised orig="conceale" auto="true">conceal</normalised> it from the Lord I am with, nor he <normalised orig="forbeare" auto="true">forbear</normalised> to desire an extract of it, <normalised orig="soe" auto="true">so</normalised> <normalised orig="authentick" auto="true">authentic</normalised> it was in matter of moment and <normalised orig="soe" auto="true">so</normalised> entertaining in all the Rest.</p>
+			<p>I deplore the ejectments you mention and it drives me to remember a dirty rime imputed to Cromwell when they told him of Magna Charta.</p>
+			<p>My lady has my best wishes <normalised orig="wheather" auto="true">whether</normalised> she goes or stays, and to make them stick I would fasten them with <normalised orig="goulden" auto="true">golden</normalised> <normalised orig="pinns" auto="true">pins</normalised> if I had them. My daughters <normalised orig="bragg" auto="true">brag</normalised> of her ladyships favour towards them, and if my God-son take a stride into the world to enable him (in your own phrase) to 'live among dangerous men', may he prosper like his father's Bee Hive and <normalised orig="returne" auto="true">return</normalised> home <normalised orig="againe" auto="true">again</normalised> Crura thymo <normalised orig="Plena" auto="true">Plane</normalised> .</p>
+			<p>You have so anatomized the wooden head, that I shall never mind it more, but for an <normalised orig="eccho" auto="true">echo</normalised>, I wish you had heard one which the Lord Carlinford cairyed me to see within a mile of Milan. We stood in the gallery of a Gentleman's House, one story high, and in his garden (where were Trenches and I think some <pb n="262" /> standing water), the <normalised orig="eccho" auto="true">echo</normalised> repeated after me the word "Home" 21 times distinctly.</p>
+			<p>I <normalised orig="thanke" auto="true">thank</normalised> you for all the proportions of Land you mention. The reason of my enquiry herein was to enable me to Answer those who rashly <normalised orig="affirme" auto="true">affirm</normalised> (and that in print) that the Irish had nothing by the Settlement; that if by the Usurper they were <normalised orig="whipt" auto="true">whipped</normalised> with Iron, it has <normalised orig="beene" auto="true">been</normalised> since the <normalised orig="Restauration" auto="true">Restoration</normalised> with Scorpions.</p>
+			<p>What you add <normalised orig="beyound" auto="true">beyond</normalised> what I requested, which is the Compromise of the 6 July 1665, is what I have long had in my Head, which you now diffinitly <normalised orig="explaine" auto="true">explain</normalised>. I doe believe, and I think remember, that this Agreement was signed at my Lord Anglesey's House in Drury Lane, where the Lord Clancarty, Sir Nicholas Plunkett and the Heads of the Party did <normalised orig="meete" auto="true">meet</normalised> and agree thereto. I cannot say I saw the Paper, but I remember it was reported in <normalised orig="Councill" auto="true">Council</normalised> that all was Agreed. And when in 1672 the <normalised orig="Comission" auto="true">Commission</normalised> of Enquiry was on foot and Sir Henage Finch acted his part as a Champion for the Settlement, He <normalised orig="soe" auto="true">so</normalised> vigorously insisted on this Agreement that I remember the good King <normalised orig="sayd" auto="true">said</normalised> in <normalised orig="Councill" auto="true">Council</normalised>, "Nay I doe well remember there was some kind of agreement in this matter".</p>
+			<p>It <normalised orig="seemes" auto="true">seems</normalised> this Paper is now lost or <normalised orig="buryed" auto="true">buried</normalised> with these proceedings - which I once received from Sir James Shaen all in a <normalised orig="deale" auto="true">deal</normalised> Box; and for want of other <normalised orig="Roome" auto="true">Room</normalised>, they were placed under the great Table in the <normalised orig="Councill" auto="true">Council</normalised> Chamber and I <normalised orig="beleive" auto="true">believe</normalised> <normalised orig="remayned" auto="true">remained</normalised> there till the Chamber was lately altered. And who <normalised orig="knowes" auto="true">knows</normalised> but it may still be found in the same box - if it be not a crime to <normalised orig="looke" auto="true">look</normalised> for it. As to my having <normalised orig="Studdyed" auto="true">Studied</normalised> the <normalised orig="severall" auto="true">several</normalised> Peaces, it was purely to find by those Sibill's <normalised orig="Bookes" auto="true">Books</normalised> what might now ensue (at the least). For that which was once contended for with sword in hand, will now <normalised orig="certainely" auto="true">certainly</normalised> be taken when it may be <pb n="263" /> had without contention. And what the moddell will be, is now I think the expectation of every Post.</p>
+			<p>I see how you have <normalised orig="layd" auto="true">laid</normalised> by the mala stamina of a History that was Intended, and what you say of Sir John Davys his <normalised orig="Essayes" auto="true">Essays</normalised>, and the misfortune of his Law and learning, which <normalised orig="onely" auto="true">only</normalised> enabled him to putt the Patch <normalised orig="besyde" auto="true">beside</normalised> the Hole. If I live to see you I hope to be <normalised orig="happyer" auto="true">happier</normalised> than the world, and see those treasures <hi rend="type">De Jure Belli, Jure <normalised orig="Naturae" auto="true">Nature</normalised></hi> and <hi rend="type">Jure Gentium</hi> .</p>
+			<p>I return home in 3 <normalised orig="dayes" auto="true">days</normalised>.</p>
+			<note resp="compiler" value="UNSIGNED" />
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_027">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="265" />
+			<head> <note resp="editor" value="156. PETTY TO SOUTHWELL." /> </head>
+			<p>Piccadilly, 7 <normalised orig="Aprill" auto="true">April</normalised> 1687</p>
+			<p><hi rend="sup" range="1,2" orig="D=r=">Dr</hi> <hi rend="sup" range="3,4" orig="Coz=n=">Cozn</hi></p>
+			<p>The book (which you say might have been a Cartload) had 2 points in it: the one about the <pb n="266" /> Plague, the other about the new Wall propounded for London. Nobody but <normalised orig="yourselfe" auto="true">yourself</normalised> hath taken notice of the former, and nobody at all of the latter - So <normalised orig="deafe" auto="true">deaf</normalised> are the Adders wee <normalised orig="charme" auto="true">charm</normalised> unto!</p>
+			<p>As for the Settlement, Let us fancy it to bee a Ship and to be repaired and made better.</p>
+			<p><hi rend="sup" range="1,2" orig="1=o=">1o</hi>. The <normalised orig="'Coventry" auto="true">Coventry</normalised> letter' propounds to <normalised orig="breake" auto="true">break</normalised> it up, <normalised orig="burne" auto="true">burn</normalised> most of the <normalised orig="materialls" auto="true">materials</normalised>, and build some other Thing (not another Ship) with the rest.</p>
+			<p><hi rend="sup" range="1,2" orig="2=o=">2o</hi>. I meet with another who advises the sawing of it in 2 and making it longer, as also taking <normalised orig="downe" auto="true">down</normalised> her Upper-workes wherewith <normalised orig="shee" auto="true">she</normalised> is top-heavy, "for so" <normalised orig="sayth" auto="true">saith</normalised> Hee "She will be a bigger and a better ship" - but Wee have not Carpenters to do it.</p>
+			<p><hi rend="sup" range="1,2" orig="3=o=">3o</hi>. The letter of the 15 November (which I praise and admire) thinks That calking it <normalised orig="a-new" auto="true">anew</normalised>, and phay-goodling <note resp="editor" value="?" /> it almost, may serve <normalised orig="turne" auto="true">turn</normalised>.</p>
+			<p><hi rend="sup" range="1,2" orig="4=o=">4o</hi>. But I lately met with an old Carpenter sitting upon a Log of Timber, smoking his short pipe, to whom I said: "<normalised orig="D'yee" auto="true">Do ye</normalised> see that Ship yonder in the road?" - "See her" <normalised orig="sayd" auto="true">said</normalised> hee, "A pox on her! I remember when she was built, and wrought <normalised orig="myselfe" auto="true">myself</normalised> for a while upon her, till I found knavery among the Chief owners and the workmen too, by Gad." - "Well" <normalised orig="sayd" auto="true">said</normalised> I, "What <normalised orig="d'y" auto="true">do ye</normalised> think of her?" - "<normalised orig="Shee's" auto="true">Shoe's</normalised> a rotten Toad" quoth hee, "There was a <normalised orig="Couzen" auto="true">Cousin</normalised> of the owner's that <normalised orig="serv'd" auto="true">served</normalised> us in rotten Timber and plank, which as <normalised orig="twas" auto="true">it was</normalised> <normalised orig="lay'd" auto="true">laid</normalised> was tarred over and <normalised orig="lookt" auto="true">looked</normalised> like sufficient <normalised orig="stuffe" auto="true">stuff</normalised>, and the Devil and all." - "But <normalised orig="d'y" auto="true">do ye</normalised> think <normalised orig="shee" auto="true">she</normalised> may bee mended?" - "Never" says hee, "without bringing her into a dry dock and taking out these planks and some of her <normalised orig="principall" auto="true">principal</normalised> timbers. Nay, a <normalised orig="peece" auto="true">piece</normalised> of her <normalised orig="keele" auto="true">keel</normalised>, by Gad." I intended to <normalised orig="talke" auto="true">talk</normalised> on with this Waspish Nimps <note resp="editor" value="?" /> but <note resp="editor">we</note> were interrupted &amp;c.</p>
+			<p>Within 2 <normalised orig="dayes" auto="true">days</normalised> I <normalised orig="mett" auto="true">met</normalised> with Mr Houblon of whom I inquired concerning this Choleric old Coxcomb. But Mr Houblon <normalised orig="sayd" auto="true">said</normalised>: "Hee is not so choleric as one would think, but having been horribly <normalised orig="abusd" auto="true">abused</normalised> in and about that very ship. If you name 3 or 4 words <pb n="267" /> ('Column' is one, the other 2 I can send you) Hee will, like Dol Common in the 'Alchemist', fall into Extravagances. Otherwise he is sober enough." "May be so", quoth I, "for though I <normalised orig="gott" auto="true">got</normalised> into the 'Anchor' I could not make him drink above a <normalised orig="glasse" auto="true">glass</normalised> or 2." - Thus ends the parable &amp;c.</p>
+			<p>To conclude. I find That if wee had a dry dock, These few timbers might bee mended without prejudice even to the mold of the present Hull.</p>
+			<note resp="compiler" value="UNSIGNED" />
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_028">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="267" />
+			<head> <note resp="editor" value="157. SOUTHWELL TO PETTY." /> </head>
+			<p><note resp="editor" value="KINGSWESTON" /> 20 <normalised orig="aprill" auto="true">april</normalised> 1687</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>I had the honour of yours of the <hi rend="sup" range="1,3" orig="7=th=">7th</hi> and have much considerd the Parable of the <normalised orig="Shipp" auto="true">Ship</normalised> and your wishes for a <normalised orig="drye" auto="true">dry</normalised> dock. If a new draft were made, and every one certainly knew what would be done in this dock, and that the majority saw hopes of a Saving Voyage, the thoughts and votes and wishes of the <normalised orig="powerfull" auto="true">powerful</normalised> might run one way. But if a Chipp be <normalised orig="toucht" auto="true">touched</normalised> without some such preamble, every <normalised orig="planck" auto="true">plank</normalised> will <normalised orig="groane" auto="true">groan</normalised> and expect to be flung into the fire.</p>
+			<p>The <normalised orig="'Coventry" auto="true">Coventry</normalised> letter' <normalised orig="runns" auto="true">runs</normalised> now about in every hand on the other <normalised orig="syde" auto="true">side</normalised>, and gives <normalised orig="terrour" auto="true">terror</normalised> as I am told; tho the Proclamation there, and the later declaration here, <normalised orig="seeme" auto="true">seem</normalised> (as to Property) to <normalised orig="Speake" auto="true">Speak</normalised> better things.</p>
+			<p>I am glad I animadverted on that <normalised orig="peece" auto="true">piece</normalised> of <normalised orig="Angelick" auto="true">Angelic</normalised> <normalised orig="vertue" auto="true">virtue</normalised> in your Essay of <hi rend="type">limiting the Plague</hi> . It was new to me, and a blessing to mankind which I could not but admire. But for the other point of <hi rend="type">the London Wall</hi> , I had heard you <normalised orig="speake" auto="true">speak</normalised> of it before, <normalised orig="soe" auto="true">so</normalised> it was not altogether new. Nor am I <normalised orig="martiall" auto="true">martial</normalised> man enough to take all things in that <normalised orig="appertaine" auto="true">appertain</normalised> to such a <normalised orig="proposall" auto="true">proposal</normalised>. But we have a Martial King, <pb n="268" /> who <normalised orig="heares" auto="true">hears</normalised> you patiently, and might putt you to It. And I wonder He or his Lieutenant <normalised orig="Generalls" auto="true">Generals</normalised> doe not <normalised orig="discusse" auto="true">discuss</normalised> this great point; as <normalised orig="alsoe" auto="true">also</normalised> an other you have in store, touching a defence by <normalised orig="wooll" auto="true">wool</normalised> packs, applicable to land and sea.</p>
+			<p>My friend Monsieur Renaudot is ambitious to <normalised orig="wayt" auto="true">wait</normalised> <normalised orig="uppon" auto="true">upon</normalised> you. He is, among other Ingredients of ability, a good Geometrician; therefore pray smile <normalised orig="uppon" auto="true">upon</normalised> him.</p>
+			<p>To my lady and the little ones all <normalised orig="happinesse" auto="true">happiness</normalised>.</p>
+			<p>Yrs <note resp="compiler" value="UNSIGNED" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_029">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="269" />
+			<head> <note resp="editor" value="160. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston - 21 May 1687</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>The last post brought me, in yours of the <hi rend="sup" range="2,4" orig="17=th=">17th</hi>, a most unwelcome account of damage to your nephew and of approaching danger to your <normalised orig="selfe" auto="true">self</normalised>. I see the <normalised orig="Juryes" auto="true">Juries</normalised> are <normalised orig="sett" auto="true">set</normalised> <normalised orig="uppon" auto="true">upon</normalised> it, and every man must <normalised orig="looke" auto="true">look</normalised> about; since in this <normalised orig="tryall" auto="true">trial</normalised> there was <normalised orig="noe" auto="true">no</normalised> defect in any circumstance or essential thing, but singly in the verdict. As for the scramble in Kerry, I see and admire your philosophy that you name it with patience. Before, you were lancd and <normalised orig="scarifyd" auto="true">scarified</normalised>; but this is <normalised orig="plaine" auto="true">plain</normalised> <normalised orig="fleaing" auto="true">fleeing</normalised> off the whole skin. But have the philosophy, and the same patience must <normalised orig="alsoe" auto="true">also</normalised> take place.</p>
+			<p>My present care is to save my stake at Kinsale by getting (if I can) a <normalised orig="provisoe" auto="true">proviso</normalised> in the new Charter that must follow the destruction of the old, and in which <normalised orig="tis" auto="true">tic</normalised> expected that all old members may be <normalised orig="layed" auto="true">laid</normalised> by. I am herein <normalised orig="sollicitous" auto="true">solicitous</normalised> for the future, since at <pb n="270" /> present I can <normalised orig="gett" auto="true">get</normalised> <normalised orig="noe" auto="true">no</normalised> rent from thence. The <normalised orig="towne" auto="true">town</normalised> is become a <normalised orig="poore" auto="true">poor</normalised> <normalised orig="skelliton" auto="true">skeleton</normalised>, for all the trade is now centred in <normalised orig="Corke" auto="true">Cork</normalised> - and <normalised orig="tis" auto="true">tic</normalised> high time that your friend Neddy doe hasten to the Law.</p>
+			<p>We are well in this place, as I hope it is with my lady and the little ones.</p>
+			<p>I have <normalised orig="beene" auto="true">been</normalised> writing a close <normalised orig="sheete" auto="true">sheet</normalised> to Peter Welch in which you are often named. <normalised orig="Tis" auto="true">Tic</normalised> on that part of his letter to the Bishop of <normalised orig="Lincolne" auto="true">Lincoln</normalised> (p. 224) where he <normalised orig="speakes" auto="true">speaks</normalised> of the Irish Rebellion and extenuates the first Massacre, and I think by the <normalised orig="hedings" auto="true">headings</normalised> of your calculations I have the better of him.</p>
+			<p>Our Neddy is now <normalised orig="gott" auto="true">got</normalised> into <normalised orig="Ethicks" auto="true">Ethics</normalised>. I am ever Yrs.</p>
+			<p>R. S.</p>
+			<p>I <normalised orig="rejoyce" auto="true">rejoice</normalised> however that your nephew <normalised orig="Naper" auto="true">Nipper</normalised> did behave <normalised orig="himselfe" auto="true">himself</normalised> <normalised orig="soe" auto="true">so</normalised> like a man in the day of battle. I remember well since his Father sweat for it in the Court of <normalised orig="Claymes" auto="true">Claims</normalised>, till all his hand was <normalised orig="wett" auto="true">wet</normalised>.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_030">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="271" />
+			<head> <note resp="editor" value="162. SOUTHWELL TO PETTY." /> </head>
+			<p><note resp="editor" value="KINGSWESTON" /> 11 June 1687</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>This being the longest day in the <normalised orig="yeare" auto="true">year</normalised>, I could wish it were <normalised orig="Imployd" auto="true">Employed</normalised> from morning to night in reading or writing like orders in your favour with <pb n="272" /> what you had on the <hi rend="sup" range="1,3" orig="2=nd=">2nd</hi> from the Treasury; And <normalised orig="tis" auto="true">tic</normalised> most kindly done to send me the Copy of it. If my Lord Godolphin would now take consideration of what Sir Edward Dering Intended, I am able to give a large <normalised orig="Testimoniall" auto="true">Testimonial</normalised> of his being strangely <normalised orig="convinct" auto="true">convinced</normalised> of your hard usage; and that he resolved to intercede not <normalised orig="onely" auto="true">only</normalised> for a full settlement in your <normalised orig="affaires" auto="true">affairs</normalised>, but to the abating one hundred pounds per annum of the <normalised orig="Quitt" auto="true">Quit</normalised> Rents which you submitted unto - which in truth you did at his persuasion - I <normalised orig="meane" auto="true">mean</normalised> as regards <normalised orig="concernes" auto="true">concerns</normalised> in Kerry.</p>
+			<p>What you apprehend of Shocks and disorders in other parts, I can but deplore, and <normalised orig="imploy" auto="true">employ</normalised> <normalised orig="wisshes" auto="true">wishes</normalised> that it were otherwise than you find.</p>
+			<p>I have a great share of disappointment in my <normalised orig="owne" auto="true">own</normalised> small <normalised orig="concernes" auto="true">concerns</normalised>, scarce getting any Rent at all, and I am menaced by the Courcys with trouble and law suites for having what their <normalised orig="Ancestours" auto="true">Ancestors</normalised>, they say, had <normalised orig="noe" auto="true">no</normalised> right to dispose of. And this is the gratitude I find for respects to that <normalised orig="poore" auto="true">poor</normalised> family for <normalised orig="neere" auto="true">near</normalised> 40, or rather 50 <normalised orig="yeares" auto="true">years</normalised> past, from my Father and my <normalised orig="selfe" auto="true">self</normalised>. I suppose <normalised orig="tis" auto="true">tic</normalised> because they think witnesses and <normalised orig="Jurys" auto="true">Juries</normalised> can now doe any thing!</p>
+			<p>I see my Godson is going to the Academy, which I very well <normalised orig="approuve" auto="true">approve</normalised> of, as <normalised orig="alsoe" auto="true">also</normalised> the disposal of my Cousin Harry.</p>
+			<p>If you can lend the answer of ten <normalised orig="Sheetes" auto="true">Sheets</normalised> to Phillip Madox, he will presently <normalised orig="gett" auto="true">get</normalised> it <normalised orig="copyed" auto="true">copied</normalised> out for me, and sent by a safe hand. I see you expect a <normalised orig="broadsyde" auto="true">broadside</normalised> from Holland, but you have 18 <normalised orig="Cittyes" auto="true">Cities</normalised> already for you, and <normalised orig="soe" auto="true">so</normalised> <normalised orig="neede" auto="true">need</normalised> not tremble before the Thunderbolt falls. I am apt to think they will consider well before they <normalised orig="shoote" auto="true">shoot</normalised>, or repent their shooting.</p>
+			<p>I perceive you have <normalised orig="beene" auto="true">been</normalised> hearing of exercises at a <normalised orig="Schoole" auto="true">School</normalised>, which you think to be a sort of <normalised orig="Musick" auto="true">Music</normalised> meeting, and that there may be Euphoniacall <normalised orig="Nonsence" auto="true">Nonsense</normalised>. <pb n="273" /> I <normalised orig="confesse" auto="true">confess</normalised> <normalised orig="tis" auto="true">tic</normalised> happiest when there is more care for the matter than the manner, tho this last is much <normalised orig="easyer" auto="true">easier</normalised> sought for. As to the other it is Donum Dei , and you know to whom it was <normalised orig="sayd" auto="true">said</normalised> at Merton <normalised orig="Colledge" auto="true">College</normalised> "Young man you were borne with 3 quarters of what you know".</p>
+			<p>Having named this <normalised orig="colledge" auto="true">college</normalised>, I must not <normalised orig="omitt" auto="true">omit</normalised> to tell you that Neddy does well according to the discipline of the place. He is already turned disputant in the Hall.</p>
+			<p>As you thrive by the order of the <hi rend="sup" range="1,3" orig="2=nd=">2nd</hi> (that <normalised orig="seemes" auto="true">seems</normalised> to <normalised orig="shew" auto="true">show</normalised> a certainty made in the present Rent, and in the Arrears) pray <normalised orig="lett" auto="true">let</normalised> me know it, as of all other things <normalised orig="wheather" auto="true">whether</normalised> to profitt or <normalised orig="losse" auto="true">loss</normalised> - for when I cannot <normalised orig="rejoyce" auto="true">rejoice</normalised> with you I will <normalised orig="mourne" auto="true">morn</normalised>.</p>
+			<p>Yrs <note resp="compiler" value="UNSIGNED" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_031">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="275" />
+			<head> <note resp="editor" value="165. SOUTHWELL TO PETTY." /> </head>
+			<p><note resp="editor" value="KINGSWESTON" /> 8 July 1687</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>Since my acknowledgement of yours of the <hi rend="sup" range="2,4" orig="16=th=">16th</hi> past I have received and Read the papers, and doe think I never was better <normalised orig="entertayned" auto="true">entertained</normalised> in my life. I could say many things of <normalised orig="soe" auto="true">so</normalised> excellent a discourse, but will <normalised orig="Comprize" auto="true">Comprise</normalised> all in the words of Seneca, speaking of the Law: Non Irascitur sed <normalised orig="Castigat" auto="true">Castigate</normalised> . The <hi rend="sup" range="1,3" orig="4=th=">4th</hi> point which you thought wanting (being part of the <normalised orig="Journall" auto="true">Journal</normalised> of the <normalised orig="Supreame" auto="true">Supreme</normalised> <normalised orig="Councill" auto="true">Council</normalised>) is there as well as the rest, and serves as voucher in some particulars of the preceding discourse.</p>
+			<p>I am told from an Intelligent hand, as if there were hopes the Settlement would not be shaken, what ever is done with the Charters. And surely if those who have power, and <normalised orig="noe" auto="true">no</normalised> passion, did but read and consider your discourse (as perhaps they have done), they must be convinced that the Settlement cannot be <normalised orig="broaken" auto="true">broken</normalised> without strange confusion in all his Majesty's <normalised orig="affaires" auto="true">affairs</normalised> in the <normalised orig="Kingdome" auto="true">Kingdom</normalised>.</p>
+			<p>But I <normalised orig="heare" auto="true">hear</normalised> of 11 Lords whose Outlawryes are discharged, and surely this <normalised orig="lookes" auto="true">looks</normalised> not <normalised orig="onely" auto="true">only</normalised> as the <pb n="276" /> forerunner of a Parlyment, but as some assurance to them of having estates to support the dignity of Peerage.</p>
+			<p>You say nothing as yett of what has <normalised orig="hapned" auto="true">happened</normalised> about Tecrohan, and your silence is a very good <normalised orig="signe" auto="true">sign</normalised>.</p>
+			<p>The late dissolution makes my hopes of seeing you very remote, and this not <normalised orig="onely" auto="true">only</normalised> in love <note resp="editor" value="?" /> to the Country, but as being on ground; for of ten letters from the other <normalised orig="syde" auto="true">side</normalised>, there is not one Bill.</p>
+			<p>My most humble service to my lady and the little ones. I have <normalised orig="beene" auto="true">been</normalised> reading this day "the Hind and Panther <normalised orig="Transverst" auto="true">Transversed</normalised>" and doe fancy none could make more of it than my Cousin Charles, for he would reach all the good humours that are in it.</p>
+			<p>I am <normalised orig="allwayes" auto="true">always</normalised> Yrs <note resp="compiler" value="UNSIGNED" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_032">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC WPETTY"></title>
+					<author key="WILLIAM PETTY"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="280" />
+			<head> <note resp="editor" value="170. PETTY TO SOUTHWELL." /> </head>
+			<p>Piccadilly, <hi rend="sup" range="1,2" orig="4=o=">4o</hi> Aug 1687</p>
+			<p><hi rend="sup" range="1,3" orig="D=re=">Dre</hi> <hi rend="sup" range="3,4" orig="Coz=n=">Cozn</hi></p>
+			<p>Charles was well at Rotterdam the <hi rend="sup" range="2,4" orig="29=th=">29th</hi>, but was 4 times 24 hours at sea.</p>
+			<p>I send you the Contents of the discourse I mentioned. I intend it to bee The Bible for Ireland. I have <normalised orig="shewne" auto="true">shown</normalised> it in parts to some great Men, but not yet to the King; but will shortly.</p>
+			<p>The Customs of Dublin have, in this last quarter, fallen from 4 to 3, and the Excise from 7 to 6. Now <normalised orig="altho" auto="true">although</normalised> it hath been <normalised orig="sayd" auto="true">said</normalised> with a <normalised orig="lowd" auto="true">loud</normalised> voice That the people of Dublin are half run away (and by good observers that 1100 houses are <normalised orig="voyd" auto="true">void</normalised>) Yet your Cousin assures you that in the last quarters hee finds more <normalised orig="burialls" auto="true">burials</normalised> and Christnings than in any of the 10 quarters before. And therefore <normalised orig="sayes" auto="true">says</normalised> that The people do retrench their <normalised orig="expence" auto="true">expense</normalised> in strong drink by 1/6 part and also in their housing, by crowding 7 <normalised orig="familyes" auto="true">families</normalised> into 6 houses; <pb n="281" /> for 1100 is the 1/6 part of the houses in Dublin. The fall of lands <normalised orig="appeares" auto="true">appears</normalised> to <normalised orig="mee" auto="true">me</normalised> by the fall of the Price of butter, Cheese, Milk, eggs, flesh, &amp;c.</p>
+			<p>Adieu <note resp="compiler" value="UNSIGNED" /></p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_033">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="281" />
+			<head> <note resp="editor" value="171. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 13 Augt 1687</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>I have yours of the <hi rend="sup" range="1,3" orig="4=th=">4th</hi> and have read the papers <normalised orig="inclosed" auto="true">enclosed</normalised>, which are either for transplanting or Propagation. The things are mighty, and call unto my mind that when Paul reasoned of <normalised orig="Righteousnesse" auto="true">Righteousness</normalised>, Temperance, and Judgement to come, Felix trembled. You know Columbus made the first offer to us of his <normalised orig="Goulden" auto="true">Golden</normalised> World, and was rejected; That the Sybill's <normalised orig="Bookes" auto="true">Books</normalised>, tho never so true, were undervalued; and Mr Newton's demonstrations will hardly be understood. The market rule goes fair in everything else, Tantum valet quantum <normalised orig="vendi" auto="true">vent</normalised> potest . <normalised orig="Soe" auto="true">So</normalised> as tho I doe not suspect you can be mistaken in what you assert, since you enumerate <normalised orig="soe" auto="true">so</normalised> many solid as well as bitter objections thereunto; yett the <normalised orig="dullnesse" auto="true">dullness</normalised> of the world is such, the opposers <normalised orig="soe" auto="true">so</normalised> many, your fellow labourers <normalised orig="soe" auto="true">so</normalised> few, and your Age <normalised orig="soe" auto="true">so</normalised> <normalised orig="advanc'd" auto="true">advanced</normalised>, that I reckon the <normalised orig="worke" auto="true">work</normalised> Insuperable. However I am glad that your thoughts are all written <normalised orig="downe" auto="true">down</normalised>, for Posterity, as <normalised orig="favourd" auto="true">favoured</normalised> by great Accidents, may cultivate what the present Age neglects. And in the <normalised orig="meane" auto="true">mean</normalised> time since you propose to <normalised orig="entertayne" auto="true">entertain</normalised> the King on these subjects, <normalised orig="lett" auto="true">let</normalised> me <normalised orig="advertize" auto="true">advertise</normalised> you what his good Brother once <normalised orig="sayd" auto="true">said</normalised> at The <normalised orig="Councill" auto="true">Council</normalised> Board - That he thought you one of the best Commissioners of the Navy that ever was; That you had vast knowledge in many things - "But" <normalised orig="sayd" auto="true">said</normalised> he "the man will not be contented to be excellent, but is still <normalised orig="Ayming" auto="true">Aiming</normalised> at Impossible Things".</p>
+			<p>You know I am <note resp="editor">in</note> possession <note resp="editor" value="POSITION" /> of saying any thing to you that comes in my head; but this I say for your service, that being already advanced in <pb n="282" /> his Majesty's opinion for things that he Comprehends, you doe not <normalised orig="growe" auto="true">grow</normalised> <normalised orig="lesse" auto="true">less</normalised> by going <normalised orig="beyound" auto="true">beyond</normalised> his Reach.</p>
+			<p>I <normalised orig="rejoyce" auto="true">rejoice</normalised> to <normalised orig="heare" auto="true">hear</normalised> that Cousin Charles <normalised orig="gott" auto="true">got</normalised> safe, tho after good tossing, to the other <normalised orig="syde" auto="true">side</normalised>. Your letters will not be <normalised orig="lesse" auto="true">less</normalised> welcome if you sprinkle them with a little good <normalised orig="tydings" auto="true">tidings</normalised> of him and of his Improvements. I say the same for the rest, and am ever</p>
+			<p>Yrs <note resp="compiler" value="UNSIGNED" /></p>
+			<p>Pray Cousin, did you ever use any Art to Improve your memory? Tully <hi rend="type">De oratore</hi> uses many words to <normalised orig="shewe" auto="true">show</normalised> how it may be Improved by Images, but I desire your saying.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_034">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="285" />
+			<head> <note resp="editor" value="175. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 28 Sept. 1687</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p><normalised orig="Uppon" auto="true">Upon</normalised> a fresh Review of your letter of the <hi rend="sup" range="2,4" orig="16=th=">16th</hi> past, the particulars are of that <normalised orig="Bulke" auto="true">Bulk</normalised> and importance and my digestion <normalised orig="soe" auto="true">so</normalised> incompetent, that <pb n="286" /> I must <normalised orig="sweare" auto="true">swear</normalised>, as the honest Recusant did of Queen Elizabeth, That 'if she was not the Head of the Church, he <normalised orig="wisht" auto="true">wished</normalised> she were soe'.</p>
+			<p>But first as to my Cousin Charles. I see you <normalised orig="resigne" auto="true">resign</normalised> him to the impression of his <normalised orig="Starrs" auto="true">Stars</normalised>. And as one Tree will not become another, or <normalised orig="oakes" auto="true">oaks</normalised> and Cedars much alter their Shape, <normalised orig="soe" auto="true">so</normalised> you will allow that withyes are to be twisted towards what one would have them to be, and dead wood must by Carving be brought into Figure. And, it standing thus <normalised orig="betweene" auto="true">between</normalised> your son and <normalised orig="myne" auto="true">mine</normalised>, perhaps we are both in the right!</p>
+			<p>I perceive you have <normalised orig="tryd" auto="true">tried</normalised> the <normalised orig="Artificiall" auto="true">Artificial</normalised> Memory and undervalue It. If the Ancient <normalised orig="Oratours" auto="true">Orators</normalised> had it with advantage and for use, It <normalised orig="seemes" auto="true">seems</normalised> their method is Lost. The <normalised orig="Chiefe" auto="true">Chief</normalised> Rule we now have left is <normalised orig="onely" auto="true">only</normalised> exercise and conning of things overnight. But if you know better, I will <normalised orig="aske" auto="true">ask</normalised> questions herein at your coming <normalised orig="downe" auto="true">down</normalised>. You must then <normalised orig="alsoe" auto="true">also</normalised> expect I shall be very importunate to see the 20 Articles which <normalised orig="conteyne" auto="true">contain</normalised> the <hi rend="type">Weight of the <normalised orig="Crowne" auto="true">Crown</normalised></hi> , which you presented his Majesty - and certainly with the most peculiar Test I ever heard, viz: to pick out any one He wished to be true, and any other He suspected to be false, and that in 24 <normalised orig="houres" auto="true">hours</normalised> He should have demonstration. But tho you <normalised orig="complaine" auto="true">complain</normalised> <note resp="editor">that</note> after all that you <normalised orig="gott" auto="true">got</normalised> neither Butter or Hobb-nayles hereby, yett you fare much better than He who found out the <normalised orig="Malliable" auto="true">Malleable</normalised> <normalised orig="Glasse" auto="true">Glass</normalised>.</p>
+			<p>You <normalised orig="doubtlesse" auto="true">doubtless</normalised> touch a very sore place when you suspect the surviving malice of the Double <normalised orig="shipp" auto="true">ship</normalised>. Your fate <normalised orig="compard" auto="true">compared</normalised> herein to that of <normalised orig="Acteon's" auto="true">Action's</normalised> goes very <normalised orig="farr" auto="true">far</normalised>, as having courted the <note resp="editor" range="1,4" orig="K[\ing\]">King</note>'s <normalised orig="Misteryes" auto="true">Mysteries</normalised>. Yett I may say that if this last word should be mistaken for 'Mistresses', then to have had a fresh one and of your procurement, as well as of any others, sounds <pb n="287" /> not as a matter that should have <normalised orig="turnd" auto="true">turned</normalised> to your disadvantage!</p>
+			<p>Your observation of the Poverty that is already <normalised orig="growne" auto="true">grown</normalised>, and must ensue while <normalised orig="mouthes" auto="true">mouths</normalised> <normalised orig="encrease" auto="true">increase</normalised> and yett eating <normalised orig="growes" auto="true">grows</normalised> <normalised orig="lesse" auto="true">less</normalised>, is so much more a valuable <normalised orig="stroake" auto="true">stroke</normalised> in your Art of Calculation as it is <normalised orig="seene" auto="true">seen</normalised> felt and understood by all. And doubtelesse the other great things you mention may be as Rationally founded, though unequally comprehended. And I <normalised orig="confesse" auto="true">confess</normalised> unto you that, tho the world should never be wise enough to <normalised orig="wedd" auto="true">wed</normalised> what you propose in the Multiplication of Men and the <normalised orig="benefitts" auto="true">benefits</normalised> flowing from it, yett if you have as strong motives for the Truth of these matters as usually convince men from the Pulpit or at the Barr, I cannot wonder that you are Ravished with the harmony and <normalised orig="charmes" auto="true">charms</normalised> of Ratiocination. You very well call it a <normalised orig="'Labour" auto="true">Labour</normalised> of Pleasure', but not so properly 'Angelicall', since <normalised orig="tis" auto="true">tic</normalised> perhaps the <normalised orig="onely" auto="true">only</normalised> pleasure the <normalised orig="angells" auto="true">angels</normalised> want. For Intuition of truth may not Relish <normalised orig="soe" auto="true">so</normalised> much as Truth that is hunted <normalised orig="downe" auto="true">down</normalised>.</p>
+			<p>But if you intend Pyramids out of these <normalised orig="materialls" auto="true">materials</normalised> to <normalised orig="beare" auto="true">bear</normalised> testimony of your good will to mankind, when you <normalised orig="passe" auto="true">pass</normalised> to a better life, you should take care while you are among us to <normalised orig="explaine" auto="true">explain</normalised> all and leave as few <normalised orig="Hyrogliphicks" auto="true">Hieroglyphics</normalised> as is possible. And I, if I live, will not <normalised orig="fayle" auto="true">fail</normalised> to assist my Godson to hand them to the <normalised orig="Presse" auto="true">Press</normalised>. Tho <normalised orig="doubtlesse" auto="true">doubtless</normalised> it were better done while you are yett on this <normalised orig="syde" auto="true">side</normalised> the pitt.</p>
+			<p>You see how little I can say to those mighty things you honour me <normalised orig="withall" auto="true">withal</normalised>; But I <normalised orig="keepe" auto="true">keep</normalised> them Charily together, and my son may find <normalised orig="Charmes" auto="true">Charms</normalised> where I now Languish. He is now with me and to stay all the winter; since Oxford is already, and is growing more, an unquiet place.</p>
+			<p>I am ever Yrs</p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_035">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="290" />
+			<head> <note resp="editor" value="177. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, 10 Oct 1687</p>
+			<p><normalised orig="Deare" auto="true">Dear</normalised> Cousin</p>
+			<p>Yours of the <hi rend="sup" range="1,3" orig="4=th=">4th</hi> came to me the next day after I had sent you some lincks of very <normalised orig="Sawcy" auto="true">Saucy</normalised> but friendly thoughts. As to your Purchase, I here send you what the <normalised orig="Surveyour" auto="true">Surveyor</normalised> answers. He is a <normalised orig="plaine" auto="true">plain</normalised> <normalised orig="frugall" auto="true">frugal</normalised> man. And as to instructing Mr Plumbly, I <pb n="291" /> think what you said goes through the whole <normalised orig="Alphabett" auto="true">Alphabet</normalised>, nor doe I think that ever such a Scheme was made before. I cannot yett find where to wedge in a word, but I will try when <normalised orig="tis" auto="true">tic</normalised> <normalised orig="faire" auto="true">fair</normalised> weather, for now I am very dull.</p>
+			<p>If you lay out but 2500&pound;, it must be in Revertions for your Grandson and when the Tenements are full Stated. Our Neddy read these Instructions with marvellous relish, which is some <normalised orig="signe" auto="true">sign</normalised> he may <normalised orig="gett" auto="true">get</normalised> them into his head; but he is just now as <normalised orig="hott" auto="true">hot</normalised> as mustard <normalised orig="uppon" auto="true">upon</normalised> <normalised orig="Logick" auto="true">Logic</normalised> and proposed to me to write his thoughts to Cousin Charles on that dry Subject. I told him Charles might <normalised orig="shew" auto="true">show</normalised> it his father, and <normalised orig="soe" auto="true">so</normalised> he might <normalised orig="burne" auto="true">burn</normalised> his fingers. At last being earnest I <normalised orig="lett" auto="true">let</normalised> him take his cource, for the exercise may doe him good though Charles has better things to mind. I wish however that Charles would urge him to write 20 letters more on the <normalised orig="severall" auto="true">several</normalised> parts of this doctrine, for perhaps the being made accountable may doe him some good.</p>
+			<p>The ill weather putts me out of humour to write more at present, than that I am <hi rend="sup" range="1,3" orig="Y=rs=">Yrs</hi></p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+	<TEI xml:id="PETTY2_036">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title key="A 1687 TC RSOUTHWELL"></title>
+					<author key="ROBERT SOUTHWELL"></author>
+				</titleStmt>
+			</fileDesc>
+		</teiHeader>
+		<text type="letter" xml:lang="eng">
+			<pb n="331" />
+			<head> <note resp="editor" value="192. SOUTHWELL TO PETTY." /> </head>
+			<p>Kingsweston, <hi rend="sup" range="2,4" orig="16=th=">16th</hi> December 1687</p>
+			<p>Dear Cousin</p>
+			<p>I was yesterday in some fright upon reading from Phillip Madox the report of your sickness, but the favour of yours of the <hi rend="sup" range="2,4" orig="13=th=">13th</hi> dispelld the cloud, as making slight of the matter. However it will be very welcome to <normalised orig="mee" auto="true">me</normalised> to hear that you walk again as you did before.</p>
+			<p>I see and congratulate that you have been able to lay so great a Tanto <note resp="editor" value="?" /> at the Farmours doors, and that you are <normalised orig="hastning" auto="true">hastening</normalised> to make even with all others.</p>
+			<p>As for the demand of 7774&pound; 10s-, which yett (as you say) is not half the wrong you have suffered, and of which you shall never willingly abate - the figure I hold between my Friend and <normalised orig="Patrone" auto="true">Patron</normalised>, as well as ignorance in the particular <normalised orig="meritts" auto="true">merits</normalised> of the case, <pb n="332" /> makes it <normalised orig="fitt" auto="true">fit</normalised> for <normalised orig="mee" auto="true">me</normalised> above all other to be silent; and I can assure you that if the old Gentleman had half such a demand from you, I would not be his <normalised orig="Herauld" auto="true">Herald</normalised> tho he should desire it. Things of anger and the prospect of <normalised orig="warr" auto="true">war</normalised> (in a warm <normalised orig="attaque" auto="true">attic</normalised> and as warm a defence) drives the Common friend into a corner; and he <normalised orig="stepps" auto="true">steps</normalised> not out till he finds both convinced in their Hearts that it were their Common Interest to be quiet. From these Motives, and because you also leave <normalised orig="mee" auto="true">me</normalised> to do what I will with the paper, I will keep it to myself; and the rather because I rarely hear from him since the gout has disabled him, and as seldom write.</p>
+			<p>Even you who are the Claymer, <normalised orig="seeme" auto="true">seem</normalised> tenderly to wish that you had nothing but poses to toss against him, and I am sure I do as cordially wish that at this time of day, and while both are in the storm, there were nothing but sweet odours, as the tossing of Incense, between you.</p>
+			<p>With all true service to my Lady and little ones,</p>
+			<p>I am ever <hi rend="sup" range="1,3" orig="y=rs=">yrs</hi></p>
+			<p>R. S.</p>
+		</text>
+	</TEI>
+</teiCollection>
