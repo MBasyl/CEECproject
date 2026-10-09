@@ -1,0 +1,29 @@
+author_id,total_words,n_records,n_relationships,year_min,year_max,gender,education,status,rank,active_max,active_min
+SLENNOX,64788.0,78,1,1761.0,1799.0,F,Private: Classical,professional: wife of George Napier,Professional,1800.0,1760.0
+ACLAVERING,33601.0,53,1,1708.0,1726.0,F,Unknown,gentry lower,Gentry Lower,1739.0,1700.0
+RHURD,30537.0,50,2,1739.0,1772.0,M,Higher: Oxbridge,clergy; scholar,Clergy Lower,1779.0,1720.0
+DFLEMING,26365.0,99,3,1686.0,1697.0,M,,gentry upper: knight,Gentry Upper,1699.0,1680.0
+HPIOZZI,26074.0,44,4,1784.0,1798.0,F,Private: Classical,gentry lower: landed gentry,Gentry Lower,1800.0,1780.0
+DGARRICK,24800.0,45,3,1733.0,1777.0,M,Secondary,"gentry lower; actor, theatre manager, playwright",Gentry Lower,1779.0,1720.0
+CLENNOX,21402.0,46,2,1733.0,1750.0,M,,"Duke of Richmond, politician, sportsman",Nobility,1759.0,1720.0
+J1WEDGWOOD,19678.0,45,3,1765.0,1793.0,M,Apprenticed,professional: master potter,Professional,1800.0,1760.0
+RNEWDIGATE,19512.0,38,3,1747.0,1784.0,M,Higher: Oxbridge,"gentry upper; 5th baronet, antiquarian, MP",Gentry Upper,1800.0,1740.0
+TPELHAM,15619.0,37,1,1734.0,1750.0,M,Higher: Oxbridge,"Duke of Newcastle, statesman",Nobility,1759.0,1720.0
+GEORGE3,15106.0,58,2,1767.0,1799.0,M,Private: Classical,"royalty, King George III",Royalty,1800.0,1760.0
+EDARWIN,14810.0,34,2,1764.0,1796.0,M,Higher: Oxbridge,professional; physician,Professional,1800.0,1760.0
+TGRAY,14591.0,24,2,1753.0,1771.0,M,,"poet, scholar",Professional,1779.0,1740.0
+GFLEMING,13697.0,40,1,1686.0,1697.0,M,Higher: Oxbridge,gentry lower: son of Sir Daniel Fleming,Gentry Lower,1699.0,1680.0
+PWENTWORTH,10814.0,18,1,1708.0,1731.0,M,Higher,gentry upper; equerry to different members of the royal family,Gentry Upper,1739.0,1700.0
+ABATHURST,10742.0,18,1,1714.0,1736.0,M,Higher: Oxbridge,"nobility; created 1st Lord Bathurst 1712, statesman and politician",Nobility,1739.0,1700.0
+HFLEMING,10675.0,40,1,1681.0,1689.0,M,Higher: Oxbridge,"rector of Grasmere 1685, rector of Asby 1694-1728",Clergy Lower,1699.0,1680.0
+FBLOMEFIELD,10594.0,31,1,1733.0,1751.0,M,Higher: Oxbridge,"clergy lower, rector of Fersfield, South Norfolk",Clergy Lower,1759.0,1720.0
+JYORKE,9646.0,41,1,1726.0,1736.0,M,Higher: Oxbridge,gentry lower,Gentry Lower,1739.0,1720.0
+J2BANKS,9133.0,16,1,1716.0,1734.0,M,Unknown,"gentry lower, ""esquire""",Gentry Lower,1739.0,1700.0
+WMASON,8178.0,13,1,1755.0,1796.0,M,Higher: Oxbridge,"clergy lower, scholar, poet",Clergy Lower,1800.0,1740.0
+SCOWPER,7864.0,13,1,1744.0,1757.0,M,Higher: Oxbridge,clergy upper; dean of Durham,Clergy Upper,1759.0,1740.0
+HPRIDEAU,7813.0,18,1,1684.0,1709.0,M,Higher: Oxbridge,"clergy lower; Prebendary of Norwich, scholar",Clergy Lower,1719.0,1680.0
+FHANOVER,6148.0,15,1,1783.0,1799.0,M,Unknown,"royalty, prince, army officer, Duke of York",Royalty,1800.0,1780.0
+CSHATTON,4812.0,14,1,1689.0,1697.0,M,Unknown,"gentry lower; Lieutenant Governor of Guernsey, Captain",Gentry Lower,1699.0,1680.0
+AHANOVER,4385.0,8,1,1791.0,1799.0,M,Higher: Foreign,"royalty, prince",Royalty,1800.0,1780.0
+WILLIAM4,3929.0,9,1,1779.0,1790.0,M,Private: Classical,"royalty, prince, navy officer",Royalty,1800.0,1760.0
+EHANOVER,3745.0,9,1,1785.0,1793.0,M,Higher: Foreign,"royalty, prince, army officer",Royalty,1800.0,1780.0
